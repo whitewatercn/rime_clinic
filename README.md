@@ -1,7 +1,6 @@
 # 项目介绍
-
 rime中英医学词库
-
+欢迎补充！
 
 # 中文词库
 
@@ -19,3 +18,4 @@ rime中英医学词库
 | -------------------- | ------------------------------------------------- | --------------------------------------------- |
 | en_disease.dict.yaml | 英文疾病名                                        | https://github.com/CodeSante/medical-wordlist |
 | google.dict.yaml     | Google's 1/3 million most frequent English words. | http://norvig.com/ngrams/count_1w.txt         |
+
