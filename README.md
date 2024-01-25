@@ -21,3 +21,9 @@ rime中英医学词库
 
 # 感谢
 [深蓝词库转换](https://github.com/studyzy/imewlconverter)——很多词库由搜狗等词库转换而来，使用方法见[如何在Linux上使用深蓝词库转换（以Google colab为例——基于Ubuntu）](https://forum.beginner.center/t/topic/719)
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=whitewatercn/rime_clinic&type=Date)](https://star-history.com/#whitewatercn/rime_clinic&Date)
