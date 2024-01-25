@@ -30,4 +30,4 @@ rime中英医学词库
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=whitewatercn/rime_clinic&type=Date)](https://star-history.com/#whitewatercn/rime_clinic&Date)
+![Alt](https://repobeats.axiom.co/api/embed/ddc3e1b371f832d3eee829ecaca1266b4bffbc11.svg "Repobeats analytics image")
