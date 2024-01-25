@@ -20,7 +20,8 @@ rime中英医学词库
 | google.dict.yaml     | Google's 1/3 million most frequent English words. | http://norvig.com/ngrams/count_1w.txt         |
 
 # 感谢
-[深蓝词库转换](https://github.com/studyzy/imewlconverter)——很多词库由搜狗等词库转换而来，使用方法见[如何在Linux上使用深蓝词库转换（以Google colab为例——基于Ubuntu）](https://forum.beginner.center/t/topic/719)
+- [深蓝词库转换](https://github.com/studyzy/imewlconverter)：很多词库由搜狗等词库使用该工具转换而来，使用方法见[如何在Linux上使用深蓝词库转换（以Google colab为例——基于Ubuntu）](https://forum.beginner.center/t/topic/719)
+- [rime-ice](https://github.com/iDvel/rime-ice)：该项目作者提供了rime相关的很多帮助
 
 
 
