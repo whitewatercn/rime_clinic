@@ -15,13 +15,13 @@ rime中英医学词库
 
 # 英文词库
 
-| 文件名                          | 主要内容                                          | 主要基于                                      |
-| ------------------------------- | ------------------------------------------------- | --------------------------------------------- |
-| en_disease.dict.yaml            | 英文疾病名                                        | https://github.com/CodeSante/medical-wordlist |
-| google.dict.yaml                | Google's 1/3 million most frequent English words. | http://norvig.com/ngrams/count_1w.txt         |
-| en_anatomy.dict.yaml            | 英文解剖                                          | https://github.com/CodeSante/medical-wordlist |
-| en_medication.dict.yaml         | 英文药物                                          | https://github.com/CodeSante/medical-wordlist |
-| en_medical_speciality.dict.yaml | 英文医学专业                                      | https://github.com/CodeSante/medical-wordlist |
+| 文件名                          | 主要内容                                          | 主要基于                                                     |
+| ------------------------------- | ------------------------------------------------- | ------------------------------------------------------------ |
+| en_disease.dict.yaml            | 英文疾病名                                        | https://github.com/CodeSante/medical-wordlist                |
+| google.dict.yaml                | Google's 1/3 million most frequent English words. | http://norvig.com/ngrams/count_1w.txt                        |
+| en_anatomy.dict.yaml            | 英文解剖                                          | - https://github.com/CodeSante/medical-wordlist<br />- https://usq.pressbooks.pub/anatomy/back-matter/glossary/ |
+| en_medication.dict.yaml         | 英文药物                                          | https://github.com/CodeSante/medical-wordlist                |
+| en_medical_speciality.dict.yaml | 英文医学专业                                      | https://github.com/CodeSante/medical-wordlist                |
 
 # 感谢
 - [深蓝词库转换](https://github.com/studyzy/imewlconverter)：很多词库由搜狗等词库使用该工具转换而来，使用方法见[如何在Linux上使用深蓝词库转换（以Google colab为例——基于Ubuntu）](https://forum.beginner.center/t/topic/719)
