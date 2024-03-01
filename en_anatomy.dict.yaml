@@ -664,6 +664,7 @@ artery	artery	1
 artery of bulb of penis	arteryofbulbofpenis	1
 artery of bulb of vestibule	arteryofbulbofvestibule	1
 arthropod abdomen	arthropodabdomen	1
+articular	articular	1
 articular capsule	articularcapsule	1
 articular cartilage	articularcartilage	1
 articular disc	articulardisc	1
@@ -1266,6 +1267,8 @@ cross-matching	cross-matching	1
 crown	crown	1
 crown of tooth	crownoftooth	1
 cruciate ligament of atlas	cruciateligamentofatlas	1
+cruciate ligament	cruciateligament	1
+
 crus of clitoris	crusofclitoris	1
 crus of penis	crusofpenis	1
 crypt of lieberkuhn of small intestine	cryptoflieberkuhnofsmallintestine	1
@@ -3817,6 +3820,8 @@ quadrate lobe of liver	quadratelobeofliver	1
 quadratojugal bone	quadratojugalbone	1
 quadratus femoris muscle	quadratusfemorismuscle	1
 quadratus lumborum muscle	quadratuslumborummuscle	1
+quadricep	quadricep	1
+quadriceps tendon	quadricepstendon	1
 quadriceps femoris muscle	quadricepsfemorismuscle	1
 quaternary structure –	quaternarystructure–	1
 quickening	quickening	1
@@ -4640,6 +4645,7 @@ tibia	tibia	1
 tibial collateral ligament	tibialcollateralligament	1
 tibial nerve	tibialnerve	1
 tibial tuberosity	tibialtuberosity	1
+tibial tubercle	tibialtubercle	1
 tibialis anterior muscle	tibialisanteriormuscle	1
 tibialis posterior muscle	tibialisposteriormuscle	1
 tibiotarsus	tibiotarsus	1
