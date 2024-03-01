@@ -6,8 +6,8 @@ rime中英医学词库
 
 | 文件名                | 主要内容                                   | 主要基于                                         |
 | --------------------- | ------------------------------------------ | ------------------------------------------------ |
-| tcm.dict.yaml         | 中医医学词汇                               | https://pinyin.sogou.com/dict/detail/index/2739  |
-| acupuncture.dict.yaml | 穴位词库                                   | https://pinyin.sogou.com/dict/detail/index/75844 |
+| cn_tcm.dict.yaml         | 中医医学词汇                               | https://pinyin.sogou.com/dict/detail/index/2739  |
+| cn_acupuncture.dict.yaml | 穴位词库                                   | https://pinyin.sogou.com/dict/detail/index/75844 |
 | cn_clinic.dict.yaml   | 中文医学词汇，如病名                       | https://pinyin.sogou.com/dict/detail/index/15125 |
 | cn_medicine_list.yaml | 中文药品库，如次黄嘌呤鸟嘌呤转磷酸核糖基酶 | https://pinyin.sogou.com/dict/detail/index/20666 |
 
