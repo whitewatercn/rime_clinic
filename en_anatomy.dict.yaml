@@ -285,7 +285,8 @@ S2 vertebra	S2vertebra	1
 S3 vertebra	S3vertebra	1
 S4 vertebra	S4vertebra	1
 Saddle joint	Saddlejoint	1
-Sartorius muscle	Sartoriusmuscle	1
+sartorius	sartorius	1
+sartorius muscle	sartoriusmuscle	1
 Scarpa's ganglion	Scarpa'sganglion	1
 Schlemm's canal	Schlemm'scanal	1
 Schwann cell	Schwanncell	1
@@ -406,6 +407,7 @@ acute inflammation	acuteinflammation	1
 acute mountain sickness (AMS)	acutemountainsickness	1
 adaptive immune response	adaptiveimmuneresponse	1
 adductor brevis muscle	adductorbrevismuscle	1
+adductor canal	adductorcanal	1
 adductor hallucis muscle	adductorhallucismuscle	1
 adductor longus muscle	adductorlongusmuscle	1
 adductor magnus muscle	adductormagnusmuscle	1
@@ -888,6 +890,7 @@ buttocks	buttocks	1
 calcaneocuboid articulation	calcaneocuboidarticulation	1
 calcaneofibular ligament	calcaneofibularligament	1
 calcaneus	calcaneus	1
+calcaneal tendon	calcanealtendon	1
 calcar	calcar	1
 calcar avis	calcaravis	1
 calcarine fissure	calcarinefissure	1
@@ -1678,6 +1681,7 @@ fasciculus gracilis	fasciculusgracilis	1
 fast glycolytic (FG)	fastglycolytic	1
 fast oxidative (FO)	fastoxidative	1
 fastigial nucleus	fastigialnucleus	1
+fastus intermediate	fastusintermediate	1
 fauces	fauces	1
 feather	feather	1
 feces	feces	1
@@ -1832,6 +1836,7 @@ gastric pit	gastricpit	1
 gastric pits	gastricpits	1
 gastric plexuses	gastricplexuses	1
 gastrin	gastrin	1
+gastrocnemius	gastrocnemius	1
 gastrocnemius muscle	gastrocnemiusmuscle	1
 gastrocolic ligament	gastrocolicligament	1
 gastrocolic reflex	gastrocolicreflex	1
@@ -1911,6 +1916,7 @@ gonads	gonads	1
 gorget	gorget	1
 gracile fasciculus	gracilefasciculus	1
 gracile nucleus	gracilenucleus	1
+gracilis	gracilis	1
 gracilis muscle	gracilismuscle	1
 graded muscle response	gradedmuscleresponse	1
 graded potential	gradedpotential	1
@@ -1982,6 +1988,7 @@ hairline	hairline	1
 hallux	hallux	1
 hamate	hamate	1
 hamate bone	hamatebone	1
+hamstring	hamstring	1
 hand	hand	1
 hand joint	handjoint	1
 hard palate	hardpalate	1
@@ -3565,6 +3572,7 @@ plantar flexion	plantarflexion	1
 plantar interossei muscles	plantarinterosseimuscles	1
 plantar veins	plantarveins	1
 plantar venous arch	plantarvenousarch	1
+plantaris	plantaris	1
 plantaris muscle	plantarismuscle	1
 plasma	plasma	1
 plasma cell	plasmacell	1
@@ -3604,6 +3612,7 @@ pontine raphe nucleus	pontineraphenucleus	1
 pontine tegmentum	pontinetegmentum	1
 popliteal artery	poplitealartery	1
 popliteal vein	poplitealvein	1
+popliteus	popliteus	1
 popliteus muscle	popliteusmuscle	1
 porion	porion	1
 porta hepatis	portahepatis	1

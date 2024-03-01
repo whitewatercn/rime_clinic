@@ -6,7 +6,7 @@
 
 ---
 name: en_disease
-version: "2023-10-30"
+version: "2024-01-25"
 sort: by_weight
 ...
 # +_+
@@ -7461,6 +7461,7 @@ barbiturate abuse	barbiturateabuse	1
 Donohue syndrome	Donohuesyndrome	1
 Wagner's disease	Wagner'sdisease	1
 subacute sclerosing panencephalitis	subacutesclerosingpanencephalitis	1
+hypovolemia shock	hypovolemiashock	1
 cardiogenic shock	cardiogenicshock	1
 manganism	manganism	1
 Becker muscular dystrophy	Beckermusculardystrophy	1
@@ -7633,7 +7634,6 @@ cataract 18	cataract18	1
 cataract 12 multiple types	cataract12multipletypes	1
 cataract 20 multiple types	cataract20multipletypes	1
 cataract 41	cataract41	1
-cataract 13 with adult i phenotype	cataract13withadultiphenotype	1
 cataract 46 juvenile-onset	cataract46juvenile-onset	1
 cataract 28	cataract28	1
 cataract 38	cataract38	1
@@ -9263,9 +9263,6 @@ frontotemporal dementia, right temporal atrophy variant	frontotemporaldementia,r
 Sandhoff disease, infantile form	Sandhoffdisease,infantileform	1
 Sandhoff disease, juvenile form	Sandhoffdisease,juvenileform	1
 Sandhoff disease, adult form	Sandhoffdisease,adultform	1
-Tay-Sachs disease, b variant, infantile form	Tay-Sachsdisease,bvariant,infantileform	1
-Tay-Sachs disease, b variant, juvenile form	Tay-Sachsdisease,bvariant,juvenileform	1
-Tay-Sachs disease, b variant, adult form	Tay-Sachsdisease,bvariant,adultform	1
 Tay-Sachs disease, B1 variant	Tay-Sachsdisease,B1variant	1
 primary progressive apraxia of speech	primaryprogressiveapraxiaofspeech	1
 parkinsonism due to ATP13A2 deficiency	parkinsonismduetoATP13A2deficiency	1
@@ -10280,7 +10277,6 @@ hereditary neurocutaneous malformation	hereditaryneurocutaneousmalformation	1
 aniridia-absent patella syndrome	aniridia-absentpatellasyndrome	1
 ankyloblepharon filiforme adnatum-cleft palate syndrome	ankyloblepharonfiliformeadnatum-cleftpalatesyndrome	1
 anonychia with flexural pigmentation	anonychiawithflexuralpigmentation	1
-anonychia-onychodystrophy with brachydactyly type b and ectrodactyly	anonychia-onychodystrophywithbrachydactylytypebandectrodactyly	1
 aortic arch anomaly-facial dysmorphism-intellectual disability syndrome	aorticarchanomaly-facialdysmorphism-intellectualdisabilitysyndrome	1
 atrial standstill 1	atrialstandstill1	1
 helicoid peripapillary chorioretinal degeneration	helicoidperipapillarychorioretinaldegeneration	1
@@ -10713,7 +10709,6 @@ ATR-X-related syndrome	ATR-X-relatedsyndrome	1
 infantile spams-psychomotor retardation-progressive brain atrophy-basal ganglia disease syndrome	infantilespams-psychomotorretardation-progressivebrainatrophy-basalgangliadiseasesyndrome	1
 hyperinsulinism due to HNF4A deficiency	hyperinsulinismduetoHNF4Adeficiency	1
 acquired prothrombin deficiency	acquiredprothrombindeficiency	1
-generalized peeling skin syndrome type c	generalizedpeelingskinsyndrometypec	1
 NK-cell enteropathy	NK-cellenteropathy	1
 hereditary epidermolysis bullosa associated with ocular features	hereditaryepidermolysisbullosaassociatedwithocularfeatures	1
 complex chromosomal rearrangement	complexchromosomalrearrangement	1
@@ -11481,7 +11476,6 @@ Gaucher's disease type I	Gaucher'sdiseasetypeI	1
 Gaucher's disease type II	Gaucher'sdiseasetypeII	1
 Gaucher's disease type III	Gaucher'sdiseasetypeIII	1
 Gaucher's disease perinatal lethal	Gaucher'sdiseaseperinatallethal	1
-atypical Gaucher's disease due to saposin c deficiency	atypicalGaucher'sdiseaseduetosaposincdeficiency	1
 brachydactyly-preaxial hallux varus syndrome	brachydactyly-preaxialhalluxvarussyndrome	1
 Ballard syndrome	Ballardsyndrome	1
 brachydactyly type A1	brachydactylytypeA1	1
@@ -12267,7 +12261,6 @@ van den Bosch syndrome	vandenBoschsyndrome	1
 Y-linked deafness 1	Y-linkeddeafness1	1
 myopathy and diabetes mellitus	myopathyanddiabetesmellitus	1
 cardiomyopathy, infantile hypertrophic	cardiomyopathy,infantilehypertrophic	1
-mitochondrial myopathy with reversible cytochrome c oxidase deficiency	mitochondrialmyopathywithreversiblecytochromecoxidasedeficiency	1
 ataxia and polyneuropathy, adult-onset	ataxiaandpolyneuropathy,adult-onset	1
 chronic diarrhea with villous atrophy	chronicdiarrheawithvillousatrophy	1
 lethal infantile mitochondrial myopathy	lethalinfantilemitochondrialmyopathy	1
@@ -12494,13 +12487,9 @@ DNA repair defect other than combined T-cell and B-cell immunodeficiencies	DNAre
 Immuno-osseous dysplasia	Immuno-osseousdysplasia	1
 immunodeficiency syndrome with autoimmunity	immunodeficiencysyndromewithautoimmunity	1
 immune dysregulation disease with immunodeficiency	immunedysregulationdiseasewithimmunodeficiency	1
-specific antibody deficiency with normal immunoglobulin concentrations and normal numbers of b cells	specificantibodydeficiencywithnormalimmunoglobulinconcentrationsandnormalnumbersofbcells	1
 non-distal trisomy 10q	non-distaltrisomy10q	1
 idiopathic central precocious puberty	idiopathiccentralprecociouspuberty	1
 secondary central precocious puberty	secondarycentralprecociouspuberty	1
-severe hemophilia b	severehemophiliab	1
-Moderately severe hemophilia b	Moderatelyseverehemophiliab	1
-mild hemophilia b	mildhemophiliab	1
 mosaic trisomy 12	mosaictrisomy12	1
 severe hemophilia A	severehemophiliaA	1
 moderately severe hemophilia A	moderatelyseverehemophiliaA	1
@@ -13134,7 +13123,6 @@ isolated megalencephaly	isolatedmegalencephaly	1
 midline cerebral malformation	midlinecerebralmalformation	1
 unilateral polymicrogyria	unilateralpolymicrogyria	1
 unilateral focal polymicrogyria	unilateralfocalpolymicrogyria	1
-isolated focal cortical dysplasia type i	isolatedfocalcorticaldysplasiatypei	1
 isolated focal cortical dysplasia type Ia	isolatedfocalcorticaldysplasiatypeIa	1
 isolated focal cortical dysplasia type IB	isolatedfocalcorticaldysplasiatypeIB	1
 isolated focal cortical dysplasia type Ic	isolatedfocalcorticaldysplasiatypeIc	1
@@ -13742,7 +13730,6 @@ qualitative or quantitative defects of protein O-mannosyltransferase 2	qualitati
 qualitative or quantitative defects of myofibrillar proteins	qualitativeorquantitativedefectsofmyofibrillarproteins	1
 qualitative or quantitative defects of desmin	qualitativeorquantitativedefectsofdesmin	1
 qualitative or quantitative defects of alphaB-cristallin	qualitativeorquantitativedefectsofalphaB-cristallin	1
-qualitative or quantitative defects of filamin c	qualitativeorquantitativedefectsoffilaminc	1
 qualitative or quantitative defects of protein ZASP	qualitativeorquantitativedefectsofproteinZASP	1
 qualitative or quantitative defects of titin	qualitativeorquantitativedefectsoftitin	1
 qualitative or quantitative defects of telethonin	qualitativeorquantitativedefectsoftelethonin	1
@@ -13833,7 +13820,6 @@ pyoderma gangrenosum-acne-suppurative hidradenitis syndrome	pyodermagangrenosum-
 hypomyelinating leukodystrophy with or without oligondontia and/or hypogonadism	hypomyelinatingleukodystrophywithorwithoutoligondontiaand/orhypogonadism	1
 12q15q21.1 microdeletion syndrome	12q15q21.1microdeletionsyndrome	1
 Microtriplication 11q24.1	Microtriplication11q24.1	1
-fatal infantile hypertrophic cardiomyopathy due to mitochondrial complex i deficiency	fatalinfantilehypertrophiccardiomyopathyduetomitochondrialcomplexideficiency	1
 inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency	inheritedisolatedadrenalinsufficiencyduetopartialCYP11A1deficiency	1
 intermediate anorectal malformation	intermediateanorectalmalformation	1
 low anorectal malformation	lowanorectalmalformation	1
@@ -13869,7 +13855,6 @@ Prader-Willi syndrome due to paternal deletion of 15q11q13 type 2	Prader-Willisy
 Prader-Willi syndrome due to translocation	Prader-Willisyndromeduetotranslocation	1
 Prader-Willi syndrome due to imprinting mutation	Prader-Willisyndromeduetoimprintingmutation	1
 symptomatic form of hemophilia a in female carriers	symptomaticformofhemophiliaainfemalecarriers	1
-symptomatic form of hemophilia b in female carriers	symptomaticformofhemophiliabinfemalecarriers	1
 non-acquired combined pituitary hormone deficiencies without extra-pituitary malformations	non-acquiredcombinedpituitaryhormonedeficiencieswithoutextra-pituitarymalformations	1
 peripheral precocious puberty	peripheralprecociouspuberty	1
 transient congenital hypothyroidism	transientcongenitalhypothyroidism	1
@@ -14877,10 +14862,6 @@ early infantile epileptic encephalopathy 39	earlyinfantileepilepticencephalopath
 retinitis pigmentosa 77	retinitispigmentosa77	1
 X-linked chondrodysplasia punctata 2	X-linkedchondrodysplasiapunctata2	1
 hepatobiliary system cancer	hepatobiliarysystemcancer	1
-fatal infantile cardioencephalomyopathy due to cytochrome c oxidase deficiency 1	fatalinfantilecardioencephalomyopathyduetocytochromecoxidasedeficiency1	1
-fatal infantile cardioencephalomyopathy due to cytochrome c oxidase deficiency 2	fatalinfantilecardioencephalomyopathyduetocytochromecoxidasedeficiency2	1
-fatal infantile cardioencephalomyopathy due to cytochrome c oxidase deficiency 3	fatalinfantilecardioencephalomyopathyduetocytochromecoxidasedeficiency3	1
-fatal infantile cardioencephalomyopathy due to cytochrome c oxidase deficiency 4	fatalinfantilecardioencephalomyopathyduetocytochromecoxidasedeficiency4	1
 sex cord-stromal benign neoplasm	sexcord-stromalbenignneoplasm	1
 testicular sex cord-stromal benign neoplasm	testicularsexcord-stromalbenignneoplasm	1
 epithelioid inflammatory myofibroblastic sarcoma	epithelioidinflammatorymyofibroblasticsarcoma	1
@@ -15368,7 +15349,6 @@ immunoglobulin A deficiency 1	immunoglobulinAdeficiency1	1
 hypotrichosis-lymphedema-telangiectasia syndrome (grouping)	hypotrichosis-lymphedema-telangiectasiasyndrome(grouping)	1
 familial multinodular goiter	familialmultinodulargoiter	1
 congenital Horner syndrome	congenitalHornersyndrome	1
-hypercholesterolemia, autosomal dominant, type b	hypercholesterolemia,autosomaldominant,typeb	1
 hypoparathyroidism, familial isolated	hypoparathyroidism,familialisolated	1
 incisors, lower central, absence of	incisors,lowercentral,absenceof	1
 keratoconus 1	keratoconus1	1
@@ -15724,8 +15704,6 @@ systemic lupus erythematosus, susceptibility to, 11	systemiclupuserythematosus,s
 bilateral parasagittal parieto-occipital polymicrogyria	bilateralparasagittalparieto-occipitalpolymicrogyria	1
 keratosis follicularis spinulosa decalvans, autosomal dominant	keratosisfollicularisspinulosadecalvans,autosomaldominant	1
 atypical hemolytic-uremic syndrome with MCP/CD46 anomaly	atypicalhemolytic-uremicsyndromewithMCP/CD46anomaly	1
-atypical hemolytic-uremic syndrome with i factor anomaly	atypicalhemolytic-uremicsyndromewithifactoranomaly	1
-atypical hemolytic-uremic syndrome with b factor anomaly	atypicalhemolytic-uremicsyndromewithbfactoranomaly	1
 atypical hemolytic-uremic syndrome with C3 anomaly	atypicalhemolytic-uremicsyndromewithC3anomaly	1
 atypical hemolytic-uremic syndrome with thrombomodulin anomaly	atypicalhemolytic-uremicsyndromewiththrombomodulinanomaly	1
 Hirschsprung disease-ganglioneuroblastoma syndrome	Hirschsprungdisease-ganglioneuroblastomasyndrome	1
@@ -16144,7 +16122,6 @@ partial deletion of the short arm of chromosome 9	partialdeletionoftheshortarmof
 partial deletion of the short arm of chromosome 18	partialdeletionoftheshortarmofchromosome18	1
 partial deletion of the long arm of chromosome 5	partialdeletionofthelongarmofchromosome5	1
 Bartter syndrome with hypocalcemia	Barttersyndromewithhypocalcemia	1
-peeling skin syndrome type b	peelingskinsyndrometypeb	1
 familial multiple meningioma	familialmultiplemeningioma	1
 classic maple syrup urine disease	classicmaplesyrupurinedisease	1
 intermediate maple syrup urine disease	intermediatemaplesyrupurinedisease	1
