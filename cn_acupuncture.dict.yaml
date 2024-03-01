@@ -1,0 +1,1117 @@
+ # Rime extended dictionary
+ # encoding: utf-8
+ # 更多内容见 https://github.com/whitewatercn/rime_clinic
+---
+name: cn_acupuncture
+version: "2024-01-23"
+sort: by_weight
+...
+
+安眠	an mian	1
+安眠穴	an mian xue	1
+八风	ba feng	1
+八风穴	ba feng xue	1
+八会穴	ba hui xue	1
+八邪	ba xie	1
+八邪穴	ba xie xue	1
+百虫窝	bai chong wo	1
+百虫窝穴	bai chong wo xue	1
+白环俞	bai huan yu	1
+白环俞穴	bai huan yu xue	1
+百会	bai hui	1
+百会穴	bai hui xue	1
+胞肓	bao huang	1
+胞肓穴	bao huang xue	1
+背俞穴	bei shu xue	1
+贲门	ben men	1
+本神	ben shen	1
+本神穴	ben shen xue	1
+髀关	bi guan	1
+髀关穴	bi guan xue	1
+臂臑	bi nao	1
+臂臑穴	bi nao xue	1
+便秘点	bian mi dian	1
+扁桃	bian tao	1
+扁桃体	bian tao ti	1
+秉风	bing feng	1
+秉风穴	bing feng xue	1
+补法	bu fa	1
+步廊	bu lang	1
+步廊穴	bu lang xue	1
+不容	bu rong	1
+不容穴	bu rong xue	1
+补泻	bu xie	1
+长强	chang qiang	1
+长强穴	chang qiang xue	1
+承扶	cheng fu	1
+承扶穴	cheng fu xue	1
+承光	cheng guang	1
+承光穴	cheng guang xue	1
+承浆	cheng jiang	1
+承浆穴	cheng jiang xue	1
+承筋	cheng jin	1
+承筋穴	cheng jin xue	1
+承灵	cheng ling	1
+承灵穴	cheng ling xue	1
+承满	cheng man	1
+承满穴	cheng man xue	1
+承泣	cheng qi	1
+承泣穴	cheng qi xue	1
+承山	cheng shan	1
+承山穴	cheng shan xue	1
+瘛脉	chi mai	1
+瘛脉穴	chi mai xue	1
+尺泽	chi ze	1
+尺泽穴	chi ze xue	1
+冲门	chong men	1
+冲门穴	chong men xue	1
+冲阳	chong yang	1
+冲阳穴	chong yang xue	1
+垂前	chui qian	1
+次髎	ci liao	1
+次髎穴	ci liao xue	1
+攒竹	cuan zhu	1
+攒竹穴	cuan zhu xue	1
+大包	da bao	1
+大包穴	da bao xue	1
+大肠	da chang	1
+大肠经	da chang jing	1
+大肠俞穴	da chang shu xue	1
+大肠俞	da chang yu	1
+大都	da dou	1
+大都穴	da dou xue	1
+大敦	da dun	1
+大敦穴	da dun xue	1
+大骨空	da gu kong	1
+大骨空穴	da gu kong xue	1
+大赫	da he	1
+大赫穴	da he xue	1
+大横	da heng	1
+大横穴	da heng xue	1
+大巨	da ju	1
+大巨穴	da ju xue	1
+大陵	da ling	1
+大陵穴	da ling xue	1
+大迎	da ying	1
+大迎穴	da ying xue	1
+大钟	da zhong	1
+大钟穴	da zhong xue	1
+大杼	da zhu	1
+大杼穴	da zhu xue	1
+大柱穴	da zhu xue	1
+大椎	da zhui	1
+大椎穴	da zhui xue	1
+带脉	dai mai	1
+带脉穴	dai mai xue	1
+胆经	dan jing	1
+胆囊	dan nang	1
+胆囊穴	dan nang xue	1
+胆俞穴	dan shu xue	1
+胆俞	dan yu	1
+膻中穴	dan zhong xue	1
+当阳	dang yang	1
+当阳穴	dang yang xue	1
+地仓	di cang	1
+地仓穴	di cang xue	1
+地机	di ji	1
+地机穴	di ji xue	1
+地五会	di wu hui	1
+地五会穴	di wu hui xue	1
+定喘	ding chuan	1
+定喘穴	ding chuan xue	1
+顶区	ding qu	1
+顶穴	ding xue	1
+犊鼻	du bi	1
+犊鼻穴	du bi xue	1
+督脉	du mai	1
+督俞穴	du shu xue	1
+独阴	du yin	1
+独阴穴	du yin xue	1
+督俞	du yu	1
+兑端	dui duan	1
+兑端穴	dui duan xue	1
+对耳轮	dui er lun	1
+对耳屏	dui er ping	1
+对屏尖	dui ping jian	1
+额区	e qu	1
+额穴	e xue	1
+二白	er bai	1
+二白穴	er bai xue	1
+耳背肺	er bei fei	1
+耳背肝	er bei gan	1
+耳背沟	er bei gou	1
+耳背脾	er bei pi	1
+耳背肾	er bei shen	1
+耳背心	er bei xin	1
+耳和髎	er he liao	1
+耳和髎穴	er he liao xue	1
+耳甲	er jia	1
+耳甲腔	er jia qiang	1
+耳甲艇	er jia ting	1
+二间	er jian	1
+耳尖	er jian	1
+二间穴	er jian xue	1
+耳尖穴	er jian xue	1
+耳轮	er lun	1
+耳轮脚	er lun jiao	1
+耳轮尾	er lun wei	1
+耳门	er men	1
+耳门穴	er men xue	1
+耳迷根	er mi gen	1
+耳屏	er ping	1
+耳中	er zhong	1
+腓肠肌	fei chang ji	1
+肺经	fei jing	1
+肺区	fei qu	1
+肺俞穴	fei shu xue	1
+肺穴	fei xue	1
+飞扬	fei yang	1
+飞扬穴	fei yang xue	1
+肺俞	fei yu	1
+风池	feng chi	1
+风池穴	feng chi xue	1
+风府	feng fu	1
+风府穴	feng fu xue	1
+丰隆	feng long	1
+丰隆穴	feng long xue	1
+风门	feng men	1
+风门穴	feng men xue	1
+风市	feng shi	1
+风湿线	feng shi xian	1
+风市穴	feng shi xue	1
+风溪	feng xi	1
+腹哀	fu ai	1
+腹哀穴	fu ai xue	1
+浮白	fu bai	1
+浮白穴	fu bai xue	1
+附分	fu fen	1
+附分穴	fu fen xue	1
+附件炎点	fu jian yan dian	1
+腹结	fu jie	1
+腹结穴	fu jie xue	1
+复溜	fu liu	1
+复溜穴	fu liu xue	1
+腹区	fu qu	1
+府舍	fu she	1
+府舍穴	fu she xue	1
+腹通谷	fu tong gu	1
+腹通谷穴	fu tong gu xue	1
+伏兔	fu tu	1
+扶兔	fu tu	1
+扶突	fu tu	1
+伏兔穴	fu tu xue	1
+扶突穴	fu tu xue	1
+浮郄	fu xi	1
+浮郄穴	fu xi xue	1
+腹穴	fu xue	1
+跗阳	fu yang	1
+跗阳穴	fu yang xue	1
+肝经	gan jing	1
+感冒点	gan mao dian	1
+肝区	gan qu	1
+肝俞穴	gan shu xue	1
+肝穴	gan xue	1
+肝炎点	gan yan dian	1
+肝阳	gan yang	1
+肝俞	gan yu	1
+肛门	gang men	1
+膏肓	gao huang	1
+膏肓穴	gao huang xue	1
+膏肓俞	gao huang yu	1
+睾丸	gao wan	1
+高血压点	gao xue ya dian	1
+膈关	ge guan	1
+膈关穴	ge guan xue	1
+膈俞	ge yu	1
+膈俞穴	ge yu xue	1
+跟区	gen qu	1
+跟穴	gen xue	1
+公孙	gong sun	1
+公孙穴	gong sun xue	1
+股关	gu guan	1
+关冲	guan chong	1
+关冲穴	guan chong xue	1
+关门	guan men	1
+关门穴	guan men xue	1
+关元	guan yuan	1
+关元穴	guan yuan xue	1
+关元俞	guan yuan yu	1
+关元俞穴	guan yuan yu xue	1
+光明	guang ming	1
+光明穴	guang ming xue	1
+归来	gui lai	1
+归来穴	gui lai xue	1
+腘窝	guo wo	1
+海泉	hai quan	1
+海泉穴	hai quan xue	1
+颔厌	han yan	1
+颔厌穴	han yan xue	1
+行间	hang jian	1
+行间穴	hang jian xue	1
+鹤顶	he ding	1
+鹤顶穴	he ding xue	1
+合谷	he gu	1
+合谷穴	he gu xue	1
+颌区	he qu	1
+合穴	he xue	1
+颌穴	he xue	1
+合阳	he yang	1
+合阳穴	he yang xue	1
+横骨	heng gu	1
+横骨穴	heng gu xue	1
+后顶	hou ding	1
+后顶穴	hou ding xue	1
+后溪	hou xi	1
+后溪穴	hou xi xue	1
+喉牙	hou ya	1
+华盖	hua gai	1
+华盖穴	hua gai xue	1
+滑肉门	hua rou men	1
+滑肉门穴	hua rou men xue	1
+踝穴	huai xue	1
+环跳	huan tiao	1
+环跳穴	huan tiao xue	1
+环中	huan zhong	1
+环中穴	huan zhong xue	1
+肓门	huang men	1
+肓门穴	huang men xue	1
+肓俞	huang yu	1
+肓俞穴	huang yu xue	1
+会阳	hui yang	1
+会阳穴	hui yang xue	1
+会阴	hui yin	1
+会阴穴	hui yin xue	1
+会宗	hui zong	1
+会宗穴	hui zong xue	1
+魂门	hun men	1
+魂门穴	hun men xue	1
+饥点	ji dian	1
+急脉	ji mai	1
+急脉穴	ji mai xue	1
+箕门	ji men	1
+箕门穴	ji men xue	1
+极泉	ji quan	1
+极泉穴	ji quan xue	1
+脊中	ji zhong	1
+脊中穴	ji zhong xue	1
+颊车	jia che	1
+颊车穴	jia che xue	1
+夹承浆	jia cheng jiang	1
+夹承浆穴	jia cheng jiang xue	1
+夹脊	jia ji	1
+夹脊穴	jia ji xue	1
+肩背	jian bei	1
+肩井	jian jing	1
+肩井穴	jian jing xue	1
+建里	jian li	1
+建里穴	jian li xue	1
+肩髎	jian liao	1
+肩髎穴	jian liao xue	1
+肩前	jian qian	1
+肩前穴	jian qian xue	1
+肩区	jian qu	1
+间使	jian shi	1
+间使穴	jian shi xue	1
+肩外俞	jian wai yu	1
+肩外俞穴	jian wai yu xue	1
+肩穴	jian xue	1
+肩髃	jian yu	1
+肩髃穴	jian yu xue	1
+肩贞	jian zhen	1
+肩贞穴	jian zhen xue	1
+肩中俞	jian zhong yu	1
+肩中俞穴	jian zhong yu xue	1
+交感	jiao gan	1
+角孙	jiao sun	1
+角孙穴	jiao sun xue	1
+角窝中	jiao wo zhong	1
+交信	jiao xin	1
+交信穴	jiao xin xue	1
+结核点	jie he dian	1
+结节	jie jie	1
+解溪	jie xi	1
+解溪穴	jie xi xue	1
+金津	jin jin	1
+金津穴	jin jin xue	1
+金门	jin men	1
+金门穴	jin men xue	1
+筋缩	jin suo	1
+筋缩穴	jin suo xue	1
+颈百劳	jing bai lao	1
+颈百劳穴	jing bai lao xue	1
+颈臂	jing bi	1
+京骨	jing gu	1
+京骨穴	jing gu xue	1
+京门	jing men	1
+京门穴	jing men xue	1
+睛明	jing ming	1
+睛明穴	jing ming xue	1
+经渠	jing qu	1
+经渠穴	jing qu xue	1
+经外奇	jing wai qi	1
+经外奇穴	jing wai qi xue	1
+井穴	jing xue	1
+经穴	jing xue	1
+颈穴	jing xue	1
+颈椎	jing zhui	1
+纠内翻	jiu nei fan	1
+纠内翻穴	jiu nei fan xue	1
+纠外翻	jiu wai fan	1
+纠外翻穴	jiu wai fan xue	1
+鸠尾	jiu wei	1
+鸠尾穴	jiu wei xue	1
+巨骨	ju gu	1
+巨骨穴	ju gu xue	1
+居髎	ju liao	1
+巨髎	ju liao	1
+居髎穴	ju liao xue	1
+巨髎穴	ju liao xue	1
+聚泉	ju quan	1
+聚泉穴	ju quan xue	1
+巨阙	ju que	1
+巨阙俞穴	ju que shu xue	1
+巨阙穴	ju que xue	1
+巨阙俞	ju que yu	1
+绝骨穴	jue gu xue	1
+厥阴俞	jue yin yu	1
+厥阴俞穴	jue yin yu xue	1
+渴点	ke dian	1
+孔最	kong zui	1
+孔最穴	kong zui xue	1
+口禾髎	kou he liao	1
+口禾髎穴	kou he liao xue	1
+口区	kou qu	1
+口穴	kou xue	1
+库房	ku fang	1
+库房穴	ku fang xue	1
+髋骨	kuan gu	1
+髋骨穴	kuan gu xue	1
+髋穴	kuan xue	1
+昆仑	kun lun	1
+昆仑穴	kun lun xue	1
+阑尾	lan wei	1
+阑尾穴	lan wei xue	1
+劳宫	lao gong	1
+劳宫穴	lao gong xue	1
+厉兑	li dui	1
+历兑穴	li dui xue	1
+厉兑穴	li dui xue	1
+蠡沟	li gou	1
+蠡沟穴	li gou xue	1
+里内庭	li nei ting	1
+里内庭穴	li nei ting xue	1
+利尿	li niao	1
+利尿穴	li niao xue	1
+廉泉	lian quan	1
+廉泉穴	lian quan xue	1
+梁门	liang men	1
+梁门穴	liang men xue	1
+梁丘	liang qiu	1
+梁丘穴	liang qiu xue	1
+列缺	lie que	1
+列缺穴	lie que xue	1
+灵道	ling dao	1
+灵道穴	ling dao xue	1
+零点	ling dian	1
+灵台	ling tai	1
+灵台穴	ling tai xue	1
+灵墟	ling xu	1
+灵墟穴	ling xu xue	1
+漏谷	lou gu	1
+漏谷穴	lou gu xue	1
+颅息	lu xi	1
+颅息穴	lu xi xue	1
+卵巢	luan chao	1
+轮二	lun er	1
+轮六	lun liu	1
+轮三	lun san	1
+轮四	lun si	1
+轮五	lun wu	1
+轮一	lun yi	1
+络却	luo que	1
+络却穴	luo que xue	1
+络穴	luo xue	1
+率谷	lv gu	1
+率谷穴	lv gu xue	1
+眉冲	mei chong	1
+眉冲穴	mei chong xue	1
+面颊	mian jia	1
+命门	ming men	1
+命门穴	ming men xue	1
+目窗	mu chuang	1
+目窗穴	mu chuang xue	1
+目二	mu er	1
+募穴	mu xue	1
+目一	mu yi	1
+脑户	nao hu	1
+脑户穴	nao hu xue	1
+臑会	nao hui	1
+臑会穴	nao hui xue	1
+脑空	nao kong	1
+脑空穴	nao kong xue	1
+臑俞	nao yu	1
+臑俞穴	nao yu xue	1
+内鼻	nei bi	1
+内耳	nei er	1
+内分泌	nei fen mi	1
+内关	nei guan	1
+内关穴	nei guan xue	1
+内踝尖	nei huai jian	1
+内踝尖穴	nei huai jian xue	1
+内生殖器	nei sheng zhi qi	1
+内庭	nei ting	1
+内庭穴	nei ting xue	1
+内膝眼	nei xi yan	1
+内膝眼穴	nei xi yan xue	1
+内迎香	nei ying xiang	1
+内迎香穴	nei ying xiang xue	1
+尿道	niao dao	1
+颞区	nie qu	1
+颞穴	nie xue	1
+女膝	nv xi	1
+女膝穴	nv xi xue	1
+膀胱	pang guang	1
+膀胱经	pang guang jing	1
+膀胱俞穴	pang guang shu xue	1
+膀胱俞	pang guang yu	1
+盆腔	pen qiang	1
+痞根	pi gen	1
+痞根穴	pi gen xue	1
+脾经	pi jing	1
+脾区	pi qu	1
+脾穴	pi xue	1
+脾俞	pi yu	1
+脾俞穴	pi yu xue	1
+皮质下	pi zhi xia	1
+偏历	pian li	1
+偏历穴	pian li xue	1
+平喘	ping chuan	1
+屏尖	ping jian	1
+屏间切迹	ping jian qie ji	1
+魄户	po hu	1
+魄户穴	po hu xue	1
+仆参	pu can	1
+仆参穴	pu can xue	1
+气冲	qi chong	1
+气冲穴	qi chong xue	1
+奇点	qi dian	1
+气端	qi duan	1
+气端穴	qi duan xue	1
+气管	qi guan	1
+气海	qi hai	1
+气海穴	qi hai xue	1
+气海俞	qi hai yu	1
+气海俞穴	qi hai yu xue	1
+气户	qi hu	1
+气户穴	qi hu xue	1
+期门	qi men	1
+期门穴	qi men xue	1
+气舍	qi she	1
+气舍穴	qi she xue	1
+气穴	qi xue	1
+气穴穴	qi xue xue	1
+脐周	qi zhou	1
+前顶	qian ding	1
+前顶穴	qian ding xue	1
+前谷	qian gu	1
+前谷穴	qian gu xue	1
+牵正	qian zheng	1
+牵正穴	qian zheng xue	1
+强间	qiang jian	1
+强间穴	qiang jian xue	1
+清冷渊	qing leng yuan	1
+清冷渊穴	qing leng yuan xue	1
+青灵	qing ling	1
+青灵穴	qing ling xue	1
+晴明	qing ming	1
+球后	qiu hou	1
+球后穴	qiu hou xue	1
+丘脑	qiu nao	1
+丘墟	qiu xu	1
+丘墟穴	qiu xu xue	1
+曲鬓	qu bin	1
+曲鬓穴	qu bin xue	1
+曲差	qu cha	1
+曲差穴	qu cha xue	1
+曲池	qu chi	1
+曲池穴	qu chi xue	1
+曲骨	qu gu	1
+曲骨穴	qu gu xue	1
+曲泉	qu quan	1
+曲泉穴	qu quan xue	1
+曲垣	qu yuan	1
+曲垣穴	qu yuan xue	1
+曲泽	qu ze	1
+曲泽穴	qu ze xue	1
+颧髎	quan liao	1
+颧髎穴	quan liao xue	1
+缺盆	que pen	1
+缺盆穴	que pen xue	1
+然谷	ran gu	1
+然谷穴	ran gu xue	1
+热穴	re xue	1
+任脉	ren mai	1
+人迎	ren ying	1
+人迎穴	ren ying xue	1
+人中	ren zhong	1
+日月	ri yue	1
+日月穴	ri yue xue	1
+乳根	ru gen	1
+乳根穴	ru gen xue	1
+乳突	ru tu	1
+乳腺	ru xian	1
+乳中	ru zhong	1
+乳中穴	ru zhong xue	1
+三间	san jian	1
+三间穴	san jian xue	1
+三焦	san jiao	1
+三焦经	san jiao jing	1
+三角灸	san jiao jiu	1
+三角灸穴	san jiao jiu xue	1
+三角窝	san jiao wo	1
+三焦俞	san jiao yu	1
+三焦俞穴	san jiao yu xue	1
+三阳络	san yang luo	1
+三阳络穴	san yang luo xue	1
+三阴交	san yin jiao	1
+三阴交穴	san yin jiao xue	1
+膻中	shan zhong	1
+上背	shang bei	1
+上腭	shang e	1
+上耳根	shang er gen	1
+上关	shang guan	1
+上关穴	shang guan xue	1
+上角窝	shang jiao wo	1
+上巨虚	shang ju xu	1
+上巨虚穴	shang ju xu xue	1
+上廉	shang lian	1
+上廉泉	shang lian quan	1
+上廉泉穴	shang lian quan xue	1
+上廉穴	shang lian xue	1
+上髎	shang liao	1
+上髎穴	shang liao xue	1
+上明	shang ming	1
+上明穴	shang ming xue	1
+商丘	shang qiu	1
+商丘穴	shang qiu xue	1
+商曲	shang qu	1
+商曲穴	shang qu xue	1
+上脘	shang wan	1
+上脘穴	shang wan xue	1
+上星	shang xing	1
+上星穴	shang xing xue	1
+商阳	shang yang	1
+商阳穴	shang yang xue	1
+上迎香	shang ying xiang	1
+上迎香穴	shang ying xiang xue	1
+少冲	shao chong	1
+少冲穴	shao chong xue	1
+少府	shao fu	1
+少府穴	shao fu xue	1
+少海	shao hai	1
+少海穴	shao hai xue	1
+少商	shao shang	1
+少商穴	shao shang xue	1
+少泽	shao ze	1
+少泽穴	shao ze xue	1
+舌区	she qu	1
+舌穴	she xue	1
+神道	shen dao	1
+神道穴	shen dao xue	1
+神封	shen feng	1
+神封穴	shen feng xue	1
+肾经	shen jing	1
+神经丛点	shen jing cong dian	1
+申脉	shen mai	1
+申脉穴	shen mai xue	1
+神门	shen men	1
+神门穴	shen men xue	1
+肾区	shen qu	1
+神阙	shen que	1
+神阙穴	shen que xue	1
+肾上腺	shen shang xian	1
+神堂	shen tang	1
+神堂穴	shen tang xue	1
+神庭	shen ting	1
+神庭穴	shen ting xue	1
+肾穴	shen xue	1
+肾炎点	shen yan dian	1
+肾俞	shen yu	1
+肾俞穴	shen yu xue	1
+神藏	shen zang	1
+神藏穴	shen zang xue	1
+身柱	shen zhu	1
+身柱穴	shen zhu xue	1
+声带	sheng dai	1
+升压点	sheng ya dian	1
+食窦	shi dou	1
+食窦穴	shi dou xue	1
+十二经络	shi er jing luo	1
+十二指肠	shi er zhi chang	1
+石关	shi guan	1
+食管	shi guan	1
+石关穴	shi guan xue	1
+石门	shi men	1
+石门穴	shi men xue	1
+失眠穴	shi mian xue	1
+十七椎	shi qi zhui	1
+十七椎穴	shi qi zhui xue	1
+十四经络	shi si jing luo	1
+十宣	shi xuan	1
+十宣穴	shi xuan xue	1
+手厥阴	shou jue yin	1
+手厥阴心包经	shou jue yin xin bao jing	1
+手逆注	shou ni zhu	1
+手逆注穴	shou ni zhu xue	1
+手三里	shou san li	1
+手三里穴	shou san li xue	1
+手三阳	shou san yang	1
+手三阴	shou san yin	1
+手少阳	shou shao yang	1
+手少阳三焦经	shou shao yang san jiao jing	1
+手少阴	shou shao yin	1
+手少阴心经	shou shao yin xin jing	1
+手太阳	shou tai yang	1
+手太阳小肠经	shou tai yang xiao chang jing	1
+手太阴	shou tai yin	1
+手太阴肺经	shou tai yin fei jing	1
+手五里	shou wu li	1
+手五里穴	shou wu li xue	1
+手阳明	shou yang ming	1
+手阳明大肠经	shou yang ming da chang jing	1
+束骨	shu gu	1
+束骨穴	shu gu xue	1
+输尿管	shu niao guan	1
+俞穴	shu xue	1
+输穴	shu xue	1
+水道	shui dao	1
+水道穴	shui dao xue	1
+水分	shui fen	1
+水分穴	shui fen xue	1
+水沟	shui gou	1
+水沟穴	shui gou xue	1
+水泉	shui quan	1
+水泉穴	shui quan xue	1
+水突	shui tu	1
+水突穴	shui tu xue	1
+四白	si bai	1
+四白穴	si bai xue	1
+四渎	si du	1
+四渎穴	si du xue	1
+四缝	si feng	1
+四缝穴	si feng xue	1
+四满	si man	1
+四满穴	si man xue	1
+四神聪	si shen cong	1
+四神聪穴	si shen cong xue	1
+丝竹空	si zhu kong	1
+丝竹空穴	si zhu kong xue	1
+素髎	su liao	1
+素髎穴	su liao xue	1
+锁骨	suo gu	1
+太白	tai bai	1
+太白穴	tai bai xue	1
+太冲	tai chong	1
+太冲穴	tai chong xue	1
+太溪	tai xi	1
+太溪穴	tai xi xue	1
+太阳	tai yang	1
+太阳穴	tai yang xue	1
+太乙	tai yi	1
+太乙穴	tai yi xue	1
+太渊	tai yuan	1
+太渊穴	tai yuan xue	1
+陶道	tao dao	1
+陶道穴	tao dao xue	1
+天池	tian chi	1
+天池穴	tian chi xue	1
+天冲	tian chong	1
+天冲穴	tian chong xue	1
+天窗	tian chuang	1
+天窗穴	tian chuang xue	1
+天鼎	tian ding	1
+天鼎穴	tian ding xue	1
+天府	tian fu	1
+天府穴	tian fu xue	1
+天井	tian jing	1
+天井穴	tian jing xue	1
+天髎	tian liao	1
+天髎穴	tian liao xue	1
+天泉	tian quan	1
+天泉穴	tian quan xue	1
+天容	tian rong	1
+天容穴	tian rong xue	1
+天枢	tian shu	1
+天枢穴	tian shu xue	1
+天突	tian tu	1
+天突穴	tian tu xue	1
+天溪	tian xi	1
+天溪穴	tian xi xue	1
+天牖	tian you	1
+天牖穴	tian you xue	1
+天柱	tian zhu	1
+天柱穴	tian zhu xue	1
+天宗	tian zong	1
+天宗穴	tian zong xue	1
+条口	tiao kou	1
+条口穴	tiao kou xue	1
+听宫	ting gong	1
+听宫穴	ting gong xue	1
+听会	ting hui	1
+听会穴	ting hui xue	1
+艇角	ting jiao	1
+艇中	ting zhong	1
+通里	tong li	1
+通里穴	tong li xue	1
+通天	tong tian	1
+通天穴	tong tian xue	1
+瞳子髎	tong zi liao	1
+瞳子髎穴	tong zi liao xue	1
+头昏穴	tou hun xue	1
+头临泣	tou lin qi	1
+头临泣穴	tou lin qi xue	1
+头窍阴	tou qiao yin	1
+头窍阴穴	tou qiao yin xue	1
+头维	tou wei	1
+头维穴	tou wei xue	1
+臀区	tun qu	1
+臀穴	tun xue	1
+外鼻	wai bi	1
+外耳	wai er	1
+外关	wai guan	1
+外关穴	wai guan xue	1
+外踝尖	wai huai jian	1
+外踝尖穴	wai huai jian xue	1
+外劳宫	wai lao gong	1
+外劳宫穴	wai lao gong xue	1
+外陵	wai ling	1
+外陵穴	wai ling xue	1
+外丘	wai qiu	1
+外丘穴	wai qiu xue	1
+外生殖器	wai sheng zhi qi	1
+完骨	wan gu	1
+腕骨	wan gu	1
+完骨穴	wan gu xue	1
+腕骨穴	wan gu xue	1
+腕区	wan qu	1
+腕穴	wan xue	1
+胃仓	wei cang	1
+胃仓穴	wei cang xue	1
+维道	wei dao	1
+维道穴	wei dao xue	1
+胃经	wei jing	1
+胃区	wei qu	1
+胃上	wei shang	1
+胃上穴	wei shang xue	1
+胃俞穴	wei shu xue	1
+胃脘下俞穴	wei wan xia shu xue	1
+胃脘下俞	wei wan xia yu	1
+胃穴	wei xue	1
+委阳	wei yang	1
+委阳穴	wei yang xue	1
+胃俞	wei yu	1
+委中	wei zhong	1
+委中穴	wei zhong xue	1
+温溜	wen liu	1
+温溜穴	wen liu xue	1
+五处	wu chu	1
+五处穴	wu chu xue	1
+五枢	wu shu	1
+五枢穴	wu shu xue	1
+屋翳	wu yi	1
+屋翳穴	wu yi xue	1
+膝关	xi guan	1
+膝关穴	xi guan xue	1
+郄门	xi men	1
+郄门穴	xi men xue	1
+膝区	xi qu	1
+膝穴	xi xue	1
+郄穴	xi xue	1
+膝眼	xi yan	1
+膝眼穴	xi yan xue	1
+膝阳关	xi yang guan	1
+膝阳关穴	xi yang guan xue	1
+侠白	xia bai	1
+侠白穴	xia bai xue	1
+下背	xia bei	1
+下垂点	xia chui dian	1
+下腭	xia e	1
+下耳根	xia er gen	1
+下关	xia guan	1
+下关穴	xia guan xue	1
+下合穴	xia he xue	1
+下极俞穴	xia ji shu xue	1
+下极俞	xia ji yu	1
+下巨虚	xia ju xu	1
+下巨虚穴	xia ju xu xue	1
+下廉	xia lian	1
+下廉穴	xia lian xue	1
+下髎	xia liao	1
+下髎穴	xia liao xue	1
+下脘	xia wan	1
+下脘穴	xia wan xue	1
+侠溪	xia xi	1
+侠溪穴	xia xi xue	1
+陷谷	xian gu	1
+陷谷穴	xian gu xue	1
+小肠	xiao chang	1
+小肠经	xiao chang jing	1
+小肠俞穴	xiao chang shu xue	1
+小肠俞	xiao chang yu	1
+小骨空	xiao gu kong	1
+小骨空穴	xiao gu kong xue	1
+小海	xiao hai	1
+小海穴	xiao hai xue	1
+消泺	xiao luo	1
+消泺穴	xiao luo xue	1
+泻法	xie fa	1
+胁肋	xie lei	1
+心包经	xin bao jing	1
+囟会	xin hui	1
+囟会穴	xin hui xue	1
+心经	xin jing	1
+心区	xin qu	1
+心俞穴	xin shu xue	1
+心穴	xin xue	1
+新眼点	xin yan dian	1
+心俞	xin yu	1
+心脏点	xin zang dian	1
+兴奋点	xing fen dian	1
+荥穴	xing xue	1
+胸区	xiong qu	1
+胸乡	xiong xiang	1
+胸乡穴	xiong xiang xue	1
+胸穴	xiong xue	1
+胸椎	xiong zhui	1
+璇玑	xuan ji	1
+璇玑穴	xuan ji xue	1
+悬厘	xuan li	1
+悬厘穴	xuan li xue	1
+悬颅	xuan lu	1
+悬颅穴	xuan lu xue	1
+悬枢	xuan shu	1
+悬枢穴	xuan shu xue	1
+悬钟	xuan zhong	1
+悬钟绝骨	xuan zhong jue gu	1
+悬钟穴	xuan zhong xue	1
+血海	xue hai	1
+血海穴	xue hai xue	1
+穴名	xue ming	1
+穴位名	xue wei ming	1
+血压点	xue ya dian	1
+血压点穴	xue ya dian xue	1
+哑门	ya men	1
+哑门穴	ya men xue	1
+牙痛点	ya tong dian	1
+牙痛奇穴	ya tong qi xue	1
+牙痛穴	ya tong xue	1
+牙穴	ya xue	1
+眼二	yan er	1
+咽喉	yan hou	1
+眼区	yan qu	1
+眼穴	yan xue	1
+眼一	yan yi	1
+阳白	yang bai	1
+阳白穴	yang bai xue	1
+阳池	yang chi	1
+阳池穴	yang chi xue	1
+阳辅	yang fu	1
+阳辅穴	yang fu xue	1
+阳纲	yang gang	1
+阳纲穴	yang gang xue	1
+阳谷	yang gu	1
+阳谷穴	yang gu xue	1
+阳交	yang jiao	1
+阳交穴	yang jiao xue	1
+养老	yang lao	1
+养老穴	yang lao xue	1
+阳陵泉	yang ling quan	1
+阳陵泉穴	yang ling quan xue	1
+阳跷脉	yang qiao mai	1
+阳维脉	yang wei mai	1
+阳溪	yang xi	1
+阳溪穴	yang xi xue	1
+腰骶椎	yao di zhui	1
+腰肌	yao ji	1
+腰奇	yao qi	1
+腰奇穴	yao qi xue	1
+腰俞穴	yao shu xue	1
+腰痛点	yao tong dian	1
+腰痛点穴	yao tong dian xue	1
+腰眼	yao yan	1
+腰眼穴	yao yan xue	1
+腰阳关	yao yang guan	1
+腰阳关穴	yao yang guan xue	1
+腰宜	yao yi	1
+腰宜穴	yao yi xue	1
+腰俞	yao yu	1
+液门	ye men	1
+液门穴	ye men xue	1
+胰胆	yi dan	1
+翳风	yi feng	1
+翳风穴	yi feng xue	1
+翳明	yi ming	1
+翳明穴	yi ming xue	1
+意舍	yi she	1
+意舍穴	yi she xue	1
+譩譆	yi xi	1
+譩譆穴	yi xi xue	1
+隐白	yin bai	1
+隐白穴	yin bai xue	1
+阴包	yin bao	1
+阴包穴	yin bao xue	1
+阴都	yin du	1
+阴都穴	yin du xue	1
+阴谷	yin gu	1
+阴谷穴	yin gu xue	1
+阴交	yin jiao	1
+龈交	yin jiao	1
+阴交穴	yin jiao xue	1
+龈交穴	yin jiao xue	1
+阴廉	yin lian	1
+阴廉穴	yin lian xue	1
+阴陵泉	yin ling quan	1
+阴陵泉穴	yin ling quan xue	1
+殷门	yin men	1
+殷门穴	yin men xue	1
+阴跷脉	yin qiao mai	1
+阴市	yin shi	1
+阴市穴	yin shi xue	1
+印堂	yin tang	1
+印堂穴	yin tang xue	1
+阴维脉	yin wei mai	1
+阴郄	yin xi	1
+阴郄穴	yin xi xue	1
+膺窗	ying chuang	1
+膺窗穴	ying chuang xue	1
+迎香	ying xiang	1
+迎香穴	ying xiang xue	1
+涌泉	yong quan	1
+涌泉穴	yong quan xue	1
+幽门	you men	1
+幽门穴	you men xue	1
+俞府	yu fu	1
+俞府穴	yu fu xue	1
+鱼际	yu ji	1
+鱼际穴	yu ji xue	1
+玉堂	yu tang	1
+玉堂穴	yu tang xue	1
+鱼腰	yu yao	1
+鱼腰穴	yu yao xue	1
+玉液	yu ye	1
+玉液穴	yu ye xue	1
+玉枕	yu zhen	1
+玉枕穴	yu zhen xue	1
+彧中	yu zhong	1
+彧中穴	yu zhong xue	1
+原穴	yuan xue	1
+渊液	yuan ye	1
+渊腋	yuan ye	1
+渊腋穴	yuan ye xue	1
+缘中	yuan zhong	1
+云门	yun men	1
+云门穴	yun men xue	1
+章门	zhang men	1
+章门穴	zhang men xue	1
+照海	zhao hai	1
+照海穴	zhao hai xue	1
+辄筋	zhe jin	1
+辄筋穴	zhe jin xue	1
+枕区	zhen qu	1
+枕小神经点	zhen xiao shen jing dian	1
+枕穴	zhen xue	1
+正营	zheng ying	1
+正营穴	zheng ying xue	1
+秩边	zhi bian	1
+秩边穴	zhi bian xue	1
+直肠	zhi chang	1
+支点	zhi dian	1
+支沟	zhi gou	1
+支沟穴	zhi gou xue	1
+支气管	zhi qi guan	1
+指区	zhi qu	1
+趾区	zhi qu	1
+志室	zhi shi	1
+志室穴	zhi shi xue	1
+指穴	zhi xue	1
+趾穴	zhi xue	1
+至阳	zhi yang	1
+至阳穴	zhi yang xue	1
+至阴	zhi yin	1
+至阴穴	zhi yin xue	1
+支正	zhi zheng	1
+支正穴	zhi zheng xue	1
+中背	zhong bei	1
+中冲	zhong chong	1
+中冲穴	zhong chong xue	1
+中渎	zhong du	1
+中都	zhong du	1
+中渎穴	zhong du xue	1
+中都穴	zhong du xue	1
+中封	zhong feng	1
+中封穴	zhong feng xue	1
+中府	zhong fu	1
+中府穴	zhong fu xue	1
+中极	zhong ji	1
+中极穴	zhong ji xue	1
+中魁	zhong kui	1
+中魁穴	zhong kui xue	1
+中髎	zhong liao	1
+中髎穴	zhong liao xue	1
+肿瘤特异区	zhong liu te yi qu	1
+中膂俞	zhong lv yu	1
+中膂俞穴	zhong lv yu xue	1
+中平	zhong ping	1
+中平穴	zhong ping xue	1
+中泉	zhong quan	1
+中泉穴	zhong quan xue	1
+中枢	zhong shu	1
+中枢穴	zhong shu xue	1
+中庭	zhong ting	1
+中庭穴	zhong ting xue	1
+中脘	zhong wan	1
+中脘穴	zhong wan xue	1
+中注	zhong zhu	1
+中渚	zhong zhu	1
+中注穴	zhong zhu xue	1
+中渚穴	zhong zhu xue	1
+肘尖	zhou jian	1
+肘尖穴	zhou jian xue	1
+肘髎	zhou liao	1
+肘髎穴	zhou liao xue	1
+肘区	zhou qu	1
+周荣	zhou rong	1
+周荣穴	zhou rong xue	1
+肘穴	zhou xue	1
+筑宾	zhu bin	1
+筑宾穴	zhu bin xue	1
+子宫	zi gong	1
+紫宫	zi gong	1
+子宫穴	zi gong xue	1
+紫宫穴	zi gong xue	1
+足厥阴	zu jue yin	1
+足厥阴肝经	zu jue yin gan jing	1
+足临泣	zu lin qi	1
+足临泣穴	zu lin qi xue	1
+足窍阴	zu qiao yin	1
+足窍阴穴	zu qiao yin xue	1
+足三里	zu san li	1
+足三里穴	zu san li xue	1
+足三阳	zu san yang	1
+足三阴	zu san yin	1
+足少阳	zu shao yang	1
+足少阳胆经	zu shao yang dan jing	1
+足少阴	zu shao yin	1
+足少阴肾经	zu shao yin shen jing	1
+足太阳	zu tai yang	1
+足太阳膀胱经	zu tai yang pang guang jing	1
+足太阴	zu tai yin	1
+足太阴脾经	zu tai yin pi jing	1
+足通谷	zu tong gu	1
+足通谷穴	zu tong gu xue	1
+足五里	zu wu li	1
+足五里穴	zu wu li xue	1
+足阳明	zu yang ming	1
+足阳明胃经	zu yang ming wei jing	1
+醉点	zui dian	1
+坐骨神经	zuo gu shen jing	1
