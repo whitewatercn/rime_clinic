@@ -465,7 +465,7 @@ aliskiren	aliskiren	1
 eletriptan	eletriptan	1
 cladribine	cladribine	1
 gemcitabine	gemcitabine	1
-(S)-(−)-carbidopa monohydrate	(S)-(−)-carbidopamonohydrate	1
+(S)-(−)-carbidopa monohydrate	carbidopamonohydrate	1
 glutethimide	glutethimide	1
 ranibizumab	ranibizumab	1
 tolbutamide	tolbutamide	1
@@ -1776,7 +1776,8 @@ erlotinib	erlotinib	1
 caplacizumab	caplacizumab	1
 carazolol	carazolol	1
 carbetocin	carbetocin	1
-levodopa/carbidopa	levodopa/carbidopa	1
+levodopa	levodopa	1
+carbidopa	carbidopa	1
 carboquone	carboquone	1
 carboxyamidotriazole	carboxyamidotriazole	1
 carmofur	carmofur	1
@@ -2427,7 +2428,7 @@ sodium phenylbutyrate	sodiumphenylbutyrate	1
 sodium tetradecyl sulfate	sodiumtetradecylsulfate	1
 somatrem	somatrem	1
 spiraprilat	spiraprilat	1
-carbidopa / levodopa / entacapone	carbidopa/levodopa/entacapone	1
+entacapone	entacapone	1
 stepronin	stepronin	1
 Sudocrem	Sudocrem	1
 sulfacytine	sulfacytine	1
