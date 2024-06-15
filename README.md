@@ -19,6 +19,7 @@ rime中英医学词库
 
 | 文件名                          | 主要内容                                          | 主要基于                                                     |
 | ------------------------------- | ------------------------------------------------- | ------------------------------------------------------------ |
+| en_clinic.dict.yaml             | 英文医学词典，包含各个专业（首推，这一个就够用了  | [英汉汉英医学辞典](https://mdict.org/post/%E8%8B%B1%E6%B1%89%E6%B1%89%E8%8B%B1%E5%8C%BB%E5%AD%A6%E8%BE%9E%E5%85%B8/)<br /> |
 | en_disease.dict.yaml            | 英文疾病名                                        | https://github.com/CodeSante/medical-wordlist                |
 | google.dict.yaml                | Google's 1/3 million most frequent English words. | http://norvig.com/ngrams/count_1w.txt                        |
 | en_anatomy.dict.yaml            | 英文解剖                                          | - https://github.com/CodeSante/medical-wordlist<br />- https://usq.pressbooks.pub/anatomy/back-matter/glossary/ |
