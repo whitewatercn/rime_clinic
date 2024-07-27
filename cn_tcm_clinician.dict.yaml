@@ -3,8 +3,15 @@
  # 更多内容见 https://github.com/whitewatercn/rime_clinic
 ---
 name: cn_tcm_clinician
+version: "2024-07-27"
 sort: by_weight
+version: 1.0
+
 ...
 
 张仲景	zhang zhong jing	1
 胡希恕	hu xi shu	1
+于道济	yu dao ji	1
+王绵之	wang mian zhi	1
+王琦	wang qi	1
+
