@@ -1,0 +1,59 @@
+ # Rime extended dictionary
+ # encoding: utf-8
+ # 更多内容见 https://github.com/whitewatercn/rime_clinic
+---
+name: cn_patent_medicine
+version: "2024-09-08"
+sort: by_weight
+...
+
+
+# 转换自 https://pinyin.sogou.com/dict/detail/index/20666
+
+少腹逐瘀胶囊	shao fu zhu yu jiao nang	1
+少腹逐瘀颗粒	shao fu zhu yu ke li	1
+少腹逐瘀汤	shao fu zhu yu tang	1
+少腹逐瘀丸	shao fu zhu yu wan	1
+少林跌打止痛	shao lin die da zhi tong	1
+少林跌打止痛膏	shao lin die da zhi tong gao	1
+少林风湿跌打	shao lin feng shi die da	1
+少林风湿跌打巴布膏	shao lin feng shi die da ba bu gao	1
+少林风湿跌打膏	shao lin feng shi die da gao	1
+少林祛风止痛散	shao lin qu feng zhi tong san	1
+少腹祛瘀丸	shao fu qu yu wan	1
+少腹逐瘀	shao fu zhu yu	1
+少林正骨	shao lin zheng gu	1
+少林正骨精	shao lin zheng gu jing	1
+芍倍	shao bei	1
+芍倍注射液	shao bei zhu she ye	1
+蛇胆半夏	she dan ban xia	1
+蛇胆半夏片	she dan ban xia pian	1
+蛇胆半夏散	she dan ban xia san	1
+蛇胆贝母	she dan bei mu	1
+蛇胆贝母片	she dan bei mu pian	1
+蛇胆贝母散	she dan bei mu san	1
+蛇胆陈皮	she dan chen pi	1
+蛇胆陈皮化痰	she dan chen pi hua tan	1
+蛇胆陈皮化痰散	she dan chen pi hua tan san	1
+蛇胆陈皮胶囊	she dan chen pi jiao nang	1
+蛇胆陈皮口服液	she dan chen pi kou fu ye	1
+蛇胆陈皮片	she dan chen pi pian	1
+蛇胆陈皮散	she dan chen pi san	1
+蛇胆陈皮液	she dan chen pi ye	1
+蛇胆川贝	she dan chuan bei	1
+蛇胆川贝含片	she dan chuan bei han pian	1
+蛇胆川贝胶囊	she dan chuan bei jiao nang	1
+蛇胆川贝口服液	she dan chuan bei kou fu ye	1
+蛇胆川贝枇杷	she dan chuan bei pi pa	1
+蛇胆川贝枇杷膏	she dan chuan bei pi pa gao	1
+蛇胆川贝软胶囊	she dan chuan bei ruan jiao nang	1
+蛇胆川贝散	she dan chuan bei san	1
+蛇胆川贝糖浆	she dan chuan bei tang jiang	1
+蛇胆川贝液	she dan chuan bei ye	1
+蛇胆川液	she dan chuan ye	1
+蛇胆姜粒	she dan jiang li	1
+蛇胆南星片	she dan nan xing pian	1
+蛇胆南星散	she dan nan xing san	1
+蛇胆汁	she dan zhi	1
+蛇胆追风	she dan zhui feng	1
+蛇胆追风丸	she dan zhui feng wan	1
