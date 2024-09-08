@@ -12,6 +12,7 @@ rime中英医学词库 欢迎补充！
 | cn_clinic.dict.yaml        | 中文医学词汇，如病名 [https://pinyin.sogou.com/dict/detail/index/15125](https://pinyin.sogou.com/dict/detail/index/15125) |                      |          |
 | cn_tcm_clinician.dict.yaml | 中医临床家姓名录，如张仲景，胡希恕                           |                      |          |
 | cn_acupuncture.dict.yaml   | 穴位词库 [https://pinyin.sogou.com/dict/detail/index/75844](https://pinyin.sogou.com/dict/detail/index/75844) |                      |          |
+| cn_tcm_medicine.dict.yaml  | 中药词库                                                     |                      |          |
 | cn_medicine_list.dict.yaml | 中文药品库，如次黄嘌呤鸟嘌呤转磷酸核糖基酶 [https://pinyin.sogou.com/dict/detail/index/20666](https://pinyin.sogou.com/dict/detail/index/20666) |                      |          |
 | cn_anatomy                 | 中文解剖词库 [https://pinyin.sogou.com/dict/detail/index/79098](https://pinyin.sogou.com/dict/detail/index/79098) |                      |          |
 
