@@ -9,13 +9,13 @@ rime中英医学词库 欢迎补充！
 | 文件名                          | 主要内容                                                     | 词条数量（非及时更新 | 推荐等级 |
 | ------------------------------- | ------------------------------------------------------------ | -------------------- | -------- |
 | cn_tcm.dict.yaml                | 中医医学词汇 [https://pinyin.sogou.com/dict/detail/index/2739](https://pinyin.sogou.com/dict/detail/index/2739) |                      |          |
-| cn_clinic.dict.yaml             | 中文医学词汇，如病名 [https://pinyin.sogou.com/dict/detail/index/15125](https://pinyin.sogou.com/dict/detail/index/15125) |                      |          |
 | cn_tcm_clinician.dict.yaml      | 中医临床家姓名录，如张仲景，胡希恕                           |                      |          |
-| cn_acupuncture.dict.yaml        | 穴位词库 [https://pinyin.sogou.com/dict/detail/index/75844](https://pinyin.sogou.com/dict/detail/index/75844) |                      |          |
 | cn_tcm_medicine.dict.yaml       | 中药词库                                                     |                      |          |
-| cn_medicine_list.dict.yaml      | 中文药品库，如次黄嘌呤鸟嘌呤转磷酸核糖基酶 [https://pinyin.sogou.com/dict/detail/index/20666](https://pinyin.sogou.com/dict/detail/index/20666) |                      |          |
-| cn_anatomy                      | 中文解剖词库 [https://pinyin.sogou.com/dict/detail/index/79098](https://pinyin.sogou.com/dict/detail/index/79098) |                      |          |
-| cn_medicine_list.dict_tiny.yaml | 基于`cn_medicine_list.dict.yaml`简化版本，仅保留药名，删除制剂名<br />如`阿奇霉素`保留，`阿奇霉素颗粒、阿奇霉素分散片、阿奇霉素胶囊`等制剂名删除 |                      |          |
+| cn_acupuncture.dict.yaml        | 穴位词库 [来源](https://pinyin.sogou.com/dict/detail/index/75844) |                      |          |
+| cn_clinic.dict.yaml             | 中文医学词汇，如病名 [来源](https://pinyin.sogou.com/dict/detail/index/15125) |                      |          |
+| cn_anatomy                      | 中文解剖词库 [来源](https://pinyin.sogou.com/dict/detail/index/79098) |                      |          |
+| cn_medicine_list.dict.yaml      | 中文中西医药物名，如阿奇霉素<br />[来源](https://pinyin.sogou.com/dict/detail/index/20666) | 49000+               | 4        |
+| cn_medicine_list.dict_tiny.yaml | 中文西医药物名，基于`cn_medicine_list.dict.yaml`简化，仅保留药名，删除制剂名<br />如`阿奇霉素`保留，`阿奇霉素颗粒、阿奇霉素分散片、阿奇霉素胶囊`等制剂名删除 |                      | 5        |
 
 # 英文词库
 
