@@ -1,0 +1,15 @@
+ # Rime extended dictionary
+ # encoding: utf-8
+ # 更多内容见 https://github.com/whitewatercn/rime_clinic
+---
+name: cn_pharmacology
+version: "2024-09-16"
+sort: by_weight
+...
+
+β-内酰胺	bei ta nei xian an	1
+单环内酰胺	dan huan nei xian an	1
+内酰胺	nei xian an	1
+己内酰胺	ji nei xian an	1
+金属内酰胺酶	jin shu nei xian an mei	1
+赖氨酸内酰胺酶	lai an suan nei xian an mei	1
