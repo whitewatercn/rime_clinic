@@ -6,19 +6,22 @@ rime中英医学词库 欢迎补充！
 
 ⚠️注意⚠️挂载词库时请逐个挂载后部署，一次挂载多个大词库后部署可占用大量内存导致电脑卡死
 
-| 文件名                               | 主要内容                                                     | 词条数量（非及时更新 | 推荐等级 |
-| ------------------------------------ | ------------------------------------------------------------ | -------------------- | -------- |
-| cn_tcm.dict.yaml                     | 中医医学词汇<br />比较大，建议挂载其他小词库<br />[来源](https://pinyin.sogou.com/dict/detail/index/2739) |                      |          |
-| cn_tcm_clinician.dict.yaml           | 中医临床家姓名录，如张仲景，胡希恕                           |                      |          |
-| cn_tcm_herb_medicine.dict.yaml       | 中文**中药词库**，基于`cn_medicine_list.dict.yaml`和`cn_tcm.dict.yaml`简化➕个人补充，仅包含中药名，如`桑枝` |                      |          |
-| cn_tcm_patent_medicine.dict.yaml     | 中文**中成药词库**，基于`cn_medicine_list.dict.yaml`和`cn_medicine_list.dict.yaml`简化➕个人补充，仅包含中成药名，如`加味逍遥散` |                      |          |
-| cn_acupuncture.dict.yaml             | 中文穴位词库<br /> [来源](https://pinyin.sogou.com/dict/detail/index/75844) |                      |          |
-| cn_clinic_origin.dict.yaml           | 中文医学词汇，如病名、药物名，比较大，建议挂载其他小词库，如药理学词库（cn_pharmacology）<br />[来源](https://pinyin.sogou.com/dict/detail/index/15125) | 90k+                 |          |
-| cn_anatomy.dict.yaml                 | 中文解剖<br />[来源](https://pinyin.sogou.com/dict/detail/index/79098) |                      |          |
-| cn_medicine_list_origin.dict.yaml    | 中文**中/西医药物名**，包括中药，中成药、西药、西药制剂。<br />如桑枝、三果汤含片、阿奇霉素、山梨醇注射液<br />比较大，建议挂载其他小词库，如中文西医药物名词库（cn_medicine_list.dict_tiny）<br />[来源](https://pinyin.sogou.com/dict/detail/index/20666) | 4.9k+                | 4        |
-| cn_medicine_list.dict_tiny.dict.yaml | 中文**西医药物名**，基于`cn_medicine_list.dict.yaml`简化，仅保留药名，删除制剂名<br />如`阿奇霉素`保留，`阿奇霉素颗粒、阿奇霉素分散片、阿奇霉素胶囊`等制剂名删除 | 4.8k                 | 5        |
-| cn_pharmacology.dict.yaml            | 中文药理学专业词库，基于cn_clinic_origin.dict.yaml简化、补充、修改 |                      |          |
-| cn_clinic_dedulpicate.dict.yaml      | 将cn_clinic_origin.dict.yaml中的内容拆分到其他小词库后剩余的内容 |                      |          |
+| 文件名                                  | 主要内容                                                     | 词条数量（非及时更新 | 推荐等级 |
+| --------------------------------------- | ------------------------------------------------------------ | -------------------- | -------- |
+| cn_tcm.dict.yaml                        | 中医医学词汇<br />比较大，建议挂载其他小词库<br />[来源](https://pinyin.sogou.com/dict/detail/index/2739) |                      |          |
+| cn_tcm_clinician.dict.yaml              | 中医临床家姓名录，如张仲景，胡希恕                           |                      |          |
+| cn_tcm_herb_medicine.dict.yaml          | 中文**中药词库**，基于`cn_medicine_list.dict.yaml`和`cn_tcm.dict.yaml`简化➕个人补充，仅包含中药名，如`桑枝` |                      |          |
+| cn_tcm_patent_medicine.dict.yaml        | 中文**中成药词库**，基于`cn_medicine_list.dict.yaml`和`cn_medicine_list.dict.yaml`简化➕个人补充，仅包含中成药名，如`加味逍遥散` |                      |          |
+| cn_acupuncture.dict.yaml                | 中文穴位词库<br /> [来源](https://pinyin.sogou.com/dict/detail/index/75844) |                      |          |
+| cn_clinic_origin.dict.yaml              | 中文医学词汇，如病名、药物名，比较大，建议挂载其他小词库，如药理学词库（cn_pharmacology）<br />[来源](https://pinyin.sogou.com/dict/detail/index/15125) | 90k+                 |          |
+| cn_clinic_dedulpicate.dict.yaml         | 将cn_clinic_origin.dict.yaml中的内容拆分到其他小词库后剩余的内容 |                      |          |
+| cn_anatomy.dict.yaml                    | 中文解剖<br />[来源](https://pinyin.sogou.com/dict/detail/index/79098) |                      |          |
+| cn_medicine_list_origin.dict.yaml       | 中文**中/西医药物名**，包括中药，中成药、西药、西药制剂。<br />如桑枝、三果汤含片、阿奇霉素、山梨醇注射液<br />比较大，建议挂载其他小词库，如中文西医药物名词库（cn_medicine_list.dict_tiny）<br />[来源](https://pinyin.sogou.com/dict/detail/index/20666) | 4.9k+                | 4        |
+| cn_medicine_list_dedulplicate.dict.yaml | 将cn_medicine_list_origin.dict.yaml中的内容拆分到其他小词库后剩余的内容 |                      |          |
+| cn_medicine_list.dict_tiny.dict.yaml    | 中文**西医药物名**，基于`cn_medicine_list.dict.yaml`简化，仅保留药名，删除制剂名<br />如`阿奇霉素`保留，`阿奇霉素颗粒、阿奇霉素分散片、阿奇霉素胶囊`等制剂名删除 | 4.8k                 | 5        |
+| cn_pharmacology.dict.yaml               | 中文药理学专业词库，基于cn_clinic_origin.dict.yaml简化、补充、修改 |                      |          |
+|                                         |                                                              |                      |          |
+|                                         |                                                              |                      |          |
 
 # 英文词库
 

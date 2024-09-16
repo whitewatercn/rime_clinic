@@ -2,8 +2,8 @@
  # encoding: utf-8
  # 更多内容见 https://github.com/whitewatercn/rime_clinic
 ---
-name: cn_medicine_list_tiny
-version: "2024-09-08"
+name: cn_medicine_list_origin
+version: "2024-02-22"
 sort: by_weight
 ...
 
@@ -12,10 +12,20 @@ sort: by_weight
 
 阿巴卡韦	a ba ka wei	1
 阿巴卡韦双夫定	a ba ka wei shuang fu ding	1
+阿巴卡韦双夫定片	a ba ka wei shuang fu ding pian	1
 阿贝奇诺	a bei qi nuo	1
 阿贝他	a bei ta	1
 阿苯	a ben	1
 阿苯达唑	a ben da zuo	1
+阿苯达唑干糖浆	a ben da zuo gan tang jiang	1
+阿苯达唑胶囊	a ben da zuo jiao nang	1
+阿苯达唑咀嚼片	a ben da zuo ju jue pian	1
+阿苯达唑颗粒	a ben da zuo ke li	1
+阿苯达唑口服乳剂	a ben da zuo kou fu ru ji	1
+阿苯达唑片	a ben da zuo pian	1
+阿苯达唑糖丸	a ben da zuo tang wan	1
+阿苯片	a ben pian	1
+阿苯糖丸	a ben tang wan	1
 阿比多尔	a bi duo er	1
 阿比多尔片	a bi duo er pian	1
 阿丙条	a bing tiao	1
@@ -23,7 +33,9 @@ sort: by_weight
 阿达帕林	a da pa lin	1
 阿达帕林凝胶	a da pa lin ning jiao	1
 阿德福韦酯	a de fu wei zhi	1
-
+阿德福韦酯胶囊	a de fu wei zhi jiao nang	1
+阿德福韦酯片	a de fu wei zhi pian	1
+阿德福韦酯片代丁	a de fu wei zhi pian dai ding	1
 阿地芬宁	a di fen ning	1
 阿地砜钠	a di feng na	1
 阿地肝素	a di gan su	1
@@ -43,6 +55,10 @@ sort: by_weight
 阿法多龙	a fa duo long	1
 阿法根	a fa gen	1
 阿法骨化醇	a fa gu hua chun	1
+阿法骨化醇胶囊	a fa gu hua chun jiao nang	1
+阿法骨化醇胶丸	a fa gu hua chun jiao wan	1
+阿法骨化醇片	a fa gu hua chun pian	1
+阿法骨化醇软胶囊	a fa gu hua chun ruan jiao nang	1
 阿法甲基芬太尼	a fa jia ji fen tai ni	1
 阿法甲基硫代芬太尼	a fa jia ji liu dai fen tai ni	1
 阿法罗定	a fa luo ding	1
@@ -54,6 +70,7 @@ sort: by_weight
 阿伐斯汀	a fa si ting	1
 阿酚咖	a fen ka	1
 阿酚咖敏	a fen ka min	1
+阿酚咖敏片	a fen ka min pian	1
 阿酚咖片	a fen ka pian	1
 阿芬太尼	a fen tai ni	1
 阿佛菌素来自除虫链霉素	a fo jun su lai zi chu chong lian mei su	1
@@ -63,6 +80,9 @@ sort: by_weight
 阿呋唑嗪片	a fu zuo qin pian	1
 阿根廷碱	a gen ting jian	1
 阿归养血	a gui yang xue	1
+阿归养血颗粒	a gui yang xue ke li	1
+阿归养血口服液	a gui yang xue kou fu ye	1
+阿归养血糖浆	a gui yang xue tang jiang	1
 阿黑皮原	a hei pi yuan	1
 阿加曲班	a jia qu ban	1
 阿加曲班注射液	a jia qu ban zhu she ye	1
@@ -70,7 +90,11 @@ sort: by_weight
 阿桔片	a ju pian	1
 阿咖	a ka	1
 阿卡波糖	a ka bo tang	1
+阿卡波糖胶囊	a ka bo tang jiao nang	1
+阿卡波糖片	a ka bo tang pian	1
 阿咖酚	a ka fen	1
+阿咖酚胶囊	a ka fen jiao nang	1
+阿咖酚散	a ka fen san	1
 阿咖敏	a ka min	1
 阿咖片	a ka pian	1
 阿可达	a ke da	1
@@ -149,6 +173,12 @@ sort: by_weight
 阿莫西林胶囊	a mo xi lin jiao nang	1
 阿莫西林咀嚼片	a mo xi lin ju jue pian	1
 阿莫西林克拉维酸钾	a mo xi lin ke la wei suan jia	1
+阿莫西林克拉维酸钾分散片	a mo xi lin ke la wei suan jia fen san pian	1
+阿莫西林克拉维酸钾干混悬剂	a mo xi lin ke la wei suan jia gan hun xuan ji	1
+阿莫西林克拉维酸钾咀嚼片	a mo xi lin ke la wei suan jia ju jue pian	1
+阿莫西林克拉维酸钾颗粒	a mo xi lin ke la wei suan jia ke li	1
+阿莫西林克拉维酸钾片	a mo xi lin ke la wei suan jia pian	1
+阿莫西林克拉维酸片	a mo xi lin ke la wei suan pian	1
 阿莫西林颗粒	a mo xi lin ke li	1
 阿莫西林钠	a mo xi lin na	1
 阿莫西林钠氟氯西林	a mo xi lin na fu lv xi lin	1
@@ -166,10 +196,19 @@ sort: by_weight
 阿娜尔妇洁液	a na er fu jie ye	1
 阿那曲唑	a na qu zuo	1
 阿那曲唑片	a na qu zuo pian	1
+阿那日八味散	a na ri ba wei san	1
+阿那日十四味	a na ri shi si wei	1
+阿那日十四味散	a na ri shi si wei san	1
+阿那日五味	a na ri wu wei	1
+阿那日五味散	a na ri wu wei san	1
 阿南圣	a nan sheng	1
 阿尼利定	a ni li ding	1
 阿尼齐科夫细胞	a ni qi ke fu xi bao	1
 阿尼西坦	a ni xi tan	1
+阿尼西坦分散片	a ni xi tan fen san pian	1
+阿尼西坦胶囊	a ni xi tan jiao nang	1
+阿尼西坦颗粒	a ni xi tan ke li	1
+阿尼西坦片	a ni xi tan pian	1
 阿脲酸	a niao suan	1
 阿诺新	a nuo xin	1
 阿帕西林	a pa xi lin	1
@@ -177,6 +216,7 @@ sort: by_weight
 阿片	a pian	1
 阿片酊	a pian ding	1
 阿片粉	a pian fen	1
+阿片片	a pian pian	1
 阿片全碱	a pian quan jian	1
 阿扑长春胺酸乙酯片	a pu chang chun an suan yi zhi pian	1
 阿普林定	a pu lin ding	1
@@ -186,11 +226,28 @@ sort: by_weight
 阿扑双欣	a pu shuang xin	1
 阿扑西林	a pu xi lin	1
 阿普唑仑	a pu zuo lun	1
+阿普唑仑胶囊	a pu zuo lun jiao nang	1
+阿普唑仑片	a pu zuo lun pian	1
 阿奇霉素	a qi mei su	1
+阿奇霉素肠溶片	a qi mei su chang rong pian	1
+阿奇霉素分散片	a qi mei su fen san pian	1
+阿奇霉素干混悬剂	a qi mei su gan hun xuan ji	1
+阿奇霉素混悬剂	a qi mei su hun xuan ji	1
+阿奇霉素胶囊	a qi mei su jiao nang	1
 阿奇霉素枸橼酸二氢钠	a qi mei su ju yuan suan er qing na	1
+阿奇霉素颗粒	a qi mei su ke li	1
+阿奇霉素颗粒剂	a qi mei su ke li ji	1
 阿奇霉素磷酸二氢钠	a qi mei su lin suan er qing na	1
 阿奇霉素氯化钠	a qi mei su lv hua na	1
+阿奇霉素氯化钠注射液	a qi mei su lv hua na zhu she ye	1
+阿奇霉素片	a qi mei su pian	1
 阿奇霉素葡萄糖	a qi mei su pu tao tang	1
+阿奇霉素葡萄糖注射液	a qi mei su pu tao tang zhu she ye	1
+阿奇霉素软胶囊	a qi mei su ruan jiao nang	1
+阿奇霉素散剂	a qi mei su san ji	1
+阿奇霉素糖浆	a qi mei su tang jiang	1
+阿奇霉素细粒剂	a qi mei su xi li ji	1
+阿奇霉素注射液	a qi mei su zhu she ye	1
 阿奇速美	a qi su mei	1
 阿奇欣	a qi xin	1
 阿嗪米特	a qin mi te	1
@@ -213,13 +270,31 @@ sort: by_weight
 阿斯美	a si mei	1
 阿司米星	a si mi xing	1
 阿司咪唑	a si mi zuo	1
+阿司咪唑片	a si mi zuo pian	1
 阿司帕坦	a si pa tan	1
 阿司匹林	a si pi lin	1
+阿司匹林肠溶缓释片	a si pi lin chang rong huan shi pian	1
+阿司匹林肠溶胶囊	a si pi lin chang rong jiao nang	1
+阿司匹林肠溶片	a si pi lin chang rong pian	1
+阿司匹林肠溶微粒胶囊	a si pi lin chang rong wei li jiao nang	1
+阿司匹林分散片	a si pi lin fen san pian	1
+阿斯匹林分散片	a si pi lin fen san pian	1
 阿司匹林钙脲	a si pi lin gai niao	1
+阿司匹林钙脲散	a si pi lin gai niao san	1
+阿司匹林缓释胶囊	a si pi lin huan shi jiao nang	1
+阿司匹林缓释片	a si pi lin huan shi pian	1
 阿司匹林咀嚼片	a si pi lin ju jue pian	1
 阿司匹林可待因	a si pi lin ke dai yin	1
+阿司匹林可待因片	a si pi lin ke dai yin pian	1
 阿司匹林铝	a si pi lin lv	1
+阿司匹林泡腾片	a si pi lin pao teng pian	1
+阿司匹林片	a si pi lin pian	1
+阿司匹林散	a si pi lin san	1
+阿司匹林栓	a si pi lin shuan	1
 阿司匹林双嘧达莫	a si pi lin shuang mi da mo	1
+阿司匹林双嘧达莫缓释胶囊	a si pi lin shuang mi da mo huan shi jiao nang	1
+阿司匹林双嘧达莫缓释片	a si pi lin shuang mi da mo huan shi pian	1
+阿司匹林双嘧达莫片	a si pi lin shuang mi da mo pian	1
 阿司匹林维生素	a si pi lin wei sheng su	1
 阿司匹林锌	a si pi lin xin	1
 阿司匹林锌胶囊	a si pi lin xin jiao nang	1
@@ -237,21 +312,53 @@ sort: by_weight
 阿替普酶	a ti pu mei	1
 阿托伐他汀	a tuo fa ta ting	1
 阿托伐他汀钙	a tuo fa ta ting gai	1
+阿托伐他汀钙胶囊	a tuo fa ta ting gai jiao nang	1
+阿托伐他汀钙片	a tuo fa ta ting gai pian	1
 阿拓莫兰	a tuo mo lan	1
 阿托品	a tuo pin	1
 阿托品滴眼液	a tuo pin di yan ye	1
 阿托品片	a tuo pin pian	1
 阿托品眼膏	a tuo pin yan gao	1
 阿托品异丙嗪	a tuo pin yi bing qin	1
+阿托品异丙嗪注射液	a tuo pin yi bing qin zhu she ye	1
 阿托品注射液	a tuo pin zhu she ye	1
+阿魏	a wei	1
+阿维	a wei	1
+阿魏八味	a wei ba wei	1
+阿魏八味丸	a wei ba wei wan	1
+阿魏化痞	a wei hua pi	1
+阿魏化痞膏	a wei hua pi gao	1
+阿维胶囊	a wei jiao nang	1
+阿魏麝香化积膏	a wei she xiang hua ji gao	1
 阿魏酸	a wei suan	1
 阿魏酸钠	a wei suan na	1
+阿魏酸钠氯化钠	a wei suan na lv hua na	1
+阿魏酸钠氯化钠注射液	a wei suan na lv hua na zhu she ye	1
+阿魏酸钠片	a wei suan na pian	1
 阿魏酸钠葡萄糖	a wei suan na pu tao tang	1
 阿魏酸钠葡萄糖注射液	a wei suan na pu tao tang zhu she ye	1
+阿魏酸钠散	a wei suan na san	1
+阿魏酸钠注射液	a wei suan na zhu she ye	1
 阿魏酸哌嗪	a wei suan pai qin	1
+阿魏酸哌嗪分散片	a wei suan pai qin fen san pian	1
+阿魏酸哌嗪片	a wei suan pai qin pian	1
 阿昔洛韦	a xi luo wei	1
+阿昔洛韦滴眼液	a xi luo wei di yan ye	1
+阿昔洛韦分散片	a xi luo wei fen san pian	1
+阿昔洛韦缓释片	a xi luo wei huan shi pian	1
+阿昔洛韦胶囊	a xi luo wei jiao nang	1
+阿昔洛韦咀嚼片	a xi luo wei ju jue pian	1
+阿昔洛韦颗粒	a xi luo wei ke li	1
 阿昔洛韦氯化钠	a xi luo wei lv hua na	1
+阿昔洛韦氯化钠注射液	a xi luo wei lv hua na zhu she ye	1
+阿昔洛韦凝胶	a xi luo wei ning jiao	1
+阿昔洛韦片	a xi luo wei pian	1
 阿昔洛韦葡萄糖	a xi luo wei pu tao tang	1
+阿昔洛韦葡萄糖注射液	a xi luo wei pu tao tang zhu she ye	1
+阿昔洛韦乳膏	a xi luo wei ru gao	1
+阿昔洛韦软膏	a xi luo wei ruan gao	1
+阿昔洛韦眼膏	a xi luo wei yan gao	1
+阿昔洛韦注射液	a xi luo wei zhu she ye	1
 阿西美辛	a xi mei xin	1
 阿西美辛缓释胶囊	a xi mei xin huan shi jiao nang	1
 阿西美辛胶囊	a xi mei xin jiao nang	1
@@ -305,13 +412,18 @@ sort: by_weight
 爱菲乐	ai fei le	1
 爱芬	ai fen	1
 艾丰	ai feng	1
+嗳腐	ai fu	1
+癌复康片	ai fu kang pian	1
 艾氟龙	ai fu long	1
 艾复咛	ai fu ning	1
+艾附暖宫	ai fu nuan gong	1
+艾附暖宫丸	ai fu nuan gong wan	1
 艾格	ai ge	1
 艾蒿	ai hao	1
 艾和富	ai he fu	1
 艾恒	ai heng	1
 爱活尿通	ai huo niao tong	1
+癌基因	ai ji yin	1
 艾佳欣	ai jia xin	1
 爱捷康	ai jie kang	1
 艾可安	ai ke an	1
@@ -448,11 +560,18 @@ sort: by_weight
 氨苄青霉素钠栓	an bian qing mei su na shuan	1
 氨苄西林	an bian xi lin	1
 氨苄西林丙磺舒	an bian xi lin bing huang shu	1
+氨苄西林丙磺舒分散片	an bian xi lin bing huang shu fen san pian	1
+氨苄西林丙磺舒胶囊	an bian xi lin bing huang shu jiao nang	1
 氨苄西林干混悬剂	an bian xi lin gan hun xuan ji	1
+氨苄西林胶囊	an bian xi lin jiao nang	1
+氨苄西林颗粒	an bian xi lin ke li	1
 氨苄西林氯唑西林	an bian xi lin lv zuo xi lin	1
 氨苄西林钠	an bian xi lin na	1
 氨苄西林钠氯唑西林钠	an bian xi lin na lv zuo xi lin na	1
 氨苄西林钠舒巴坦	an bian xi lin na shu ba tan	1
+氨苄西林钠舒巴坦钠	an bian xi lin na shu ba tan na	1
+氨苄西林片	an bian xi lin pian	1
+氨苄西林栓	an bian xi lin shuan	1
 氨丙醇	an bing chun	1
 氨丙嗪	an bing qin	1
 氨薄荷醑	an bo he xu	1
@@ -464,7 +583,11 @@ sort: by_weight
 安瓿瓶阿霉素	an bu ping a mei su	1
 氨茶碱	an cha jian	1
 氨茶碱暴马子胶囊	an cha jian bao ma zi jiao nang	1
+氨茶碱缓释片	an cha jian huan shi pian	1
 氨茶碱氯化钠注射液	an cha jian lv hua na zhu she ye	1
+氨茶碱片	an cha jian pian	1
+氨茶碱栓	an cha jian shuan	1
+氨茶碱注射液	an cha jian zhu she ye	1
 安畅	an chang	1
 安持凝	an chi ning	1
 安喘片	an chuan pian	1
@@ -596,6 +719,7 @@ sort: by_weight
 安禾	an he	1
 安贺拉	an he la	1
 氨化物	an hua wu	1
+胺化作用	an hua zuo yong	1
 氨磺必利	an huang bi li	1
 氨磺丁脲	an huang ding niao	1
 氨茴霉素	an hui mei su	1
@@ -611,6 +735,8 @@ sort: by_weight
 氨基苯甲酸钾	an ji ben jia suan jia	1
 氨基比林	an ji bi lin	1
 氨基比林咖啡因	an ji bi lin ka fei yin	1
+氨基比林咖啡因片	an ji bi lin ka fei yin pian	1
+氨基比林咖啡因散	an ji bi lin ka fei yin san	1
 氨基丙二酰脲	an ji bing er xian niao	1
 氨基丙酸	an ji bing suan	1
 氨基丙烯酸	an ji bing xi suan	1
@@ -738,6 +864,13 @@ sort: by_weight
 氨咖敏片	an ka min pian	1
 氨咖愈敏	an ka yu min	1
 氨咖愈敏溶液	an ka yu min rong ye	1
+安凯舒	an kai shu	1
+安凯舒颗粒	an kai shu ke li	1
+安康	an kang	1
+安康颗粒	an kang ke li	1
+安康欣	an kang xin	1
+安康心宝丸	an kang xin bao wan	1
+安康欣胶囊	an kang xin jiao nang	1
 安咳	an ke	1
 安可来	an ke lai	1
 安可清	an ke qing	1
@@ -1065,7 +1198,10 @@ sort: by_weight
 奥克斯都保	ao ke si dou bao	1
 奥克太尔	ao ke tai er	1
 奥拉米特	ao la mi te	1
+奥拉米特片	ao la mi te pian	1
 奥拉西坦	ao la xi tan	1
+奥拉西坦胶囊	ao la xi tan jiao nang	1
+奥拉西坦注射液	ao la xi tan zhu she ye	1
 澳拉欣	ao la xin	1
 澳朗	ao lang	1
 奥乐欣	ao le xin	1
@@ -1173,17 +1309,31 @@ sort: by_weight
 奥昔拉定	ao xi la ding	1
 奥西那林	ao xi na lin	1
 奥西他米韦	ao xi ta mi wei	1
-奥马珠单抗	ao ma zhu dan kang	1
+凹下的	ao xia de	1
+凹陷瘢痕	ao xian ban hen	1
 奥先达	ao xian da	1
 奥硝唑	ao xiao zuo	1
+奥硝唑薄膜衣片	ao xiao zuo bo mo yi pian	1
+奥硝唑分散片	ao xiao zuo fen san pian	1
+奥硝唑胶囊	ao xiao zuo jiao nang	1
 奥硝唑氯化钠	ao xiao zuo lv hua na	1
+奥硝唑氯化钠注射液	ao xiao zuo lv hua na zhu she ye	1
+奥硝唑片	ao xiao zuo pian	1
 奥硝唑葡萄糖	ao xiao zuo pu tao tang	1
-
+奥硝唑栓	ao xiao zuo shuan	1
+奥硝唑阴道泡腾片	ao xiao zuo yin dao pao teng pian	1
+奥硝唑阴道栓	ao xiao zuo yin dao shuan	1
+奥硝唑注射液	ao xiao zuo zhu she ye	1
 奥辛康	ao xin kang	1
 奥一麦	ao yi mai	1
 奥义欣	ao yi xin	1
 奥扎格雷	ao zha ge lei	1
 奥扎格雷钠	ao zha ge lei na	1
+奥扎格雷钠氯化钠	ao zha ge lei na lv hua na	1
+奥扎格雷钠氯化钠注射液	ao zha ge lei na lv hua na zhu she ye	1
+奥扎格雷钠葡萄糖	ao zha ge lei na pu tao tang	1
+奥扎格雷钠葡萄糖注射液	ao zha ge lei na pu tao tang zhu she ye	1
+奥扎格雷钠注射液	ao zha ge lei na zhu she ye	1
 奥正南	ao zheng nan	1
 螯肢	ao zhi	1
 澳洲茄边碱	ao zhou qie bian jian	1
@@ -9199,7 +9349,21 @@ sort: by_weight
 奋乃静注射液	fen nai jing zhu she ye	1
 芬尼达	fen ni da	1
 芬普雷司	fen pu lei si	1
+分期切除	fen qi qie chu	1
+分期修复	fen qi xiu fu	1
+分清别浊	fen qing bie zhuo	1
+分清五淋	fen qing wu lin	1
+分清五淋丸	fen qing wu lin wan	1
+分清止淋	fen qing zhi lin	1
 粉蕊黄杨醇碱	fen rui huang yang chun jian	1
+分散法	fen san fa	1
+分散剂	fen san ji	1
+分散体	fen san ti	1
+分散相	fen san xiang	1
+分散相内相	fen san xiang nei xiang	1
+分散相质点	fen san xiang zhi dian	1
+分生孢子梗	fen sheng bao zi geng	1
+分生组织	fen sheng zu zhi	1
 芬式唐松草碱	fen shi tang song cao jian	1
 芬司丁	fen si ding	1
 芬司匹利	fen si pi li	1
@@ -11769,6 +11933,8 @@ sort: by_weight
 附马开痹片	fu ma kai bi pian	1
 富马酸	fu ma suan	1
 富马酸阿奇霉素	fu ma suan a qi mei su	1
+富马酸阿奇霉素胶囊	fu ma suan a qi mei su jiao nang	1
+富马酸阿奇霉素片	fu ma suan a qi mei su pian	1
 富马酸氨丙嗪	fu ma suan an bing qin	1
 富马酸比索洛尔	fu ma suan bi suo luo er	1
 富马酸比索洛尔胶囊	fu ma suan bi suo luo er jiao nang	1
@@ -30996,6 +31162,7 @@ sort: by_weight
 乳糖酶片	ru tang mei pian	1
 乳糖尿	ru tang niao	1
 乳糖酸阿奇霉素	ru tang suan a qi mei su	1
+乳糖酸阿奇霉素注射液	ru tang suan a qi mei su zhu she ye	1
 乳糖酸红霉素	ru tang suan hong mei su	1
 乳糖酸克拉霉素	ru tang suan ke la mei su	1
 乳糖酸克拉霉素胶囊	ru tang suan ke la mei su jiao nang	1
@@ -31776,6 +31943,13 @@ sort: by_weight
 三味蔷薇散	san wei qiang wei san	1
 三味清热止痒	san wei qing re zhi yang	1
 三味清热止痒洗剂	san wei qing re zhi yang xi ji	1
+三味檀香	san wei tan xiang	1
+三味檀香胶囊	san wei tan xiang jiao nang	1
+三味檀香颗粒	san wei tan xiang ke li	1
+三味檀香口服液	san wei tan xiang kou fu ye	1
+三味檀香汤散	san wei tan xiang tang san	1
+三味泻痢	san wei xie li	1
+三味泻痢颗粒	san wei xie li ke li	1
 三维亚铁	san wei ya tie	1
 三维亚铁咀嚼片	san wei ya tie ju jue pian	1
 三维亚铁口服液	san wei ya tie kou fu ye	1
@@ -32350,7 +32524,22 @@ sort: by_weight
 上游阻遏序列	shang you zu e xu lie	1
 伤员检别分类	shang yuan jian bie fen lei	1
 上肢长	shang zhi chang	1
-
+芍倍	shao bei	1
+芍倍注射液	shao bei zhu she ye	1
+少腹祛瘀丸	shao fu qu yu wan	1
+少腹逐瘀	shao fu zhu yu	1
+少腹逐瘀胶囊	shao fu zhu yu jiao nang	1
+少腹逐瘀颗粒	shao fu zhu yu ke li	1
+少腹逐瘀汤	shao fu zhu yu tang	1
+少腹逐瘀丸	shao fu zhu yu wan	1
+少林跌打止痛	shao lin die da zhi tong	1
+少林跌打止痛膏	shao lin die da zhi tong gao	1
+少林风湿跌打	shao lin feng shi die da	1
+少林风湿跌打巴布膏	shao lin feng shi die da ba bu gao	1
+少林风湿跌打膏	shao lin feng shi die da gao	1
+少林祛风止痛散	shao lin qu feng zhi tong san	1
+少林正骨	shao lin zheng gu	1
+少林正骨精	shao lin zheng gu jing	1
 少尿型肾	shao niao xing shen	1
 烧伤瘢痕恶性变	shao shang ban hen e xing bian	1
 烧伤病人后送	shao shang bing ren hou song	1
@@ -32393,6 +32582,37 @@ sort: by_weight
 舌侧翼缘	she ce yi yuan	1
 舌侧支托	she ce zhi tuo	1
 舌刺	she ci	1
+蛇胆半夏	she dan ban xia	1
+蛇胆半夏片	she dan ban xia pian	1
+蛇胆半夏散	she dan ban xia san	1
+蛇胆贝母	she dan bei mu	1
+蛇胆贝母片	she dan bei mu pian	1
+蛇胆贝母散	she dan bei mu san	1
+蛇胆陈皮	she dan chen pi	1
+蛇胆陈皮化痰	she dan chen pi hua tan	1
+蛇胆陈皮化痰散	she dan chen pi hua tan san	1
+蛇胆陈皮胶囊	she dan chen pi jiao nang	1
+蛇胆陈皮口服液	she dan chen pi kou fu ye	1
+蛇胆陈皮片	she dan chen pi pian	1
+蛇胆陈皮散	she dan chen pi san	1
+蛇胆陈皮液	she dan chen pi ye	1
+蛇胆川贝	she dan chuan bei	1
+蛇胆川贝含片	she dan chuan bei han pian	1
+蛇胆川贝胶囊	she dan chuan bei jiao nang	1
+蛇胆川贝口服液	she dan chuan bei kou fu ye	1
+蛇胆川贝枇杷	she dan chuan bei pi pa	1
+蛇胆川贝枇杷膏	she dan chuan bei pi pa gao	1
+蛇胆川贝软胶囊	she dan chuan bei ruan jiao nang	1
+蛇胆川贝散	she dan chuan bei san	1
+蛇胆川贝糖浆	she dan chuan bei tang jiang	1
+蛇胆川贝液	she dan chuan bei ye	1
+蛇胆川液	she dan chuan ye	1
+蛇胆姜粒	she dan jiang li	1
+蛇胆南星片	she dan nan xing pian	1
+蛇胆南星散	she dan nan xing san	1
+蛇胆汁	she dan zhi	1
+蛇胆追风	she dan zhui feng	1
+蛇胆追风丸	she dan zhui feng wan	1
 麝丁液	she ding ye	1
 蛇毒抗栓酶	she du kang shuan mei	1
 蛇毒素	she du su	1
@@ -40311,10 +40531,124 @@ sort: by_weight
 小儿太极	xiao er tai ji	1
 小儿太极丸	xiao er tai ji wan	1
 消尔痛酊	xiao er tong ding	1
+小儿吐泻宁	xiao er tu xie ning	1
+小儿吐泻宁散	xiao er tu xie ning san	1
+小儿退热	xiao er tui re	1
+小儿退热颗粒	xiao er tui re ke li	1
+小儿退热口服液	xiao er tui re kou fu ye	1
+小儿退热宁	xiao er tui re ning	1
+小儿退热片	xiao er tui re pian	1
+小儿外科	xiao er wai ke	1
+小儿胃宝	xiao er wei bao	1
+小儿胃宝片	xiao er wei bao pian	1
+小儿胃宝丸	xiao er wei bao wan	1
+小儿伪麻美芬	xiao er wei ma mei fen	1
+小儿维生素	xiao er wei sheng su	1
+小儿维生素咀嚼片	xiao er wei sheng su ju jue pian	1
+小儿五维赖氨酸	xiao er wu wei lai an suan	1
+小儿五维赖氨酸糖浆	xiao er wu wei lai an suan tang jiang	1
+小儿喜食	xiao er xi shi	1
+小儿喜食颗粒	xiao er xi shi ke li	1
+小儿喜食片	xiao er xi shi pian	1
+小儿喜食糖浆	xiao er xi shi tang jiang	1
+小儿香橘	xiao er xiang ju	1
+小儿香橘丸	xiao er xiang ju wan	1
+小儿小肠移植	xiao er xiao chang yi zhi	1
+小儿消化	xiao er xiao hua	1
+小儿消化止泻	xiao er xiao hua zhi xie	1
+小儿消积化虫	xiao er xiao ji hua chong	1
+小儿消积化虫散	xiao er xiao ji hua chong san	1
+小儿消积驱虫	xiao er xiao ji qu chong	1
+小儿消积驱虫散	xiao er xiao ji qu chong san	1
+小儿消积丸	xiao er xiao ji wan	1
+小儿消积止咳	xiao er xiao ji zhi ke	1
+小儿消积止咳口服液	xiao er xiao ji zhi ke kou fu ye	1
+小儿消咳	xiao er xiao ke	1
+小儿消咳片	xiao er xiao ke pian	1
+小儿消食	xiao er xiao shi	1
+小儿消食健胃丸	xiao er xiao shi jian wei wan	1
+小儿消食咀嚼片	xiao er xiao shi ju jue pian	1
+小儿消食开胃	xiao er xiao shi kai wei	1
+小儿消食开胃颗粒	xiao er xiao shi kai wei ke li	1
+小儿消食颗粒	xiao er xiao shi ke li	1
+小儿消食片	xiao er xiao shi pian	1
+小儿消炎栓	xiao er xiao yan shuan	1
+小儿泻痢片	xiao er xie li pian	1
+小儿泻痢停	xiao er xie li ting	1
+小儿泻速停	xiao er xie su ting	1
+小儿泻速停颗粒	xiao er xie su ting ke li	1
+小儿泄泻停	xiao er xie xie ting	1
+小儿泄泻停颗粒	xiao er xie xie ting ke li	1
+小儿泻止散	xiao er xie zhi san	1
+小儿宣肺止咳	xiao er xuan fei zhi ke	1
+小儿宣肺止咳颗粒	xiao er xuan fei zhi ke ke li	1
+小儿宣肺止嗽颗粒	xiao er xuan fei zhi sou ke li	1
+小儿咽扁	xiao er yan bian	1
+小儿咽扁颗粒	xiao er yan bian ke li	1
+小儿厌食	xiao er yan shi	1
+小儿厌食口服液	xiao er yan shi kou fu ye	1
+小儿盐酸赖氨酸颗粒	xiao er yan suan lai an suan ke li	1
+小儿盐酸小檗碱丸	xiao er yan suan xiao bo jian wan	1
+小儿盐酸异丙嗪	xiao er yan suan yi bing qin	1
+小儿盐酸异丙嗪片	xiao er yan suan yi bing qin pian	1
+小儿夜啼	xiao er ye ti	1
+小儿夜啼颗粒	xiao er ye ti ke li	1
+小儿宜肺止咳颗粒	xiao er yi fei zhi ke ke li	1
+小儿用阿齐霉素干混悬剂	xiao er yong a qi mei su gan hun xuan ji	1
+小儿用氨基酸	xiao er yong an ji suan	1
+小儿用氨基酸注射液	xiao er yong an ji suan zhu she ye	1
+小儿愈美那敏	xiao er yu mei na min	1
+小儿增食	xiao er zeng shi	1
+小儿增食颗粒	xiao er zeng shi ke li	1
+小儿增食片	xiao er zeng shi pian	1
+小儿增食丸	xiao er zeng shi wan	1
+小儿珍贝	xiao er zhen bei	1
+小儿珍贝散	xiao er zhen bei san	1
+小儿镇惊	xiao er zhen jing	1
+小儿镇惊散	xiao er zhen jing san	1
+小儿镇惊丸	xiao er zhen jing wan	1
+小儿镇咳	xiao er zhen ke	1
+小儿珍珠镇惊	xiao er zhen zhu zhen jing	1
+小儿珍珠镇惊丸	xiao er zhen zhu zhen jing wan	1
+小儿至宝	xiao er zhi bao	1
+小儿至宝丸	xiao er zhi bao wan	1
+小儿止咳	xiao er zhi ke	1
+小儿止咳化痰口服液	xiao er zhi ke hua tan kou fu ye	1
+小儿止咳糖浆	xiao er zhi ke tang jiang	1
+小儿智力	xiao er zhi li	1
+小儿智力糖浆	xiao er zhi li tang jiang	1
+小儿止嗽	xiao er zhi sou	1
+小儿止嗽金丹	xiao er zhi sou jin dan	1
+小儿止嗽金丸	xiao er zhi sou jin wan	1
+小儿止嗽糖浆	xiao er zhi sou tang jiang	1
+小儿止嗽丸	xiao er zhi sou wan	1
+小儿治哮灵	xiao er zhi xiao ling	1
+小儿治哮灵片	xiao er zhi xiao ling pian	1
+小儿止泻	xiao er zhi xie	1
+小儿止泻安	xiao er zhi xie an	1
+小儿止泻安颗粒	xiao er zhi xie an ke li	1
+小儿止泻膏	xiao er zhi xie gao	1
+小儿止泻灵	xiao er zhi xie ling	1
+小儿止泻灵胶囊	xiao er zhi xie ling jiao nang	1
+小儿止泻灵颗粒	xiao er zhi xie ling ke li	1
+小儿止泻片	xiao er zhi xie pian	1
+小儿止泻贴	xiao er zhi xie tie	1
+小儿珠黄	xiao er zhu huang	1
+小儿珠黄散	xiao er zhu huang san	1
+小儿紫草丸	xiao er zi cao wan	1
 小飞扬	xiao fei yang	1
 小飞扬草	xiao fei yang cao	1
 小分子羧甲基淀粉钠	xiao fen zi suo jia ji dian fen na	1
 小分子右旋糖酐	xiao fen zi you xuan tang gan	1
+小分子右旋糖酐氯化钠注射液	xiao fen zi you xuan tang gan lv hua na zhu she ye	1
+小分子右旋糖酐葡萄糖注射液	xiao fen zi you xuan tang gan pu tao tang zhu she ye	1
+消风颗粒	xiao feng ke li	1
+消风散	xiao feng san	1
+消疯散	xiao feng san	1
+消风止痛宁	xiao feng zhi tong ning	1
+消风止痛宁胶囊	xiao feng zhi tong ning jiao nang	1
+消风止痒	xiao feng zhi yang	1
+消风止痒颗粒	xiao feng zhi yang ke li	1
 硝呋太尔	xiao fu tai er	1
 硝呋太尔片	xiao fu tai er pian	1
 硝呋太尔制霉菌素	xiao fu tai er zhi mei jun su	1
@@ -40347,6 +40681,31 @@ sort: by_weight
 消化肾管	xiao hua shen guan	1
 消化舒良肽	xiao hua shu liang tai	1
 消化新	xiao hua xin	1
+硝化作用	xiao hua zuo yong	1
+小茴香	xiao hui xiang	1
+小茴香醇	xiao hui xiang chun	1
+消火	xiao huo	1
+消火解毒丸	xiao huo jie du wan	1
+小活络	xiao huo luo	1
+小活络丹	xiao huo luo dan	1
+小活络片	xiao huo luo pian	1
+小活洛丸	xiao huo luo wan	1
+小活络丸	xiao huo luo wan	1
+小蓟	xiao ji	1
+消积	xiao ji	1
+消积肥儿丸	xiao ji fei er wan	1
+消积化虫	xiao ji hua chong	1
+消积化虫胶囊	xiao ji hua chong jiao nang	1
+消积化虫散	xiao ji hua chong san	1
+消积化虫糖浆	xiao ji hua chong tang jiang	1
+消积化滞颗粒	xiao ji hua zhi ke li	1
+消积化滞片	xiao ji hua zhi pian	1
+消积健儿片	xiao ji jian er pian	1
+消积洁白	xiao ji jie bai	1
+消积洁白丸	xiao ji jie bai wan	1
+硝基咪唑硫嘌呤	xiao ji mi zuo liu piao ling	1
+消积顺气	xiao ji shun qi	1
+消积顺气丸	xiao ji shun qi wan	1
 小棘苔藓	xiao ji tai xian	1
 小蓟炭	xiao ji tan	1
 消积通便	xiao ji tong bian	1
@@ -40357,6 +40716,16 @@ sort: by_weight
 硝甲酚汞	xiao jia fen gong	1
 消佳净	xiao jia jing	1
 硝甲西泮	xiao jia xi pan	1
+小建中	xiao jian zhong	1
+小建中合剂	xiao jian zhong he ji	1
+小建中胶囊	xiao jian zhong jiao nang	1
+小建中颗粒	xiao jian zhong ke li	1
+小建中口服液	xiao jian zhong kou fu ye	1
+小建中汤	xiao jian zhong tang	1
+小胶质	xiao jiao zhi	1
+消结安胶囊	xiao jie an jiao nang	1
+消结安口服液	xiao jie an kou fu ye	1
+消洁防疤液	xiao jie fang ba ye	1
 小金	xiao jin	1
 肖金丹	xiao jin dan	1
 小金丹	xiao jin dan	1
@@ -42610,6 +42979,7 @@ sort: by_weight
 盐酸阿扑吗啡舌下片	yan suan a pu ma fei she xia pian	1
 盐酸阿扑吗啡注射液	yan suan a pu ma fei zhu she ye	1
 盐酸阿奇霉素	yan suan a qi mei su	1
+盐酸阿奇霉素注射液	yan suan a qi mei su zhu she ye	1
 盐酸阿柔比星	yan suan a rou bi xing	1
 盐酸阿糖胞苷	yan suan a tang bao gan	1
 盐酸阿替卡因	yan suan a ti ka yin	1
@@ -48071,6 +48441,14 @@ sort: by_weight
 中毒性紫癜	zhong du xing zi dian	1
 中毒药	zhong du yao	1
 中垛	zhong duo	1
+中风安口服液	zhong feng an kou fu ye	1
+中风复元口服液	zhong feng fu yuan kou fu ye	1
+中风回春胶囊	zhong feng hui chun jiao nang	1
+中风回春颗粒	zhong feng hui chun ke li	1
+中风回春片	zhong feng hui chun pian	1
+中风回春丸	zhong feng hui chun wan	1
+中风胶囊	zhong feng jiao nang	1
+中风口服液	zhong feng kou fu ye	1
 中风醒神口服液	zhong feng xing shen kou fu ye	1
 重封血影细胞	zhong feng xue ying xi bao	1
 中风再造丸	zhong feng zai zao wan	1
@@ -48100,7 +48478,19 @@ sort: by_weight
 中间牙骨质	zhong jian ya gu zhi	1
 中间种植体	zhong jian zhong zhi ti	1
 中焦宁颗粒	zhong jiao ning ke li	1
+肿节风	zhong jie feng	1
+肿节风分散片	zhong jie feng fen san pian	1
+肿节风胶囊	zhong jie feng jiao nang	1
+肿节风浸膏	zhong jie feng jin gao	1
+肿节风颗粒	zhong jie feng ke li	1
+肿节风片	zhong jie feng pian	1
+肿节风注射液	zhong jie feng zhu she ye	1
+肿节风注射液抗菌消炎型	zhong jie feng zhu she ye kang jun xiao yan xing	1
+肿节风注射液抗肿瘤型	zhong jie feng zhu she ye kang zhong liu xing	1
 中介肽	zhong jie tai	1
+仲景胃灵	zhong jing wei ling	1
+仲景胃灵片	zhong jing wei ling pian	1
+仲景胃灵丸	zhong jing wei ling wan	1
 重酒石酸长春瑞滨	zhong jiu shi suan chang chun rui bin	1
 重酒石酸长春瑞滨注射液	zhong jiu shi suan chang chun rui bin zhu she ye	1
 重酒石酸胆碱	zhong jiu shi suan dan jian	1
@@ -48256,6 +48646,24 @@ sort: by_weight
 猪胆粉薄荷脑软膏	zhu dan fen bo he nao ruan gao	1
 铸道	zhu dao	1
 铸道针	zhu dao zhen	1
+主动靶向制剂	zhu dong ba xiang zhi ji	1
+主动传送	zhu dong chuan song	1
+主动过敏反应	zhu dong guo min fan ying	1
+主动肌	zhu dong ji	1
+主动脉插管	zhu dong mai cha guan	1
+主动脉窦	zhu dong mai dou	1
+主动脉窦瘤	zhu dong mai dou liu	1
+主动脉弓	zhu dong mai gong	1
+主动脉弓延长	zhu dong mai gong yan chang	1
+主动脉弓中断	zhu dong mai gong zhong duan	1
+主动脉横断	zhu dong mai heng duan	1
+主动脉瘤	zhu dong mai liu	1
+主动脉破裂	zhu dong mai po lie	1
+主动脉缩窄	zhu dong mai suo zhai	1
+主动脉通道	zhu dong mai tong dao	1
+主动脉血流	zhu dong mai xue liu	1
+主动脉血流阻断	zhu dong mai xue liu zu duan	1
+主动免疫	zhu dong mian yi	1
 逐对加和	zhu dui jia he	1
 猪肺磷脂	zhu fei lin zhi	1
 猪茯苓	zhu fu ling	1
@@ -48313,8 +48721,585 @@ sort: by_weight
 贮气囊	zhu qi nang	1
 主桥基	zhu qiao ji	1
 猪去氧胆酸	zhu qu yang dan suan	1
+助溶剂	zhu rong ji	1
+竹茹	zhu ru	1
+助色团	zhu se tuan	1
+朱砂	zhu sha	1
+朱砂安神片	zhu sha an shen pian	1
+朱砂安神丸	zhu sha an shen wan	1
+朱砂根	zhu sha gen	1
+朱砂莲	zhu sha lian	1
+朱砂莲胶囊	zhu sha lian jiao nang	1
+朱砂七	zhu sha qi	1
+朱砂色	zhu sha se	1
+注射剂	zhu she ji	1
+注射剂类	zhu she ji lei	1
+注射曲克芦丁	zhu she qu ke lu ding	1
+注射用阿拉瑞林	zhu she yong a la rui lin	1
+注射用阿洛西林钠	zhu she yong a luo xi lin na	1
+注射用阿霉素	zhu she yong a mei su	1
+注射用阿米卡星	zhu she yong a mi ka xing	1
+注射用阿莫维酸钾	zhu she yong a mo wei suan jia	1
+注射用阿莫西林克拉维酸钾	zhu she yong a mo xi lin ke la wei suan jia	1
+注射用阿莫西林钠	zhu she yong a mo xi lin na	1
+注射用阿莫西林钠氟氯西林钠	zhu she yong a mo xi lin na fu lv xi lin na	1
+注射用阿莫西林钠克拉维酸钾	zhu she yong a mo xi lin na ke la wei suan jia	1
+注射用阿莫西林钠舒巴坦钠	zhu she yong a mo xi lin na shu ba tan na	1
+注射用阿奇霉素	zhu she yong a qi mei su	1
+注射用阿奇霉素枸橼酸二氢钠	zhu she yong a qi mei su ju yuan suan er qing na	1
+注射用阿奇霉素磷酸二氢钠	zhu she yong a qi mei su lin suan er qing na	1
+注射用阿曲库铵苯磺酸盐	zhu she yong a qu ku an ben huang suan yan	1
+注射用阿柔比星	zhu she yong a rou bi xing	1
+注射用阿司匹林	zhu she yong a si pi lin	1
+注射用阿糖胞苷	zhu she yong a tang bao gan	1
+注射用阿糖腺苷	zhu she yong a tang xian gan	1
+注射用阿拓莫兰	zhu she yong a tuo mo lan	1
+注射用阿魏酸钠	zhu she yong a wei suan na	1
+注射用阿昔洛韦	zhu she yong a xi luo wei	1
+注射用氨苄西林钠	zhu she yong an bian xi lin na	1
+注射用氨苄西林钠氯唑西林钠	zhu she yong an bian xi lin na lv zuo xi lin na	1
+注射用氨苄西林钠舒巴坦钠	zhu she yong an bian xi lin na shu ba tan na	1
+注射用氨茶碱	zhu she yong an cha jian	1
+注射用氨甲苯酸	zhu she yong an jia ben suan	1
+注射用氨甲环酸	zhu she yong an jia huan suan	1
+注射用氨酪酸	zhu she yong an lao suan	1
+注射用氨力农	zhu she yong an li nong	1
+注射用氨磷汀	zhu she yong an lin ting	1
+注射用氨曲南	zhu she yong an qu nan	1
+注射用奥美拉唑	zhu she yong ao mei la zuo	1
+注射用奥美拉唑钠	zhu she yong ao mei la zuo na	1
+注射用奥沙利铂	zhu she yong ao sha li bo	1
+注射用奥硝唑	zhu she yong ao xiao zuo	1
+注射用奥扎格雷	zhu she yong ao zha ge lei	1
+注射用奥扎格雷钠	zhu she yong ao zha ge lei na	1
+注射用巴曲亭	zhu she yong ba qu ting	1
+注射用白眉蛇毒血凝酶	zhu she yong bai mei she du xue ning mei	1
+注射用胞二磷胆碱钠	zhu she yong bao er lin dan jian na	1
+注射用胞磷胆碱钠	zhu she yong bao lin dan jian na	1
+注射用胞磷胆碱钠肌苷	zhu she yong bao lin dan jian na ji gan	1
+注射用棓丙酯	zhu she yong bei bing zhi	1
+注射用倍他米松磷酸钠	zhu she yong bei ta mi song lin suan na	1
+注射用苯巴比妥钠	zhu she yong ben ba bi tuo na	1
+注射用苯妥英钠	zhu she yong ben tuo ying na	1
+注射用苯唑西林钠	zhu she yong ben zuo xi lin na	1
+注射用吡多胺	zhu she yong bi duo an	1
+注射用吡拉西坦	zhu she yong bi la xi tan	1
+注射用吡硫醇	zhu she yong bi liu chun	1
+注射用吡柔比星	zhu she yong bi rou bi xing	1
+注射用苄星青霉素	zhu she yong bian xing qing mei su	1
+注射用表柔比星	zhu she yong biao rou bi xing	1
+注射用丙氨瑞林	zhu she yong bing an rui lin	1
+注射用丙氨酰谷氨酰胺	zhu she yong bing an xian gu an xian an	1
+注射用丙戊酸钠	zhu she yong bing wu suan na	1
+注射用玻璃霉素	zhu she yong bo li mei su	1
+注射用玻璃酸酶	zhu she yong bo li suan mei	1
+注射用布美他尼	zhu she yong bu mei ta ni	1
+注射用长春地辛	zhu she yong chang chun di xin	1
+注射用长春碱	zhu she yong chang chun jian	1
+注射用长春西汀	zhu she yong chang chun xi ting	1
+注射用长春新碱	zhu she yong chang chun xin jian	1
+注射用重组白介素	zhu she yong chong zu bai jie su	1
+注射用重组改构人肿瘤坏死因子	zhu she yong chong zu gai gou ren zhong liu huai si yin zi	1
+注射用重组链激酶	zhu she yong chong zu lian ji mei	1
+注射用重组葡激酶	zhu she yong chong zu pu ji mei	1
+注射用重组人白介素	zhu she yong chong zu ren bai jie su	1
+注射用重组人白细胞介素	zhu she yong chong zu ren bai xi bao jie su	1
+注射用重组人促卵泡激素	zhu she yong chong zu ren cu luan pao ji su	1
+注射用重组人干扰素	zhu she yong chong zu ren gan rao su	1
+注射用重组人红细胞生成素	zhu she yong chong zu ren hong xi bao sheng cheng su	1
+注射用重组人凝血因子	zhu she yong chong zu ren ning xue yin zi	1
+注射用重组人生长激素	zhu she yong chong zu ren sheng zhang ji su	1
+注射用穿琥宁	zhu she yong chuan hu ning	1
+注射用垂体后叶	zhu she yong chui ti hou ye	1
+注射用促肝细胞生长素	zhu she yong cu gan xi bao sheng zhang su	1
+注射用促皮质素	zhu she yong cu pi zhi su	1
+注射用醋酸奥曲肽	zhu she yong cu suan ao qu tai	1
+注射用醋酸亮丙瑞林	zhu she yong cu suan liang bing rui lin	1
+注射用醋酸曲普瑞林	zhu she yong cu suan qu pu rui lin	1
+注射用大观霉素	zhu she yong da guan mei su	1
+注射用达卡巴嗪	zhu she yong da ka ba qin	1
+注射用单磷酸阿糖腺苷	zhu she yong dan lin suan a tang xian gan	1
+注射用丹参	zhu she yong dan shen	1
+注射用丹参多酚酸盐	zhu she yong dan shen duo fen suan yan	1
+注射用单硝酸异山梨酯	zhu she yong dan xiao suan yi shan li zhi	1
+注射用灯盏花素	zhu she yong deng zhan hua su	1
+注射用地尔硫卓	zhu she yong di er liu zhuo	1
+注射用低分子量肝素钙	zhu she yong di fen zi liang gan su gai	1
+注射用低分子量肝素钠	zhu she yong di fen zi liang gan su na	1
+注射用地塞米松磷酸钠	zhu she yong di sai mi song lin suan na	1
+注射用丁二磺酸腺苷蛋氨酸	zhu she yong ding er huang suan xian gan dan an suan	1
+注射用丁咯地尔	zhu she yong ding ge di er	1
+注射用丁卡因	zhu she yong ding ka yin	1
+注射用丁溴东莨菪碱	zhu she yong ding xiu dong lang dang jian	1
+注射用冻干人纤维蛋白原	zhu she yong dong gan ren xian wei dan bai yuan	1
+注射用对氨基水杨酸钠	zhu she yong dui an ji shui yang suan na	1
+注射用对羟基水杨酸钠	zhu she yong dui qiang ji shui yang suan na	1
+注射用多抗甲素	zhu she yong duo kang jia su	1
+注射用多黏菌素	zhu she yong duo nian jun su	1
+注射用多柔吡星	zhu she yong duo rou bi xing	1
+注射用多索茶碱	zhu she yong duo suo cha jian	1
+注射用多西他赛	zhu she yong duo xi ta sai	1
+注射用二丁酰环磷腺苷钙	zhu she yong er ding xian huan lin xian gan gai	1
+注射用二羟丙茶碱	zhu she yong er qiang bing cha jian	1
+注射用二巯丁二钠	zhu she yong er qiu ding er na	1
+注射用二乙酰氨乙酸乙二胺	zhu she yong er yi xian an yi suan yi er an	1
+注射用法莫替丁	zhu she yong fa mo ti ding	1
+注射用泛影酸钠	zhu she yong fan ying suan na	1
+注射用放线菌素	zhu she yong fang xian jun su	1
+注射用酚磺乙胺	zhu she yong fen huang yi an	1
+注射用酚妥拉明	zhu she yong fen tuo la ming	1
+注射用蜂毒	zhu she yong feng du	1
+注射用呋苄西林钠	zhu she yong fu bian xi lin na	1
+注射用呋布西林钠	zhu she yong fu bu xi lin na	1
+注射用复方二氯醋酸二异丙胺	zhu she yong fu fang er lv cu suan er yi bing an	1
+注射用复方甘草酸单铵	zhu she yong fu fang gan cao suan dan an	1
+注射用复方甘草酸苷	zhu she yong fu fang gan cao suan gan	1
+注射用复方骨肽	zhu she yong fu fang gu tai	1
+注射用复方三维	zhu she yong fu fang san wei	1
+注射用复合辅酶	zhu she yong fu he fu mei	1
+注射用氟康唑	zhu she yong fu kang zuo	1
+注射用伏立康唑	zhu she yong fu li kang zuo	1
+注射用氟罗沙星	zhu she yong fu luo sha xing	1
+注射用氟脉苷	zhu she yong fu mai gan	1
+注射用辅酶	zhu she yong fu mei	1
+注射用福莫司汀	zhu she yong fu mo si ting	1
+注射用呋脲苄青霉素钾	zhu she yong fu niao bian qing mei su jia	1
+注射用呋脲苄西林钾	zhu she yong fu niao bian xi lin jia	1
+注射用呋脲苄西林钠	zhu she yong fu niao bian xi lin na	1
+注射用氟脲苷	zhu she yong fu niao gan	1
+注射用氟尿嘧啶	zhu she yong fu niao mi ding	1
+注射用呋塞米	zhu she yong fu sai mi	1
+注射用夫西地酸钠	zhu she yong fu xi di suan na	1
+注射用甘氨双唑钠	zhu she yong gan an shuang zuo na	1
+注射用甘草酸二铵	zhu she yong gan cao suan er an	1
+注射用肝复肽	zhu she yong gan fu tai	1
+注射用甘露聚糖肽	zhu she yong gan lu ju tang tai	1
+注射用肝水解肽	zhu she yong gan shui jie tai	1
+注射用高三尖杉酯碱	zhu she yong gao san jian shan zhi jian	1
+注射用葛根素	zhu she yong ge gen su	1
+注射用格拉诺赛啡	zhu she yong ge la nuo sai fei	1
+注射用格拉诺赛特	zhu she yong ge la nuo sai te	1
+注射用戈那瑞林	zhu she yong ge na rui lin	1
+注射用更昔洛韦	zhu she yong geng xi luo wei	1
+注射用更昔洛韦钠	zhu she yong geng xi luo wei na	1
+注射用谷氨酸钾	zhu she yong gu an suan jia	1
+注射用谷氨酸钠	zhu she yong gu an suan na	1
+注射用谷氨酸诺氟沙星	zhu she yong gu an suan nuo fu sha xing	1
+注射用骨瓜提取物	zhu she yong gu gua ti qu wu	1
+注射用骨肽	zhu she yong gu tai	1
+注射用鲑鱼降钙素	zhu she yong gui yu jiang gai su	1
+注射用果糖	zhu she yong guo tang	1
+注射用果糖二磷酸钠	zhu she yong guo tang er lin suan na	1
+注射用过氧化碳酰胺	zhu she yong guo yang hua tan xian an	1
+注射用核糖核酸	zhu she yong he tang he suan	1
+注射用核糖霉素	zhu she yong he tang mei su	1
+注射用红花黄色素	zhu she yong hong hua huang se su	1
+注射用红霉素	zhu she yong hong mei su	1
+注射用红色诺卡氏菌细胞壁骨架	zhu she yong hong se nuo ka shi jun xi bao bi gu jia	1
+注射用琥珀氯霉素	zhu she yong hu po lv mei su	1
+注射用环丙沙星	zhu she yong huan bing sha xing	1
+注射用环磷酰胺	zhu she yong huan lin xian an	1
+注射用环磷腺苷	zhu she yong huan lin xian gan	1
+注射用环磷腺苷葡胺	zhu she yong huan lin xian gan pu an	1
+注射用缓释亮丙瑞林	zhu she yong huan shi liang bing rui lin	1
+注射用还原型谷胱甘肽	zhu she yong huan yuan xing gu guang gan tai	1
+注射用还原型谷胱甘肽钠	zhu she yong huan yuan xing gu guang gan tai na	1
+注射用磺胺嘧啶钠	zhu she yong huang an mi ding na	1
+注射用磺苄西林钠	zhu she yong huang bian xi lin na	1
+注射用黄芪多糖	zhu she yong huang qi duo tang	1
+注射用磺巯嘌呤钠	zhu she yong huang qiu piao ling na	1
+注射用肌氨肽苷	zhu she yong ji an tai gan	1
+注射用肌苷	zhu she yong ji gan	1
+注射用吉他霉素	zhu she yong ji ta mei su	1
+注射用己酮可可碱	zhu she yong ji tong ke ke jian	1
+注射用吉西他滨	zhu she yong ji xi ta bin	1
+注射用甲氨蝶呤	zhu she yong jia an die ling	1
+注射用加贝酯	zhu she yong jia bei zhi	1
+注射用甲钴胺	zhu she yong jia gu an	1
+注射用甲磺酸二氢麦角碱	zhu she yong jia huang suan er qing mai jiao jian	1
+注射用甲磺酸酚妥拉明	zhu she yong jia huang suan fen tuo la ming	1
+注射用甲磺酸加贝酯	zhu she yong jia huang suan jia bei zhi	1
+注射用甲磺酸加替沙星	zhu she yong jia huang suan jia ti sha xing	1
+注射用甲磺酸罗哌卡因	zhu she yong jia huang suan luo pai ka yin	1
+注射用甲磺酸帕珠沙星	zhu she yong jia huang suan pa zhu sha xing	1
+注射用甲磺酸培氟沙星	zhu she yong jia huang suan pei fu sha xing	1
+注射用甲磺酸左氧氟沙星	zhu she yong jia huang suan zuo yang fu sha xing	1
+注射用甲硫酸新斯的明	zhu she yong jia liu suan xin si di ming	1
+注射用甲氯芬酯	zhu she yong jia lv fen zhi	1
+注射用甲泼尼龙琥珀酸钠	zhu she yong jia po ni long hu po suan na	1
+注射用甲强龙	zhu she yong jia qiang long	1
+注射用加替沙星	zhu she yong jia ti sha xing	1
+注射用甲酰四氢叶酸钙	zhu she yong jia xian si qing ye suan gai	1
+注射用甲硝唑	zhu she yong jia xiao zuo	1
+注射用甲硝唑磷酸二钠	zhu she yong jia xiao zuo lin suan er na	1
+注射用甲氧异腈	zhu she yong jia yang yi jing	1
+注射用降纤酶	zhu she yong jiang xian mei	1
+注射用胶原酶	zhu she yong jiao yuan mei	1
+注射用精氨酸阿司匹林	zhu she yong jing an suan a si pi lin	1
+注射用酒石酸长春瑞滨	zhu she yong jiu shi suan chang chun rui bin	1
+注射用酒石酸吉他霉素	zhu she yong jiu shi suan ji ta mei su	1
+注射用酒石酸美托洛尔	zhu she yong jiu shi suan mei tuo luo er	1
+注射用聚乙二醇干扰素	zhu she yong ju yi er chun gan rao su	1
+注射用枸橼酸钠	zhu she yong ju yuan suan na	1
+注射用卷曲霉素	zhu she yong juan qu mei su	1
+注射用卡铂	zhu she yong ka bo	1
+注射用卡络磺钠	zhu she yong ka luo huang na	1
+注射用卡那霉素	zhu she yong ka na mei su	1
+注射用卡那霉素片	zhu she yong ka na mei su pian	1
+注射用卡托普利	zhu she yong ka tuo pu li	1
+注射用抗乙肝免疫核糖核酸	zhu she yong kang yi gan mian yi he tang he suan	1
+注射用抗乙肝转移因子	zhu she yong kang yi gan zhuan yi yin zi	1
+注射用抗肿瘤免疫核糖核酸	zhu she yong kang zhong liu mian yi he tang he suan	1
+注射用科博肽	zhu she yong ke bo tai	1
+注射用克林霉素磷酸酯	zhu she yong ke lin mei su lin suan zhi	1
+注射用苦参碱	zhu she yong ku shen jian	1
+注射用苦参素	zhu she yong ku shen su	1
+注射用拉氧头孢钠	zhu she yong la yang tou bao na	1
+注射用赖氨匹林	zhu she yong lai an pi lin	1
+注射用利巴韦林	zhu she yong li ba wei lin	1
+注射用利福霉素钠	zhu she yong li fu mei su na	1
+注射用利福平	zhu she yong li fu ping	1
+注射用利他林	zhu she yong li ta lin	1
+注射用立芷雪	zhu she yong li zhi xue	1
+注射用链霉素	zhu she yong lian mei su	1
+注射用链球菌制剂	zhu she yong lian qiu jun zhi ji	1
+注射用亮菌甲素	zhu she yong liang jun jia su	1
+注射用两性霉素	zhu she yong liang xing mei su	1
+注射用膦甲酸钠	zhu she yong lin jia suan na	1
+注射用林可霉素	zhu she yong lin ke mei su	1
+注射用磷霉素钠	zhu she yong lin mei su na	1
+注射用磷酸川芎嗪	zhu she yong lin suan chuan xiong qin	1
+注射用磷酸氟达拉滨	zhu she yong lin suan fu da la bin	1
+注射用磷酸肌酸钠	zhu she yong lin suan ji suan na	1
+注射用磷酸盐缓冲盐水	zhu she yong lin suan yan huan chong yan shui	1
+注射用磷酸依托泊苷	zhu she yong lin suan yi tuo bo gan	1
+注射用灵孢多糖	zhu she yong ling bao duo tang	1
+注射用灵杆菌多糖	zhu she yong ling gan jun duo tang	1
+注射用硫代硫酸钠	zhu she yong liu dai liu suan na	1
+注射用硫喷妥钠	zhu she yong liu pen tuo na	1
+注射用硫普罗宁	zhu she yong liu pu luo ning	1
+注射用硫酸阿米卡星	zhu she yong liu suan a mi ka xing	1
+注射用硫酸阿奇霉素	zhu she yong liu suan a qi mei su	1
+注射用硫酸长春地辛	zhu she yong liu suan chang chun di xin	1
+注射用硫酸长春碱	zhu she yong liu suan chang chun jian	1
+注射用硫酸长春新碱	zhu she yong liu suan chang chun xin jian	1
+注射用硫酸多粘菌素	zhu she yong liu suan duo nian jun su	1
+注射用硫酸啡布他林	zhu she yong liu suan fei bu ta lin	1
+注射用硫酸核糖霉素	zhu she yong liu suan he tang mei su	1
+注射用硫酸卷曲霉素	zhu she yong liu suan juan qu mei su	1
+注射用硫酸卡那霉素	zhu she yong liu suan ka na mei su	1
+注射用硫酸抗敌素	zhu she yong liu suan kang di su	1
+注射用硫酸链霉素	zhu she yong liu suan lian mei su	1
+注射用硫酸镁	zhu she yong liu suan mei	1
+注射用硫酸奈替米星	zhu she yong liu suan nai ti mi xing	1
+注射用硫酸培洛霉素	zhu she yong liu suan pei luo mei su	1
+注射用硫酸普拉睾酮钠	zhu she yong liu suan pu la gao tong na	1
+注射用硫酸庆大霉素	zhu she yong liu suan qing da mei su	1
+注射用硫酸软骨素	zhu she yong liu suan ruan gu su	1
+注射用硫酸特布他林	zhu she yong liu suan te bu ta lin	1
+注射用硫酸头孢匹罗	zhu she yong liu suan tou bao pi luo	1
+注射用硫酸妥布霉素	zhu she yong liu suan tuo bu mei su	1
+注射用硫酸西索米星	zhu she yong liu suan xi suo mi xing	1
+注射用硫酸小诺霉素	zhu she yong liu suan xiao nuo mei su	1
+注射用硫酸依替米星	zhu she yong liu suan yi ti mi xing	1
+注射用鹿瓜多肽	zhu she yong lu gua duo tai	1
+注射用洛铂	zhu she yong luo bo	1
+注射用氯胺酮	zhu she yong lv an tong	1
+注射用氯化钾	zhu she yong lv hua jia	1
+注射用氯膦酸二钠	zhu she yong lv lin suan er na	1
+注射用氯诺昔康	zhu she yong lv nuo xi kang	1
+注射用氯唑西林钠	zhu she yong lv zuo xi lin na	1
+注射用马来酸阿奇霉素	zhu she yong ma lai suan a qi mei su	1
+注射用吗替麦考酚酯	zhu she yong ma ti mai kao fen zhi	1
+注射用美罗培南	zhu she yong mei luo pei nan	1
+注射用美洛西林钠	zhu she yong mei luo xi lin na	1
+注射用美洛西林钠舒巴坦钠	zhu she yong mei luo xi lin na shu ba tan na	1
+注射用门冬氨酸阿奇霉素	zhu she yong men dong an suan a qi mei su	1
+注射用门冬氨酸钾镁	zhu she yong men dong an suan jia mei	1
+注射用门冬氨酸洛美沙星	zhu she yong men dong an suan luo mei sha xing	1
+注射用门冬氨酸鸟氨酸	zhu she yong men dong an suan niao an suan	1
+注射用门冬酰胺酶	zhu she yong men dong xian an mei	1
+注射用糜蛋白酶	zhu she yong mi dan bai mei	1
+注射用米托蒽醌	zhu she yong mi tuo en kun	1
+注射用米托恩醌	zhu she yong mi tuo en kun	1
+注射用糜胰蛋白酶	zhu she yong mi yi dan bai mei	1
+注射用灭菌用水	zhu she yong mie jun yong shui	1
+注射用母牛分枝杆菌	zhu she yong mu niu fen zhi gan jun	1
+注射用奈达铂	zhu she yong nai da bo	1
+注射用萘夫西林钠	zhu she yong nai fu xi lin na	1
+注射用萘普生钠	zhu she yong nai pu sheng na	1
+注射用脑蛋白水解物	zhu she yong nao dan bai shui jie wu	1
+注射用脑心康	zhu she yong nao xin kang	1
+注射用尼麦角林	zhu she yong ni mai jiao lin	1
+注射用尼莫地平	zhu she yong ni mo di ping	1
+注射用尿促卵泡素	zhu she yong niao cu luan pao su	1
+注射用尿促性素	zhu she yong niao cu xing su	1
+注射用尿激酶	zhu she yong niao ji mei	1
+注射用牛肺表面活性剂	zhu she yong niu fei biao mian huo xing ji	1
+注射用帕米膦酸二钠	zhu she yong pa mi lin suan er na	1
+注射用帕尼培南倍他米隆	zhu she yong pa ni pei nan bei ta mi long	1
+注射用哌甲酯	zhu she yong pai jia zhi	1
+注射用哌库溴铵	zhu she yong pai ku xiu an	1
+注射用哌拉西林钠	zhu she yong pai la xi lin na	1
+注射用哌拉西林钠舒巴坦钠	zhu she yong pai la xi lin na shu ba tan na	1
+注射用哌拉西林钠他唑巴坦钠	zhu she yong pai la xi lin na ta zuo ba tan na	1
+注射用泮托拉唑	zhu she yong pan tuo la zuo	1
+注射用泮托拉唑钠	zhu she yong pan tuo la zuo na	1
+注射用培氟沙星	zhu she yong pei fu sha xing	1
+注射用培美曲塞二钠	zhu she yong pei mei qu sai er na	1
+注射用平阳霉素	zhu she yong ping yang mei su	1
+注射用平阳星	zhu she yong ping yang xing	1
+注射用普拉睾酮钠	zhu she yong pu la gao tong na	1
+注射用普鲁卡因	zhu she yong pu lu ka yin	1
+注射用普鲁卡因青霉素	zhu she yong pu lu ka yin qing mei su	1
+注射用普罗碘铵	zhu she yong pu luo dian an	1
+注射用普罗瑞林	zhu she yong pu luo rui lin	1
+注射用葡醛酸钠	zhu she yong pu quan suan na	1
+注射用葡萄糖酸依诺沙星	zhu she yong pu tao tang suan yi nuo sha xing	1
+注射用齐多夫定	zhu she yong qi duo fu ding	1
+注射用七叶皂苷	zhu she yong qi ye zao gan	1
+注射用七叶皂苷钠	zhu she yong qi ye zao gan na	1
+注射用前列地尔	zhu she yong qian lie di er	1
+注射用前列腺素	zhu she yong qian lie xian su	1
+注射用羟基喜树碱	zhu she yong qiang ji xi shu jian	1
+注射用羟喜树碱	zhu she yong qiang xi shu jian	1
+注射用庆大霉素	zhu she yong qing da mei su	1
+注射用青蒿琥酯	zhu she yong qing hao hu zhi	1
+注射用氢化可的松琥珀酸钠	zhu she yong qing hua ke di song hu po suan na	1
+注射用清开灵	zhu she yong qing kai ling	1
+注射用青霉素钾	zhu she yong qing mei su jia	1
+注射用青霉素钠	zhu she yong qing mei su na	1
+注射用氢溴酸高乌甲素	zhu she yong qing xiu suan gao wu jia su	1
+注射用氢溴酸右美沙芬	zhu she yong qing xiu suan you mei sha fen	1
+注射用去甲斑蝥酸钠	zhu she yong qu jia ban mao suan na	1
+注射用去甲万古霉素	zhu she yong qu jia wan gu mei su	1
+注射用曲克芦丁	zhu she yong qu ke lu ding	1
+注射用曲普瑞林	zhu she yong qu pu rui lin	1
+注射用去水卫矛醇	zhu she yong qu shui wei mao chun	1
+注射用绒促性素	zhu she yong rong cu xing su	1
+注射用绒毛膜促性腺激素	zhu she yong rong mao mo cu xing xian ji su	1
+注射用溶媒	zhu she yong rong mei	1
+注射用柔红霉素	zhu she yong rou hong mei su	1
+注射用乳剂	zhu she yong ru ji	1
+注射用乳酸环丙沙星	zhu she yong ru suan huan bing sha xing	1
+注射用乳酸诺氟沙星	zhu she yong ru suan nuo fu sha xing	1
+注射用乳酸依沙吖啶	zhu she yong ru suan yi sha a ding	1
+注射用乳酸左氧氟沙星	zhu she yong ru suan zuo yang fu sha xing	1
+注射用乳糖酸阿奇霉素	zhu she yong ru tang suan a qi mei su	1
+注射用乳糖酸红霉素	zhu she yong ru tang suan hong mei su	1
+注射用瑞芬太尼	zhu she yong rui fen tai ni	1
+注射用瑞替普酶	zhu she yong rui ti pu mei	1
+注射用三磷酸胞苷二钠	zhu she yong san lin suan bao gan er na	1
+注射用三磷酸腺苷二钠	zhu she yong san lin suan xian gan er na	1
+注射用三磷酸腺苷二钠氯化镁	zhu she yong san lin suan xian gan er na lv hua mei	1
+注射用三磷酸腺苷辅酶胰岛素	zhu she yong san lin suan xian gan fu mei yi dao su	1
+注射用蛇毒血凝酶	zhu she yong she du xue ning mei	1
+注射用生长抑素	zhu she yong sheng zhang yi su	1
+注射用石杉碱甲	zhu she yong shi shan jian jia	1
+注射用舒巴坦钠	zhu she yong shu ba tan na	1
+注射用舒巴坦钠阿莫西林钠	zhu she yong shu ba tan na a mo xi lin na	1
+注射用鼠神经生长因子	zhu she yong shu shen jing sheng zhang yin zi	1
+注射用双半胱氨酸	zhu she yong shuang ban guang an suan	1
+注射用双半胱乙酯	zhu she yong shuang ban guang yi zhi	1
+注射用双氯芬酸钠利多卡因	zhu she yong shuang lv fen suan na li duo ka yin	1
+注射用双氯芬酸钠盐酸利多卡因	zhu she yong shuang lv fen suan na yan suan li duo ka yin	1
+注射用双嘧达莫	zhu she yong shuang mi da mo	1
+注射用水	zhu she yong shui	1
+注射用水溶性维生素	zhu she yong shui rong xing wei sheng su	1
+注射用顺铂	zhu she yong shun bo	1
+注射用四环素	zhu she yong si huan su	1
+注射用丝裂霉素	zhu she yong si lie mei su	1
+注射用羧苄西林钠	zhu she yong suo bian xi lin na	1
+注射用缩宫素	zhu she yong suo gong su	1
+注射用他唑巴坦钠哌拉西林钠	zhu she yong ta zuo ba tan na pai la xi lin na	1
+注射用胎盘脂多糖	zhu she yong tai pan zhi duo tang	1
+注射用替加氟	zhu she yong ti jia fu	1
+注射用替卡西林克拉维酸钾	zhu she yong ti ka xi lin ke la wei suan jia	1
+注射用替卡西林钠克拉维酸钾	zhu she yong ti ka xi lin na ke la wei suan jia	1
+注射用替考拉宁	zhu she yong ti kao la ning	1
+注射用天麻素	zhu she yong tian ma su	1
+注射用天门冬酰胺酶	zhu she yong tian men dong xian an mei	1
+注射用头孢吡肟	zhu she yong tou bao bi wo	1
+注射用头孢地嗪钠	zhu she yong tou bao di qin na	1
+注射用头孢呋肟钠	zhu she yong tou bao fu wo na	1
+注射用头孢呋辛钠	zhu she yong tou bao fu xin na	1
+注射用头孢拉定	zhu she yong tou bao la ding	1
+注射用头孢硫脒	zhu she yong tou bao liu mi	1
+注射用头孢美唑钠	zhu she yong tou bao mei zuo na	1
+注射用头孢孟多酯钠	zhu she yong tou bao meng duo zhi na	1
+注射用头孢米诺	zhu she yong tou bao mi nuo	1
+注射用头孢米诺钠	zhu she yong tou bao mi nuo na	1
+注射用头孢尼西钠	zhu she yong tou bao ni xi na	1
+注射用头孢哌酮钠	zhu she yong tou bao pai tong na	1
+注射用头孢哌酮钠舒巴坦钠	zhu she yong tou bao pai tong na shu ba tan na	1
+注射用头孢哌酮钠舒巴坦纳	zhu she yong tou bao pai tong na shu ba tan na	1
+注射用头孢哌酮钠他唑巴坦钠	zhu she yong tou bao pai tong na ta zuo ba tan na	1
+注射用头孢哌酮舒巴坦	zhu she yong tou bao pai tong shu ba tan	1
+注射用头孢匹胺	zhu she yong tou bao pi an	1
+注射用头孢匹胺钠	zhu she yong tou bao pi an na	1
+注射用头孢匹氨钠	zhu she yong tou bao pi an na	1
+注射用头孢曲松钠	zhu she yong tou bao qu song na	1
+注射用头孢噻酚钠	zhu she yong tou bao sai fen na	1
+注射用头孢噻吩钠	zhu she yong tou bao sai fen na	1
+注射用头孢噻肟钠	zhu she yong tou bao sai wo na	1
+注射用头孢噻肟钠舒巴坦钠	zhu she yong tou bao sai wo na shu ba tan na	1
+注射用头孢他啶	zhu she yong tou bao ta ding	1
+注射用头孢他啶精氨酸	zhu she yong tou bao ta ding jing an suan	1
+注射用头孢替唑钠	zhu she yong tou bao ti zuo na	1
+注射用头孢西丁	zhu she yong tou bao xi ding	1
+注射用头孢西丁钠	zhu she yong tou bao xi ding na	1
+注射用头孢唑啉钠	zhu she yong tou bao zuo lin na	1
+注射用头孢唑林钠	zhu she yong tou bao zuo lin na	1
+注射用头孢唑肟钠	zhu she yong tou bao zuo wo na	1
+注射用妥布霉素	zhu she yong tuo bu mei su	1
+注射用脱氧核苷酸钠	zhu she yong tuo yang he gan suan na	1
+注射用万古霉素	zhu she yong wan gu mei su	1
+注射用维库溴铵	zhu she yong wei ku xiu an	1
+注射用维生素	zhu she yong wei sheng su	1
+注射用五水头孢唑林钠	zhu she yong wu shui tou bao zuo lin na	1
+注射用乌司他丁	zhu she yong wu si ta ding	1
+注射用细胞色素	zhu she yong xi bao se su	1
+注射用西咪替丁	zhu she yong xi mi ti ding	1
+注射用细辛脑	zhu she yong xi xin nao	1
+注射用腺苷钴胺	zhu she yong xian gan gu an	1
+注射用纤溶酶	zhu she yong xian rong mei	1
+注射用香菇多糖	zhu she yong xiang gu duo tang	1
+注射用硝卡芥	zhu she yong xiao ka jie	1
+注射用小牛血去蛋白提取物	zhu she yong xiao niu xue qu dan bai ti qu wu	1
+注射用硝普钠	zhu she yong xiao pu na	1
+注射用硝酸异山梨酯	zhu she yong xiao suan yi shan li zhi	1
+注射用血塞通	zhu she yong xie sai tong	1
+注射用心肌肽	zhu she yong xin ji tai	1
+注射用新胂凡纳明	zhu she yong xin shen fan na ming	1
+注射用新鱼腥草素钠	zhu she yong xin yu xing cao su na	1
+注射用型肉毒毒素	zhu she yong xing rou du du su	1
+注射用胸腺肽	zhu she yong xiong xian tai	1
+注射用胸腺五肽	zhu she yong xiong xian wu tai	1
+注射用胸腺五肽澳肽信	zhu she yong xiong xian wu tai ao tai xin	1
+注射用血管紧张素	zhu she yong xue guan jin zhang su	1
+注射用血凝酶	zhu she yong xue ning mei	1
+注射用血凝酶立芷雪	zhu she yong xue ning mei li zhi xue	1
+注射用血栓通	zhu she yong xue shuan tong	1
+注射用亚胺醌	zhu she yong ya an kun	1
+注射用亚胺培南西司他丁钠	zhu she yong ya an pei nan xi si ta ding na	1
+注射用亚叶酸钙	zhu she yong ya ye suan gai	1
+注射用炎琥宁	zhu she yong yan hu ning	1
+注射用烟酸	zhu she yong yan suan	1
+注射用盐酸阿克拉霉素	zhu she yong yan suan a ke la mei su	1
+注射用盐酸阿奇霉素	zhu she yong yan suan a qi mei su	1
+注射用盐酸阿柔比星	zhu she yong yan suan a rou bi xing	1
+注射用盐酸阿糖胞苷	zhu she yong yan suan a tang bao gan	1
+注射用盐酸艾司洛尔	zhu she yong yan suan ai si luo er	1
+注射用盐酸胺碘酮	zhu she yong yan suan an dian tong	1
+注射用盐酸安西他滨	zhu she yong yan suan an xi ta bin	1
+注射用盐酸氨溴索	zhu she yong yan suan an xiu suo	1
+注射用盐酸昂丹司琼	zhu she yong yan suan ang dan si qiong	1
+注射用盐酸倍他司汀	zhu she yong yan suan bei ta si ting	1
+注射用盐酸吡硫醇	zhu she yong yan suan bi liu chun	1
+注射用盐酸吡柔比星	zhu she yong yan suan bi rou bi xing	1
+注射用盐酸表阿霉素	zhu she yong yan suan biao a mei su	1
+注射用盐酸表柔比星	zhu she yong yan suan biao rou bi xing	1
+注射用盐酸丙帕他莫	zhu she yong yan suan bing pa ta mo	1
+注射用盐酸博安霉素	zhu she yong yan suan bo an mei su	1
+注射用盐酸博莱霉素	zhu she yong yan suan bo lai mei su	1
+注射用盐酸博来霉素	zhu she yong yan suan bo lai mei su	1
+注射用盐酸川芎嗪	zhu she yong yan suan chuan xiong qin	1
+注射用盐酸大观霉素	zhu she yong yan suan da guan mei su	1
+注射用盐酸地尔硫	zhu she yong yan suan di er liu	1
+注射用盐酸地尔硫卓	zhu she yong yan suan di er liu zhuo	1
+注射用盐酸丁咯地尔	zhu she yong yan suan ding ge di er	1
+注射用盐酸丁卡因	zhu she yong yan suan ding ka yin	1
+注射用盐酸多巴胺	zhu she yong yan suan duo ba an	1
+注射用盐酸多巴酚丁胺	zhu she yong yan suan duo ba fen ding an	1
+注射用盐酸多柔吡星	zhu she yong yan suan duo rou bi xing	1
+注射用盐酸多柔比星	zhu she yong yan suan duo rou bi xing	1
+注射用盐酸多沙普仑	zhu she yong yan suan duo sha pu lun	1
+注射用盐酸多西环素	zhu she yong yan suan duo xi huan su	1
+注射用盐酸二甲弗林	zhu she yong yan suan er jia fu lin	1
+注射用盐酸高血糖素	zhu she yong yan suan gao xue tang su	1
+注射用盐酸格拉司琼	zhu she yong yan suan ge la si qiong	1
+注射用盐酸环丙沙星	zhu she yong yan suan huan bing sha xing	1
+注射用盐酸吉西他滨	zhu she yong yan suan ji xi ta bin	1
+注射用盐酸甲氯芬酯	zhu she yong yan suan jia lv fen zhi	1
+注射用盐酸精氨酸	zhu she yong yan suan jing an suan	1
+注射用盐酸克林霉素	zhu she yong yan suan ke lin mei su	1
+注射用盐酸拉贝洛尔	zhu she yong yan suan la bei luo er	1
+注射用盐酸赖氨酸	zhu she yong yan suan lai an suan	1
+注射用盐酸雷莫司琼	zhu she yong yan suan lei mo si qiong	1
+注射用盐酸雷尼替丁	zhu she yong yan suan lei ni ti ding	1
+注射用盐酸林可霉素	zhu she yong yan suan lin ke mei su	1
+注射用盐酸硫必利	zhu she yong yan suan liu bi li	1
+注射用盐酸洛美沙星	zhu she yong yan suan luo mei sha xing	1
+注射用盐酸罗哌卡因	zhu she yong yan suan luo pai ka yin	1
+注射用盐酸氯胺酮	zhu she yong yan suan lv an tong	1
+注射用盐酸米托蒽醌	zhu she yong yan suan mi tuo en kun	1
+注射用盐酸纳洛酮	zhu she yong yan suan na luo tong	1
+注射用盐酸奈福泮	zhu she yong yan suan nai fu pan	1
+注射用盐酸尼卡地平	zhu she yong yan suan ni ka di ping	1
+注射用盐酸尼莫司汀	zhu she yong yan suan ni mo si ting	1
+注射用盐酸诺氟沙星	zhu she yong yan suan nuo fu sha xing	1
+注射用盐酸哌甲酯	zhu she yong yan suan pai jia zhi	1
+注射用盐酸平阳霉素	zhu she yong yan suan ping yang mei su	1
+注射用盐酸普鲁卡因	zhu she yong yan suan pu lu ka yin	1
+注射用盐酸去甲万古霉素	zhu she yong yan suan qu jia wan gu mei su	1
+注射用盐酸曲马多	zhu she yong yan suan qu ma duo	1
+注射用盐酸去氧肾上腺素	zhu she yong yan suan qu yang shen shang xian su	1
+注射用盐酸柔红霉素	zhu she yong yan suan rou hong mei su	1
+注射用盐酸瑞芬太尼	zhu she yong yan suan rui fen tai ni	1
+注射用盐酸四环素	zhu she yong yan suan si huan su	1
+注射用盐酸索他洛尔	zhu she yong yan suan suo ta luo er	1
+注射用盐酸头孢吡肟	zhu she yong yan suan tou bao bi wo	1
+注射用盐酸头孢甲肟	zhu she yong yan suan tou bao jia wo	1
+注射用盐酸头孢替安	zhu she yong yan suan tou bao ti an	1
+注射用盐酸托泊替康	zhu she yong yan suan tuo bo ti kang	1
+注射用盐酸拓扑替康	zhu she yong yan suan tuo pu ti kang	1
+注射用盐酸托烷司琼	zhu she yong yan suan tuo wan si qiong	1
+注射用盐酸万古霉素	zhu she yong yan suan wan gu mei su	1
+注射用盐酸维拉帕米	zhu she yong yan suan wei la pa mi	1
+注射用盐酸乌拉地尔	zhu she yong yan suan wu la di er	1
+注射用盐酸溴己新	zhu she yong yan suan xiu ji xin	1
+注射用盐酸伊达比星	zhu she yong yan suan yi da bi xing	1
+注射用盐酸伊立替康	zhu she yong yan suan yi li ti kang	1
+注射用盐酸罂粟碱	zhu she yong yan suan ying su jian	1
+注射用烟酸占替诺	zhu she yong yan suan zhan ti nuo	1
+注射用盐酸左氧氟沙星	zhu she yong yan suan zuo yang fu sha xing	1
+注射用烟酰胺	zhu she yong yan xian an	1
+注射用氧氟沙星	zhu she yong yang fu sha xing	1
+注射用叶酸	zhu she yong ye suan	1
+注射用叶酸钙	zhu she yong ye suan gai	1
+注射用乙胺硫脲	zhu she yong yi an liu niao	1
+注射用胰蛋白酶	zhu she yong yi dan bai mei	1
+注射用异环磷酰胺	zhu she yong yi huan lin xian an	1
+注射用胰激肽释放酶	zhu she yong yi ji tai shi fang mei	1
+注射用胰激肽原酶	zhu she yong yi ji tai yuan mei	1
+注射用依沙吖啶	zhu she yong yi sha a ding	1
+注射用依他尼酸钠	zhu she yong yi ta ni suan na	1
+注射用抑肽酶	zhu she yong yi tai mei	1
+注射用依替米星	zhu she yong yi ti mi xing	1
+注射用已酮可可碱	zhu she yong yi tong ke ke jian	1
+注射用异戊巴比妥钠	zhu she yong yi wu ba bi tuo na	1
+注射用乙酰谷酰胺	zhu she yong yi xian gu xian an	1
+注射用异烟肼	zhu she yong yi yan jing	1
+注射用薏苡仁油	zhu she yong yi yi ren you	1
+注射用吲哚菁绿	zhu she yong yin duo jing lv	1
+注射用因卡膦酸二钠	zhu she yong yin ka lin suan er na	1
+注射用油	zhu she yong you	1
+注射用右丙亚胺	zhu she yong you bing ya an	1
+注射用尤瑞克林	zhu she yong you rui ke lin	1
+注射用藻酸双酯钠	zhu she yong zao suan shuang zhi na	1
+注射用脂溶性维生素	zhu she yong zhi rong xing wei sheng su	1
+注射用重酒石酸长春瑞滨	zhu she yong zhong jiu shi suan chang chun rui bin	1
+注射用转移因子	zhu she yong zhuan yi yin zi	1
+注射用紫杉醇脂质体	zhu she yong zi shan chun zhi zhi ti	1
+注射用组织胺人免疫球蛋白	zhu she yong zu zhi an ren mian yi qiu dan bai	1
+注射用左卡尼汀	zhu she yong zuo ka ni ting	1
+注射用唑来膦酸	zhu she yong zuo lai lin suan	1
+朱氏阿魏消痞膏	zhu shi a wei xiao pi gao	1
 猪屎豆次碱	zhu shi dou ci jian	1
+朱氏温经蠲痛膏	zhu shi wen jing juan tong gao	1
+逐水	zhu shui	1
 竹桃霉素	zhu tao mei su	1
+猪蹄甲	zhu ti jia	1
 猪脱氧胆酸	zhu tuo yang dan suan	1
 猪脱氧胆酸片	zhu tuo yang dan suan pian	1
 蛛网膜	zhu wang mo	1
@@ -48430,6 +49415,23 @@ sort: by_weight
 转轴酶	zhuan zhou mei	1
 转座免疫性	zhuan zuo mian yi xing	1
 转座元件	zhuan zuo yuan jian	1
+壮骨关节	zhuang gu guan jie	1
+壮骨关节胶囊	zhuang gu guan jie jiao nang	1
+壮骨关节丸	zhuang gu guan jie wan	1
+壮骨酒	zhuang gu jiu	1
+壮骨木瓜	zhuang gu mu gua	1
+壮骨木瓜酒	zhuang gu mu gua jiu	1
+壮骨木瓜丸	zhuang gu mu gua wan	1
+壮骨片	zhuang gu pian	1
+壮骨麝香止痛	zhuang gu she xiang zhi tong	1
+壮骨麝香止痛膏	zhuang gu she xiang zhi tong gao	1
+壮骨伸筋	zhuang gu shen jin	1
+壮骨伸筋胶囊	zhuang gu shen jin jiao nang	1
+壮骨丸	zhuang gu wan	1
+壮骨药酒	zhuang gu yao jiu	1
+壮骨止痛	zhuang gu zhi tong	1
+壮骨止痛胶囊	zhuang gu zhi tong jiao nang	1
+壮骨追风酒	zhuang gu zhui feng jiu	1
 桩冠	zhuang guan	1
 壮观霉素	zhuang guan mei su	1
 壮筋续骨丸	zhuang jin xu gu wan	1
@@ -48852,18 +49854,30 @@ sort: by_weight
 左福康	zuo fu kang	1
 坐骨联体	zuo gu lian ti	1
 坐骨疝	zuo gu shan	1
+左归	zuo gui	1
+左归丸	zuo gui wan	1
+左归饮	zuo gui yin	1
 佐剂	zuo ji	1
 佐剂肽佐剂活性	zuo ji tai zuo ji huo xing	1
 佐剂细胞因子	zuo ji xi bao yin zi	1
 左甲苯丙胺	zuo jia ben bing an	1
 左甲状腺素钠	zuo jia zhuang xian su na	1
+左甲状腺素钠片	zuo jia zhuang xian su na pian	1
+左甲状腺素片	zuo jia zhuang xian su pian	1
+左金	zuo jin	1
+左金胶囊	zuo jin jiao nang	1
+左金片	zuo jin pian	1
+左金丸	zuo jin wan	1
 左卡巴斯汀	zuo ka ba si ting	1
 左卡巴斯汀鼻喷剂	zuo ka ba si ting bi pen ji	1
 左卡尼汀	zuo ka ni ting	1
+左卡尼汀口服液	zuo ka ni ting kou fu ye	1
+左卡尼汀注射液	zuo ka ni ting zhu she ye	1
 佐凯	zuo kai	1
 佐科	zuo ke	1
 左克	zuo ke	1
 唑来膦酸	zuo lai lin suan	1
+唑来膦酸注射液	zuo lai lin suan zhu she ye	1
 佐林格	zuo lin ge	1
 左洛复	zuo luo fu	1
 左氯甲箭毒	zuo lv jia jian du	1
@@ -48875,30 +49889,74 @@ sort: by_weight
 佐宁	zuo ning	1
 左袢	zuo pan	1
 佐匹克隆	zuo pi ke long	1
+佐匹克隆胶囊	zuo pi ke long jiao nang	1
+佐匹克隆片	zuo pi ke long pian	1
 左羟丙哌嗪	zuo qiang bing pai qin	1
+左羟丙哌嗪分散片	zuo qiang bing pai qin fen san pian	1
+左羟丙哌嗪含片	zuo qiang bing pai qin han pian	1
+左羟丙哌嗪胶囊	zuo qiang bing pai qin jiao nang	1
+左羟丙哌嗪颗粒	zuo qiang bing pai qin ke li	1
+左羟丙哌嗪口服液	zuo qiang bing pai qin kou fu ye	1
+左羟丙哌嗪片	zuo qiang bing pai qin pian	1
+左炔诺酮硅胶棒	zuo que nuo tong gui jiao bang	1
 左炔诺孕片	zuo que nuo yun pian	1
 左炔诺孕酮	zuo que nuo yun tong	1
+左炔诺孕酮宫内节育系统	zuo que nuo yun tong gong nei jie yu xi tong	1
+左炔诺孕酮硅胶棒	zuo que nuo yun tong gui jiao bang	1
+左炔诺孕酮聚己内酯棒	zuo que nuo yun tong ju ji nei zhi bang	1
+左炔诺孕酮片	zuo que nuo yun tong pian	1
+左炔诺孕酮片雌醚片	zuo que nuo yun tong pian ci mi pian	1
 左炔诺孕酮炔雌醇	zuo que nuo yun tong que ci chun	1
+左炔诺孕酮炔雌醇三相	zuo que nuo yun tong que ci chun san xiang	1
+左炔诺孕酮炔雌醇三相片	zuo que nuo yun tong que ci chun san xiang pian	1
 左炔诺孕酮炔雌醚	zuo que nuo yun tong que ci mi	1
+左炔诺孕酮炔雌醚片	zuo que nuo yun tong que ci mi pian	1
 佐锐	zuo rui	1
+左室辅助搏动	zuo shi fu zhu bo dong	1
+左室通道	zuo shi tong dao	1
 佐坦	zuo tan	1
+佐细胞	zuo xi bao	1
 左西替利嗪	zuo xi ti li qin	1
+左心引流	zuo xin yin liu	1
+左心转流	zuo xin zhuan liu	1
+左心转流系统	zuo xin zhuan liu xi tong	1
+左胸廓内动脉	zuo xiong kuo nei dong mai	1
 左旋多巴	zuo xuan duo ba	1
+左旋多巴胶囊	zuo xuan duo ba jiao nang	1
+左旋多巴片	zuo xuan duo ba pian	1
+左旋多巴注射液	zuo xuan duo ba zhu she ye	1
 左旋甲状腺素钠	zuo xuan jia zhuang xian su na	1
+左旋甲状腺素钠片	zuo xuan jia zhuang xian su na pian	1
 左旋卡尼汀	zuo xuan ka ni ting	1
+左旋卡尼汀口服液	zuo xuan ka ni ting kou fu ye	1
+左旋卡尼汀注射液	zuo xuan ka ni ting zhu she ye	1
 左旋龙脑	zuo xuan long nao	1
 左旋门冬酰胺酶	zuo xuan men dong xian an mei	1
 左旋咪唑	zuo xuan mi zuo	1
 左旋咪唑宝塔糖	zuo xuan mi zuo bao ta tang	1
+左旋咪唑搽剂	zuo xuan mi zuo cha ji	1
+左旋咪唑肠溶片	zuo xuan mi zuo chang rong pian	1
+左旋咪唑颗粒	zuo xuan mi zuo ke li	1
+左旋咪唑片	zuo xuan mi zuo pian	1
+左旋咪唑栓	zuo xuan mi zuo shuan	1
+左旋咪唑糖浆	zuo xuan mi zuo tang jiang	1
+左旋咪唑丸	zuo xuan mi zuo wan	1
 左旋羟脯氨酸二甲内盐	zuo xuan qiang fu an suan er jia nei yan	1
 左旋水苏碱	zuo xuan shui su jian	1
 左旋糖	zuo xuan tang	1
 左旋体	zuo xuan ti	1
 左旋异构体	zuo xuan yi gou ti	1
 左氧氟沙星	zuo yang fu sha xing	1
+左氧氟沙星滴眼液	zuo yang fu sha xing di yan ye	1
+左氧氟沙星分散片	zuo yang fu sha xing fen san pian	1
+左氧氟沙星胶囊	zuo yang fu sha xing jiao nang	1
+左氧氟沙星片	zuo yang fu sha xing pian	1
+左氧氟沙星葡萄糖注射液	zuo yang fu sha xing pu tao tang zhu she ye	1
+左氧氟沙星注射液	zuo yang fu sha xing zhu she ye	1
 左乙拉西坦	zuo yi la xi tan	1
 佐益汀	zuo yi ting	1
 佐隐宁颗粒	zuo yin ning ke li	1
 作用光谱	zuo yong guang pu	1
 作用凝集素	zuo yong ning ji su	1
 坐珠达西	zuo zhu da xi	1
+坐珠达西丸	zuo zhu da xi wan	1
