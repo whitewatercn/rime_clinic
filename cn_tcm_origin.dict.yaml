@@ -2,8 +2,8 @@
  # encoding: utf-8
  # 更多内容见 https://github.com/whitewatercn/rime_clinic
 ---
-name: cn_tcm
-version: "2024-01-23"
+name: cn_tcm_origin
+version: "2024-09-23"
 sort: by_weight
 ...
 
