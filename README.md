@@ -2,7 +2,7 @@
 
 rime中英医学词库 欢迎补充！
 
-本项目已集成到[rilinic医学输入法](https://github.com/whitewatercn/rilinic)，不再更新
+本项目已集成到[rilinic医学输入法](https://github.com/whitewatercn/rilinic)，你可以直接使用rilinic，一款为医学从业者制作的易用好用的输入法
 
 # 中文词库
 
