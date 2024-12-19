@@ -4,11 +4,13 @@ rime中英医学词库 欢迎补充！
 
 本项目已集成到[rilinic医学输入法](https://github.com/whitewatercn/rilinic)，你可以直接使用rilinic，一款为医学从业者制作的易用好用的输入法
 
-# 中文词库（位于`cn_dict`文件夹）
+# 中文词库（位于 `cn_dict`文件夹）
+
 [详细介绍点此查看](./docs/dict_info.md)
 
 ⚠️注意⚠️挂载词库时请逐个挂载后部署，一次挂载多个大词库后部署可占用大量内存导致电脑卡死
 简略介绍
+
 ```mermaid
 mindmap
    中文医学词库
@@ -31,10 +33,13 @@ mindmap
             cn_medicine_list_origin （太大，不建议直接用）中西医药物大词库，包括中药，中成药、西药、西药制剂，正在拆分成小词库
                 cn_medicine_list_dedulplicate 拆分到其他词库后剩下的词
 ```
-# 英文词库（位于`en_dict`文件夹）
+
+# 英文词库（位于 `en_dict`文件夹）
+
 [详细介绍点此查看](./docs/dict_info.md)
 
 ⚠️注意⚠️挂载词库时请逐个挂载后部署，一次挂载多个大词库后部署可占用大量内存导致电脑卡死
+
 ```mermaid
 mindmap
    英文医学医学词库
@@ -49,18 +54,15 @@ mindmap
             en_clinic_origin （太大，不建议直接用）英文医学大词库，包括疾病、药物等，正在拆分成小词库
         中医暂无
 ```
-⚠️注意⚠️挂载词库时请逐个挂载后部署，一次挂载多个大词库后部署可占用大量内存导致电脑卡死
 
+⚠️注意⚠️挂载词库时请逐个挂载后部署，一次挂载多个大词库后部署可占用大量内存导致电脑卡死
 
 # 感谢
 
 - [深蓝词库转换](https://github.com/studyzy/imewlconverter)：本仓库的很多词库由搜狗等词库使用该工具转换而来，使用方法见[如何在Linux上使用深蓝词库转换（以Google colab为例——基于Ubuntu）](https://forum.beginner.center/t/topic/719)
-
 - [rime-ice](https://github.com/iDvel/rime-ice)：该项目作者提供了rime相关的很多帮助
-
-- [hallelujahIM(哈利路亚英文输入法)](https://github.com/dongyuwei/hallelujahIM) ：该项目直接提供了`google.dict.yaml`词库来源
+- [hallelujahIM(哈利路亚英文输入法)](https://github.com/dongyuwei/hallelujahIM) ：该项目直接提供了 `google.dict.yaml`词库来源
 - [Rimetool](https://github.com/whitewatercn/rimetool)：为了满足更多需求，本人开发的多功能rime工具
-
 - 
 
 # 版权
@@ -68,5 +70,8 @@ mindmap
 词库收集自互联网公开信息，如侵犯版权请联系删除
 
 ## Star History
+
+
+![Star History Chart](https://api.star-history.com/svg?repos=whitewatercn/rime_clinic&type=Date)
 
 ![Alt](https://repobeats.axiom.co/api/embed/ddc3e1b371f832d3eee829ecaca1266b4bffbc11.svg "Repobeats analytics image")
