@@ -10,7 +10,7 @@ rime中英医学词库 欢迎补充！
 
 | 文件名                                     | 主要内容                                                                                                                                                                             | 词条数量（非及时更新 | 推荐等级 |
 | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- |
-| cn_tcm.dict.yaml                        | 中医医学词汇<br />比较大，建议挂载其他小词库<br />[来源](https://pinyin.sogou.com/dict/detail/index/2739)                                                                                             |            |      |
+| cn_tcm_origin.dict.yaml                        | 中医医学词汇<br />比较大，建议挂载其他小词库<br />[来源](https://pinyin.sogou.com/dict/detail/index/2739)                                                                                             |            |      |
 | cn_tcm_clinician.dict.yaml              | 中医临床家姓名录，如张仲景，胡希恕                                                                                                                                                                |            |      |
 | cn_tcm_herb_medicine.dict.yaml          | 中文**中药词库**，基于`cn_medicine_list.dict.yaml`和`cn_tcm.dict.yaml`简化➕个人补充，仅包含中药名，如`桑枝`                                                                                                 |            |      |
 | cn_tcm_patent_medicine.dict.yaml        | 中文**中成药词库**，基于`cn_medicine_list.dict.yaml`和`cn_medicine_list.dict.yaml`简化➕个人补充，仅包含中成药名，如`加味逍遥散`                                                                                  |            |      |
