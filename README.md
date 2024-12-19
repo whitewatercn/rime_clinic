@@ -18,7 +18,6 @@ mindmap
             cn_tcm_origin （太大，不建议直接用）中医大词库，包括穴位、中药、方剂等，正在拆分成小词库
 				cn_tcm_dedulplicate （可用）拆分到其他词库后剩下的词
             cn_tcm_herb （暂不可用）中药词库，正在从cn_tcm_origin拆分，建议使用cn_tcm_dedulplicate
-
             cn_tcm_patent （可用）中成药词库
             cn_tcm_clinician （可用）中医临床家词库
             cn_tcm_formula （可用）方剂词库（现已集合伤寒论）
@@ -44,13 +43,13 @@ mindmap
 mindmap
    英文医学医学词库
         通用
-            en_google 高频通用英文词汇
+            en_google （可用）高频通用英文词汇
         西医
             en_MAVL （推荐使用）高频西医词汇
-            en_disease 英文疾病名
-            en_anatomy 英文解剖
-            en_medication 英文药物
-            en_medical_speciality 英文医学专业
+            en_disease （可用）英文疾病名
+            en_anatomy （可用）英文解剖
+            en_medication （可用）英文药物
+            en_medical_speciality （可用）英文医学专业
             en_clinic_origin （太大，不建议直接用）英文医学大词库，包括疾病、药物等，正在拆分成小词库
         中医暂无
 ```
