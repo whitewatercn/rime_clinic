@@ -1,3 +1,7 @@
+
+
+[简体中文](https://github.com/whitewatercn/rime_clinic/blob/master/README.md)  | [English](https://github.com/whitewatercn/rime_clinic/blob/master/docs/README_en.md) 
+
 # 项目介绍
 
 rime中英医学词库 欢迎补充！
