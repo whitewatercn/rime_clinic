@@ -8,7 +8,7 @@ This project has been integrated into [rilinic Medical Input Method](https://git
 
 # Chinese Dictionary (located in the `cn_dict` folder)
 
-[Click here for detailed introduction](./docs/dict_info.md)
+[Click here for detailed introduction](https://github.com/whitewatercn/rime_clinic/blob/master/docs/dict_info.md)
 
 ⚠️Note⚠️ Please mount the dictionaries one by one and then deploy. Mounting and deploying multiple large dictionaries at once can occupy a large amount of memory and cause the computer to freeze.
 
