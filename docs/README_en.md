@@ -35,7 +35,7 @@ flowchart LR
 
 # English Dictionary (located in the `en_dict` folder)
 
-[Click here for detailed introduction](./docs/dict_info.md)
+[Click here for detailed introduction](https://github.com/whitewatercn/rime_clinic/blob/master/docs/dict_info.md)
 
 ⚠️Note⚠️ Please mount the dictionaries one by one and then deploy. Mounting and deploying multiple large dictionaries at once can occupy a large amount of memory and cause the computer to freeze.
 
@@ -58,9 +58,9 @@ flowchart LR
 
 # Acknowledgements
 
-- [Deep Blue Dictionary Converter](https://github.com/studyzy/imewlconverter): Many dictionaries in this repository were converted from Sogou and other dictionaries using this tool. For usage, see [How to use Deep Blue Dictionary Converter on Linux (example with Google Colab - based on Ubuntu)](https://forum.beginner.center/t/topic/719)
+- [深蓝词库转换](https://github.com/studyzy/imewlconverter): Many dictionaries in this repository were converted from Sogou and other dictionaries using this tool. For usage, see [How to use Deep Blue Dictionary Converter on Linux (example with Google Colab - based on Ubuntu)](https://forum.beginner.center/t/topic/719)
 - [rime-ice](https://github.com/iDvel/rime-ice): The author of this project provided a lot of help related to Rime.
-- [hallelujahIM (Hallelujah English Input Method)](https://github.com/dongyuwei/hallelujahIM): This project directly provided the source of the `google.dict.yaml` dictionary.
+- [Hallelujah英文输入法](https://github.com/dongyuwei/hallelujahIM): This project directly provided the source of the `google.dict.yaml` dictionary.
 - [Rimetool](https://github.com/whitewatercn/rimetool): A multifunctional Rime tool developed by me to meet more needs.
 - 
 
