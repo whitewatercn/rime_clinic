@@ -4,11 +4,20 @@
 
 # 项目介绍
 
-rime中英医学词库 欢迎补充！
+rime医学输入法，集成中英医学词库，开箱即用。欢迎补充修改提意见！
 
-本项目已集成到[rilinic医学输入法](https://github.com/whitewatercn/rilinic)，你可以直接使用rilinic，一款为医学从业者制作的易用好用的输入法
+原始配置和词库基于[白霜拼音](https://github.com/iDvel/rime-ice)的 [d441930](https://github.com/gaboolic/rime-frost/commit/d441930f657d797979797220eee3c45430dc20f6) commit。
 
-# 中文词库（位于 `cn_dict`文件夹）
+医学词库位于`clinic_dicts`文件夹中
+
+# 常见问题
+
+- 如何使用rime医学输入法？参考雾凇拼音的[使用说明](https://github.com/iDvel/rime-ice?tab=readme-ov-file#%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85)
+- 如何从其他rime输入方案迁移数据到本方案？参考白霜拼音的[这个issue](https://github.com/gaboolic/rime-frost/issues/106)
+
+
+
+# 中文词库（位于 `clinic_dicts/cn_dict`文件夹）
 
 [详细介绍点此查看](./docs/dict_info.md)
 
@@ -36,7 +45,7 @@ flowchart LR
     cn_medicine_list_origin --> cn_medicine_list_dedulplicate["`cn_medicine_list_dedulplicate 拆分到其他词库后剩下的词`"]        
 ```
 
-# 英文词库（位于 `en_dict`文件夹）
+# 英文词库（位于 `clinic_dicts/en_dict`文件夹）
 
 [详细介绍点此查看](./docs/dict_info.md)
 
