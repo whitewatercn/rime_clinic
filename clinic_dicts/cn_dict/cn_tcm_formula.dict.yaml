@@ -1,0 +1,120 @@
+ # Rime extended dictionary
+ # encoding: utf-8
+ # 更多内容见 https://github.com/whitewatercn/rime_clinic
+ # 中药方剂
+---
+name: cn_tcm_formula
+version: "2024-10-28"
+sort: by_weight
+...
+
+
+# 伤寒论
+桂枝汤	gui zhi tang	1
+桂枝加桂汤	gui zhi jia gui tang	1
+桂枝加芍药汤	gui zhi jia shao yao tang	1
+桂枝加大黄汤	gui zhi jia dai huang tang	1
+桂枝加厚朴杏子汤	gui zhi jia hou po xing zi tang	1
+桂枝加附子汤	gui zhi jia fu zi tang	1
+挂枝去芍药汤	gua zhi qu shao yao tang	1
+桂枝去芍药加附子汤	gui zhi qu shao yao jia fu zi tang	1
+桂枝去芍药加蜀漆牡蛎龙骨救逆汤	gui zhi qu shao yao jia shu qi mu li long gu jiu ni tang	1
+桂枝甘草龙骨牡蛎汤	gui zhi gan cao long gu mu li tang	1
+桂枝人参汤	gui zhi ren shen tang	1
+桂枝附子汤	gui zhi fu zi tang	1
+桂枝去桂加茯苓白朮汤	gui zhi qu gui jia fu ling bai shu tang	1
+桂枝加芍药生姜各一两人参三两新加汤	gui zhi jia shao yao sheng jiang ge yi liang ren shen san liang xin jia tang	1
+麻黄汤	ma huang tang	1
+大青龙汤	da qing long tang	1
+小青龙汤	xiao qing long tang	1
+桂枝麻黄各半汤	gui zhi ma huang ge ban tang	1
+桂枝二麻黄一汤	gui zhi er ma huang yi tang	1
+桂枝二越婢一汤	gui zhi er yue bi yi tang	1
+麻黄细辛附子汤	ma huang xi xin fu zi tang	1
+麻黄附子甘草汤	ma huang fu zi gan cao tang	1
+麻黄杏仁甘草石膏汤	ma huang xing ren gan cao shi gao tang	1
+麻黄连轺赤小豆汤	ma huang lian yao chi xiao dou tang	1
+葛根汤	ge gen tang	1
+葛根加半夏汤	ge gen jia ban xia tang	1
+葛根黄芩黄连汤	ge gen huang qin huang lian tang	1
+桂枝加葛根汤	gui zhi jia ge gen tang	1
+白虎汤	bai hu tang	1
+白虎加人参汤	bai hu jia ren shen tang	1
+竹叶石膏汤	zhu ye shi gao tang	1
+调胃承气汤	diao wei cheng qi tang	1
+小承气汤	xiao cheng qi tang	1
+桃核承气汤	tao he cheng qi tang	1
+抵当汤	di dang tang	1
+大陷胸汤	da xian xiong tang	1
+小陷胸汤	xiao xian xiong tang	1
+十枣汤	shi zao tang	1
+栀子豉汤	zhi zi shi tang	1
+栀子甘草豉汤	zhi zi gan cao shi tang	1
+栀子生姜鼓汤	zhi zi sheng jiang gu tang	1
+栀子厚朴汤	zhi zi hou po tang	1
+栀子干姜汤	zhi zi gan jiang tang	1
+栀子柏皮汤	zhi zi bai pi tang	1
+茵陈蒿汤	yin chen hao tang	1
+枳实栀子豉汤	zhi shi zhi zi shi tang	1
+小柴胡汤	xiao chai hu tang	1
+大柴胡汤	da chai hu tang	1
+柴胡加芒硝汤	chai hu jia mang xiao tang	1
+柴胡桂枝汤	chai hu gui zhi tang	1
+柴胡桂枝干姜汤	chai hu gui zhi gan jiang tang	1
+柴胡加龙骨牡蛎汤	chai hu jia long gu mu li tang	1
+黄芩汤	huang qin tang	1
+黄芩加半夏生姜汤	huang qin jia ban xia sheng jiang tang	1
+大黄黄连泻心汤	dai huang huang lian xie xin tang	1
+附子泻心汤	fu zi xie xin tang	1
+甘草泻心汤	gan cao xie xin tang	1
+半夏泻心汤	ban xia xie xin tang	1
+生姜泻心汤	sheng jiang xie xin tang	1
+干姜黄芩黄连人参汤	gan jiang huang qin huang lian ren shen tang	1
+黄连汤	huang lian tang	1
+旋复代赭汤	xuan fu dai zhe tang	1
+四逆汤	si ni tang	1
+通脉四逆汤	tong mai si ni tang	1
+通脉四逆加猪胆汁汤	tong mai si ni jia zhu dan zhi tang	1
+干姜附子汤	gan jiang fu zi tang	1
+四逆加人参汤	si ni jia ren shen tang	1
+茯苓四逆汤	fu ling si ni tang	1
+四逆加人参汤	si ni jia ren shen tang	1
+附子汤	fu zi tang	1
+真武汤	zhen wu tang	1
+白通汤	bai tong tang	1
+当归四逆汤	dang gui si ni tang	1
+当归四逆加吴茱萸生姜汤	dang gui si ni jia wu zhu yu sheng jiang tang	1
+甘草汤	gan cao tang	1
+桔梗汤	jie geng tang	1
+桂枝甘草汤	gui zhi gan cao tang	1
+甘草干姜汤	gan cao gan jiang tang	1
+芍药甘草汤	shao yao gan cao tang	1
+芍药甘草附子汤	shao yao gan cao fu zi tang	1
+茯苓甘草汤	fu ling gan cao tang	1
+茯苓桂枝甘草大枣汤	fu ling gui zhi gan cao da zao tang	1
+茯苓桂枝白朮甘草汤	fu ling gui zhi bai shu gan cao tang	1
+厚朴生姜半夏甘草人参汤	hou po sheng jiang ban xia gan cao ren shen tang	1
+小建中汤	xiao jian zhong tang	1
+炙甘草汤	zhi gan cao tang	1
+理中丸	li zhong wan	1
+乌梅丸	wu mei wan	1
+蜜煎导	mi jian dao	1
+抵当丸	di dang wan	1
+大陷胸丸	da xian xiong wan	1
+五苓散	wu ling san	1
+文蛤散	wen ge san	1
+白散	bai san	1
+半夏散及汤	ban xia san ji tang	1
+瓜蒂散	gua di san	1
+牡蛎泽泻散	mu li ze xie san	1
+烧褌散	shao kun san	1
+赤石脂禹余粮汤	chi shi zhi yu yu liang tang	1
+桃花汤	tao hua tang	1
+猪苓汤	zhu ling tang	1
+吴莱萸汤	wu lai yu tang	1
+麻黄升麻汤	ma huang sheng ma tang	1
+黄连阿胶汤	huang lian e jiao tang	1
+苦酒汤	ku jiu tang	1
+猪肤汤	zhu fu tang	1
+白头翁汤	bai tou weng tang	1
+

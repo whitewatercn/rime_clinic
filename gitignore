@@ -1,0 +1,18 @@
+# 项目目录及其他项目文件
+.DS_Store
+.vscode/
+clinic_dicts/.tools/
+
+
+# rime工作目录
+build/
+sync/
+*.userdb/
+installation.yaml
+user.yaml
+*.custom.yaml
+!others/**/*.custom.yaml
+
+# 个人数据
+rime_frost.userdb/
+custom_phrase.txt
