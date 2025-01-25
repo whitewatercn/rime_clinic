@@ -14,6 +14,9 @@ rime医学输入法，集成中英医学词库，开箱即用。欢迎补充修�
 
 - 如何使用rime医学输入法？参考雾凇拼音的[使用说明](https://github.com/iDvel/rime-ice?tab=readme-ov-file#%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85)
 - 如何从其他rime输入方案迁移数据到本方案？参考白霜拼音的[这个issue](https://github.com/gaboolic/rime-frost/issues/106)
+- 输出的内容旁边的*星号、⚡闪电、𑄗无限是什么意思？[详见这里](https://github.com/gaboolic/rime-frost/issues/12)
+
+
 
 
 
@@ -72,9 +75,10 @@ flowchart LR
 
 - [深蓝词库转换](https://github.com/studyzy/imewlconverter)：本仓库的很多词库由搜狗等词库使用该工具转换而来，使用方法见[如何在Linux上使用深蓝词库转换（以Google colab为例——基于Ubuntu）](https://forum.beginner.center/t/topic/719)
 - [rime-ice](https://github.com/iDvel/rime-ice)：该项目作者提供了rime相关的很多帮助
+- [rime-frost](https://github.com/gaboolic/rime-frost)：该项目基于rime-ice进行了很多词库优化
 - [hallelujahIM(哈利路亚英文输入法)](https://github.com/dongyuwei/hallelujahIM) ：该项目直接提供了 `google.dict.yaml`词库来源
-- [Rimetool](https://github.com/whitewatercn/rimetool)：为了满足更多需求，本人开发的多功能rime工具
-- 
+- [rimetool](https://github.com/whitewatercn/rimetool)：为了满足更多需求，本人开发的多功能rime工具
+- [RIME-LMDG](https://github.com/amzxyz/RIME-LMDG)：基于32GB超大规模语料的RIME中文语法模型与词库构建
 
 # 版权
 

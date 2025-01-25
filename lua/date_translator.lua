@@ -7,6 +7,14 @@ local function yield_cand(seg, text)
     yield(cand)
 end
 
+local function get_lunar_date()
+    -- Placeholder for actual lunar date calculation
+    local lunar = require('lunar')  -- Hypothetical lunar library
+    local current_time = os.time()
+    local lunar_date = lunar.to_lunar(os.date('*t', current_time))
+    return string.format("农历 %s年%s月%s日", lunar_date.year, lunar_date.month, lunar_date.day)
+end
+
 local M = {}
 
 function M.init(env)
@@ -17,6 +25,7 @@ function M.init(env)
     M.week = config:get_string(env.name_space .. '/week') or 'xq'
     M.datetime = config:get_string(env.name_space .. '/datetime') or 'dt'
     M.timestamp = config:get_string(env.name_space .. '/timestamp') or 'ts'
+    M.lunar_date = config:get_string(env.name_space .. '/lunar_date') or 'nl'
 end
 
 function M.func(input, seg, env)
@@ -55,6 +64,11 @@ function M.func(input, seg, env)
     elseif (input == M.timestamp) then
         local current_time = os.time()
         yield_cand(seg, string.format('%d', current_time))
+
+    -- 农历日期
+    elseif (input == M.lunar_date) then
+        local lunar_date = get_lunar_date()
+        yield_cand(seg, lunar_date)
     end
 
     -- -- 显示内存
