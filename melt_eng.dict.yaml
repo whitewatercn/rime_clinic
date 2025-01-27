@@ -14,6 +14,7 @@ import_tables:
   # - clinic_dicts/en_dict/en_medical_speciality # 英语医学专业
   - clinic_dicts/en_dict/en_anatomy # 英语解剖学
   - clinic_dicts/en_dict/en_medication # 英语药物
+  - clinic_dicts/en_dict/en_respiratory  # 英语呼吸系统
 # 大词库
   # - clinic_dicts/en_dict/en_google  # 谷歌词库
 ...

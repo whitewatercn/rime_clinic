@@ -65,6 +65,7 @@ flowchart LR
     西医[西医] --> en_medication["`en_medication （可用）英文药物`"]
     西医[西医] --> en_medical_speciality["`en_medical_speciality （可用）英文医学专业`"]
     西医[西医] --> en_clinic_origin["`en_clinic_origin （太大，不建议直接用）英文医学大词库，包括疾病、药物等，正在拆分成小词库`"]
+    西医[西医] --> en_respiratory["`en_respiratory 英文呼吸科词库`"]
     中医[中医暂无]
 
 ```

@@ -1,0 +1,493 @@
+# Rime dictionary
+# encoding: utf-8
+#
+#
+# https://github.com/whitewatercn/rime-clinic
+
+---
+name: en_respiratory
+version: "2025-01-27"
+sort: by_weight
+...
+# +_+
+
+AARC	AARC	1
+ABG Calculator	ABGCalculator	1
+Accessory Muscles of Breathing	AccessoryMusclesofBreathing	1
+Acid-Base Balance	AcidBaseBalance	1
+Acute Exacerbation of COPD	AcuteExacerbationofCOPD	1
+Acute Respiratory Distress Syndrome (ARDS)	AcuteRespiratoryDistressSyndromeARDS	1
+Adult Croup	AdultCroup	1
+Advanced Cardiac Life Support (ACLS)	AdvancedCardiacLifeSupportACLS	1
+Advanced Directive	AdvancedDirective	1
+Aerophagia	Aerophagia	1
+Aerosol Medication	AerosolMedication	1
+Agonal Breathing	AgonalBreathing	1
+Airborne Particles	AirborneParticles	1
+Air Bronchograms	AirBronchograms	1
+Airway Clearance Therapy	AirwayClearanceTherapy	1
+Airway Management	AirwayManagement	1
+Airway Obstruction	AirwayObstruction	1
+Airway Pressure Release Ventilation (APRV)	AirwayPressureReleaseVentilationAPRV	1
+Airway Resistance	AirwayResistance	1
+Airway Suctioning	AirwaySuctioning	1
+Albuterol	Albuterol	1
+Alveolar-Arterial Gradient (A-a Gradient)	AlveolarArterialGradientAaGradient	1
+Alveolar-Capillary Membrane	AlveolarCapillaryMembrane	1
+Alveolar Gas Equation	AlveolarGasEquation	1
+Alveolar Ventilation	AlveolarVentilation	1
+Alveoli	Alveoli	1
+Anatomic Dead Space	AnatomicDeadSpace	1
+Anion Gap	AnionGap	1
+Anticholinergic Bronchodilators	AnticholinergicBronchodilators	1
+Antimicrobial Agents	AntimicrobialAgents	1
+Anti-Mucus Diet	AntiMucusDiet	1
+Apgar Score	ApgarScore	1
+Apnea	Apnea	1
+Apnea Monitor	ApneaMonitor	1
+Apnea of Prematurity	ApneaofPrematurity	1
+Apneustic Breathing	ApneusticBreathing	1
+Arterial Blood Gas (ABG)	ArterialBloodGasABG	1
+Arterial Line (A-line)	ArterialLineAline	1
+Artificial Airway	ArtificialAirway	1
+Assist/Control Mode (A/C)	AssistControlModeAC	1
+Asthma	Asthma	1
+Atelectasis	Atelectasis	1
+Auscultation	Auscultation	1
+Automatic External Defibrillator (AED)	AutomaticExternalDefibrillatorAED	1
+Auto-PEEP	AutoPEEP	1
+Barotrauma	Barotrauma	1
+Barrel Chest	BarrelChest	1
+Base Excess (BE)	BaseExcessBE	1
+Beta-2 Agonist	Beta2Agonist	1
+Bicarbonate (HCO3-)	BicarbonateHCO3	1
+Bilevel Positive Airway Pressure (BiPAP)	BilevelPositiveAirwayPressureBiPAP	1
+Biot’s Respirations	BiotsRespirations	1
+Bird Flu	BirdFlu	1
+Bland Aerosol Therapy	BlandAerosolTherapy	1
+Blood Gas Analyzer	BloodGasAnalyzer	1
+Body Plethysmography	BodyPlethysmography	1
+Bohr Effect	BohrEffect	1
+Bourdon Gauge	BourdonGauge	1
+Bradycardia	Bradycardia	1
+Bradypnea	Bradypnea	1
+Breath Sounds	BreathSounds	1
+Breathing Pattern	BreathingPattern	1
+Breathing Reflex	BreathingReflex	1
+Breathing Treatment	BreathingTreatment	1
+Breathometer	Breathometer	1
+Bronchiectasis	Bronchiectasis	1
+Bronchitis	Bronchitis	1
+Bronchoalveolar Lavage (BAL)	BronchoalveolarLavageBAL	1
+Bronchoconstriction	Bronchoconstriction	1
+Bronchodilator	Bronchodilator	1
+Bronchodilator Reversibility Test	BronchodilatorReversibilityTest	1
+Bronchoprovocation Study	BronchoprovocationStudy	1
+Bronchopulmonary Dysplasia (BPD)	BronchopulmonaryDysplasiaBPD	1
+Bronchoscopy	Bronchoscopy	1
+Bubble Humidifier	BubbleHumidifier	1
+Bullous Emphysema	BullousEmphysema	1
+Cape Cyanosis	CapeCyanosis	1
+Capillaries	Capillaries	1
+Capillary Blood Gas (CBG)	CapillaryBloodGasCBG	1
+Capnography	Capnography	1
+Carbon Dioxide Transport	CarbonDioxideTransport	1
+Carbon Monoxide Poisoning	CarbonMonoxidePoisoning	1
+Carboxyhemoglobin	Carboxyhemoglobin	1
+Cardiac Electrophysiology	CardiacElectrophysiology	1
+Cardiac Output	CardiacOutput	1
+Cardiac Tamponade	CardiacTamponade	1
+Cardiogenic Pulmonary Edema	CardiogenicPulmonaryEdema	1
+Cardiopulmonary Diseases	CardiopulmonaryDiseases	1
+Cardiopulmonary Rehabilitation	CardiopulmonaryRehabilitation	1
+Cardiopulmonary Resuscitation (CPR)	CardiopulmonaryResuscitationCPR	1
+Cardiovascular Life Support	CardiovascularLifeSupport	1
+Cardioversion	Cardioversion	1
+Carina	Carina	1
+Central Sleep Apnea	CentralSleepApnea	1
+Centrilobular Emphysema	CentrilobularEmphysema	1
+Chest Percussion	ChestPercussion	1
+Chest Physical Therapy (CPT)	ChestPhysicalTherapyCPT	1
+Chest Radiograph	ChestRadiograph	1
+Chest Trauma	ChestTrauma	1
+Cheyne-Stokes Respiration	CheyneStokesRespiration	1
+Chronic Bronchitis	ChronicBronchitis	1
+Chronic Cough	ChronicCough	1
+Chronic Obstructive Pulmonary Disease (COPD)	ChronicObstructivePulmonaryDiseaseCOPD	1
+Cilia	Cilia	1
+Clinical Sims Exam Diseases	ClinicalSimsExamDiseases	1
+Clinical Simulation Exam (CSE)	ClinicalSimulationExamCSE	1
+Code of Ethics	CodeofEthics	1
+Committee on Accreditation for Respiratory Care (CoARC)	CommitteeonAccreditationforRespiratoryCareCoARC	1
+Complete Blood Count	CompleteBloodCount	1
+Computed Tomography (CT)	ComputedTomographyCT	1
+Congenital Cardiac Defect	CongenitalCardiacDefect	1
+Congenital Diaphragmatic Hernia	CongenitalDiaphragmaticHernia	1
+Congestive Heart Failure (CHF)	CongestiveHeartFailureCHF	1
+Contact Precautions	ContactPrecautions	1
+Continuous Positive Airway Pressure (CPAP)	ContinuousPositiveAirwayPressureCPAP	1
+Continuous Mandatory Ventilation (CMV)	ContinuousMandatoryVentilationCMV	1
+COPD	COPD	1
+Cor Pulmonale	CorPulmonale	1
+Coronary Artery Bypass Graft (CABG)	CoronaryArteryBypassGraftCABG	1
+Coronary Artery Disease	CoronaryArteryDisease	1
+Coughing Up Mucus	CoughingUpMucus	1
+COVID-19	COVID19	1
+CPAP Belly Syndrome	CPAPBellySyndrome	1
+Crackles	Crackles	1
+Cricothyrotomy	Cricothyrotomy	1
+Croup	Croup	1
+Croup Tent	CroupTent	1
+CRT	CRT	1
+Cyanosis	Cyanosis	1
+Cystic Fibrosis	CysticFibrosis	1
+Dead Space	DeadSpace	1
+Defibrillation	Defibrillation	1
+Depth of Respiration	DepthofRespiration	1
+Diaphoresis	Diaphoresis	1
+Diaphragm	Diaphragm	1
+Diffusing Capacity of the Lungs for Carbon Monoxide (DLCO)	DiffusingCapacityoftheLungsforCarbonMonoxideDLCO	1
+Diminished Breath Sounds	DiminishedBreathSounds	1
+Disease X	DiseaseX	1
+Diuretic Agents	DiureticAgents	1
+DOPE Mnemonic	DOPEMnemonic	1
+Dorsal Recumbent Position	DorsalRecumbentPosition	1
+Droplet Precautions	DropletPrecautions	1
+Drug Overdose	DrugOverdose	1
+DuoNeb	DuoNeb	1
+Dyspnea	Dyspnea	1
+Elasticity	Elasticity	1
+Electrocardiogram (EKG)	ElectrocardiogramEKG	1
+Emphysema	Emphysema	1
+Endotracheal Tube	EndotrachealTube	1
+End-Tidal CO2 Monitoring	EndTidalCO2Monitoring	1
+Epiglottis	Epiglottis	1
+Erythrocyte	Erythrocyte	1
+Esophagus	Esophagus	1
+Exhalation Valve	ExhalationValve	1
+Expiratory Reserve Volume (ERV)	ExpiratoryReserveVolumeERV	1
+Extracellular Fluid	ExtracellularFluid	1
+Extracorporeal Membrane Oxygenation (ECMO)	ExtracorporealMembraneOxygenationECMO	1
+Extubation	Extubation	1
+Fenestrated Tracheostomy Tube	FenestratedTracheostomyTube	1
+Fetal Circulation	FetalCirculation	1
+Fetal Lung Development	FetalLungDevelopment	1
+FEV1	FEV1	1
+FEV1/FVC Ratio	FEV1FVCRatio	1
+Flail Chest	FlailChest	1
+Flexible Bronchoscopy	FlexibleBronchoscopy	1
+Flowmeter	Flowmeter	1
+Flow Rate	FlowRate	1
+Flow-Volume Loop	FlowVolumeLoop	1
+Flutter Valve	FlutterValve	1
+Forced Expiration Technique (FET)	ForcedExpirationTechniqueFET	1
+Forced Vital Capacity (FVC)	ForcedVitalCapacityFVC	1
+Fraction of Inspired Oxygen (FiO2)	FractionofInspiredOxygenFiO2	1
+Functional Residual Capacity (FRC)	FunctionalResidualCapacityFRC	1
+Gas Distribution Tests	GasDistributionTests	1
+Gas Exchange	GasExchange	1
+Gas Exchange Ratio	GasExchangeRatio	1
+Glasgow Coma Scale (GCS)	GlasgowComaScaleGCS	1
+Gastroesophageal Reflux Disease (GERD)	GastroesophagealRefluxDiseaseGERD	1
+Grunting	Grunting	1
+Guillain-Barré Syndrome	GuillainBarréSyndrome	1
+Haldane Effect	HaldaneEffect	1
+Head Trauma	HeadTrauma	1
+Heart Rate (HR)	HeartRateHR	1
+Heat and Moisture Exchanger (HME)	HeatandMoistureExchangerHME	1
+Heliox	Heliox	1
+Hemodynamic Monitoring	HemodynamicMonitoring	1
+Hemoglobin	Hemoglobin	1
+Hemoptysis	Hemoptysis	1
+Hemothorax	Hemothorax	1
+High-Flow Nasal Cannula (HFNC)	HighFlowNasalCannulaHFNC	1
+High-Frequency Chest Wall Compression (HFCW)	HighFrequencyChestWallCompressionHFCW	1
+High-Frequency Oscillatory Ventilation (HFOV)	HighFrequencyOscillatoryVentilationHFOV	1
+History of Respiratory Care	HistoryofRespiratoryCare	1
+Humidification Therapy	HumidificationTherapy	1
+Hypercapnia	Hypercapnia	1
+Hyperoxia	Hyperoxia	1
+Hyperpnea	Hyperpnea	1
+Hypertension	Hypertension	1
+Hyperventilation	Hyperventilation	1
+Hypocapnia	Hypocapnia	1
+Hypotension	Hypotension	1
+Hypoventilation	Hypoventilation	1
+Hypoxemia	Hypoxemia	1
+Hypoxia	Hypoxia	1
+Incentive Spirometry	IncentiveSpirometry	1
+Indoor Air Quality	IndoorAirQuality	1
+Inhaled Anti-Infective Agents	InhaledAntiInfectiveAgents	1
+Inhaled Corticosteroids	InhaledCorticosteroids	1
+Inhaled Nitric Oxide (iNO)	InhaledNitricOxideiNO	1
+Inhaled Pulmonary Vasodilators	InhaledPulmonaryVasodilators	1
+Inspiratory Capacity (IC)	InspiratoryCapacityIC	1
+Inspiratory Flow Rate	InspiratoryFlowRate	1
+Inspiratory Pressure	InspiratoryPressure	1
+Inspiratory-to-Expiratory Ratio (I:E Ratio)	InspiratorytoExpiratoryRatioIERatio	1
+Inspiratory Reserve Volume (IRV)	InspiratoryReserveVolumeIRV	1
+Intermittent Positive Pressure Breathing (IPPB)	IntermittentPositivePressureBreathingIPPB	1
+Interstitial Lung Disease (ILD)	InterstitialLungDiseaseILD	1
+Intrapulmonary Percussive Ventilation (IPV)	IntrapulmonaryPercussiveVentilationIPV	1
+Intrapulmonary Shunt	IntrapulmonaryShunt	1
+Intubation	Intubation	1
+Inverse Ratio Ventilation	InverseRatioVentilation	1
+Iron Lung	IronLung	1
+Jaundice	Jaundice	1
+Joint Commission	JointCommission	1
+Jugular Venous Distention	JugularVenousDistention	1
+Kerley B Lines	KerleyBLines	1
+Kussmaul Respiration	KussmaulRespiration	1
+Kyphoscoliosis	Kyphoscoliosis	1
+Laminar Flow	LaminarFlow	1
+Laryngopharyngeal Reflux	LaryngopharyngealReflux	1
+Laryngoscope	Laryngoscope	1
+Larynx	Larynx	1
+Leukocyte	Leukocyte	1
+Life2000 Ventilator	Life2000Ventilator	1
+Lung Cancer	LungCancer	1
+Lung Capacity	LungCapacity	1
+Lung Compliance	LungCompliance	1
+Lung Consolidation	LungConsolidation	1
+Lung Damage	LungDamage	1
+Lung Expansion Therapy	LungExpansionTherapy	1
+Lung Fissure	LungFissure	1
+Lung Infection	LungInfection	1
+Lung Infiltrates	LungInfiltrates	1
+Lung Lobe	LungLobe	1
+Lung Parenchyma	LungParenchyma	1
+Lymph	Lymph	1
+Magnetic Resonance Imaging (MRI)	MagneticResonanceImagingMRI	1
+Mallampati Score	MallampatiScore	1
+Mandatory Breath	MandatoryBreath	1
+Mandatory Minute Ventilation (MMV)	MandatoryMinuteVentilationMMV	1
+Mean Airway Pressure	MeanAirwayPressure	1
+Mechanical Insufflation-Exsufflation	MechanicalInsufflationExsufflation	1
+Mechanical Ventilation	MechanicalVentilation	1
+Mechanical Ventilation Monitoring	MechanicalVentilationMonitoring	1
+Mechanical Ventilator	MechanicalVentilator	1
+Meconium Aspiration Syndrome	MeconiumAspirationSyndrome	1
+Medical Gas Therapy	MedicalGasTherapy	1
+Metabolic Acidosis	MetabolicAcidosis	1
+Metabolic Alkalosi	MetabolicAlkalosi	1
+MetaNeb	MetaNeb	1
+Methacholine Challenge Test	MethacholineChallengeTest	1
+Methylxanthine	Methylxanthine	1
+Military Respiratory Therapist	MilitaryRespiratoryTherapist	1
+Minute Ventilation	MinuteVentilation	1
+Mixed Venous Oxygen Saturation (SvO2)	MixedVenousOxygenSaturationSvO2	1
+Modified Allen Test	ModifiedAllenTest	1
+Modified Borg Dyspnea Scale (MBS)	ModifiedBorgDyspneaScaleMBS	1
+Morning Cough	MorningCough	1
+Mucolytic Agents	MucolyticAgents	1
+Mucus	Mucus	1
+Mucus Disorders	MucusDisorders	1
+Mucus Plug	MucusPlug	1
+Muscular Dystrophy	MuscularDystrophy	1
+Myasthenia Gravis	MyastheniaGravis	1
+Myocardial Infarction	MyocardialInfarction	1
+Nasal Cannula	NasalCannula	1
+Nasal Flaring	NasalFlaring	1
+Nasopharynx	Nasopharynx	1
+National Board for Respiratory Care (NBRC)	NationalBoardforRespiratoryCareNBRC	1
+Nebulizer	Nebulizer	1
+Neonatal Mechanical Ventilation	NeonatalMechanicalVentilation	1
+Neonatal/Pediatric Patient Assessment	NeonatalPediatricPatientAssessment	1
+Neonatal Respiratory Distress Syndrome (NRDS)	NeonatalRespiratoryDistressSyndromeNRDS	1
+Neuromuscular Blocking Agents	NeuromuscularBlockingAgents	1
+Newborn Grunting	NewbornGrunting	1
+Nic Sick	NicSick	1
+Noninvasive Positive Pressure Ventilation (NPPV)	NoninvasivePositivePressureVentilationNPPV	1
+Noninvasive Ventilation	NoninvasiveVentilation	1
+Nonsteroidal Anti-Asthma Agents	NonsteroidalAntiAsthmaAgents	1
+Normal Breathing	NormalBreathing	1
+Nosocomial Pneumonia	NosocomialPneumonia	1
+Nutrition Assessment	NutritionAssessment	1
+Obstructive Lung Diseases	ObstructiveLungDiseases	1
+Obstructive Sleep Apnea (OSA)	ObstructiveSleepApneaOSA	1
+Oropharynx	Oropharynx	1
+Orthopnea	Orthopnea	1
+Over-the-Counter Oxygen	OvertheCounterOxygen	1
+Oxygenation	Oxygenation	1
+Oxygen Extraction Ratio	OxygenExtractionRatio	1
+Oxygen Therapy	OxygenTherapy	1
+Oxygen Toxicity	OxygenToxicity	1
+Oxygen Transport	OxygenTransport	1
+Paradoxical Breathing	ParadoxicalBreathing	1
+Parietal Pleura	ParietalPleura	1
+Partial Pressure of Carbon Dioxide (PaCO2)	PartialPressureofCarbonDioxidePaCO2	1
+Partial Pressure of Oxygen (PaO2)	PartialPressureofOxygenPaO2	1
+Patient Assessment	PatientAssessment	1
+Patient-Ventilator Asynchrony	PatientVentilatorAsynchrony	1
+Peak Expiratory Flow Rate (PEFR)	PeakExpiratoryFlowRatePEFR	1
+Peak Inspiratory Pressure (PIP)	PeakInspiratoryPressurePIP	1
+Pediatric Advanced Life Support (PALS)	PediatricAdvancedLifeSupportPALS	1
+Penetrating Chest Trauma	PenetratingChestTrauma	1
+Peripheral Cyanosis	PeripheralCyanosis	1
+Persistent Pulmonary Hypertension of the Newborn (PPHN)	PersistentPulmonaryHypertensionoftheNewbornPPHN	1
+Personal Protective Equipment (PPE)	PersonalProtectiveEquipmentPPE	1
+P/F Ratio (PaO2/FiO2)	PFRatioPaO2FiO2	1
+PFT Equipment	PFTEquipment	1
+Pharynx	Pharynx	1
+Phlegm	Phlegm	1
+Pin-indexed Safety System (PISS)	PinindexedSafetySystemPISS	1
+Plateau Pressure	PlateauPressure	1
+Pleural Diseases	PleuralDiseases	1
+Pleural Effusion	PleuralEffusion	1
+Pleural Friction Rub	PleuralFrictionRub	1
+Pleurisy	Pleurisy	1
+Pneumonia	Pneumonia	1
+Pneumothorax	Pneumothorax	1
+Positive End Expiratory Pressure (PEEP)	PositiveEndExpiratoryPressurePEEP	1
+Positive Expiratory Pressure (PEP)	PositiveExpiratoryPressurePEP	1
+Positron Emission Tomography (PET)	PositronEmissionTomographyPET	1
+Postnasal Drip	PostnasalDrip	1
+Postural Drainage	PosturalDrainage	1
+Pressure Controlled Ventilation	PressureControlledVentilation	1
+Pressure Support Ventilation (PSV)	PressureSupportVentilationPSV	1
+Principles of Respiratory Care	PrinciplesofRespiratoryCare	1
+PRN	PRN	1
+Prone Positioning	PronePositioning	1
+Proportional Assist Ventilation (PAV)	ProportionalAssistVentilationPAV	1
+Pulmonary Artery Pressure (PAP)	PulmonaryArteryPressurePAP	1
+Pulmonary Capillary Wedge Pressure (PCWP)	PulmonaryCapillaryWedgePressurePCWP	1
+Pulmonary Diffusion	PulmonaryDiffusion	1
+Pulmonary Edema	PulmonaryEdema	1
+Pulmonary Embolism	PulmonaryEmbolism	1
+Pulmonary Fibrosis	PulmonaryFibrosis	1
+Pulmonary Function Testing (PFT)	PulmonaryFunctionTestingPFT	1
+Pulmonary Rehabilitation	PulmonaryRehabilitation	1
+Pulmonary Vascular Disease	PulmonaryVascularDisease	1
+Pulse Oximetry	PulseOximetry	1
+Pulsus Paradoxus	PulsusParadoxus	1
+Quality Assurance	QualityAssurance	1
+Quality Control	QualityControl	1
+Radiolucent	Radiolucent	1
+Radiopaque	Radiopaque	1
+Rales	Rales	1
+Rare Lung Disease	RareLungDisease	1
+Refractory Hypoxemia	RefractoryHypoxemia	1
+Regulation of Breathing	RegulationofBreathing	1
+Residual Volume (RV)	ResidualVolumeRV	1
+Respiration	Respiration	1
+Respiratory Abbreviations	RespiratoryAbbreviations	1
+Respiratory Acidosis	RespiratoryAcidosis	1
+Respiratory Alkalosis	RespiratoryAlkalosis	1
+Respiratory Calculations	RespiratoryCalculations	1
+Respiratory Care in Alternative Settings	RespiratoryCareinAlternativeSettings	1
+Respiratory Care Plan	RespiratoryCarePlan	1
+Respiratory Care Practitioner	RespiratoryCarePractitioner	1
+Respiratory Care Research	RespiratoryCareResearch	1
+Respiratory Care Week	RespiratoryCareWeek	1
+Respiratory Exchange Ratio (RER)	RespiratoryExchangeRatioRER	1
+Respiratory Failure	RespiratoryFailure	1
+Respiratory Management	RespiratoryManagement	1
+Respiratory Quotient (RQ)	RespiratoryQuotientRQ	1
+Respiratory Rate	RespiratoryRate	1
+Respiratory System	RespiratorySystem	1
+Respiratory Zone	RespiratoryZone	1
+Restrictive Lung Diseases	RestrictiveLungDiseases	1
+Reverse Trendelenburg Position	ReverseTrendelenburgPosition	1
+Rhonchi	Rhonchi	1
+Rhonchal Fremitus	RhonchalFremitus	1
+Rigid Bronchoscopy	RigidBronchoscopy	1
+Safety Indexed Connector Systems	SafetyIndexedConnectorSystems	1
+Saturation of Arterial Oxygen (SaO2)	SaturationofArterialOxygenSaO2	1
+Sensitivity	Sensitivity	1
+Severe Epidemic Enterovirus Respiratory Syndrome (SEERS)	SevereEpidemicEnterovirusRespiratorySyndromeSEERS	1
+Shock	Shock	1
+Shunt	Shunt	1
+Sickle Cell Anemia	SickleCellAnemia	1
+Silicosis	Silicosis	1
+Silverman Score	SilvermanScore	1
+Simple Face Mask	SimpleFaceMask	1
+Sinusitis	Sinusitis	1
+Sleep Apnea	SleepApnea	1
+Sleep Disorder	SleepDisorder	1
+Sleep Physiology	SleepPhysiology	1
+Sleep Study	SleepStudy	1
+Small Particle Aerosol Generator (SPAG)	SmallParticleAerosolGeneratorSPAG	1
+Smoking Cessation	SmokingCessation	1
+Sphygmomanometer	Sphygmomanometer	1
+Spirometer	Spirometer	1
+Spirometry	Spirometry	1
+Spontaneous Breathing Trial (SBT)	SpontaneousBreathingTrialSBT	1
+Sputum	Sputum	1
+Status Asthmaticus	StatusAsthmaticus	1
+Sternal Rub	SternalRub	1
+Sternum	Sternum	1
+Stethoscope	Stethoscope	1
+Stridor	Stridor	1
+Stroke	Stroke	1
+Stroke Volume	StrokeVolume	1
+Subcutaneous Emphysema	SubcutaneousEmphysema	1
+Supplemental Oxygen	SupplementalOxygen	1
+Surfactant	Surfactant	1
+Surfactant Replacement Therapy	SurfactantReplacementTherapy	1
+Swan-Ganz Catheter	SwanGanzCatheter	1
+Synchronized Intermittent Mandatory Ventilation (SIMV)	SynchronizedIntermittentMandatoryVentilationSIMV	1
+Tachycardia	Tachycardia	1
+Tachypnea	Tachypnea	1
+Tension Pneumothorax	TensionPneumothorax	1
+Terminal Bronchiole	TerminalBronchiole	1
+Tetanus	Tetanus	1
+Theophylline	Theophylline	1
+Thoracentesis	Thoracentesis	1
+Thoracic Imaging	ThoracicImaging	1
+Thorax	Thorax	1
+Thorpe Tube	ThorpeTube	1
+Regional tidal volume	Regionaltidalvolume	1
+effective tidal volume	effectivetidalvolume	1
+Tidal Volume	TidalVolume	1
+TMC Exam	TMCExam	1
+Tomato Flu	TomatoFlu	1
+Total Lung Capacity (TLC)	TotalLungCapacityTLC	1
+Trachea	Trachea	1
+Tracheal Disorder	TrachealDisorder	1
+Tracheobronchial Tree	TracheobronchialTree	1
+Tracheostomy	Tracheostomy	1
+Tracheostomy Tube	TracheostomyTube	1
+Transairway Pressure	TransairwayPressure	1
+Transtracheal Catheter	TranstrachealCatheter	1
+Trigger	Trigger	1
+Tuberculosis	Tuberculosis	1
+Turbulent Flow	TurbulentFlow	1
+Ultrasonic Nebulizer	UltrasonicNebulizer	1
+Ultrasound	Ultrasound	1
+Upper Airway Stimulation	UpperAirwayStimulation	1
+Upper Respiratory Infection	UpperRespiratoryInfection	1
+Vagus Nerve	VagusNerve	1
+Vallecula	Vallecula	1
+Ventilation	Ventilation	1
+Ventilation-Perfusion (V/Q) Ratio	VentilationPerfusionVQRatio	1
+Ventilator Alarms	VentilatorAlarms	1
+Ventilator-Associated Pneumonia (VAP)	VentilatorAssociatedPneumoniaVAP	1
+Ventilator Management	VentilatorManagement	1
+Ventilator Mode	VentilatorMode	1
+Ventilator Settings	VentilatorSettings	1
+Ventilator Weaning	VentilatorWeaning	1
+Ventilatory Response	VentilatoryResponse	1
+Ventilatory Threshold	VentilatoryThreshold	1
+Ventricular Fibrillation	VentricularFibrillation	1
+Ventricular Tachycardia	VentricularTachycardia	1
+Vesicular Breath Sounds	VesicularBreathSounds	1
+Vital Capacity (VC)	VitalCapacityVC	1
+Volume-Controlled Ventilation	VolumeControlledVentilation	1
+Volume Support	VolumeSupport	1
+Volutrauma	Volutrauma	1
+V/Q Scan	VQScan	1
+Water Vapor Pressure	WaterVaporPressure	1
+Weaning Parameters	WeaningParameters	1
+Wet Drowning	WetDrowning	1
+Wheezing	Wheezing	1
+Winter Cough	WinterCough	1
+Winters’ Formula	WintersFormula	1
+World Lung Day	WorldLungDay	1
+Work Of Breathing (WOB)	WorkOfBreathingWOB	1
+Xanthine Drugs	XanthineDrugs	1
+Xiphoid Process	XiphoidProcess	1
+Xopenex	Xopenex	1
+Yankauer	Yankauer	1
+Y-connector	Yconnector	1
+Zafirlukast	Zafirlukast	1
+Zone Valve	ZoneValve	1
