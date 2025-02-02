@@ -1,0 +1,50 @@
+# Rime dictionary
+# encoding: utf-8
+# 数字词库
+#
+---
+name: number
+version: "2025-01-29"
+sort: by_weight
+...
+
+
+# 凝血因子
+FⅠ	f yi	1
+FⅢ	f san	1
+FⅡ	f er	1
+FⅣ	f si	1
+FⅤ	f wu	1
+FⅥ	f liu	1
+FⅦ	f qi	1
+FⅧ	f ba	1
+FⅨ	f jiu	1
+FⅩ	f shi	1
+FⅪ	f shi yi	1
+FⅫ	f shi er	1
+FⅩⅢ	f shi san	1
+FⅩⅣ	f shi si	1
+FⅩⅤ	f shi wu	1
+FⅩⅥ	f shi liu	1
+FⅩⅦ	f shi qi	1
+FⅩⅧ	f shi ba	1
+
+# 罗马数字
+Ⅰ	y i	1
+Ⅱ	e r	1
+Ⅲ	s a n	1
+Ⅳ	s i	1
+Ⅴ	w u	1
+Ⅵ	l i u	1
+Ⅶ	q i	1
+Ⅷ	b a	1
+Ⅸ	j i u	1
+Ⅹ	s h i	1
+Ⅺ	shi yi	1
+Ⅻ	shi er	1
+ⅩⅢ	shi san	1
+ⅩⅣ	shi si	1
+ⅩⅤ	shi wu	1
+ⅩⅥ	shi liu	1
+ⅩⅦ	shi qi	1
+ⅩⅧ	shi ba	1

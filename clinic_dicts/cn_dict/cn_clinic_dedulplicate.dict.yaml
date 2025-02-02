@@ -7,25 +7,7 @@ version: "2024-09-16"
 sort: by_weight
 ...
 
-# 医学
-FⅠ	f yi	1
-FⅢ	f san	1
-FⅡ	f er	1
-FⅣ	f si	1
-FⅤ	f wu	1
-FⅥ	f liu	1
-FⅦ	f qi	1
-FⅧ	f ba	1
-FⅨ	f jiu	1
-FⅩ	f shi	1
-FⅪ	f shiyi	1
-FⅫ	f shier	1
-FⅩⅢ	f shisan	1
-FⅩⅣ	f shisi	1
-FⅩⅤ	f shiwu	1
-FⅩⅥ	f shiliu	1
-FⅩⅦ	f shiqi	1
-FⅩⅧ	f shiba	1
+
 
 
 # 搜狗医学词汇 https://pinyin.sogou.com/dict/detail/index/15125
@@ -45741,7 +45723,6 @@ FⅩⅧ	f shiba	1
 洛伐他汀胶囊	luo fa ta ting jiao nang	1
 洛伐他汀颗粒	luo fa ta ting ke li	1
 洛伐他汀片	luo fa ta ting pian	1
-洛菲不动杆菌性肺炎	luo fei bu dong gan jun xing fei yan	1
 罗非昔布	luo fei xi bu	1
 罗非昔布片	luo fei xi bu pian	1
 洛非西定	luo fei xi ding	1
