@@ -11,10 +11,17 @@ sort: by_weight
 ...
 # +_+
 
+
+20 dynamic lung compliance at 20 times per minute of respiratory frequency	20dynamiclungcomplianceat20timesperminuteofrespiratoryfrequency	1
+40 dynamic lung compliance at 40 times per minute of respiratory frequency	40dynamiclungcomplianceat40timesperminuteofrespiratoryfrequency	1
+60 dynamic lung compliance at 60 times per minute of respiratory frequency	60dynamiclungcomplianceat60timesperminuteofrespiratoryfrequency	1
 AARC	AARC	1
 ABG Calculator	ABGCalculator	1
+ABPA	ABPA	1
+AIDS complicated with tuberculosis	AIDScomplicatedwithtuberculosis	1
 Accessory Muscles of Breathing	AccessoryMusclesofBreathing	1
 Acid-Base Balance	AcidBaseBalance	1
+Acinetobacter baumanii pneumonia	Acinetobacterbaumaniipneumonia	1
 Acute Exacerbation of COPD	AcuteExacerbationofCOPD	1
 Acute Respiratory Distress Syndrome (ARDS)	AcuteRespiratoryDistressSyndromeARDS	1
 Adult Croup	AdultCroup	1
@@ -23,8 +30,8 @@ Advanced Directive	AdvancedDirective	1
 Aerophagia	Aerophagia	1
 Aerosol Medication	AerosolMedication	1
 Agonal Breathing	AgonalBreathing	1
-Airborne Particles	AirborneParticles	1
 Air Bronchograms	AirBronchograms	1
+Airborne Particles	AirborneParticles	1
 Airway Clearance Therapy	AirwayClearanceTherapy	1
 Airway Management	AirwayManagement	1
 Airway Obstruction	AirwayObstruction	1
@@ -32,16 +39,16 @@ Airway Pressure Release Ventilation (APRV)	AirwayPressureReleaseVentilationAPRV	
 Airway Resistance	AirwayResistance	1
 Airway Suctioning	AirwaySuctioning	1
 Albuterol	Albuterol	1
-Alveolar-Arterial Gradient (A-a Gradient)	AlveolarArterialGradientAaGradient	1
-Alveolar-Capillary Membrane	AlveolarCapillaryMembrane	1
 Alveolar Gas Equation	AlveolarGasEquation	1
 Alveolar Ventilation	AlveolarVentilation	1
+Alveolar-Arterial Gradient (A-a Gradient)	AlveolarArterialGradientAaGradient	1
+Alveolar-Capillary Membrane	AlveolarCapillaryMembrane	1
 Alveoli	Alveoli	1
 Anatomic Dead Space	AnatomicDeadSpace	1
 Anion Gap	AnionGap	1
+Anti-Mucus Diet	AntiMucusDiet	1
 Anticholinergic Bronchodilators	AnticholinergicBronchodilators	1
 Antimicrobial Agents	AntimicrobialAgents	1
-Anti-Mucus Diet	AntiMucusDiet	1
 Apgar Score	ApgarScore	1
 Apnea	Apnea	1
 Apnea Monitor	ApneaMonitor	1
@@ -54,8 +61,10 @@ Assist/Control Mode (A/C)	AssistControlModeAC	1
 Asthma	Asthma	1
 Atelectasis	Atelectasis	1
 Auscultation	Auscultation	1
-Automatic External Defibrillator (AED)	AutomaticExternalDefibrillatorAED	1
 Auto-PEEP	AutoPEEP	1
+Automatic External Defibrillator (AED)	AutomaticExternalDefibrillatorAED	1
+Axillary lymphadenopathy	Axillarylymphadenopathy	1
+B-D-glucan test	BDglucantest	1
 Barotrauma	Barotrauma	1
 Barrel Chest	BarrelChest	1
 Base Excess (BE)	BaseExcessBE	1
@@ -68,6 +77,7 @@ Bland Aerosol Therapy	BlandAerosolTherapy	1
 Blood Gas Analyzer	BloodGasAnalyzer	1
 Body Plethysmography	BodyPlethysmography	1
 Bohr Effect	BohrEffect	1
+Borg scale	Borgscale	1
 Bourdon Gauge	BourdonGauge	1
 Bradycardia	Bradycardia	1
 Bradypnea	Bradypnea	1
@@ -86,7 +96,13 @@ Bronchoprovocation Study	BronchoprovocationStudy	1
 Bronchopulmonary Dysplasia (BPD)	BronchopulmonaryDysplasiaBPD	1
 Bronchoscopy	Bronchoscopy	1
 Bubble Humidifier	BubbleHumidifier	1
+Budd-Chiari syndrome	BuddChiarisyndrome	1
 Bullous Emphysema	BullousEmphysema	1
+CO diffusion capacity test	COdiffusioncapacitytest	1
+COPD	COPD	1
+COVID-19	COVID19	1
+CPAP Belly Syndrome	CPAPBellySyndrome	1
+CRT	CRT	1
 Cape Cyanosis	CapeCyanosis	1
 Capillaries	Capillaries	1
 Capillary Blood Gas (CBG)	CapillaryBloodGasCBG	1
@@ -106,6 +122,7 @@ Cardioversion	Cardioversion	1
 Carina	Carina	1
 Central Sleep Apnea	CentralSleepApnea	1
 Centrilobular Emphysema	CentrilobularEmphysema	1
+Chemical pneumonitis	Chemicalpneumonitis	1
 Chest Percussion	ChestPercussion	1
 Chest Physical Therapy (CPT)	ChestPhysicalTherapyCPT	1
 Chest Radiograph	ChestRadiograph	1
@@ -125,33 +142,33 @@ Congenital Cardiac Defect	CongenitalCardiacDefect	1
 Congenital Diaphragmatic Hernia	CongenitalDiaphragmaticHernia	1
 Congestive Heart Failure (CHF)	CongestiveHeartFailureCHF	1
 Contact Precautions	ContactPrecautions	1
-Continuous Positive Airway Pressure (CPAP)	ContinuousPositiveAirwayPressureCPAP	1
 Continuous Mandatory Ventilation (CMV)	ContinuousMandatoryVentilationCMV	1
-COPD	COPD	1
+Continuous Positive Airway Pressure (CPAP)	ContinuousPositiveAirwayPressureCPAP	1
 Cor Pulmonale	CorPulmonale	1
 Coronary Artery Bypass Graft (CABG)	CoronaryArteryBypassGraftCABG	1
 Coronary Artery Disease	CoronaryArteryDisease	1
 Coughing Up Mucus	CoughingUpMucus	1
-COVID-19	COVID19	1
-CPAP Belly Syndrome	CPAPBellySyndrome	1
 Crackles	Crackles	1
 Cricothyrotomy	Cricothyrotomy	1
 Croup	Croup	1
 Croup Tent	CroupTent	1
-CRT	CRT	1
 Cyanosis	Cyanosis	1
 Cystic Fibrosis	CysticFibrosis	1
+DOPE Mnemonic	DOPEMnemonic	1
+Dagalas bag method	Dagalasbagmethod	1
 Dead Space	DeadSpace	1
 Defibrillation	Defibrillation	1
 Depth of Respiration	DepthofRespiration	1
 Diaphoresis	Diaphoresis	1
 Diaphragm	Diaphragm	1
+Diaphragmatic breathing	Diaphragmaticbreathing	1
+Diffuse parenchymal lung disease due to granulomas	Diffuseparenchymallungdiseaseduetogranulomas	1
 Diffusing Capacity of the Lungs for Carbon Monoxide (DLCO)	DiffusingCapacityoftheLungsforCarbonMonoxideDLCO	1
 Diminished Breath Sounds	DiminishedBreathSounds	1
 Disease X	DiseaseX	1
 Diuretic Agents	DiureticAgents	1
-DOPE Mnemonic	DOPEMnemonic	1
 Dorsal Recumbent Position	DorsalRecumbentPosition	1
+Down syndrome	Downsyndrome	1
 Droplet Precautions	DropletPrecautions	1
 Drug Overdose	DrugOverdose	1
 DuoNeb	DuoNeb	1
@@ -159,8 +176,8 @@ Dyspnea	Dyspnea	1
 Elasticity	Elasticity	1
 Electrocardiogram (EKG)	ElectrocardiogramEKG	1
 Emphysema	Emphysema	1
-Endotracheal Tube	EndotrachealTube	1
 End-Tidal CO2 Monitoring	EndTidalCO2Monitoring	1
+Endotracheal Tube	EndotrachealTube	1
 Epiglottis	Epiglottis	1
 Erythrocyte	Erythrocyte	1
 Esophagus	Esophagus	1
@@ -169,16 +186,16 @@ Expiratory Reserve Volume (ERV)	ExpiratoryReserveVolumeERV	1
 Extracellular Fluid	ExtracellularFluid	1
 Extracorporeal Membrane Oxygenation (ECMO)	ExtracorporealMembraneOxygenationECMO	1
 Extubation	Extubation	1
+FEV1	FEV1	1
+FEV1/FVC Ratio	FEV1FVCRatio	1
 Fenestrated Tracheostomy Tube	FenestratedTracheostomyTube	1
 Fetal Circulation	FetalCirculation	1
 Fetal Lung Development	FetalLungDevelopment	1
-FEV1	FEV1	1
-FEV1/FVC Ratio	FEV1FVCRatio	1
 Flail Chest	FlailChest	1
 Flexible Bronchoscopy	FlexibleBronchoscopy	1
-Flowmeter	Flowmeter	1
 Flow Rate	FlowRate	1
 Flow-Volume Loop	FlowVolumeLoop	1
+Flowmeter	Flowmeter	1
 Flutter Valve	FlutterValve	1
 Forced Expiration Technique (FET)	ForcedExpirationTechniqueFET	1
 Forced Vital Capacity (FVC)	ForcedVitalCapacityFVC	1
@@ -187,10 +204,13 @@ Functional Residual Capacity (FRC)	FunctionalResidualCapacityFRC	1
 Gas Distribution Tests	GasDistributionTests	1
 Gas Exchange	GasExchange	1
 Gas Exchange Ratio	GasExchangeRatio	1
-Glasgow Coma Scale (GCS)	GlasgowComaScaleGCS	1
 Gastroesophageal Reflux Disease (GERD)	GastroesophagealRefluxDiseaseGERD	1
+Glasgow Coma Scale (GCS)	GlasgowComaScaleGCS	1
+Glasgow coma scale	Glasgowcomascale	1
+Goodpasture syndrome	Goodpasturesyndrome	1
 Grunting	Grunting	1
 Guillain-Barré Syndrome	GuillainBarréSyndrome	1
+Haemophilus influenzae pneumonia	Haemophilusinfluenzaepneumonia	1
 Haldane Effect	HaldaneEffect	1
 Head Trauma	HeadTrauma	1
 Heart Rate (HR)	HeartRateHR	1
@@ -204,6 +224,8 @@ High-Flow Nasal Cannula (HFNC)	HighFlowNasalCannulaHFNC	1
 High-Frequency Chest Wall Compression (HFCW)	HighFrequencyChestWallCompressionHFCW	1
 High-Frequency Oscillatory Ventilation (HFOV)	HighFrequencyOscillatoryVentilationHFOV	1
 History of Respiratory Care	HistoryofRespiratoryCare	1
+Hoover sign	Hooversign	1
+Horner syndrome	Hornersyndrome	1
 Humidification Therapy	HumidificationTherapy	1
 Hypercapnia	Hypercapnia	1
 Hyperoxia	Hyperoxia	1
@@ -224,8 +246,8 @@ Inhaled Pulmonary Vasodilators	InhaledPulmonaryVasodilators	1
 Inspiratory Capacity (IC)	InspiratoryCapacityIC	1
 Inspiratory Flow Rate	InspiratoryFlowRate	1
 Inspiratory Pressure	InspiratoryPressure	1
-Inspiratory-to-Expiratory Ratio (I:E Ratio)	InspiratorytoExpiratoryRatioIERatio	1
 Inspiratory Reserve Volume (IRV)	InspiratoryReserveVolumeIRV	1
+Inspiratory-to-Expiratory Ratio (I:E Ratio)	InspiratorytoExpiratoryRatioIERatio	1
 Intermittent Positive Pressure Breathing (IPPB)	IntermittentPositivePressureBreathingIPPB	1
 Interstitial Lung Disease (ILD)	InterstitialLungDiseaseILD	1
 Intrapulmonary Percussive Ventilation (IPV)	IntrapulmonaryPercussiveVentilationIPV	1
@@ -236,15 +258,20 @@ Iron Lung	IronLung	1
 Jaundice	Jaundice	1
 Joint Commission	JointCommission	1
 Jugular Venous Distention	JugularVenousDistention	1
+Kartagener syndrome	Kartagenersyndrome	1
 Kerley B Lines	KerleyBLines	1
+Klebsiclla pncumoniac pncumonia	Klebsicllapncumoniacpncumonia	1
 Kussmaul Respiration	KussmaulRespiration	1
+Kussmaul respiration in acidosis,Kussmaul respiration	KussmaulrespirationinacidosisKussmaulrespiration	1
 Kyphoscoliosis	Kyphoscoliosis	1
 Laminar Flow	LaminarFlow	1
+Langerhans cell histiocytosis	Langerhanscellhistiocytosis	1
 Laryngopharyngeal Reflux	LaryngopharyngealReflux	1
 Laryngoscope	Laryngoscope	1
 Larynx	Larynx	1
 Leukocyte	Leukocyte	1
 Life2000 Ventilator	Life2000Ventilator	1
+Loeffler's syndrome	Loefflerssyndrome	1
 Lung Cancer	LungCancer	1
 Lung Capacity	LungCapacity	1
 Lung Compliance	LungCompliance	1
@@ -256,9 +283,11 @@ Lung Infection	LungInfection	1
 Lung Infiltrates	LungInfiltrates	1
 Lung Lobe	LungLobe	1
 Lung Parenchyma	LungParenchyma	1
+Lung sarcoma	Lungsarcoma	1
 Lymph	Lymph	1
 Magnetic Resonance Imaging (MRI)	MagneticResonanceImagingMRI	1
 Mallampati Score	MallampatiScore	1
+Malt-worker's lung	Maltworkerslung	1
 Mandatory Breath	MandatoryBreath	1
 Mandatory Minute Ventilation (MMV)	MandatoryMinuteVentilationMMV	1
 Mean Airway Pressure	MeanAirwayPressure	1
@@ -268,9 +297,10 @@ Mechanical Ventilation Monitoring	MechanicalVentilationMonitoring	1
 Mechanical Ventilator	MechanicalVentilator	1
 Meconium Aspiration Syndrome	MeconiumAspirationSyndrome	1
 Medical Gas Therapy	MedicalGasTherapy	1
+Meige syndrome	Meigesyndrome	1
+MetaNeb	MetaNeb	1
 Metabolic Acidosis	MetabolicAcidosis	1
 Metabolic Alkalosi	MetabolicAlkalosi	1
-MetaNeb	MetaNeb	1
 Methacholine Challenge Test	MethacholineChallengeTest	1
 Methylxanthine	Methylxanthine	1
 Military Respiratory Therapist	MilitaryRespiratoryTherapist	1
@@ -285,6 +315,9 @@ Mucus Disorders	MucusDisorders	1
 Mucus Plug	MucusPlug	1
 Muscular Dystrophy	MuscularDystrophy	1
 Myasthenia Gravis	MyastheniaGravis	1
+Mycobacterium avium-intracellulare	Mycobacteriumaviumintracellulare	1
+Mycobacterium intracellular infection	Mycobacteriumintracellularinfection	1
+Mycobacterium kansasii infection	Mycobacteriumkansasiiinfection	1
 Myocardial Infarction	MyocardialInfarction	1
 Nasal Cannula	NasalCannula	1
 Nasal Flaring	NasalFlaring	1
@@ -292,8 +325,8 @@ Nasopharynx	Nasopharynx	1
 National Board for Respiratory Care (NBRC)	NationalBoardforRespiratoryCareNBRC	1
 Nebulizer	Nebulizer	1
 Neonatal Mechanical Ventilation	NeonatalMechanicalVentilation	1
-Neonatal/Pediatric Patient Assessment	NeonatalPediatricPatientAssessment	1
 Neonatal Respiratory Distress Syndrome (NRDS)	NeonatalRespiratoryDistressSyndromeNRDS	1
+Neonatal/Pediatric Patient Assessment	NeonatalPediatricPatientAssessment	1
 Neuromuscular Blocking Agents	NeuromuscularBlockingAgents	1
 Newborn Grunting	NewbornGrunting	1
 Nic Sick	NicSick	1
@@ -308,11 +341,14 @@ Obstructive Sleep Apnea (OSA)	ObstructiveSleepApneaOSA	1
 Oropharynx	Oropharynx	1
 Orthopnea	Orthopnea	1
 Over-the-Counter Oxygen	OvertheCounterOxygen	1
-Oxygenation	Oxygenation	1
 Oxygen Extraction Ratio	OxygenExtractionRatio	1
 Oxygen Therapy	OxygenTherapy	1
 Oxygen Toxicity	OxygenToxicity	1
 Oxygen Transport	OxygenTransport	1
+Oxygenation	Oxygenation	1
+P/F Ratio (PaO2/FiO2)	PFRatioPaO2FiO2	1
+PFT Equipment	PFTEquipment	1
+PRN	PRN	1
 Paradoxical Breathing	ParadoxicalBreathing	1
 Parietal Pleura	ParietalPleura	1
 Partial Pressure of Carbon Dioxide (PaCO2)	PartialPressureofCarbonDioxidePaCO2	1
@@ -323,13 +359,13 @@ Peak Expiratory Flow Rate (PEFR)	PeakExpiratoryFlowRatePEFR	1
 Peak Inspiratory Pressure (PIP)	PeakInspiratoryPressurePIP	1
 Pediatric Advanced Life Support (PALS)	PediatricAdvancedLifeSupportPALS	1
 Penetrating Chest Trauma	PenetratingChestTrauma	1
+Penicillium marneffei pneumonia	Penicilliummarneffeipneumonia	1
 Peripheral Cyanosis	PeripheralCyanosis	1
 Persistent Pulmonary Hypertension of the Newborn (PPHN)	PersistentPulmonaryHypertensionoftheNewbornPPHN	1
 Personal Protective Equipment (PPE)	PersonalProtectiveEquipmentPPE	1
-P/F Ratio (PaO2/FiO2)	PFRatioPaO2FiO2	1
-PFT Equipment	PFTEquipment	1
 Pharynx	Pharynx	1
 Phlegm	Phlegm	1
+Pickwichian syndrome	Pickwichiansyndrome	1
 Pin-indexed Safety System (PISS)	PinindexedSafetySystemPISS	1
 Plateau Pressure	PlateauPressure	1
 Pleural Diseases	PleuralDiseases	1
@@ -346,7 +382,6 @@ Postural Drainage	PosturalDrainage	1
 Pressure Controlled Ventilation	PressureControlledVentilation	1
 Pressure Support Ventilation (PSV)	PressureSupportVentilationPSV	1
 Principles of Respiratory Care	PrinciplesofRespiratoryCare	1
-PRN	PRN	1
 Prone Positioning	PronePositioning	1
 Proportional Assist Ventilation (PAV)	ProportionalAssistVentilationPAV	1
 Pulmonary Artery Pressure (PAP)	PulmonaryArteryPressurePAP	1
@@ -367,6 +402,7 @@ Radiopaque	Radiopaque	1
 Rales	Rales	1
 Rare Lung Disease	RareLungDisease	1
 Refractory Hypoxemia	RefractoryHypoxemia	1
+Regional tidal volume	Regionaltidalvolume	1
 Regulation of Breathing	RegulationofBreathing	1
 Residual Volume (RV)	ResidualVolumeRV	1
 Respiration	Respiration	1
@@ -374,11 +410,11 @@ Respiratory Abbreviations	RespiratoryAbbreviations	1
 Respiratory Acidosis	RespiratoryAcidosis	1
 Respiratory Alkalosis	RespiratoryAlkalosis	1
 Respiratory Calculations	RespiratoryCalculations	1
-Respiratory Care in Alternative Settings	RespiratoryCareinAlternativeSettings	1
 Respiratory Care Plan	RespiratoryCarePlan	1
 Respiratory Care Practitioner	RespiratoryCarePractitioner	1
 Respiratory Care Research	RespiratoryCareResearch	1
 Respiratory Care Week	RespiratoryCareWeek	1
+Respiratory Care in Alternative Settings	RespiratoryCareinAlternativeSettings	1
 Respiratory Exchange Ratio (RER)	RespiratoryExchangeRatioRER	1
 Respiratory Failure	RespiratoryFailure	1
 Respiratory Management	RespiratoryManagement	1
@@ -388,10 +424,12 @@ Respiratory System	RespiratorySystem	1
 Respiratory Zone	RespiratoryZone	1
 Restrictive Lung Diseases	RestrictiveLungDiseases	1
 Reverse Trendelenburg Position	ReverseTrendelenburgPosition	1
-Rhonchi	Rhonchi	1
 Rhonchal Fremitus	RhonchalFremitus	1
+Rhonchi	Rhonchi	1
+Rickettsia pneumonia	Rickettsiapneumonia	1
 Rigid Bronchoscopy	RigidBronchoscopy	1
 Safety Indexed Connector Systems	SafetyIndexedConnectorSystems	1
+Salmonella pneumonia	Salmonellapneumonia	1
 Saturation of Arterial Oxygen (SaO2)	SaturationofArterialOxygenSaO2	1
 Sensitivity	Sensitivity	1
 Severe Epidemic Enterovirus Respiratory Syndrome (SEERS)	SevereEpidemicEnterovirusRespiratorySyndromeSEERS	1
@@ -414,9 +452,11 @@ Spirometry	Spirometry	1
 Spontaneous Breathing Trial (SBT)	SpontaneousBreathingTrialSBT	1
 Sputum	Sputum	1
 Status Asthmaticus	StatusAsthmaticus	1
+Stenotrophomonas maltophilia pneumonia	Stenotrophomonasmaltophiliapneumonia	1
 Sternal Rub	SternalRub	1
 Sternum	Sternum	1
 Stethoscope	Stethoscope	1
+Streptococcal pneumoniac pneumonia	Streptococcalpneumoniacpneumonia	1
 Stridor	Stridor	1
 Stroke	Stroke	1
 Stroke Volume	StrokeVolume	1
@@ -426,6 +466,8 @@ Surfactant	Surfactant	1
 Surfactant Replacement Therapy	SurfactantReplacementTherapy	1
 Swan-Ganz Catheter	SwanGanzCatheter	1
 Synchronized Intermittent Mandatory Ventilation (SIMV)	SynchronizedIntermittentMandatoryVentilationSIMV	1
+T tubc wcaning	Ttubcwcaning	1
+TMC Exam	TMCExam	1
 Tachycardia	Tachycardia	1
 Tachypnea	Tachypnea	1
 Tension Pneumothorax	TensionPneumothorax	1
@@ -436,10 +478,7 @@ Thoracentesis	Thoracentesis	1
 Thoracic Imaging	ThoracicImaging	1
 Thorax	Thorax	1
 Thorpe Tube	ThorpeTube	1
-Regional tidal volume	Regionaltidalvolume	1
-effective tidal volume	effectivetidalvolume	1
 Tidal Volume	TidalVolume	1
-TMC Exam	TMCExam	1
 Tomato Flu	TomatoFlu	1
 Total Lung Capacity (TLC)	TotalLungCapacityTLC	1
 Trachea	Trachea	1
@@ -456,38 +495,2049 @@ Ultrasonic Nebulizer	UltrasonicNebulizer	1
 Ultrasound	Ultrasound	1
 Upper Airway Stimulation	UpperAirwayStimulation	1
 Upper Respiratory Infection	UpperRespiratoryInfection	1
+V/Q Scan	VQScan	1
 Vagus Nerve	VagusNerve	1
 Vallecula	Vallecula	1
 Ventilation	Ventilation	1
 Ventilation-Perfusion (V/Q) Ratio	VentilationPerfusionVQRatio	1
 Ventilator Alarms	VentilatorAlarms	1
-Ventilator-Associated Pneumonia (VAP)	VentilatorAssociatedPneumoniaVAP	1
 Ventilator Management	VentilatorManagement	1
 Ventilator Mode	VentilatorMode	1
 Ventilator Settings	VentilatorSettings	1
 Ventilator Weaning	VentilatorWeaning	1
+Ventilator-Associated Pneumonia (VAP)	VentilatorAssociatedPneumoniaVAP	1
 Ventilatory Response	VentilatoryResponse	1
 Ventilatory Threshold	VentilatoryThreshold	1
 Ventricular Fibrillation	VentricularFibrillation	1
 Ventricular Tachycardia	VentricularTachycardia	1
 Vesicular Breath Sounds	VesicularBreathSounds	1
 Vital Capacity (VC)	VitalCapacityVC	1
-Volume-Controlled Ventilation	VolumeControlledVentilation	1
 Volume Support	VolumeSupport	1
+Volume-Controlled Ventilation	VolumeControlledVentilation	1
 Volutrauma	Volutrauma	1
-V/Q Scan	VQScan	1
 Water Vapor Pressure	WaterVaporPressure	1
 Weaning Parameters	WeaningParameters	1
 Wet Drowning	WetDrowning	1
 Wheezing	Wheezing	1
 Winter Cough	WinterCough	1
 Winters’ Formula	WintersFormula	1
-World Lung Day	WorldLungDay	1
 Work Of Breathing (WOB)	WorkOfBreathingWOB	1
+World Lung Day	WorldLungDay	1
 Xanthine Drugs	XanthineDrugs	1
 Xiphoid Process	XiphoidProcess	1
 Xopenex	Xopenex	1
-Yankauer	Yankauer	1
+Xray	Xray	1
 Y-connector	Yconnector	1
+Yankauer	Yankauer	1
+Young's syndrome	Youngssyndrome	1
 Zafirlukast	Zafirlukast	1
 Zone Valve	ZoneValve	1
+abnormal brcath sound	abnormalbrcathsound	1
+abnormal bronchial brcath sound	abnormalbronchialbrcathsound	1
+abnormal bronchovesicular brcath sound	abnormalbronchovesicularbrcathsound	1
+abnormal chest pcrcussion sound	abnormalchestpcrcussionsound	1
+abnormal pulmonary diagnostic imaging	abnormalpulmonarydiagnosticimaging	1
+abnormal reaction to tuberculin test	abnormalreactiontotuberculintest	1
+abnormal result of Mantoux test	abnormalresultofMantouxtest	1
+abnormal vesicular breath sound	abnormalvesicularbreathsound	1
+absence of diaphragm	absenceofdiaphragm	1
+acid-base disturbance	acidbasedisturbance	1
+acid-base imbalance	acidbaseimbalance	1
+acidosis	acidosis	1
+acinetobacter pneumonia	acinetobacterpneumonia	1
+acquired bronchial diverticulum	acquiredbronchialdiverticulum	1
+active pulmonary tuberculosis	activepulmonarytuberculosis	1
+active smoking	activesmoking	1
+actual I/E ratio	actualIEratio	1
+actual base excess	actualbaseexcess	1
+actual bicarbonate	actualbicarbonate	1
+actual breathing frequency	actualbreathingfrequency	1
+actual buffer base	actualbufferbase	1
+actual fractional inspiratory time	actualfractionalinspiratorytime	1
+acute bronchiolitis	acutebronchiolitis	1
+acute bronchitis	acutebronchitis	1
+acute broncho-bronchitis	acutebronchobronchitis	1
+acute carbon monoxide poisoning	acutecarbonmonoxidepoisoning	1
+acute chemical bronchitis	acutechemicalbronchitis	1
+acute cor pulmonale	acutecorpulmonale	1
+acute cough	acutecough	1
+acute drug-induced pulmonary disease	acutedruginducedpulmonarydisease	1
+acute eosinophilic pneumonia	acuteeosinophilicpneumonia	1
+acute epiglottitis	acuteepiglottitis	1
+acute exacerbation of asthma	acuteexacerbationofasthma	1
+acute exacerbation of chronic obstruc- tive pulmonary disease	acuteexacerbationofchronicobstructivepulmonarydisease	1
+acute exacerbation of chronic respiratory failure	acuteexacerbationofchronicrespiratoryfailure	1
+acute exacerbation of interstitial lung diseases	acuteexacerbationofinterstitiallungdiseases	1
+acute exacerbations of idiopathic pulmo- nary fibrosis	acuteexacerbationsofidiopathicpulmonaryfibrosis	1
+acute hematogenous disseminated pulmonary tuberculosis	acutehematogenousdisseminatedpulmonarytuberculosis	1
+acute high altitude reaction	acutehighaltitudereaction	1
+acute high altitude sickness	acutehighaltitudesickness	1
+acute hyperkalemia	acutehyperkalemia	1
+acute hypersensitivity pneumonitis	acutehypersensitivitypneumonitis	1
+acute hypervolemic hypernatremia	acutehypervolemichypernatremia	1
+acute hypervolemic hyponatremia	acutehypervolemichyponatremia	1
+acute hypovolemic hypernatremia	acutehypovolemichypernatremia	1
+acute hypovolemie hyponatremia	acutehypovolemiehyponatremia	1
+acute hypoxic ventilatory responsc	acutehypoxicventilatoryresponsc	1
+acute interstitial pneumonia	acuteinterstitialpneumonia	1
+acute laryngitis	acutelaryngitis	1
+acute laryngotracheitis	acutelaryngotracheitis	1
+acute massive pulmonary embolism	acutemassivepulmonaryembolism	1
+acute mediastinitis	acutemediastinitis	1
+acute nasopharyngitis	acutenasopharyngitis	1
+acute obstructive laryngitis	acuteobstructivelaryngitis	1
+acute pharyngitis	acutepharyngitis	1
+acute pharyngolaryngitis	acutepharyngolaryngitis	1
+acute physiology and chronic health evaluation health evaluation Ⅳ	acutephysiologyandchronichealthevaluationhealthevaluationⅣ	1
+acute potassium-deficit hypokalemia	acutepotassiumdeficithypokalemia	1
+acute pulmonary blastomycosis	acutepulmonaryblastomycosis	1
+acute pulmonary embolism with low risk	acutepulmonaryembolismwithlowrisk	1
+acute pulmonary histoplasmosis	acutepulmonaryhistoplasmosis	1
+acute pyothorax	acutepyothorax	1
+acute respiratory acidosis	acuterespiratoryacidosis	1
+acute respiratory alkalosis	acuterespiratoryalkalosis	1
+acute respiratory failure	acuterespiratoryfailure	1
+acute respiratory tract infection	acuterespiratorytractinfection	1
+acute rhinosinusitis	acuterhinosinusitis	1
+acute shifted hyperkalemia	acuteshiftedhyperkalemia	1
+acute submassive pulmonary embolism	acutesubmassivepulmonaryembolism	1
+acute tonsillitis	acutetonsillitis	1
+acute tracheitis	acutetracheitis	1
+acute upper respiratory infection	acuteupperrespiratoryinfection	1
+adaptive support ventilation	adaptivesupportventilation	1
+adenosquamous carcinomal	adenosquamouscarcinomal	1
+adenoviral pneumonia	adenoviralpneumonia	1
+adhesive atelectasis	adhesiveatelectasis	1
+adjuvant chemotherapy	adjuvantchemotherapy	1
+adult hyaline membrane disease	adulthyalinemembranedisease	1
+advanced sleep-phase syndrome	advancedsleepphasesyndrome	1
+adventitious sound	adventitioussound	1
+agenesis of pulmonary artery	agenesisofpulmonaryartery	1
+aggressive fibromatosis	aggressivefibromatosis	1
+air embolism	airembolism	1
+air trapping	airtrapping	1
+air trapping volume	airtrappingvolume	1
+air velocity index	airvelocityindex	1
+air-analysis method	airanalysismethod	1
+air-conditioner lung	airconditionerlung	1
+airflow limitation	airflowlimitation	1
+airtight helium dilution method	airtightheliumdilutionmethod	1
+airtight helium dilution-rebreathing method	airtightheliumdilutionrebreathingmethod	1
+airtight helium dilution-single breath method	airtightheliumdilutionsinglebreathmethod	1
+airtight nitrogen dilution	airtightnitrogendilution	1
+airtight nitrogen dilution-rebreathing method	airtightnitrogendilutionrebreathingmethod	1
+airtight nitrogen dilution-single breath method	airtightnitrogendilutionsinglebreathmethod	1
+airway compliance	airwaycompliance	1
+airway conductance	airwayconductance	1
+airway elastance	airwayelastance	1
+airway forcign body	airwayforcignbody	1
+airway foreign bodies	airwayforeignbodies	1
+airway hyperresponsiveness	airwayhyperresponsiveness	1
+airway inertial resistance	airwayinertialresistance	1
+airway neoplasm	airwayneoplasm	1
+airway obstruction	airwayobstruction	1
+airway pressure	airwaypressure	1
+airway pressure release ventilation	airwaypressurereleaseventilation	1
+airway resistance	airwayresistance	1
+airway resistance at expiratory phase	airwayresistanceatexpiratoryphase	1
+airway resistance at inspiratory phase	airwayresistanceatinspiratoryphase	1
+airway responsiveness	airwayresponsiveness	1
+airway stenosis	airwaystenosis	1
+alkalemia	alkalemia	1
+alkalosis	alkalosis	1
+allergic airway inflammation	allergicairwayinflammation	1
+allergic asthma	allergicasthma	1
+allergic cough,atopic cough	allergiccoughatopiccough	1
+allergic rhinitis	allergicrhinitis	1
+allergie bronchopulmonary aspergillosis	allergiebronchopulmonaryaspergillosis	1
+alvcolar ventilation- partial pressure of carbon dioxide in arterial blood curve	alvcolarventilationpartialpressureofcarbondioxideinarterialbloodcurve	1
+alveolar haemorrhage syndrome,AHS	alveolarhaemorrhagesyndromeAHS	1
+alveolar hypoventilation syndrome	alveolarhypoventilationsyndrome	1
+alveolar oxygen partial pressure	alveolaroxygenpartialpressure	1
+alveolar pressure	alveolarpressure	1
+alveolar proteinosis	alveolarproteinosis	1
+alveolar surface tension	alveolarsurfacetension	1
+alveolar ventilation volume	alveolarventilationvolume	1
+alveolar-artery oxygen partial pressure gradient	alveolararteryoxygenpartialpressuregradient	1
+alveolar-artery oxygen partial pressure gradient when breathing air	alveolararteryoxygenpartialpressuregradientwhenbreathingair	1
+alveolar-artery oxygen partial pressure gradient when breathing oxygen	alveolararteryoxygenpartialpressuregradientwhenbreathingoxygen	1
+amebic abscess of lung	amebicabscessoflung	1
+aminophylline drug reaction	aminophyllinedrugreaction	1
+amniotic fluid embolism	amnioticfluidembolism	1
+amphorophony	amphorophony	1
+amyloidosis	amyloidosis	1
+amyloidosis of upper respiratory tract	amyloidosisofupperrespiratorytract	1
+anaerobic threshold	anaerobicthreshold	1
+analgesia and sedation	analgesiaandsedation	1
+anaphylactic shock	anaphylacticshock	1
+anatomic shunt	anatomicshunt	1
+ancylostomiasis of lung	ancylostomiasisoflung	1
+anemic anoxial	anemicanoxial	1
+angiofollicular lymph node hyperplasia,Castleman disease	angiofollicularlymphnodehyperplasiaCastlemandisease	1
+anion gap	aniongap	1
+anterior mediastinum benign tumour	anteriormediastinumbenigntumour	1
+anterior mediastinum borderline tumour	anteriormediastinumborderlinetumour	1
+anthracosilicosis	anthracosilicosis	1
+anthracosis	anthracosis	1
+anthrax pneumonia	anthraxpneumonia	1
+apnea	apnea	1
+area dependency of airflow resistance	areadependencyofairflowresistance	1
+argon plasma coagulation	argonplasmacoagulation	1
+arterial blood gas	arterialbloodgas	1
+arterial blood gas analysis	arterialbloodgasanalysis	1
+arterial ketone body ratio	arterialketonebodyratio	1
+arterial oxygen content	arterialoxygencontent	1
+arterial oxygen saturation	arterialoxygensaturation	1
+arterio-mixed venous oxygen content difference	arteriomixedvenousoxygencontentdifference	1
+arterio-venous oxygen content difference	arteriovenousoxygencontentdifference	1
+artificial airway	artificialairway	1
+artificial pneumothorax	artificialpneumothorax	1
+artificial respiration	artificialrespiration	1
+asbestosis	asbestosis	1
+aspergilloma	aspergilloma	1
+aspiration lung abscess	aspirationlungabscess	1
+aspiration pneumonia	aspirationpneumonia	1
+aspirin-induced asthma	aspirininducedasthma	1
+assist-control ventilation	assistcontrolventilation	1
+assisted ventilation	assistedventilation	1
+associated pulmonary arterial hypertention	associatedpulmonaryarterialhypertention	1
+asthma and chronic obstructive pulmonary disease overlap	asthmaandchronicobstructivepulmonarydiseaseoverlap	1
+asthma-COPD overlap	asthmaCOPDoverlap	1
+asthmatic bronchopneumonia	asthmaticbronchopneumonia	1
+asthmatic pulmonary eosinophilia	asthmaticpulmonaryeosinophilia	1
+asymptomatic hyponatremia	asymptomatichyponatremia	1
+atelectasis	atelectasis	1
+atmospheric hypoxia	atmospherichypoxia	1
+atopic asthma	atopicasthma	1
+atrophic rhinitis	atrophicrhinitis	1
+atypical pneumonia	atypicalpneumonia	1
+auto-continuous positive airway pressure	autocontinuouspositiveairwaypressure	1
+autoflow	autoflow	1
+automatic tube compensation	automatictubecompensation	1
+autonomous trigger	autonomoustrigger	1
+axillary lymphadenitis	axillarylymphadenitis	1
+axillary malignant tumor	axillarymalignanttumor	1
+axillary sentinel lymph node biopsy	axillarysentinellymphnodebiopsy	1
+bacillus parapertussis whooping cough	bacillusparapertussiswhoopingcough	1
+backup ventilation	backupventilation	1
+bacteremia	bacteremia	1
+bacterial bronchopneumonia	bacterialbronchopneumonia	1
+bacterial pneumonia	bacterialpneumonia	1
+bagassosis	bagassosis	1
+barrel chest	barrelchest	1
+basal lung capacity	basallungcapacity	1
+basal lung volume	basallungvolume	1
+base excess	baseexcess	1
+bedside endotracheal intubation	bedsideendotrachealintubation	1
+bedside tracheotomy	bedsidetracheotomy	1
+belching	belching	1
+benign intrathoracic tumor	benignintrathoracictumor	1
+benign tumor adjacent to the main bronchus	benigntumoradjacenttothemainbronchus	1
+benign tumor of chest wall	benigntumorofchestwall	1
+benign tumor of lung	benigntumoroflung	1
+benign tumor of pleural	benigntumorofpleural	1
+benign tumor ofrib	benigntumorofrib	1
+bicarbonate	bicarbonate	1
+bicarbonate buffer base	bicarbonatebufferbase	1
+bile pleuritis	bilepleuritis	1
+biphasic positive airway pressure	biphasicpositiveairwaypressure	1
+bird fancier's lung	birdfancierslung	1
+blast injury syndrome	blastinjurysyndrome	1
+blind endotracheal intubation	blindendotrachealintubation	1
+blood aspiration pneumonia	bloodaspirationpneumonia	1
+blood base excess	bloodbaseexcess	1
+blood flow	bloodflow	1
+blood gas	bloodgas	1
+blood gas analysis	bloodgasanalysis	1
+blood oxygen capacity	bloodoxygencapacity	1
+blood oxygen content	bloodoxygencontent	1
+blood oxygen saturation	bloodoxygensaturation	1
+blood pressure	bloodpressure	1
+blood pressure of blood vessel	bloodpressureofbloodvessel	1
+blood purification	bloodpurification	1
+blood volume	bloodvolume	1
+bloodstream infection	bloodstreaminfection	1
+bloody hydrothorax	bloodyhydrothorax	1
+bloody sputum	bloodysputum	1
+blunt trauma	blunttrauma	1
+body plethysmography	bodyplethysmography	1
+borderline tumor of lung	borderlinetumoroflung	1
+borderline tumor of mediastinum	borderlinetumorofmediastinum	1
+bound carbon dioxide	boundcarbondioxide	1
+bradypnca	bradypnca	1
+brassy cough	brassycough	1
+breath by breath method	breathbybreathmethod	1
+breath holding test	breathholdingtest	1
+breath holding time	breathholdingtime	1
+breath sound	breathsound	1
+breathing exercise	breathingexercise	1
+breathing pattem	breathingpattem	1
+breathing reserve	breathingreserve	1
+breathing support technique	breathingsupporttechnique	1
+brittle asthma	brittleasthma	1
+bronchial adenoid eystic carcinoma	bronchialadenoideysticcarcinoma	1
+bronchial adenoma	bronchialadenoma	1
+bronchial amyloidosis	bronchialamyloidosis	1
+bronchial artery embolization	bronchialarteryembolization	1
+bronchial artery rupture	bronchialarteryrupture	1
+bronchial asthma	bronchialasthma	1
+bronchial asthma (chronic duration)	bronchialasthmachronicduration	1
+bronchial asthma (intermittent episodes)	bronchialasthmaintermittentepisodes	1
+bronchial asthma (mild persistent)	bronchialasthmamildpersistent	1
+bronchial asthma (partial control)	bronchialasthmapartialcontrol	1
+bronchial asthma (severe persistent)	bronchialasthmaseverepersistent	1
+bronchial asthma exacerbation (critical)	bronchialasthmaexacerbationcritical	1
+bronchial asthma exacerbation (mild)	bronchialasthmaexacerbationmild	1
+bronchial asthma exacerbation (moderate)	bronchialasthmaexacerbationmoderate	1
+bronchial asthma exacerbation(severe)	bronchialasthmaexacerbationsevere	1
+bronchial asthma menstrual period	bronchialasthmamenstrualperiod	1
+bronchial benign tumor	bronchialbenigntumor	1
+bronchial borderline tumor	bronchialborderlinetumor	1
+bronchial breath sound	bronchialbreathsound	1
+bronchial calcification	bronchialcalcification	1
+bronchial candidiasis	bronchialcandidiasis	1
+bronchial carcinoma in situ	bronchialcarcinomainsitu	1
+bronchial cartilage secondary malignanttumon	bronchialcartilagesecondarymalignanttumon	1
+bronchial chondroma	bronchialchondroma	1
+bronchial fistula	bronchialfistula	1
+bronchial fungal infection	bronchialfungalinfection	1
+bronchial leiomyoma	bronchialleiomyoma	1
+bronchial lipoma	bronchiallipoma	1
+bronchial lymph node secondary malig-nant tumor	bronchiallymphnodesecondarymalignanttumor	1
+bronchial lymph node tuberculosis	bronchiallymphnodetuberculosis	1
+bronchial mucosa fibrosis	bronchialmucosafibrosis	1
+bronchial neoplasm	bronchialneoplasm	1
+bronchial occlusion	bronchialocclusion	1
+bronchial papilloma	bronchialpapilloma	1
+bronchial polyp	bronchialpolyp	1
+bronchial pyogenic granuloma	bronchialpyogenicgranuloma	1
+bronchial septic bacillus pertussis	bronchialsepticbacilluspertussis	1
+bronchial stenosis	bronchialstenosis	1
+bronchial thermoplasty	bronchialthermoplasty	1
+bronchial ulceration	bronchialulceration	1
+bronchial-pulmonary mycosis	bronchialpulmonarymycosis	1
+bronchiectasis	bronchiectasis	1
+bronchiectasis with hemoptysis	bronchiectasiswithhemoptysis	1
+bronchiole malignant tumor	bronchiolemalignanttumor	1
+bronchiolectasis	bronchiolectasis	1
+bronchiolitis obliterans	bronchiolitisobliterans	1
+bronchioloalveolar carcinoma	bronchioloalveolarcarcinoma	1
+bronchitis	bronchitis	1
+bronchitis of mass	bronchitisofmass	1
+broncho-pulmonary dysplasia,BPD	bronchopulmonarydysplasiaBPD	1
+bronchoalveolar lavage	bronchoalveolarlavage	1
+bronchoalveolar lavage fluid	bronchoalveolarlavagefluid	1
+bronchoalveolar lavage,BAL	bronchoalveolarlavageBAL	1
+bronchobiliary fistula	bronchobiliaryfistula	1
+bronchocentrie granulomatosis	bronchocentriegranulomatosis	1
+bronchodilation testing	bronchodilationtesting	1
+bronchogastric fistula	bronchogastricfistula	1
+bronchogenic cyst	bronchogeniccyst	1
+broncholithiasis	broncholithiasis	1
+bronchophony	bronchophony	1
+bronchopleural fistula	bronchopleuralfistula	1
+bronchoprovocation testing	bronchoprovocationtesting	1
+bronchoscopy	bronchoscopy	1
+bronchovesicular brcath sound	bronchovesicularbrcathsound	1
+bronchus secondary malignant tumor	bronchussecondarymalignanttumor	1
+bruxism	bruxism	1
+bucking	bucking	1
+buffer base	bufferbase	1
+buffer base except bicarbonate	bufferbaseexceptbicarbonate	1
+bullae	bullae	1
+bullae rupture	bullaerupture	1
+bullous emphysema	bullousemphysema	1
+burn involving larynx and trachea with lung	burninvolvinglarynxandtracheawithlung	1
+calcification of hilar lymph node	calcificationofhilarlymphnode	1
+calculated value of maximal voluntary ventilation	calculatedvalueofmaximalvoluntaryventilation	1
+cannabinosis	cannabinosis	1
+capillary hydrostatic pressure	capillaryhydrostaticpressure	1
+capillary leakage syndrome	capillaryleakagesyndrome	1
+capnogram	capnogram	1
+carbon dioxide discharge	carbondioxidedischarge	1
+carbon dioxide dissociation curve	carbondioxidedissociationcurve	1
+carbon dioxide output	carbondioxideoutput	1
+carbon monoxide poisoning	carbonmonoxidepoisoning	1
+carbonate	carbonate	1
+cardiac dyspnea	cardiacdyspnea	1
+cardiac output	cardiacoutput	1
+cardiogenic cyanosis	cardiogeniccyanosis	1
+cardiogenic pulmonary edema	cardiogenicpulmonaryedema	1
+cardiopulmonary exercise test	cardiopulmonaryexercisetest	1
+caseous pneumonia, cascous tuberculosis	caseouspneumoniacascoustuberculosis	1
+catamenial pneumothorax	catamenialpneumothorax	1
+catheter colonization	cathetercolonization	1
+catheter-related bloodstream infection,CRBSI	catheterrelatedbloodstreaminfectionCRBSI	1
+catheter-related infection	catheterrelatedinfection	1
+catheter-related venous thrombosis	catheterrelatedvenousthrombosis	1
+cavitary pulmonary tuberculosis	cavitarypulmonarytuberculosis	1
+cdema	cdema	1
+cellular injury score	cellularinjuryscore	1
+central alveolar hypoventilation syndrome	centralalveolarhypoventilationsyndrome	1
+central bronchogenic carcinoma	centralbronchogeniccarcinoma	1
+central cyanosis	centralcyanosis	1
+central fatigue	centralfatigue	1
+central hypoventilation syndrome	centralhypoventilationsyndrome	1
+central lobe emphysema	centrallobeemphysema	1
+central resistance	centralresistance	1
+central sleep apnea syndrome	centralsleepapneasyndrome	1
+central venous pressure	centralvenouspressure	1
+checkpoint inhibitor pncumonitis	checkpointinhibitorpncumonitis	1
+cheese-washer's lung	cheesewasherslung	1
+chemical pleural serositis	chemicalpleuralserositis	1
+chemical pulmonary edema	chemicalpulmonaryedema	1
+chemical treatment of lung cancer	chemicaltreatmentoflungcancer	1
+chest X-ray	chestXray	1
+chest burn	chestburn	1
+chest computed tomography	chestcomputedtomography	1
+chest drainage	chestdrainage	1
+chest infection	chestinfection	1
+chest magnctie resonance imaging	chestmagnctieresonanceimaging	1
+chest pain	chestpain	1
+chest tightness variant asthma	chesttightnessvariantasthma	1
+chest tube or small-bore catheter drainage	chesttubeorsmallborecatheterdrainage	1
+chest ultrasound	chestultrasound	1
+chest wall compliance	chestwallcompliance	1
+chest wall elastance	chestwallelastance	1
+chest wall inertial resistance	chestwallinertialresistance	1
+chest wall malignancy	chestwallmalignancy	1
+chest wall viscous resistance	chestwallviscousresistance	1
+childhood asthma	childhoodasthma	1
+chlamydia pneumoniae pneumonia	chlamydiapneumoniaepneumonia	1
+cholesterol pleurisy	cholesterolpleurisy	1
+cholesterol pneumonia	cholesterolpneumonia	1
+chronic airvay inflammation	chronicairvayinflammation	1
+chronic asthmatic bronchitis	chronicasthmaticbronchitis	1
+chronic bronchitis	chronicbronchitis	1
+chronic cough	chroniccough	1
+chronic drug-induced pulmonary disease	chronicdruginducedpulmonarydisease	1
+chronic empyema	chronicempyema	1
+chronic eosinophilic pneumonia	chroniceosinophilicpneumonia	1
+chronic fibro-cavemous pulmonary tuberculosis	chronicfibrocavemouspulmonarytuberculosis	1
+chronic hematogenous disseminated pulmo- nary tuberculosis	chronichematogenousdisseminatedpulmonarytuberculosis	1
+chronic hypersensitivity pneumonitis (HP)	chronichypersensitivitypneumonitisHP	1
+chronic hypertrophic rhinitis	chronichypertrophicrhinitis	1
+chronic laryngitis	chroniclaryngitis	1
+chronic lung abscess	chroniclungabscess	1
+chronic lung disease of newborn	chroniclungdiseaseofnewborn	1
+chronic mediastinitis	chronicmediastinitis	1
+chronic mountain sickness	chronicmountainsickness	1
+chronic nasopharyngitis	chronicnasopharyngitis	1
+chronic obstructive pulmonary disease with lower respiratory tract infection	chronicobstructivepulmonarydiseasewithlowerrespiratorytractinfection	1
+chronic obstructive pulmonary disease,COPD	chronicobstructivepulmonarydiseaseCOPD	1
+chronic obstructive pulmonary emphysema	chronicobstructivepulmonaryemphysema	1
+chronic persistent of asthma	chronicpersistentofasthma	1
+chronic pharyngitis	chronicpharyngitis	1
+chronic pharyngolaryngitis	chronicpharyngolaryngitis	1
+chronic pleurisy	chronicpleurisy	1
+chronic potassium-deficit hypokalemia	chronicpotassiumdeficithypokalemia	1
+chronic pulmonary aspergillosis	chronicpulmonaryaspergillosis	1
+chronic pulmonary heart disease	chronicpulmonaryheartdisease	1
+chronic respiratory failure	chronicrespiratoryfailure	1
+chronic rhinitis	chronicrhinitis	1
+chronic sinusitis	chronicsinusitis	1
+chronic thromboembolic pulmonary hypertension	chronicthromboembolicpulmonaryhypertension	1
+chronie obstructive pulmonary disease	chronieobstructivepulmonarydisease	1
+chronie respiratory acidosis	chronierespiratoryacidosis	1
+chronie respiratory alkalosis	chronierespiratoryalkalosis	1
+chronie simple rhinitis	chroniesimplerhinitis	1
+chylothorax	chylothorax	1
+chylous hydrothorax	chyloushydrothorax	1
+cigarette smoking index	cigarettesmokingindex	1
+circulatory hypoxia	circulatoryhypoxia	1
+clearance of lactic acid	clearanceoflacticacid	1
+clevated tumor marker	clevatedtumormarker	1
+clinical pulmonary infection score	clinicalpulmonaryinfectionscore	1
+closed injury	closedinjury	1
+closed loop ventilation	closedloopventilation	1
+closed pneumothorax	closedpneumothorax	1
+closed thoracie drainage	closedthoraciedrainage	1
+closing capacity	closingcapacity	1
+closing volume	closingvolume	1
+closing volume curve	closingvolumecurve	1
+cmphysema	cmphysema	1
+cnteral nutrition	cnteralnutrition	1
+coal worker's pneumoconiosis,CWP	coalworkerspneumoconiosisCWP	1
+coarse moist rale	coarsemoistrale	1
+coffee-worker's lung	coffeeworkerslung	1
+cogwheel breath sound	cogwheelbreathsound	1
+coin lesion of lung	coinlesionoflung	1
+coin sign	coinsign	1
+collapse of airway	collapseofairway	1
+collapse of large airway	collapseoflargeairway	1
+collapse of small airway	collapseofsmallairway	1
+collar bone benign tumor	collarbonebenigntumor	1
+colloid osmotic pressure	colloidosmoticpressure	1
+combined cycling	combinedcycling	1
+combined oxygen	combinedoxygen	1
+combined pulmonary fibrosis andcmphyscma	combinedpulmonaryfibrosisandcmphyscma	1
+common cold	commoncold	1
+community acquired mycoplasmal pneumonia	communityacquiredmycoplasmalpneumonia	1
+community acquired pneumonia	communityacquiredpneumonia	1
+compensated ventilation	compensatedventilation	1
+compensating pulmonary hyperinflation	compensatingpulmonaryhyperinflation	1
+compensatory acidosis	compensatoryacidosis	1
+compensatory alkalosis	compensatoryalkalosis	1
+compensatory anti-inflammatory response syndrome	compensatoryantiinflammatoryresponsesyndrome	1
+compensatory emphysema	compensatoryemphysema	1
+compensatory respiratory acidosis	compensatoryrespiratoryacidosis	1
+complete control ofasthma	completecontrolofasthma	1
+compliance	compliance	1
+complicated parapneumonic effusion	complicatedparapneumoniceffusion	1
+comprehensive treatment	comprehensivetreatment	1
+compressible volume factor	compressiblevolumefactor	1
+compression atelectasis	compressionatelectasis	1
+computed tomographic pulmonary angiography	computedtomographicpulmonaryangiography	1
+computed tomography	computedtomography	1
+concentrated hyperkalemia	concentratedhyperkalemia	1
+congenital abnormal origin or developmental abnormaly of pulmonary artery	congenitalabnormaloriginordevelopmentalabnormalyofpulmonaryartery	1
+congenital absence of lung lobe	congenitalabsenceoflunglobe	1
+congenital absence of rib	congenitalabsenceofrib	1
+congenital accessory lobe of lung	congenitalaccessorylobeoflung	1
+congenital bronchial hamartoma	congenitalbronchialhamartoma	1
+congenital cyst of mediastinum	congenitalcystofmediastinum	1
+congenital diaphragmatic hernia	congenitaldiaphragmatichernia	1
+congenital malformation of bronchial	congenitalmalformationofbronchial	1
+congenital malformation of diaphragm	congenitalmalformationofdiaphragm	1
+congenital malformation of rib	congenitalmalformationofrib	1
+congenital malformation of sternum	congenitalmalformationofsternum	1
+congenital nasopharynx atresia	congenitalnasopharynxatresia	1
+congenital pulmonary adenomatoid cyst	congenitalpulmonaryadenomatoidcyst	1
+congenital pulmonary arteriovenous malforma- tion	congenitalpulmonaryarteriovenousmalformation	1
+congenital pulmonary cyst	congenitalpulmonarycyst	1
+congenital pulmonary hamartoma	congenitalpulmonaryhamartoma	1
+congenital rib bifurcation	congenitalribbifurcation	1
+congenital rib eversion	congenitalribeversion	1
+congenital rib fusion	congenitalribfusion	1
+congenital tracheobronchial hypoplasia	congenitaltracheobronchialhypoplasia	1
+congestive hypoxia	congestivehypoxia	1
+congestive peripheral cyanosis	congestiveperipheralcyanosis	1
+connection of positive pressure ventilation	connectionofpositivepressureventilation	1
+connective tissue disease associated interstitial lung disease,CTD-ILD	connectivetissuediseaseassociatedinterstitiallungdiseaseCTDILD	1
+connective tissue disease associated pulmo- nary hypertension	connectivetissuediseaseassociatedpulmonaryhypertension	1
+consolidation of lung	consolidationoflung	1
+constant flow ventilation	constantflowventilation	1
+continuous arterio-venous hemodiafil- tration	continuousarteriovenoushemodiafiltration	1
+continuous arterio-venous hemodialysis	continuousarteriovenoushemodialysis	1
+continuous arterio-venous hemofiltration	continuousarteriovenoushemofiltration	1
+continuous blood purification	continuousbloodpurification	1
+continuous flow air feed	continuousflowairfeed	1
+continuous low-flow oxygen therapy	continuouslowflowoxygentherapy	1
+continuous mandatory ventilation	continuousmandatoryventilation	1
+continuous negative external pressure	continuousnegativeexternalpressure	1
+continuous negative pressure ventilation	continuousnegativepressureventilation	1
+continuous positive airway pressure	continuouspositiveairwaypressure	1
+continuous positive pressure ventilation	continuouspositivepressureventilation	1
+continuous veno-venous hemodialysis	continuousvenovenoushemodialysis	1
+continuous veno-venous hemofiltration	continuousvenovenoushemofiltration	1
+contralateral mediastinal lymph node metastasis	contralateralmediastinallymphnodemetastasis	1
+control ventilation	controlventilation	1
+controlled oxygen therapy	controlledoxygentherapy	1
+conventional mechanical ventilation	conventionalmechanicalventilation	1
+conventional tidal volume mechanical ventilation	conventionaltidalvolumemechanicalventilation	1
+cor pulmonale	corpulmonale	1
+core needle biopsy of axillary lymph nodes	coreneedlebiopsyofaxillarylymphnodes	1
+cosinophilic bronchitis	cosinophilicbronchitis	1
+cosinophilic nonallergic rhinitis	cosinophilicnonallergicrhinitis	1
+costochondritis,costal chondritis	costochondritiscostalchondritis	1
+costophrenic groove	costophrenicgroove	1
+cough	cough	1
+cough provocative test	coughprovocativetest	1
+cough variant asthma	coughvariantasthma	1
+cough-syncope syndrome	coughsyncopesyndrome	1
+crepitus	crepitus	1
+cricothyroidotomy	cricothyroidotomy	1
+cryotherapy	cryotherapy	1
+cryptococcal antigen latex agglutination test	cryptococcalantigenlatexagglutinationtest	1
+cryptococcal pneumonia	cryptococcalpneumonia	1
+cryptococcus neoformans pneumonia	cryptococcusneoformanspneumonia	1
+cryptogenie organizing pneumonia	cryptogenieorganizingpneumonia	1
+crystal osmotic pressure	crystalosmoticpressure	1
+cuff leak trial	cuffleaktrial	1
+cyanosis	cyanosis	1
+cylindrical bronchiectasis	cylindricalbronchiectasis	1
+cyst	cyst	1
+cystic bronchiectasis	cysticbronchiectasis	1
+cystic fibrosis	cysticfibrosis	1
+cystic fibrosis with combined manifestation	cysticfibrosiswithcombinedmanifestation	1
+cystic fibrosis with pulmonary manifestation	cysticfibrosiswithpulmonarymanifestation	1
+cystic lung disease	cysticlungdisease	1
+cystic lung diseases	cysticlungdiseases	1
+cytomegalovirus pneumonitis	cytomegaloviruspneumonitis	1
+dcmand valve air feed	dcmandvalveairfeed	1
+dead space ventilation	deadspaceventilation	1
+decompensated acidosis	decompensatedacidosis	1
+decompensated alkalosis	decompensatedalkalosis	1
+decompensated metabolic acidosis	decompensatedmetabolicacidosis	1
+decompensated ventilation	decompensatedventilation	1
+decompression sickness	decompressionsickness	1
+decrcascd diffusion function	decrcascddiffusionfunction	1
+decrcased vital capacity	decrcasedvitalcapacity	1
+decreased diffusion capacity of carbon monoxide	decreaseddiffusioncapacityofcarbonmonoxide	1
+decreased pulmonary ventilation capacity	decreasedpulmonaryventilationcapacity	1
+deep venous thrombosis	deepvenousthrombosis	1
+dehydration	dehydration	1
+delay time	delaytime	1
+delayed sleep-phase syndrome	delayedsleepphasesyndrome	1
+desquamative interstitial pneumonial	desquamativeinterstitialpneumonial	1
+diagnostic surgery	diagnosticsurgery	1
+diagnostic thoracentesis	diagnosticthoracentesis	1
+diaphragmatic electromyogram,diaphragmatic EMG	diaphragmaticelectromyogramdiaphragmaticEMG	1
+diaphragmatic hernia	diaphragmatichernia	1
+diaphragmatic muscle endurance time	diaphragmaticmuscleendurancetime	1
+diaphragmatic paralysis	diaphragmaticparalysis	1
+diaphragmatic tension-time index	diaphragmatictensiontimeindex	1
+difference between peak airway pressure and plateau pressure	differencebetweenpeakairwaypressureandplateaupressure	1
+diffuse alveolar hemorrhage syndrome	diffusealveolarhemorrhagesyndrome	1
+diffuse interstitial pulmonary fibrosis	diffuseinterstitialpulmonaryfibrosis	1
+diffuse lung injury	diffuselunginjury	1
+diffuse malignant pleural mesothelioma	diffusemalignantpleuralmesothelioma	1
+diffuse panbronchiolitis	diffusepanbronchiolitis	1
+diffuse parenchymal lung disease association with connective tissue disease	diffuseparenchymallungdiseaseassociationwithconnectivetissuedisease	1
+diffuse parenchymal lung disease,DPLD	diffuseparenchymallungdiseaseDPLD	1
+diffusion capacity for carbon mon- oxide per liter of alveolar volume	diffusioncapacityforcarbonmonoxideperliterofalveolarvolume	1
+diffusion capacity of carbon dioxide of lung	diffusioncapacityofcarbondioxideoflung	1
+diffusion capacity of carbon monoxide of lung	diffusioncapacityofcarbonmonoxideoflung	1
+diffusion capacity of lung	diffusioncapacityoflung	1
+diffusion capacity of oxygen of lung	diffusioncapacityofoxygenoflung	1
+diffusion coefficient	diffusioncoefficient	1
+diffusion disorder	diffusiondisorder	1
+dilutional hypokalemia	dilutionalhypokalemia	1
+dilutional hyponatremia	dilutionalhyponatremia	1
+direct alveolar ventilation	directalveolarventilation	1
+direct discontinuing ventilatory support	directdiscontinuingventilatorysupport	1
+direct preset tidal volume	directpresettidalvolume	1
+directly measured lung volume	directlymeasuredlungvolume	1
+dissolved carbon dioxide	dissolvedcarbondioxide	1
+dissolved oxyger	dissolvedoxyger	1
+distilled water or hypertonic saline provocation test	distilledwaterorhypertonicsalineprovocationtest	1
+distilled water provocation test	distilledwaterprovocationtest	1
+double inspiration	doubleinspiration	1
+double metabolic acid-base disorder	doublemetabolicacidbasedisorder	1
+drainage	drainage	1
+drainage of alveolus	drainageofalveolus	1
+drainage of respiratory system	drainageofrespiratorysystem	1
+drainage of trachea	drainageoftrachea	1
+driving pressure	drivingpressure	1
+drug and toxin associated pulmonaryhypertension	drugandtoxinassociatedpulmonaryhypertension	1
+drug-induced asthma	druginducedasthma	1
+drug-induced bronchial asthma	druginducedbronchialasthma	1
+drug-induced interstitial lung disease	druginducedinterstitiallungdisease	1
+drug-induced interstitial pneumonia	druginducedinterstitialpneumonia	1
+drug-induced lung damage	druginducedlungdamage	1
+drug-induced lung disease	druginducedlungdisease	1
+dry cough	drycough	1
+dual control mode	dualcontrolmode	1
+dullness	dullness	1
+dynamic chest wall compliance	dynamicchestwallcompliance	1
+dynamic compliance	dynamiccompliance	1
+dynamic compliance of respiratory system	dynamiccomplianceofrespiratorysystem	1
+dynamic lung compliance	dynamiclungcompliance	1
+dynamic lung compliance at certain respiratory frequency	dynamiclungcomplianceatcertainrespiratoryfrequency	1
+dynamic pulmonary hypcrinflation	dynamicpulmonaryhypcrinflation	1
+dynamic respiratory loop	dynamicrespiratoryloop	1
+dysfunction of cor pulmonale	dysfunctionofcorpulmonale	1
+dysphonia	dysphonia	1
+dyspnea	dyspnea	1
+dyspnea index	dyspneaindex	1
+dyspneoneurosis	dyspneoneurosis	1
+early goal-directed therapy	earlygoaldirectedtherapy	1
+effective compliance	effectivecompliance	1
+effective cough	effectivecough	1
+effective tidal volume	effectivetidalvolume	1
+efferent tidal volume	efferenttidalvolume	1
+effort-dependent part	effortdependentpart	1
+effusion	effusion	1
+egophony	egophony	1
+elastic resistance	elasticresistance	1
+electronic bronchoscope	electronicbronchoscope	1
+electronic tracheoscopy	electronictracheoscopy	1
+elemental diet	elementaldiet	1
+emphysema with bullae	emphysemawithbullae	1
+empyema	empyema	1
+encapsulated pleural effusion	encapsulatedpleuraleffusion	1
+end-expiratory hold	endexpiratoryhold	1
+end-expiratory lung volume	endexpiratorylungvolume	1
+end-inspiratory hold	endinspiratoryhold	1
+end-inspiratory volume	endinspiratoryvolume	1
+endobronchial hemorrhage	endobronchialhemorrhage	1
+endobronchial injection	endobronchialinjection	1
+endobronchial tuberculosis	endobronchialtuberculosis	1
+endobronchial ultrasonography	endobronchialultrasonography	1
+endobronchial ultrasound-guided trans- bronchial needle aspiration, EBUS-TBNA	endobronchialultrasoundguidedtransbronchialneedleaspirationEBUSTBNA	1
+endobronchoscopic interventional therapy	endobronchoscopicinterventionaltherapy	1
+endoscopic lung volume reduction	endoscopiclungvolumereduction	1
+endotracheal extubation	endotrachealextubation	1
+endotracheal intubation	endotrachealintubation	1
+endotracheal stent implantation	endotrachealstentimplantation	1
+enterobacter cloacae pneumonia	enterobactercloacaepneumonia	1
+enterogenic infection	enterogenicinfection	1
+enterogenous cyst	enterogenouscyst	1
+enterogenous cyst of central nervous sys tem	enterogenouscystofcentralnervoussystem	1
+eosinophilia	eosinophilia	1
+eosinophilic granulomatosis	eosinophilicgranulomatosis	1
+eosinophilic granulomatosis with polyangiitis	eosinophilicgranulomatosiswithpolyangiitis	1
+epidermoid carcinoma	epidermoidcarcinoma	1
+esophageal atresia with esophago tracheal fistula	esophagealatresiawithesophagotrachealfistula	1
+esophageal pressure	esophagealpressure	1
+esophago-tracheal fistula	esophagotrachealfistula	1
+esophagobronchial fistula	esophagobronchialfistula	1
+esophagomediastinal fistula	esophagomediastinalfistula	1
+esophagopleural fistula	esophagopleuralfistula	1
+eventration of diaphragm	eventrationofdiaphragm	1
+exchanging the endotracheal tube	exchangingtheendotrachealtube	1
+exercise load	exerciseload	1
+exercise-induced asthma	exerciseinducedasthma	1
+exercising provocation test	exercisingprovocationtest	1
+exit-site infection	exitsiteinfection	1
+expectoration	expectoration	1
+expiratory dyspnea	expiratorydyspnea	1
+expiratory flow limitation	expiratoryflowlimitation	1
+expiratory flow-volume curve	expiratoryflowvolumecurve	1
+expiratory phase intermittent shunt	expiratoryphaseintermittentshunt	1
+expiratory phase time	expiratoryphasetime	1
+expiratory positive airway pressure	expiratorypositiveairwaypressure	1
+expiratory pressure slope	expiratorypressureslope	1
+expiratory reserve volume	expiratoryreservevolume	1
+expiratory synchrony	expiratorysynchrony	1
+expiratory time	expiratorytime	1
+extra-thoracic nonfixed obstruction of large airway	extrathoracicnonfixedobstructionoflargeairway	1
+extracellular fluid base excess	extracellularfluidbaseexcess	1
+extracorporeal carbon dioxide removal	extracorporealcarbondioxideremoval	1
+extranodal marginal zone cell lymphoma of lung mucosa-associated lymphoid tissue	extranodalmarginalzonecelllymphomaoflungmucosaassociatedlymphoidtissue	1
+extrinsic alveolitis	extrinsicalveolitis	1
+extrinsic asthma	extrinsicasthma	1
+exudate	exudate	1
+familial pulmonary hypertension	familialpulmonaryhypertension	1
+farmer lung	farmerlung	1
+fat embolism syndrome	fatembolismsyndrome	1
+fiberoptic bronchoscopy	fiberopticbronchoscopy	1
+fiberoptic bronchoscopy guided endotracheal intubation	fiberopticbronchoscopyguidedendotrachealintubation	1
+fibrinous bronchitis	fibrinousbronchitis	1
+fibrinous pleurisy	fibrinouspleurisy	1
+fibroma of lung	fibromaoflung	1
+fibrosarcoma of chest wall	fibrosarcomaofchestwall	1
+fibrosing alveolitis	fibrosingalveolitis	1
+fibrothorax	fibrothorax	1
+finc moist rale	fincmoistrale	1
+fine needle aspiration of axillary lymph nodes	fineneedleaspirationofaxillarylymphnodes	1
+fine needle aspiration of lymph node	fineneedleaspirationoflymphnode	1
+fishmeal-worker's lung	fishmealworkerslung	1
+fixed obstruction of large airway	fixedobstructionoflargeairway	1
+flail chest	flailchest	1
+flat chest	flatchest	1
+flatness	flatness	1
+flax-dresser's disease	flaxdressersdisease	1
+flexible bronchoscope	flexiblebronchoscope	1
+flow cycling	flowcycling	1
+flow dependency of airflow resistance	flowdependencyofairflowresistance	1
+flow trigger	flowtrigger	1
+flow waveform	flowwaveform	1
+flow-adapted volume control ventilation	flowadaptedvolumecontrolventilation	1
+flow-limited time cycling	flowlimitedtimecycling	1
+flow-volume curve	flowvolumecurve	1
+flowmetery	flowmetery	1
+fluid resuscitation	fluidresuscitation	1
+fluorescence bronchoscopy	fluorescencebronchoscopy	1
+focal emphysema	focalemphysema	1
+forced expiratory flow at 25% of FVC exhaled	forcedexpiratoryflowat25ofFVCexhaled	1
+forced expiratory flow at 75% of FVC exhaled	forcedexpiratoryflowat75ofFVCexhaled	1
+forced expiratory flow to forced inspiratory flow at 50 percent vital capacity	forcedexpiratoryflowtoforcedinspiratoryflowat50percentvitalcapacity	1
+forced expiratory volume in certain second	forcedexpiratoryvolumeincertainsecond	1
+forced expiratory volume in one second	forcedexpiratoryvolumeinonesecond	1
+forced expiratory volume in one second/forced vital capacity	forcedexpiratoryvolumeinonesecondforcedvitalcapacity	1
+forced expiratory volume in three seconds	forcedexpiratoryvolumeinthreeseconds	1
+forced expiratory volume in two seconds	forcedexpiratoryvolumeintwoseconds	1
+forced inspiratory vital capacity	forcedinspiratoryvitalcapacity	1
+forced vital capacity	forcedvitalcapacity	1
+forcign body in lung	forcignbodyinlung	1
+foreed expiratory flow at 50% of FVC exhaled	foreedexpiratoryflowat50ofFVCexhaled	1
+foreed expiratory volume in half second	foreedexpiratoryvolumeinhalfsecond	1
+foreed expiratory volume in six seconds	foreedexpiratoryvolumeinsixseconds	1
+foreign body in bronchiole	foreignbodyinbronchiole	1
+foreign body in bronchus	foreignbodyinbronchus	1
+foreign body in respiratory tract	foreignbodyinrespiratorytract	1
+foreign body in trachea	foreignbodyintrachea	1
+fractional concentration of alveolar oxygen	fractionalconcentrationofalveolaroxygen	1
+fractional concentration of carbon dioxide in airway	fractionalconcentrationofcarbondioxideinairway	1
+fractional concentration of carbon dioxide in alveolar gas	fractionalconcentrationofcarbondioxideinalveolargas	1
+fractional concentration of carbon dioxide in atmo- sphere	fractionalconcentrationofcarbondioxideinatmosphere	1
+fractional concentration of carbon dioxide in inspired gas	fractionalconcentrationofcarbondioxideininspiredgas	1
+fractional concentration of carbon dioxide in mixed expired gas	fractionalconcentrationofcarbondioxideinmixedexpiredgas	1
+fractional concentration of end-tidal carbon dioxide	fractionalconcentrationofendtidalcarbondioxide	1
+fractional concentration of inspired oxygen	fractionalconcentrationofinspiredoxygen	1
+fractional concentration of oxygen in airway	fractionalconcentrationofoxygeninairway	1
+fractional concentration of oxygen in end-tidal gas	fractionalconcentrationofoxygeninendtidalgas	1
+fractional concentration of oxygen in mixed expired gas	fractionalconcentrationofoxygeninmixedexpiredgas	1
+fractional inspiratory time	fractionalinspiratorytime	1
+fractional vital capacity	fractionalvitalcapacity	1
+frequency dependence of dynamic compliance	frequencydependenceofdynamiccompliance	1
+frictional resistance	frictionalresistance	1
+functional hemodynamic monitoring	functionalhemodynamicmonitoring	1
+functional residual capacity	functionalresidualcapacity	1
+functional shunt	functionalshunt	1
+fungal pneumonia	fungalpneumonia	1
+funncl chest	funnclchest	1
+furrier's lung	furrierslung	1
+galactomannan antigen test	galactomannanantigentest	1
+gangrenous pneumonia	gangrenouspneumonia	1
+gas diffusion rate	gasdiffusionrate	1
+gas exchange defeet	gasexchangedefeet	1
+gastrocolic bronchial fistula	gastrocolicbronchialfistula	1
+gastroesophageal reflux cough	gastroesophagealrefluxcough	1
+general breathing	generalbreathing	1
+generalized edema	generalizededema	1
+giant cell interstitial pneumonia, GIP	giantcellinterstitialpneumoniaGIP	1
+granulomatosis with polyangiitis,GPA	granulomatosiswithpolyangiitisGPA	1
+granulomatous lesion of the lung	granulomatouslesionofthelung	1
+graphite pneumoconiosis	graphitepneumoconiosis	1
+haemophilus influenzae infection in the lung	haemophilusinfluenzaeinfectioninthelung	1
+helium oxygen mixture ventilation	heliumoxygenmixtureventilation	1
+hematogenous disseminated pulmonary tuberculosis	hematogenousdisseminatedpulmonarytuberculosis	1
+hematoma of lung	hematomaoflung	1
+hemic hypoxia	hemichypoxia	1
+hemodialysis	hemodialysis	1
+hemofiltration	hemofiltration	1
+hemoglobin oxygen content	hemoglobinoxygencontent	1
+hemoglobin oxygen saturation	hemoglobinoxygensaturation	1
+hemoglobinopathy	hemoglobinopathy	1
+hemoperfusion	hemoperfusion	1
+hemoptysis	hemoptysis	1
+hemorrhagic pulmonary leptospirosis	hemorrhagicpulmonaryleptospirosis	1
+hemothorax	hemothorax	1
+hepatic and biliary branchial fistula	hepaticandbiliarybranchialfistula	1
+hepatopleural fistula	hepatopleuralfistula	1
+hepatopulmonary syndrome	hepatopulmonarysyndrome	1
+hereditary hemorrhagic telangiectasia, HHT	hereditaryhemorrhagictelangiectasiaHHT	1
+hereditary pulmonary arterial hypertension	hereditarypulmonaryarterialhypertension	1
+herpes simplex virus pneumonia	herpessimplexviruspneumonia	1
+hiatal hernia	hiatalhernia	1
+high altitude adaptation	highaltitudeadaptation	1
+high anion gap (AG) metabolic acidosis	highaniongapAGmetabolicacidosis	1
+high concentration oxygen therapy	highconcentrationoxygentherapy	1
+high frequency chest wall oscillation	highfrequencychestwalloscillation	1
+high frequency electrotherapy	highfrequencyelectrotherapy	1
+high frequency fatigue	highfrequencyfatigue	1
+high frequency jet ventilation	highfrequencyjetventilation	1
+high frequency jet ventilator	highfrequencyjetventilator	1
+high frequency llow interrupter high frequency oscillation ventilation	highfrequencyllowinterrupterhighfrequencyoscillationventilation	1
+high frequency oscillation ventilation	highfrequencyoscillationventilation	1
+high frequency positive pressure ventilation	highfrequencypositivepressureventilation	1
+high frequency ventilation	highfrequencyventilation	1
+high frequency ventilator	highfrequencyventilator	1
+high level positive end-expiratory pressure	highlevelpositiveendexpiratorypressure	1
+high pressure nervous syndrome,HPNS	highpressurenervoussyndromeHPNS	1
+high tidal volume	hightidalvolume	1
+high tidal volume mechanical ventilation	hightidalvolumemechanicalventilation	1
+high-altitude pulmonary edema,HAPE	highaltitudepulmonaryedemaHAPE	1
+high-flow oxygen therapy	highflowoxygentherapy	1
+highly pathogenic avian influenza A infection in human	highlypathogenicavianinfluenzaAinfectioninhuman	1
+hilar lymph node enlargement	hilarlymphnodeenlargement	1
+hilar lymphadenitis	hilarlymphadenitis	1
+hilar lymphonode tuberculosis	hilarlymphonodetuberculosis	1
+histogenous hypoxia	histogenoushypoxia	1
+home oxygen therapy	homeoxygentherapy	1
+home sleep apnea test	homesleepapneatest	1
+hospital acquired pneumonia	hospitalacquiredpneumonia	1
+human metapenu-movinus pneumonia	humanmetapenumovinuspneumonia	1
+humidification therapy	humidificationtherapy	1
+humidifier lung	humidifierlung	1
+hydropneumothorax	hydropneumothorax	1
+hyperbaric oxygen	hyperbaricoxygen	1
+hyperbaric oxygen therapy	hyperbaricoxygentherapy	1
+hypercapnia	hypercapnia	1
+hypercapnic respiratory failure	hypercapnicrespiratoryfailure	1
+hypercapnic ventilatory response	hypercapnicventilatoryresponse	1
+hyperchloremia	hyperchloremia	1
+hyperchloremie acidosis	hyperchloremieacidosis	1
+hyperkalemic acidosis	hyperkalemicacidosis	1
+hyperlactacidemia	hyperlactacidemia	1
+hypermagnesemia	hypermagnesemia	1
+hyperosmotic anhydration	hyperosmoticanhydration	1
+hyperosmotic coma	hyperosmoticcoma	1
+hyperphosphatemia	hyperphosphatemia	1
+hyperpnoca	hyperpnoca	1
+hyperpotassemia	hyperpotassemia	1
+hyperresonance	hyperresonance	1
+hypertonic saline provocation test	hypertonicsalineprovocationtest	1
+hyperventilation	hyperventilation	1
+hyperventilation syndrome	hyperventilationsyndrome	1
+hypervolemic hypernatremia	hypervolemichypernatremia	1
+hypervolemie hyponatremia	hypervolemiehyponatremia	1
+hypoalbumincmia	hypoalbumincmia	1
+hypobaric hypoxia	hypobarichypoxia	1
+hypocalcemia	hypocalcemia	1
+hypocapnia	hypocapnia	1
+hypochloremic alkalosis	hypochloremicalkalosis	1
+hypochondriac discomfort	hypochondriacdiscomfort	1
+hypochondriac pain	hypochondriacpain	1
+hypokalemic alkalosis	hypokalemicalkalosis	1
+hyponatremia	hyponatremia	1
+hyponatremia and hypochloremia	hyponatremiaandhypochloremia	1
+hypoosmolality	hypoosmolality	1
+hypophosphatemia	hypophosphatemia	1
+hypoplasia of pulmonary artery	hypoplasiaofpulmonaryartery	1
+hypopnea	hypopnea	1
+hypopotassemia	hypopotassemia	1
+hypoproteinemia	hypoproteinemia	1
+hypostatic atclcctasis	hypostaticatclcctasis	1
+hypostatie pneumonia	hypostatiepneumonia	1
+hypotonic dehydration	hypotonicdehydration	1
+hypotonic hypoxia	hypotonichypoxia	1
+hypovolemic hypernatremia	hypovolemichypernatremia	1
+hypovolemic hyponatremia	hypovolemichyponatremia	1
+hypovolemic shock	hypovolemicshock	1
+hypoxemia	hypoxemia	1
+hypoxemic respiratory failure	hypoxemicrespiratoryfailure	1
+hypoxia	hypoxia	1
+hypoxia challenge test	hypoxiachallengetest	1
+hypoxic deacclimatization	hypoxicdeacclimatization	1
+hypoxic pulmonary vasoconstriction	hypoxicpulmonaryvasoconstriction	1
+hypoxic ventilatory response	hypoxicventilatoryresponse	1
+iatrogenic pneumothorax	iatrogenicpneumothorax	1
+idiopathic eosinophilic pneumonia	idiopathiceosinophilicpneumonia	1
+idiopathic hypersomnia	idiopathichypersomnia	1
+idiopathic interstitial pneumonia	idiopathicinterstitialpneumonia	1
+idiopathic pleural effusion	idiopathicpleuraleffusion	1
+idiopathic pleuroparenchymal fibroelastosis	idiopathicpleuroparenchymalfibroelastosis	1
+idiopathic pneumonia syndrome	idiopathicpneumoniasyndrome	1
+idiopathic pulmonary arterial hypertension	idiopathicpulmonaryarterialhypertension	1
+idiopathic pulmonary fibrosis	idiopathicpulmonaryfibrosis	1
+idiopathic pulmonary hemosiderosis	idiopathicpulmonaryhemosiderosis	1
+immediate asthmatic reaction	immediateasthmaticreaction	1
+immunoadsorption	immunoadsorption	1
+immunotherapy	immunotherapy	1
+impedance	impedance	1
+improving tissue oxygen supply	improvingtissueoxygensupply	1
+impulse oscillometry system	impulseoscillometrysystem	1
+incomplete reversible airflow limitation	incompletereversibleairflowlimitation	1
+independent lung ventilation	independentlungventilation	1
+indirect preset tidal volume	indirectpresettidalvolume	1
+indirectly measured lung volume	indirectlymeasuredlungvolume	1
+indwelling pleural catheter,IPC	indwellingpleuralcatheterIPC	1
+infantile asthmatic bronchopneumonia	infantileasthmaticbronchopneumonia	1
+infantile bronchitis	infantilebronchitis	1
+infantile bronchopneumonia	infantilebronchopneumonia	1
+infantile pneumonia	infantilepneumonia	1
+inflammatory lung damage	inflammatorylungdamage	1
+influenza	influenza	1
+influenza A virus pncumonia	influenzaAviruspncumonia	1
+influenza B virus pneumonia	influenzaBviruspneumonia	1
+influenza pleurisy	influenzapleurisy	1
+influenza virus pneumonia	influenzaviruspneumonia	1
+influenza with pneumonia(virus not identified)	influenzawithpneumoniavirusnotidentified	1
+infrapulmonary cffusion	infrapulmonarycffusion	1
+infusion related bloodstream infection	infusionrelatedbloodstreaminfection	1
+inhalation injury	inhalationinjury	1
+inhaled nitric oxide therapy	inhalednitricoxidetherapy	1
+inhibitory breathing	inhibitorybreathing	1
+inspiratory capacity	inspiratorycapacity	1
+inspiratory crackle	inspiratorycrackle	1
+inspiratory dyspnca	inspiratorydyspnca	1
+inspiratory flow	inspiratoryflow	1
+inspiratory flow limitation	inspiratoryflowlimitation	1
+inspiratory phase time	inspiratoryphasetime	1
+inspiratory positive airway pressure	inspiratorypositiveairwaypressure	1
+inspiratory pressure slope	inspiratorypressureslope	1
+inspiratory reserve volume	inspiratoryreservevolume	1
+inspiratory stridor	inspiratorystridor	1
+inspiratory synchrony	inspiratorysynchrony	1
+inspiratory tidal volume	inspiratorytidalvolume	1
+inspiratory time	inspiratorytime	1
+inspiratory to expiratory ratio	inspiratorytoexpiratoryratio	1
+inspiratory trigger	inspiratorytrigger	1
+inspiratory trigger synchrony	inspiratorytriggersynchrony	1
+inspiratory vital capacity	inspiratoryvitalcapacity	1
+inspiratory-expiratory cycling	inspiratoryexpiratorycycling	1
+inspired oxygen flow	inspiredoxygenflow	1
+insufflation time	insufflationtime	1
+integrated-flow body plethysmograph	integratedflowbodyplethysmograph	1
+interlobar effusion	interlobareffusion	1
+intermittent discontinuing of ventilatory support	intermittentdiscontinuingofventilatorysupport	1
+intermittent mandatory ventilation	intermittentmandatoryventilation	1
+intermittent negative pressure ventilation	intermittentnegativepressureventilation	1
+intermittent positive pressure ventilation	intermittentpositivepressureventilation	1
+intermittent shunt	intermittentshunt	1
+interstitial emphysema	interstitialemphysema	1
+interstitial lung disease	interstitiallungdisease	1
+interstitial lung disease in polymyositis	interstitiallungdiseaseinpolymyositis	1
+interstitial lung disease indermatomyositis	interstitiallungdiseaseindermatomyositis	1
+interstitial pncumonia	interstitialpncumonia	1
+interstitial pneumonia with autoim- mune features	interstitialpneumoniawithautoimmunefeatures	1
+interventional chemotherapy of lung cancer	interventionalchemotherapyoflungcancer	1
+interventional pulmonary technique	interventionalpulmonarytechnique	1
+interventional therapy	interventionaltherapy	1
+interventional treatment of lung cancer	interventionaltreatmentoflungcancer	1
+intra-thoracic nonfixed obstruction of large airway	intrathoracicnonfixedobstructionoflargeairway	1
+intrabreath diagram	intrabreathdiagram	1
+intracavitary brachytherapy	intracavitarybrachytherapy	1
+intrapleural negative pressure	intrapleuralnegativepressure	1
+intrapleural pressure	intrapleuralpressure	1
+intrapulmonary blood vessel pressure	intrapulmonarybloodvesselpressure	1
+intratracheal gas insufflation	intratrachealgasinsufflation	1
+intratracheal insuffation of oxygen	intratrachealinsuffationofoxygen	1
+intratracheal jet	intratrachealjet	1
+intrinsic positive end-expiratory pressure	intrinsicpositiveendexpiratorypressure	1
+invasive mechanical ventilation	invasivemechanicalventilation	1
+invasive pulmonary aspergillosis	invasivepulmonaryaspergillosis	1
+invasive pulmonary tuberculosis	invasivepulmonarytuberculosis	1
+inverse ratio ventilation	inverseratioventilation	1
+ischemic hypoxia	ischemichypoxia	1
+ischemic peripheral cyanosis	ischemicperipheralcyanosis	1
+iso-capnic hyperventilation provocation test	isocapnichyperventilationprovocationtest	1
+isolated tracheal and bronchial tuberculosis	isolatedtrachealandbronchialtuberculosis	1
+isolated tracheal tuberculosis	isolatedtrachealtuberculosis	1
+isolated ultrafiltration	isolatedultrafiltration	1
+isotonic dehydration	isotonicdehydration	1
+isovolemic hyponatremia	isovolemichyponatremia	1
+isovolume pressure-flow curve	isovolumepressureflowcurve	1
+kyphosis	kyphosis	1
+laceration of lung	lacerationoflung	1
+lactic acidosis	lacticacidosis	1
+lactime	lactime	1
+large cell carcinoma	largecellcarcinoma	1
+laryngitis	laryngitis	1
+late asthmatie reaction	lateasthmatiereaction	1
+lateral position pulmonary function	lateralpositionpulmonaryfunction	1
+lateral position ventilation	lateralpositionventilation	1
+left atrial end-diastolic pressure	leftatrialenddiastolicpressure	1
+left heart disease associated pulmonary hypertension	leftheartdiseaseassociatedpulmonaryhypertension	1
+left lung cancer	leftlungcancer	1
+left main bronchus cancer	leftmainbronchuscancer	1
+left ventricular transmural pressure	leftventriculartransmuralpressure	1
+legionella infection	legionellainfection	1
+legionella pneumophila pneumonia	legionellapneumophilapneumonia	1
+legionnaires pneumonia	legionnairespneumonia	1
+limited-flow index	limitedflowindex	1
+lipoid pncumonia	lipoidpncumonia	1
+lipoma of bronchus and lung	lipomaofbronchusandlung	1
+liquid ventilation	liquidventilation	1
+lobar pneumonia	lobarpneumonia	1
+lobular pneumonia	lobularpneumonia	1
+local chemotherapy	localchemotherapy	1
+localized edema	localizededema	1
+localized empyema	localizedempyema	1
+localized pleural mesothelioma	localizedpleuralmesothelioma	1
+logistie organ dysfunction score	logistieorgandysfunctionscore	1
+long-lcrm oxygcn thcrapy	longlcrmoxygcnthcrapy	1
+lordosis	lordosis	1
+low concentration oxygen therapy	lowconcentrationoxygentherapy	1
+low level positive end-expiratory pressure	lowlevelpositiveendexpiratorypressure	1
+low tidal volume	lowtidalvolume	1
+low tidal volume ventilation	lowtidalvolumeventilation	1
+low-frequency fatigue	lowfrequencyfatigue	1
+low-low oxygen therapy	lowlowoxygentherapy	1
+low-volume waveform	lowvolumewaveform	1
+lower flat part	lowerflatpart	1
+lower inflection point	lowerinflectionpoint	1
+lung absccss	lungabsccss	1
+lung artery occlusion	lungarteryocclusion	1
+lung atelectrauma	lungatelectrauma	1
+lung bauxite fibrosis	lungbauxitefibrosis	1
+lung biopsy	lungbiopsy	1
+lung cavity	lungcavity	1
+lung compliance	lungcompliance	1
+lung cyst	lungcyst	1
+lung disease	lungdisease	1
+lung elastance	lungelastance	1
+lung failure	lungfailure	1
+lung inertia resistance	lunginertiaresistance	1
+lung infection and respiratory failure	lunginfectionandrespiratoryfailure	1
+lung protective ventilation strategy	lungprotectiveventilationstrategy	1
+lung resistance	lungresistance	1
+lung small vasculitis	lungsmallvasculitis	1
+lung tissue viscous resistance	lungtissueviscousresistance	1
+lung transplantation	lungtransplantation	1
+lung transplantation failure	lungtransplantationfailure	1
+lung transplantation rejection	lungtransplantationrejection	1
+lung ventilation imaging	lungventilationimaging	1
+lung volume reduction surgery	lungvolumereductionsurgery	1
+lung volutrauma	lungvolutrauma	1
+lupus lung disease	lupuslungdisease	1
+lupus pneumonia	lupuspneumonia	1
+lymphatic thoracic injury	lymphaticthoracicinjury	1
+lymphocytic interstitial pneumonitis	lymphocyticinterstitialpneumonitis	1
+macro-pulmonary arterio-venous malformation, giant pulmonary arteriovenous malformation	macropulmonaryarteriovenousmalformationgiantpulmonaryarteriovenousmalformation	1
+magnesium deficiency	magnesiumdeficiency	1
+magnetic resonance imaging	magneticresonanceimaging	1
+main bronchus benign tumor	mainbronchusbenigntumor	1
+malignant pleural effusion, MPE	malignantpleuraleffusionMPE	1
+malignant pleural nodules	malignantpleuralnodules	1
+malignant tumor in pulmonary hilum	malignanttumorinpulmonaryhilum	1
+malignant tumor of lower lobe of left lung	malignanttumoroflowerlobeofleftlung	1
+malignant tumor of lung	malignanttumoroflung	1
+malignant tumor of pleural	malignanttumorofpleural	1
+malignant tumor of upper lobe of left lung	malignanttumorofupperlobeofleftlung	1
+mandatory minute ventilation	mandatoryminuteventilation	1
+massive hemoptysis	massivehemoptysis	1
+massive pulmonary embolism	massivepulmonaryembolism	1
+maternal smoking	maternalsmoking	1
+maximal carbon dioxide discharge	maximalcarbondioxidedischarge	1
+maximal carbon dioxide output	maximalcarbondioxideoutput	1
+maximal exercise ventilation	maximalexerciseventilation	1
+maximal expiratory flow	maximalexpiratoryflow	1
+maximal expiratory flow-volume curve	maximalexpiratoryflowvolumecurve	1
+maximal expiratory flow-volume curve with heliox mixture	maximalexpiratoryflowvolumecurvewithhelioxmixture	1
+maximal expiratory pressure	maximalexpiratorypressure	1
+maximal flow-volume curve	maximalflowvolumecurve	1
+maximal heart rate reserve	maximalheartratereserve	1
+maximal inspiratory flow-volume curve	maximalinspiratoryflowvolumecurve	1
+maximal inspiratory pressure	maximalinspiratorypressure	1
+maximal oxygen consumption	maximaloxygenconsumption	1
+maximal oxygen consumption per kg body weight	maximaloxygenconsumptionperkgbodyweight	1
+maximal transdiaphragmatic pressure	maximaltransdiaphragmaticpressure	1
+maximal voluntary ventilation	maximalvoluntaryventilation	1
+maximum plateau pressure	maximumplateaupressure	1
+mean airway pressure	meanairwaypressure	1
+mean inspiratory flow	meaninspiratoryflow	1
+mean pulmonary artery pressure	meanpulmonaryarterypressure	1
+measles pneumonia	measlespneumonia	1
+mechanical ventilation	mechanicalventilation	1
+mechanical ventilation frequency	mechanicalventilationfrequency	1
+mechanical ventilation via artifical airway	mechanicalventilationviaartificalairway	1
+mechanical ventilation via incision of tracher	mechanicalventilationviaincisionoftracher	1
+mechanical ventilation via nasotracheal cannula	mechanicalventilationvianasotrachealcannula	1
+mechanical ventilation via orotracheal cannula	mechanicalventilationviaorotrachealcannula	1
+mechanical ventilation via tracheal cannula	mechanicalventilationviatrachealcannula	1
+mediastinal hemangioma	mediastinalhemangioma	1
+mediastinal lipom	mediastinallipom	1
+mediastinal lymphangioma	mediastinallymphangioma	1
+mediastinal lymphonode tuberculosis	mediastinallymphonodetuberculosis	1
+mediastinal malignant tumor	mediastinalmalignanttumor	1
+mediastinal shadow	mediastinalshadow	1
+mediastinal teratoma	mediastinalteratoma	1
+mediastinal tuberculoma	mediastinaltuberculoma	1
+mediastinoscopy	mediastinoscopy	1
+medicamentous rhinitis	medicamentousrhinitis	1
+melioidosis pneumonia	melioidosispneumonia	1
+meningitic breathing, Biot breathin	meningiticbreathingBiotbreathin	1
+menstrual period bronchial asthma	menstrualperiodbronchialasthma	1
+mesothelioma of pleura	mesotheliomaofpleura	1
+metabolic acidosis	metabolicacidosis	1
+metabolic alkalosis	metabolicalkalosis	1
+metabolic equivalent	metabolicequivalent	1
+metabolic intervention	metabolicintervention	1
+metabolic support	metabolicsupport	1
+metastatic tumor of lung	metastatictumoroflung	1
+methemoglobinemia	methemoglobinemia	1
+micro pulmonary arteriovenous malformation	micropulmonaryarteriovenousmalformation	1
+microscopie polyangitis	microscopiepolyangitis	1
+microwave therapy	microwavetherapy	1
+mid-expiratory flow	midexpiratoryflow	1
+middlc lobc syndrome	middlclobcsyndrome	1
+mild edema	mildedema	1
+mild hemoptysis	mildhemoptysis	1
+mild hypercapnia	mildhypercapnia	1
+mild mixed ventilatory disorder	mildmixedventilatorydisorder	1
+mild obstructive ventilatory disorder	mildobstructiveventilatorydisorder	1
+mild restrictive ventilatory disorder	mildrestrictiveventilatorydisorder	1
+mild sleep apnea hypopnea syn- drome	mildsleepapneahypopneasyndrome	1
+mild smoking	mildsmoking	1
+mild ventilatory disorder	mildventilatorydisorder	1
+mini-tracheostomy	minitracheostomy	1
+miniature mixed room method	miniaturemixedroommethod	1
+minimal plateau pressure	minimalplateaupressure	1
+minute ventilation at rest	minuteventilationatrest	1
+mixed cyanosis	mixedcyanosis	1
+mixed dyspnea	mixeddyspnea	1
+mixed sleep apnca hypopnea syndrome	mixedsleepapncahypopneasyndrome	1
+mixed sleep apnea	mixedsleepapnea	1
+mixed ventilatory disorder	mixedventilatorydisorder	1
+mixing-bag method	mixingbagmethod	1
+mnedium moist rale	mnediummoistrale	1
+moderate concentration oxygen therapy	moderateconcentrationoxygentherapy	1
+moderate edema	moderateedema	1
+moderate hemoptysis	moderatehemoptysis	1
+moderate hypercapnia	moderatehypercapnia	1
+moderate level positive end-expiratory pressure	moderatelevelpositiveendexpiratorypressure	1
+moderate obstructive ventilation dysfunc- tion	moderateobstructiveventilationdysfunction	1
+moderate restrictive ventilation dysfunc- tion	moderaterestrictiveventilationdysfunction	1
+moderate sleep apnea hypopnea syndrome	moderatesleepapneahypopneasyndrome	1
+moderate smoking	moderatesmoking	1
+moderate ventilatory disorder	moderateventilatorydisorder	1
+moist cough	moistcough	1
+moistrale	moistrale	1
+monitoring of mechanical ventilation	monitoringofmechanicalventilation	1
+monitoring tidal volume	monitoringtidalvolume	1
+mouth occlusion pressure at 0. Is after onset of inspi- ratory effort	mouthocclusionpressureat0Isafteronsetofinspiratoryeffort	1
+mucoepidermoid carcinoma of bronchus	mucoepidermoidcarcinomaofbronchus	1
+mucopurulcnt sputum	mucopurulcntsputum	1
+mucous sputum	mucoussputum	1
+multi-factor grading system	multifactorgradingsystem	1
+multidrug-resistant Acinetobacter bau-manii pneumonia	multidrugresistantAcinetobacterbaumaniipneumonia	1
+multidrug-resistant tuberculosis,MDR-TB	multidrugresistanttuberculosisMDRTB	1
+multiple drug resistance (MDR) bacterial infection	multipledrugresistanceMDRbacterialinfection	1
+multiple organ dysfunction syndrome	multipleorgandysfunctionsyndrome	1
+multiple organs dysfunction score	multipleorgansdysfunctionscore	1
+multiple pleural nodules	multiplepleuralnodules	1
+mushroom worker disease	mushroomworkerdisease	1
+mycoplasma pncumoniac pncumonia	mycoplasmapncumoniacpncumonia	1
+mycoplasma pneumonia	mycoplasmapneumonia	1
+myxoma of lung	myxomaoflung	1
+narcolepsy	narcolepsy	1
+nasal tampon	nasaltampon	1
+nasotracheal intubation	nasotrachealintubation	1
+nconatal bronchopulmonary dysplasia	nconatalbronchopulmonarydysplasia	1
+nebulization therapy	nebulizationtherapy	1
+necrosis of lung	necrosisoflung	1
+necrotizing granulomatous vasculitis,NGV	necrotizinggranulomatousvasculitisNGV	1
+necrotizing sarcoid granulomatosis，NSG	necrotizingsarcoidgranulomatosisNSG	1
+needle biopsy of lymph node	needlebiopsyoflymphnode	1
+negative end-expiratory pressure	negativeendexpiratorypressure	1
+negative expiratory pressure	negativeexpiratorypressure	1
+negative pressure ventilation	negativepressureventilation	1
+neonatal bronchitis	neonatalbronchitis	1
+neonatal bronchopneumonia	neonatalbronchopneumonia	1
+neonatal congenital pulmonary fibrosis	neonatalcongenitalpulmonaryfibrosis	1
+neurally adjusted ventilatory assist	neurallyadjustedventilatoryassist	1
+neurogenic pulmonary edema,NPE	neurogenicpulmonaryedemaNPE	1
+new smear positivc pulmonary tuberculosis	newsmearpositivcpulmonarytuberculosis	1
+nicotine replacement therapy	nicotinereplacementtherapy	1
+night sweating	nightsweating	1
+non cardiogenic pulmonary cdema	noncardiogenicpulmonarycdema	1
+non filarial chylothorax	nonfilarialchylothorax	1
+non specifie bronchial provocation test	nonspecifiebronchialprovocationtest	1
+non-breathing oxygen therapy	nonbreathingoxygentherapy	1
+non-frequency dependence of dynamic compliance	nonfrequencydependenceofdynamiccompliance	1
+non-invasive continuous positive airway pressure	noninvasivecontinuouspositiveairwaypressure	1
+non-invasive mechanical ventilation	noninvasivemechanicalventilation	1
+non-invasive positive ventilation	noninvasivepositiveventilation	1
+non-invasive positive ventilation via face mask	noninvasivepositiveventilationviafacemask	1
+non-invasive positive ventilation via nasal mask	noninvasivepositiveventilationvianasalmask	1
+non-invasive pulse oximetry	noninvasivepulseoximetry	1
+non-mixed room method	nonmixedroommethod	1
+non-pitting edema	nonpittingedema	1
+non-protein respiratory quotient	nonproteinrespiratoryquotient	1
+non-small cell lung canccr,NSCLC	nonsmallcelllungcanccrNSCLC	1
+nonallcrgic asthma	nonallcrgicasthma	1
+noninvasive ventilation	noninvasiveventilation	1
+nonpneumonic legionnaires disease	nonpneumoniclegionnairesdisease	1
+nonspecific interstitial pneumonia,NSIP	nonspecificinterstitialpneumoniaNSIP	1
+nonthrombotic pulmonary embolism	nonthromboticpulmonaryembolism	1
+nontuberculous mycobacterium pulmonary disease	nontuberculousmycobacteriumpulmonarydisease	1
+noral tidal volume	noraltidalvolume	1
+normal breath sound	normalbreathsound	1
+normal breathing motion	normalbreathingmotion	1
+normal pulmonary ventilation function	normalpulmonaryventilationfunction	1
+normovolemic hypernatremia	normovolemichypernatremia	1
+nursing home-acquired pneumonia	nursinghomeacquiredpneumonia	1
+nustysputum	nustysputum	1
+obesity hypoventilation syndrome	obesityhypoventilationsyndrome	1
+obliterative bronchiolitis syndrome	obliterativebronchiolitissyndrome	1
+obsolete bronchial lymphoid tubereulosis	obsoletebronchiallymphoidtubereulosis	1
+obsolete pleural tuberculosis	obsoletepleuraltuberculosis	1
+obsolete pulmonary tuberculosis	obsoletepulmonarytuberculosis	1
+obstruction of large airway	obstructionoflargeairway	1
+obstructive atelectasis	obstructiveatelectasis	1
+obstructive tracheobronchial aspergillosis	obstructivetracheobronchialaspergillosis	1
+obstructive ventilatory disorder	obstructiveventilatorydisorder	1
+occupational asthma	occupationalasthma	1
+oil aspiration pncumonia	oilaspirationpncumonia	1
+ongenital cystic adenomatoid malformation	ongenitalcysticadenomatoidmalformation	1
+open helium dilution method	openheliumdilutionmethod	1
+open helium dilution method-rebreathing method	openheliumdilutionmethodrebreathingmethod	1
+open helium dilution method-single breath method	openheliumdilutionmethodsinglebreathmethod	1
+open hemopneumothorax	openhemopneumothorax	1
+open hemothorax	openhemothorax	1
+open injury	openinjury	1
+open lung strategy	openlungstrategy	1
+oppression in chest	oppressioninchest	1
+optimal positive end-expiratory pressure	optimalpositiveendexpiratorypressure	1
+organized pneumonia	organizedpneumonia	1
+orotracheal cannula	orotrachealcannula	1
+orotracheal intubation	orotrachealintubation	1
+orthopnea	orthopnea	1
+osmotic pressure	osmoticpressure	1
+over-distention induced lung injury	overdistentioninducedlunginjury	1
+overlap syndrome	overlapsyndrome	1
+oxygen consumption	oxygenconsumption	1
+oxygen consumption per kg body weight	oxygenconsumptionperkgbodyweight	1
+oxygen content in capillary blood	oxygencontentincapillaryblood	1
+oxygen content in mixed venous blood	oxygencontentinmixedvenousblood	1
+oxygen content in pulmonary capillary blood	oxygencontentinpulmonarycapillaryblood	1
+oxygen delivery in arterial blood	oxygendeliveryinarterialblood	1
+oxygen dissociation curve	oxygendissociationcurve	1
+oxygen partial pressure graded distribution	oxygenpartialpressuregradeddistribution	1
+oxygen pulse	oxygenpulse	1
+oxygen saturation in capillary blood	oxygensaturationincapillaryblood	1
+oxygen saturation in mixed venous blood	oxygensaturationinmixedvenousblood	1
+oxygen saturation in pulmonary capillary blood	oxygensaturationinpulmonarycapillaryblood	1
+oxygen therapy	oxygentherapy	1
+oxygen therapy via mechanical ventilation	oxygentherapyviamechanicalventilation	1
+oxygen uptake	oxygenuptake	1
+oxygenation index	oxygenationindex	1
+palliative chemotherapy	palliativechemotherapy	1
+palliative radiotherapy	palliativeradiotherapy	1
+palliative surgery	palliativesurgery	1
+panacinar emphysema,panlobular emphysema	panacinaremphysemapanlobularemphysema	1
+pancoast tumor	pancoasttumor	1
+paracicatricial emphysema	paracicatricialemphysema	1
+paradoxical acidic urine	paradoxicalacidicurine	1
+paradoxical alkaline urine	paradoxicalalkalineurine	1
+paradoxical respiration	paradoxicalrespiration	1
+paradoxical thoracoabdominal motion	paradoxicalthoracoabdominalmotion	1
+paragonimiasis	paragonimiasis	1
+parainfluenza virus acute bronchitis	parainfluenzavirusacutebronchitis	1
+parainfluenza virus pneumonia	parainfluenzaviruspneumonia	1
+paraneoplastic syndrome	paraneoplasticsyndrome	1
+parapneumonic pleural effusion	parapneumonicpleuraleffusion	1
+parasitic disease of lung	parasiticdiseaseoflung	1
+parasternal diaphragmatic hernia	parasternaldiaphragmatichernia	1
+parenteral nutrition	parenteralnutrition	1
+parietal pleura malignancy	parietalpleuramalignancy	1
+paroxysmal nocturnal dyspnea.	paroxysmalnocturnaldyspnea	1
+partial liquid ventilation, PLV	partialliquidventilationPLV	1
+partial parenteral nutrition	partialparenteralnutrition	1
+partial pressure of arterial oxygen	partialpressureofarterialoxygen	1
+partial pressure of carbon dioxide in airway	partialpressureofcarbondioxideinairway	1
+partial pressure of carbon dioxide in alveolar gas	partialpressureofcarbondioxideinalveolargas	1
+partial pressure of carbon dioxide in arterial blood	partialpressureofcarbondioxideinarterialblood	1
+partial pressure of carbon dioxide in atmosphere	partialpressureofcarbondioxideinatmosphere	1
+partial pressure of carbon dioxide in inspired gas	partialpressureofcarbondioxideininspiredgas	1
+partial pressure of carbon dioxide in mixed expired gas	partialpressureofcarbondioxideinmixedexpiredgas	1
+partial pressure of end-tidal carbon dioxide	partialpressureofendtidalcarbondioxide	1
+partial pressure of inspired oxygen	partialpressureofinspiredoxygen	1
+partial pressure of oxygen	partialpressureofoxygen	1
+partial pressure of oxygen at 50% hemoglobin saturation	partialpressureofoxygenat50hemoglobinsaturation	1
+partial pressure of oxygen in airway	partialpressureofoxygeninairway	1
+partial pressure of oxygen in capillary blood	partialpressureofoxygenincapillaryblood	1
+partial pressure of oxygen in end-tidal gas	partialpressureofoxygeninendtidalgas	1
+partial pressure of oxygen in mixed expired gas	partialpressureofoxygeninmixedexpiredgas	1
+partial pressure of oxygen in mixed venous blood	partialpressureofoxygeninmixedvenousblood	1
+partial pressure of oxygen in venous blood	partialpressureofoxygeninvenousblood	1
+passive smoking	passivesmoking	1
+pathological shunt	pathologicalshunt	1
+patient-ventilator asynchrony	patientventilatorasynchrony	1
+patient-ventilator synehrony	patientventilatorsynehrony	1
+peak cough expiratory flow	peakcoughexpiratoryflow	1
+peak inspiratory flow	peakinspiratoryflow	1
+peak pressure	peakpressure	1
+peak tidal expiratory flow	peaktidalexpiratoryflow	1
+pectoriloquy	pectoriloquy	1
+pectus carinatum	pectuscarinatum	1
+penetrating wound	penetratingwound	1
+percentage of reserve of ventilation	percentageofreserveofventilation	1
+percutancous tracheostomy	percutancoustracheostomy	1
+percutaneous arterial oxygen partial pressure	percutaneousarterialoxygenpartialpressure	1
+percutaneous arterial oxygen saturation	percutaneousarterialoxygensaturation	1
+percutaneous dilatational tracheostomy	percutaneousdilatationaltracheostomy	1
+percutaneous lung biopsy	percutaneouslungbiopsy	1
+percutaneous microwave coagulation therapy	percutaneousmicrowavecoagulationtherapy	1
+percutaneous transthoracie needle aspiration biopsy	percutaneoustransthoracieneedleaspirationbiopsy	1
+periacinar emphysema	periacinaremphysema	1
+pericardial eyst	pericardialeyst	1
+periodic sleepiness,periodic somnolence	periodicsleepinessperiodicsomnolence	1
+periphcral cyanosis	periphcralcyanosis	1
+peripheral fatigue	peripheralfatigue	1
+peripheral lung cancer	peripherallungcancer	1
+peripheral resistance	peripheralresistance	1
+permissibility low calorie policy	permissibilitylowcaloriepolicy	1
+permissive hypercapnia	permissivehypercapnia	1
+persistent pulmonary hypertension of new. born,PPHN	persistentpulmonaryhypertensionofnewbornPPHN	1
+pharyngitis	pharyngitis	1
+phlebitis	phlebitis	1
+photodynamic therapy	photodynamictherapy	1
+physiological shunt	physiologicalshunt	1
+pigeon fancier's lung	pigeonfancierslung	1
+pink frothy sputum	pinkfrothysputum	1
+piston pump high frequency oscillation ventilation	pistonpumphighfrequencyoscillationventilation	1
+pitting edema	pittingedema	1
+plasma osmotic pressure gap	plasmaosmoticpressuregap	1
+plateau hypoxia	plateauhypoxia	1
+plateau pressure	plateaupressure	1
+pleura borderline tumor	pleuraborderlinetumor	1
+pleural adhesions	pleuraladhesions	1
+pleural biopsy	pleuralbiopsy	1
+pleural borderline tumor	pleuralborderlinetumor	1
+pleural calcification	pleuralcalcification	1
+pleural disease	pleuraldisease	1
+pleural drum	pleuraldrum	1
+pleural echinococcosis	pleuralechinococcosis	1
+pleural effusion	pleuraleffusion	1
+pleural fibrous hyperplasia	pleuralfibroushyperplasia	1
+pleural friction fremitus	pleuralfrictionfremitus	1
+pleural friction rub	pleuralfrictionrub	1
+pleural lavage	pleurallavage	1
+pleural lipoma	pleurallipoma	1
+pleural plaque with ashestosis	pleuralplaquewithashestosis	1
+pleural thickening	pleuralthickening	1
+pleural transudate	pleuraltransudate	1
+pleural tuberculoma	pleuraltuberculoma	1
+pleurisy	pleurisy	1
+pleurisy with effusion	pleurisywitheffusion	1
+pleuritis due to connective tissue disease	pleuritisduetoconnectivetissuedisease	1
+pleurodesis	pleurodesis	1
+pncumoconiosis	pncumoconiosis	1
+pneumatocelc	pneumatocelc	1
+pneumoconiosis due to tale dust	pneumoconiosisduetotaledust	1
+pneumoconiosis in foundry workers	pneumoconiosisinfoundryworkers	1
+pneumocystis pncumonia,PCP	pneumocystispncumoniaPCP	1
+pneumonia	pneumonia	1
+pneumonia and septic shock	pneumoniaandsepticshock	1
+pneumopericardium	pneumopericardium	1
+pneumothorax	pneumothorax	1
+pocket infection	pocketinfection	1
+polymyositis with interstitial pulmonary fibrosis	polymyositiswithinterstitialpulmonaryfibrosis	1
+polysomnography	polysomnography	1
+pontiac fever	pontiacfever	1
+positive end-expiratory pressure	positiveendexpiratorypressure	1
+positive end-inspiratory pressure	positiveendinspiratorypressure	1
+positive pressure ventilation	positivepressureventilation	1
+positron emission tomography	positronemissiontomography	1
+post-antithrombotic pulmonary embolism	postantithromboticpulmonaryembolism	1
+post-infection cough	postinfectioncough	1
+post-infection obliterative bronchiolitis	postinfectionobliterativebronchiolitis	1
+post-tuberculosis bronchiectasis	posttuberculosisbronchiectasis	1
+posthypercapnic alkalosis	posthypercapnicalkalosis	1
+postinfectious cough	postinfectiouscough	1
+postmyocardial infarction syndrome	postmyocardialinfarctionsyndrome	1
+postoperative bronchopleural fistula	postoperativebronchopleuralfistula	1
+postoperative chest wall softening	postoperativechestwallsoftening	1
+postoperative chronic pulmonary dysfunc-tion	postoperativechronicpulmonarydysfunction	1
+postoperative pleural effusion	postoperativepleuraleffusion	1
+postoperative pneumothorax	postoperativepneumothorax	1
+postoperative pulmonary dysfunction	postoperativepulmonarydysfunction	1
+postoperative tracheal stenosis	postoperativetrachealstenosis	1
+postural drainage	posturaldrainage	1
+potassium-deficit hypokalemia	potassiumdeficithypokalemia	1
+presct respiratory rate	presctrespiratoryrate	1
+presct tidal volumc	prescttidalvolumc	1
+preset I/E ratio	presetIEratio	1
+preset fractional inspiratory time	presetfractionalinspiratorytime	1
+pressure assist-control ventilation	pressureassistcontrolventilation	1
+pressure assisted ventilation	pressureassistedventilation	1
+pressure augment	pressureaugment	1
+pressure cycling	pressurecycling	1
+pressure gradient	pressuregradient	1
+pressure monitoring	pressuremonitoring	1
+pressure of lower inflection point	pressureoflowerinflectionpoint	1
+pressure of upper inflection point	pressureofupperinflectionpoint	1
+pressure outside pulmonary blood vessel	pressureoutsidepulmonarybloodvessel	1
+pressure regulated volume control ventilation	pressureregulatedvolumecontrolventilation	1
+pressure support ventilation	pressuresupportventilation	1
+pressure support ventilation weaning	pressuresupportventilationweaning	1
+pressure target ventilation	pressuretargetventilation	1
+pressure trigger	pressuretrigger	1
+pressure waveform	pressurewaveform	1
+pressure-controlled continuous mandatory ventilation	pressurecontrolledcontinuousmandatoryventilation	1
+pressure-controlled intermittent mandatory ventilation	pressurecontrolledintermittentmandatoryventilation	1
+pressure-controlled inverse ratio ventilation	pressurecontrolledinverseratioventilation	1
+pressure-controlled mode	pressurecontrolledmode	1
+pressure-controlled syn- chronized intermittent mandatory ventilation plus pressure support ventilation	pressurecontrolledsynchronizedintermittentmandatoryventilationpluspressuresupportventilation	1
+pressure-controlled synchronized continu- ous mandatory ventilation	pressurecontrolledsynchronizedcontinuousmandatoryventilation	1
+pressure-controlled synchronized inter- mittent mandatory ventilation	pressurecontrolledsynchronizedintermittentmandatoryventilation	1
+pressure-controlled ventilation	pressurecontrolledventilation	1
+pressure-limited	pressurelimited	1
+pressure-limited flow cycling	pressurelimitedflowcycling	1
+pressure-limited pressure cycling	pressurelimitedpressurecycling	1
+pressure-limited time cycling	pressurelimitedtimecycling	1
+pressure-limited ventilation	pressurelimitedventilation	1
+pressure-vessel wave	pressurevesselwave	1
+pressure-volume curve of chest wall	pressurevolumecurveofchestwall	1
+pressure-volume curve of lung	pressurevolumecurveoflung	1
+pressure-volume curve of respiratory system	pressurevolumecurveofrespiratorysystem	1
+primary alveolar hypoventilation syndrome	primaryalveolarhypoventilationsyndrome	1
+primary bronchial amyloidosis	primarybronchialamyloidosis	1
+primary bronchogenic carcinoma	primarybronchogeniccarcinoma	1
+primary bronchopulmonary amyloidosis	primarybronchopulmonaryamyloidosis	1
+primary ciliary dyskinesia	primaryciliarydyskinesia	1
+primary complex of tuberculosis	primarycomplexoftuberculosis	1
+primary hypernatremia	primaryhypernatremia	1
+primary mediastinal lymphoma	primarymediastinallymphoma	1
+primary pulmonary tuberculosis	primarypulmonarytuberculosis	1
+primary snoring	primarysnoring	1
+profuse pink frothy sputum	profusepinkfrothysputum	1
+profuse water-like sputum	profusewaterlikesputum	1
+profuse white frothy sputum	profusewhitefrothysputum	1
+prone ventilation	proneventilation	1
+proportional ventilation	proportionalventilation	1
+protcin malnutrition	protcinmalnutrition	1
+provocative concentration of PAF causing a 35% fall in sGaw	provocativeconcentrationofPAFcausinga35fallinsGaw	1
+provocative concentration of bronchosonstrictor trigger needed to cause a 20% fall in FEV,	provocativeconcentrationofbronchosonstrictortriggerneededtocausea20fallinFEV	1
+provocative dose of PAF causing a 35% fall in sGaw	provocativedoseofPAFcausinga35fallinsGaw	1
+provocative dose of bronchoconstrictor trigger which causes a fall of 20% in FEV,	provocativedoseofbronchoconstrictortriggerwhichcausesafallof20inFEV	1
+pseudohyponatremia	pseudohyponatremia	1
+pseudomonas aeruginosa pneumonia	pseudomonasaeruginosapneumonia	1
+psittacosis pneumonia	psittacosispneumonia	1
+psychogcnic cough	psychogcniccough	1
+pulmonary Langerhans cell histiocytosis	pulmonaryLangerhanscellhistiocytosis	1
+pulmonary actinomycosis	pulmonaryactinomycosis	1
+pulmonary agencsis	pulmonaryagencsis	1
+pulmonary alveolar microlithiasis	pulmonaryalveolarmicrolithiasis	1
+pulmonary amyloidosis	pulmonaryamyloidosis	1
+pulmonary artcriovcnous fistula	pulmonaryartcriovcnousfistula	1
+pulmonary arterial hypertension	pulmonaryarterialhypertension	1
+pulmonary arterial hypertension associated with pulmonary venous or capillary involvement	pulmonaryarterialhypertensionassociatedwithpulmonaryvenousorcapillaryinvolvement	1
+pulmonary artery aneurysm	pulmonaryarteryaneurysm	1
+pulmonary artery diastolic pressure	pulmonaryarterydiastolicpressure	1
+pulmonary artery pressure	pulmonaryarterypressure	1
+pulmonary artery systolie pressure	pulmonaryarterysystoliepressure	1
+pulmonary artery wedge pressure	pulmonaryarterywedgepressure	1
+pulmonary ascariasis	pulmonaryascariasis	1
+pulmonary aspergillosis	pulmonaryaspergillosis	1
+pulmonary barotrauma	pulmonarybarotrauma	1
+pulmonary berylliosis	pulmonaryberylliosis	1
+pulmonary biotrauma	pulmonarybiotrauma	1
+pulmonary blastomycosis	pulmonaryblastomycosis	1
+pulmonary blood flow	pulmonarybloodflow	1
+pulmonary blood volume	pulmonarybloodvolume	1
+pulmonary candidiasis	pulmonarycandidiasis	1
+pulmonary capillary critical opening pressure	pulmonarycapillarycriticalopeningpressure	1
+pulmonary capillary hemangiomatosis	pulmonarycapillaryhemangiomatosis	1
+pulmonary capillary hydrostatic pressure	pulmonarycapillaryhydrostaticpressure	1
+pulmonary capillary partial pressure of oxygen	pulmonarycapillarypartialpressureofoxygen	1
+pulmonary capillary transmural pressure	pulmonarycapillarytransmuralpressure	1
+pulmonary carcinoid	pulmonarycarcinoid	1
+pulmonary cdcma	pulmonarycdcma	1
+pulmonary chemodectoma	pulmonarychemodectoma	1
+pulmonary contusion	pulmonarycontusion	1
+pulmonary cosinophilia	pulmonarycosinophilia	1
+pulmonary cryptococcosis	pulmonarycryptococcosis	1
+pulmonary cyanosis	pulmonarycyanosis	1
+pulmonary cyst with infection	pulmonarycystwithinfection	1
+pulmonary cystic fibrosis	pulmonarycysticfibrosis	1
+pulmonary cysticcrcosis	pulmonarycysticcrcosis	1
+pulmonary disease associated with primarySjögren syndrome	pulmonarydiseaseassociatedwithprimarySjögrensyndrome	1
+pulmonary dysmaturity	pulmonarydysmaturity	1
+pulmonary dyspnca	pulmonarydyspnca	1
+pulmonary echinococcosis	pulmonaryechinococcosis	1
+pulmonary embolism	pulmonaryembolism	1
+pulmonary encephalopathy	pulmonaryencephalopathy	1
+pulmonary epithelioid hemangioendothe- lioma, PEH	pulmonaryepithelioidhemangioendotheliomaPEH	1
+pulmonary epithelioid hemangioendothelioma	pulmonaryepithelioidhemangioendothelioma	1
+pulmonary fibrosis and infection	pulmonaryfibrosisandinfection	1
+pulmonary fibrosis with infection	pulmonaryfibrosiswithinfection	1
+pulmonary function	pulmonaryfunction	1
+pulmonary function test	pulmonaryfunctiontest	1
+pulmonary function test apparatus	pulmonaryfunctiontestapparatus	1
+pulmonary ground glass nodules	pulmonarygroundglassnodules	1
+pulmonary haemorrhage	pulmonaryhaemorrhage	1
+pulmonary hamartoma	pulmonaryhamartoma	1
+pulmonary hemosidcrosis	pulmonaryhemosidcrosis	1
+pulmonary hilar enlargement	pulmonaryhilarenlargement	1
+pulmonary histoplasmosis	pulmonaryhistoplasmosis	1
+pulmonary hyperinflation	pulmonaryhyperinflation	1
+pulmonary hypertension	pulmonaryhypertension	1
+pulmonary hypertension associated with hypoxia	pulmonaryhypertensionassociatedwithhypoxia	1
+pulmonary hypoplasia	pulmonaryhypoplasia	1
+pulmonary incompetence	pulmonaryincompetence	1
+pulmonary infarction	pulmonaryinfarction	1
+pulmonary infcction with atclectasis	pulmonaryinfcctionwithatclectasis	1
+pulmonary infection	pulmonaryinfection	1
+pulmonary infection of multiple dnig-resistant bacterial	pulmonaryinfectionofmultiplednigresistantbacterial	1
+pulmonary infection with hemoptysis	pulmonaryinfectionwithhemoptysis	1
+pulmonary infection with pleural effusion	pulmonaryinfectionwithpleuraleffusion	1
+pulmonary inflammatory pseudotumor	pulmonaryinflammatorypseudotumor	1
+pulmonary interstitial fibrosis (post-inflamma-tion)	pulmonaryinterstitialfibrosispostinflammation	1
+pulmonary interstitial negative pressure	pulmonaryinterstitialnegativepressure	1
+pulmonary interstitial pressure	pulmonaryinterstitialpressure	1
+pulmonary lymph nodes metastasis	pulmonarylymphnodesmetastasis	1
+pulmonary lymphangioleiomyomatosis,PLAM	pulmonarylymphangioleiomyomatosisPLAM	1
+pulmonary lymphoma	pulmonarylymphoma	1
+pulmonary lymphomatoid granulomatosis	pulmonarylymphomatoidgranulomatosis	1
+pulmonary metastatic malignancy melanomatosis	pulmonarymetastaticmalignancymelanomatosis	1
+pulmonary mucormycosis	pulmonarymucormycosis	1
+pulmonary mycosis	pulmonarymycosis	1
+pulmonary nocardiosis	pulmonarynocardiosis	1
+pulmonary paracoccidioidomycosis	pulmonaryparacoccidioidomycosis	1
+pulmonary perfusion imaging	pulmonaryperfusionimaging	1
+pulmonary pscudolymphoma	pulmonarypscudolymphoma	1
+pulmonary rehabilitation	pulmonaryrehabilitation	1
+pulmonary sarcoidosis	pulmonarysarcoidosis	1
+pulmonary schistosomiasis	pulmonaryschistosomiasis	1
+pulmonary sclerosis	pulmonarysclerosis	1
+pulmonary sequestration	pulmonarysequestration	1
+pulmonary shadow	pulmonaryshadow	1
+pulmonary siderosis	pulmonarysiderosis	1
+pulmonary sporotrichosis	pulmonarysporotrichosis	1
+pulmonary synovial sarcoma	pulmonarysynovialsarcoma	1
+pulmonary thrombocmbolism	pulmonarythrombocmbolism	1
+pulmonary toxoplasmosis	pulmonarytoxoplasmosis	1
+pulmonary tuberculoma	pulmonarytuberculoma	1
+pulmonary tuberculosis	pulmonarytuberculosis	1
+pulmonary tuberculosis of proliferative type	pulmonarytuberculosisofproliferativetype	1
+pulmonary tuberculosis recurrence	pulmonarytuberculosisrecurrence	1
+pulmonary tularaemia	pulmonarytularaemia	1
+pulmonary vascular resistance	pulmonaryvascularresistance	1
+pulmonary vasculitis	pulmonaryvasculitis	1
+pulmonary vein occlusion	pulmonaryveinocclusion	1
+pulmonary venous pressure	pulmonaryvenouspressure	1
+pulmonary ventilation dysfunction	pulmonaryventilationdysfunction	1
+pump failure	pumpfailure	1
+pursed-lip breathing	pursedlipbreathing	1
+purulent pleurisy	purulentpleurisy	1
+purulent sputum	purulentsputum	1
+pyemia	pyemia	1
+pyothorax with fistula	pyothoraxwithfistula	1
+rachitic chest	rachiticchest	1
+rachitic rosary	rachiticrosary	1
+radiating pain	radiatingpain	1
+radiation pncumonia	radiationpncumonia	1
+radiation therapy	radiationtherapy	1
+radiative pulmonary fibrosis	radiativepulmonaryfibrosis	1
+radical chemotherapy	radicalchemotherapy	1
+radical radiotherapy	radicalradiotherapy	1
+radical surgery	radicalsurgery	1
+ralc	ralc	1
+ramp test	ramptest	1
+rapid eye movement sleep behavior disorder	rapideyemovementsleepbehaviordisorder	1
+ratio of dead space to tidal volume	ratioofdeadspacetotidalvolume	1
+ratio of functional residual volume to total lung capacity	ratiooffunctionalresidualvolumetototallungcapacity	1
+ratio of residual volume to total lung capacity	ratioofresidualvolumetototallungcapacity	1
+ratio of shunted blood to total perfusion	ratioofshuntedbloodtototalperfusion	1
+ratio of tidal expi- ratory flow at 25% of tidal volume to PTEF	ratiooftidalexpiratoryflowat25oftidalvolumetoPTEF	1
+ratio of time to peak tidal expiratory flow to total expira- tory time,TPTEF/TE	ratiooftimetopeaktidalexpiratoryflowtototalexpiratorytimeTPTEFTE	1
+ratio of volume at peak tidal expiratory flow to expiratory tidal volume	ratioofvolumeatpeaktidalexpiratoryflowtoexpiratorytidalvolume	1
+reactive airway dysfunction syndrome	reactiveairwaydysfunctionsyndrome	1
+recessive edema	recessiveedema	1
+recruitment maneuver	recruitmentmaneuver	1
+reduced lung function	reducedlungfunction	1
+reexpansion pulmonary edema	reexpansionpulmonaryedema	1
+refractory asthma	refractoryasthma	1
+relapsing polychondritis,RP	relapsingpolychondritisRP	1
+relative adrenal insufficiency	relativeadrenalinsufficiency	1
+relaxation pressure	relaxationpressure	1
+removal of tracheal foreign body by bron- choscopic extraction	removaloftrachealforeignbodybybronchoscopicextraction	1
+removal of tracheobronchial foreign bodies	removaloftracheobronchialforeignbodies	1
+resection of lung mass	resectionoflungmass	1
+reserve of ventilation	reserveofventilation	1
+residual volume	residualvolume	1
+resistance-time diagram	resistancetimediagram	1
+resistance-volume diagram	resistancevolumediagram	1
+resistant time	resistanttime	1
+resonance	resonance	1
+resorptive atelectasis	resorptiveatelectasis	1
+respiratory acidosis	respiratoryacidosis	1
+respiratory acidosis associated with metabolic acidosis	respiratoryacidosisassociatedwithmetabolicacidosis	1
+respiratory acidosis associated with metabolic alkalosis	respiratoryacidosisassociatedwithmetabolicalkalosis	1
+respiratory alkalosis	respiratoryalkalosis	1
+respiratory alkalosis and metabolic acidosis	respiratoryalkalosisandmetabolicacidosis	1
+respiratory alkalosis associated with metabolic acidosis	respiratoryalkalosisassociatedwithmetabolicacidosis	1
+respiratory alkalosis associated with metabolic alkalosis	respiratoryalkalosisassociatedwithmetabolicalkalosis	1
+respiratory and metabolic acid-base dis- order	respiratoryandmetabolicacidbasedisorder	1
+respiratory arrest	respiratoryarrest	1
+respiratory cycle	respiratorycycle	1
+respiratory dynamic resistance	respiratorydynamicresistance	1
+respiratory elastance	respiratoryelastance	1
+respiratory exchange ratio	respiratoryexchangeratio	1
+respiratory exercise	respiratoryexercise	1
+respiratory failure	respiratoryfailure	1
+respiratory failure with high lung volume	respiratoryfailurewithhighlungvolume	1
+respiratory failure with normal lung volume	respiratoryfailurewithnormallungvolume	1
+respiratory hypoxia	respiratoryhypoxia	1
+respiratory index	respiratoryindex	1
+respiratory inertial resistance	respiratoryinertialresistance	1
+respiratory muscle fatigue	respiratorymusclefatigue	1
+respiratory muscle paralysis	respiratorymuscleparalysis	1
+respiratory muscle weakness	respiratorymuscleweakness	1
+respiratory quotient	respiratoryquotient	1
+respiratory quotient of carbohydrate	respiratoryquotientofcarbohydrate	1
+respiratory quotient of fat	respiratoryquotientoffat	1
+respiratory quotient of mixed food	respiratoryquotientofmixedfood	1
+respiratory quotient of protein	respiratoryquotientofprotein	1
+respiratory rate	respiratoryrate	1
+respiratory rhythm	respiratoryrhythm	1
+respiratory static resistance	respiratorystaticresistance	1
+respiratory syncytial virus pneumonia	respiratorysyncytialviruspneumonia	1
+respiratory system compliance	respiratorysystemcompliance	1
+respiratory tract burn	respiratorytractburn	1
+respiratory tract obstruction	respiratorytractobstruction	1
+respiratory viscous resistance	respiratoryviscousresistance	1
+respiratory waveform	respiratorywaveform	1
+resting pulmonary vascular resistance	restingpulmonaryvascularresistance	1
+resting pulmonary vasomotor tone	restingpulmonaryvasomotortone	1
+resting vasomotor tone	restingvasomotortone	1
+restless leg syndrome	restlesslegsyndrome	1
+restrictive ventilatory disorder	restrictiveventilatorydisorder	1
+retrograde endotracheal intubation	retrogradeendotrachealintubation	1
+reversible airflow limitation	reversibleairflowlimitation	1
+rheumatoid lung disease	rheumatoidlungdisease	1
+rhinitis	rhinitis	1
+rhinitis caseosa.caseous rhinitis	rhinitiscaseosacaseousrhinitis	1
+rhinitis sicca	rhinitissicca	1
+rhonchi，rhonchus	rhonchirhonchus	1
+rib fracture	ribfracture	1
+right atrial end-diastolic pressure	rightatrialenddiastolicpressure	1
+right lung cancer	rightlungcancer	1
+right main bronchus cancer	rightmainbronchuscancer	1
+right ventricular transmural pressure	rightventriculartransmuralpressure	1
+rigid bronchoscope	rigidbronchoscope	1
+rubella pneumonia	rubellapneumonia	1
+sarcoidosis	sarcoidosis	1
+scar carcinoma of lung	scarcarcinomaoflung	1
+sccondary pulmonary tuberculosis	sccondarypulmonarytuberculosis	1
+scoliosis	scoliosis	1
+secondary insomnia	secondaryinsomnia	1
+secondary malignant intrathoracic lymph node	secondarymalignantintrathoraciclymphnode	1
+secondary malignant intrathoracic tumor	secondarymalignantintrathoracictumor	1
+secondary malignant neoplasm of lung	secondarymalignantneoplasmoflung	1
+secondary malignant tumor of chest wall	secondarymalignanttumorofchestwall	1
+secondary malignant tumor of diaphragm	secondarymalignanttumorofdiaphragm	1
+secondary malignant tumor of hilar lymph sis (confirmed by bacteriology and histology)	secondarymalignanttumorofhilarlymphsisconfirmedbybacteriologyandhistology	1
+secondary malignant tumor of mediastinal lymph node	secondarymalignanttumorofmediastinallymphnode	1
+secondary malignant tumor of mediastinum	secondarymalignanttumorofmediastinum	1
+secondary malignant tumor of superior phrenic lymph node	secondarymalignanttumorofsuperiorphreniclymphnode	1
+secondary pulmonary abscess	secondarypulmonaryabscess	1
+secondary pulmonary tuberculosis	secondarypulmonarytuberculosis	1
+seizures insleep	seizuresinsleep	1
+senile emphysema	senileemphysema	1
+separate pulmonary function	separatepulmonaryfunction	1
+sepsis bundle strategy	sepsisbundlestrategy	1
+sepsis resuscitation bundle strategy	sepsisresuscitationbundlestrategy	1
+sepsis-related organ failure assessment	sepsisrelatedorganfailureassessment	1
+septic shock	septicshock	1
+sequential invasive non-invasive mechanical ventilation	sequentialinvasivenoninvasivemechanicalventilation	1
+sequoiosis	sequoiosis	1
+serofibrinous pleurisy	serofibrinouspleurisy	1
+servo valve air feed	servovalveairfeed	1
+severe Pectus excavatum	severePectusexcavatum	1
+severe Pneumocystis carinii pneumonia, PCP	severePneumocystiscariniipneumoniaPCP	1
+severe acute exacerbation of chronic obstructive pulmonary disease	severeacuteexacerbationofchronicobstructivepulmonarydisease	1
+severe acute respiratory distress syndrome	severeacuterespiratorydistresssyndrome	1
+severe acute respiratory syndrome	severeacuterespiratorysyndrome	1
+severe adenovirus pneumonia	severeadenoviruspneumonia	1
+severe asthm	severeasthm	1
+severe bronchiolitis	severebronchiolitis	1
+severe community-aequired pneumonia	severecommunityaequiredpneumonia	1
+severe cytomegalovirus pneumonia	severecytomegaloviruspneumonia	1
+severe edema	severeedema	1
+severe hypereapnia	severehypereapnia	1
+severe hypoalbuminemia	severehypoalbuminemia	1
+severe hypoproteinemia	severehypoproteinemia	1
+severe influenza	severeinfluenza	1
+severe influenza A virus pneumonia	severeinfluenzaAviruspneumonia	1
+severe influenza B	severeinfluenzaB	1
+severe influenza virus pneumonia	severeinfluenzaviruspneumonia	1
+severe obstructive sleep apnea hypopnea syndrome	severeobstructivesleepapneahypopneasyndrome	1
+severe obstructive ventilatory dysfunction	severeobstructiveventilatorydysfunction	1
+severe pneumonia	severepneumonia	1
+severe restrictive ventilation dysfunetion	severerestrictiveventilationdysfunetion	1
+severe sepsis	severesepsis	1
+severe sleep apnea hypopnea syndrome	severesleepapneahypopneasyndrome	1
+severe smoking	severesmoking	1
+severe ventilatory disorder	severeventilatorydisorder	1
+severe viral pneumonia	severeviralpneumonia	1
+shear stress induced lung injury	shearstressinducedlunginjury	1
+shifted hyperkalemia	shiftedhyperkalemia	1
+shifted hypokalemia	shiftedhypokalemia	1
+shifted hyponatremia	shiftedhyponatremia	1
+short breath	shortbreath	1
+short-term oxygen therapy	shorttermoxygentherapy	1
+shortness of breath	shortnessofbreath	1
+sibilant rhonchi	sibilantrhonchi	1
+sigh	sigh	1
+sigh ventilation	sighventilation	1
+sighing breathing	sighingbreathing	1
+silicosis	silicosis	1
+simplified acute physiology score	simplifiedacutephysiologyscore	1
+sinus of thoracic wall	sinusofthoracicwall	1
+sinus tract	sinustract	1
+six-minute walk test	sixminutewalktest	1
+sleep apnea hypopnea syndrome	sleepapneahypopneasyndrome	1
+sleep apnoca	sleepapnoca	1
+sleep disorder	sleepdisorder	1
+sleep hypoventilation	sleephypoventilation	1
+sleep hypoventilation syndrome	sleephypoventilationsyndrome	1
+sleep-related apnea-hypopnea index	sleeprelatedapneahypopneaindex	1
+sleep-related breathing disorder	sleeprelatedbreathingdisorder	1
+sleep-related rhythmic movement disorder	sleeprelatedrhythmicmovementdisorder	1
+slow continuous ultrafiltration	slowcontinuousultrafiltration	1
+small airway disease	smallairwaydisease	1
+small airway dysfunction	smallairwaydysfunction	1
+small cell lung cancer	smallcelllungcancer	1
+small mixed room method	smallmixedroommethod	1
+smoking	smoking	1
+solitary fibrous tumor of the lung	solitaryfibroustumorofthelung	1
+solubility coefficient	solubilitycoefficient	1
+somatizational autonomic ner- vous dysfunction of respiratory system	somatizationalautonomicnervousdysfunctionofrespiratorysystem	1
+sonorous rhonchi	sonorousrhonchi	1
+specific airway conductance	specificairwayconductance	1
+specific airway resistance	specificairwayresistance	1
+specific bronchial provocation test	specificbronchialprovocationtest	1
+specific compliance	specificcompliance	1
+specific immunotherapy	specificimmunotherapy	1
+speetroanalytic diagram	speetroanalyticdiagram	1
+spirometry	spirometry	1
+spontancous Tespiratory frequcncy	spontancousTespiratoryfrequcncy	1
+spontancous breathing	spontancousbreathing	1
+spontaneous breathing test	spontaneousbreathingtest	1
+spontaneous cycling	spontaneouscycling	1
+spontaneous pneumothorax	spontaneouspneumothorax	1
+spontaneous-limited	spontaneouslimited	1
+sputum suction by bronchoscopy	sputumsuctionbybronchoscopy	1
+sputum suctioning	sputumsuctioning	1
+squamous cell carcinoma	squamouscellcarcinoma	1
+stable stage of chronic obstructive pulmo- nary disease	stablestageofchronicobstructivepulmonarydisease	1
+staging surgery	stagingsurgery	1
+standard base excess	standardbaseexcess	1
+standard buffer base	standardbufferbase	1
+standard carbonate	standardcarbonate	1
+standard lung volume history	standardlungvolumehistory	1
+stannosis	stannosis	1
+staphylococcal pneumonia	staphylococcalpneumonia	1
+static chest wall compliance	staticchestwallcompliance	1
+static compliance	staticcompliance	1
+static compliance of respiratory system	staticcomplianceofrespiratorysystem	1
+static lung compliance	staticlungcompliance	1
+static pulmonary hyperinflation	staticpulmonaryhyperinflation	1
+step exercise	stepexercise	1
+sternoclavicular dislocation	sternoclaviculardislocation	1
+sternum benign tumor	sternumbenigntumor	1
+stress hyperglycemia	stresshyperglycemia	1
+stress ulcer	stressulcer	1
+structural paramcter diagram	structuralparamcterdiagram	1
+subacute cough	subacutecough	1
+subacute drug-induced pulmonary disease	subacutedruginducedpulmonarydisease	1
+subacute hematogenous pulmonary tuberculosis	subacutehematogenouspulmonarytuberculosis	1
+subacute miliary tuberculosis	subacutemiliarytuberculosis	1
+subcutancous tissue schistosomiasis	subcutancoustissueschistosomiasis	1
+subcutaneous emphysema	subcutaneousemphysema	1
+suberosis	suberosis	1
+submassive pulmonary embolism	submassivepulmonaryembolism	1
+subphrenic infection	subphrenicinfection	1
+subphrenic tumor	subphrenictumor	1
+suffocation	suffocation	1
+sulfhemoglobinemia	sulfhemoglobinemia	1
+sulfur hexafluoride dilution	sulfurhexafluoridedilution	1
+superior vena caval obstruction syndrome	superiorvenacavalobstructionsyndrome	1
+surface tension	surfacetension	1
+surfactant inhalation therapy	surfactantinhalationtherapy	1
+surgical treatment	surgicaltreatment	1
+sustained inflation	sustainedinflation	1
+synchronic time	synchronictime	1
+synchronize	synchronize	1
+synchronized continuous mandatory ventilation	synchronizedcontinuousmandatoryventilation	1
+synchronized intermittent mandatory venti-lation weaning method	synchronizedintermittentmandatoryventilationweaningmethod	1
+synchronized intermittent mandatory ventilation	synchronizedintermittentmandatoryventilation	1
+synchronized intermittent mandatory ventilation plus pressure support	synchronizedintermittentmandatoryventilationpluspressuresupport	1
+synchronized intermittent mandatory ventilation plus pressure support ventilation weaning	synchronizedintermittentmandatoryventilationpluspressuresupportventilationweaning	1
+synchrony of inspiratory expiratory phase transition	synchronyofinspiratoryexpiratoryphasetransition	1
+syphilitic lung	syphiliticlung	1
+systemic air embolism	systemicairembolism	1
+systemic blood pressure	systemicbloodpressure	1
+systemic intlammatory response syndrome	systemicintlammatoryresponsesyndrome	1
+systemie seleroderma lung disease	systemieselerodermalungdisease	1
+tachypnca	tachypnca	1
+targeted therapy	targetedtherapy	1
+tension pncumothorax	tensionpncumothorax	1
+thc trachcobronchial lesions with caleification	thctrachcobronchiallesionswithcaleification	1
+therapeutic thoracentesis	therapeuticthoracentesis	1
+thick wall cavity of lung	thickwallcavityoflung	1
+thoracentesis	thoracentesis	1
+thoracic breathing	thoracicbreathing	1
+thoracic closed drainage with negative pressure	thoraciccloseddrainagewithnegativepressure	1
+thoracic deformity	thoracicdeformity	1
+thoracic duct injury	thoracicductinjury	1
+thoracic duct obstruction	thoracicductobstruction	1
+thoracic expansion	thoracicexpansion	1
+thoracic exploration	thoracicexploration	1
+thoracic lipoma	thoraciclipoma	1
+thoracic lymph node tuberculosis	thoraciclymphnodetuberculosis	1
+thoracic lymphangiomatosis	thoraciclymphangiomatosis	1
+thoracic space-occupying lesion	thoracicspaceoccupyinglesion	1
+thoracic trauma	thoracictrauma	1
+thoracic tuberculosis	thoracictuberculosis	1
+thoracie gas volume	thoraciegasvolume	1
+thoracie malignant tumor	thoraciemalignanttumor	1
+thoracoscopy	thoracoscopy	1
+three depressions sign	threedepressionssign	1
+thymic carcinoma	thymiccarcinoma	1
+thymic cyst	thymiccyst	1
+thymoma	thymoma	1
+thymus lymphangioma	thymuslymphangioma	1
+thyrocricoid puncture	thyrocricoidpuncture	1
+tidal breathing	tidalbreathing	1
+tidal breathing flow-volume curve	tidalbreathingflowvolumecurve	1
+tidal expiratory flow at 25% of tidal volume	tidalexpiratoryflowat25oftidalvolume	1
+tidal expiratory flow at 50% of tidal volume	tidalexpiratoryflowat50oftidalvolume	1
+tidal expiratory flow at 75% of tidal volume CT	tidalexpiratoryflowat75oftidalvolumeCT	1
+tidal volume	tidalvolume	1
+tidal volume.expiratory tidal volume	tidalvolumeexpiratorytidalvolume	1
+time cycling	timecycling	1
+time limit	timelimit	1
+time to peak tidal expiratory flow. TPTEF	timetopeaktidalexpiratoryflowTPTEF	1
+timing trigger	timingtrigger	1
+tobacco control	tobaccocontrol	1
+tobacco dependence	tobaccodependence	1
+total empyema	totalempyema	1
+total end expiratory pressure	totalendexpiratorypressure	1
+total liquid ventilation	totalliquidventilation	1
+total lung capacity	totallungcapacity	1
+total parenteral nutrition	totalparenteralnutrition	1
+total plasma carbon dioxide content	totalplasmacarbondioxidecontent	1
+total pressure of gas in arterial blood	totalpressureofgasinarterialblood	1
+total respiratory frequency	totalrespiratoryfrequency	1
+toxic dyspnea	toxicdyspnea	1
+toxic gas aspiration pneumonia	toxicgasaspirationpneumonia	1
+toxic pneumonia	toxicpneumonia	1
+trachcostomy	trachcostomy	1
+tracheal absces	trachealabsces	1
+tracheal benign tumor	trachealbenigntumor	1
+tracheal borderline tumor	trachealborderlinetumor	1
+tracheal cannula extraction	trachealcannulaextraction	1
+tracheal cicatrix	trachealcicatrix	1
+tracheal compression	trachealcompression	1
+tracheal contusion	trachealcontusion	1
+tracheal crushing injury	trachealcrushinginjury	1
+tracheal diverticulum	trachealdiverticulum	1
+tracheal fistula stenosis	trachealfistulastenosis	1
+tracheal granuloma	trachealgranuloma	1
+tracheal keratosis	trachealkeratosis	1
+tracheal malignant tumors	trachealmalignanttumors	1
+tracheal obstruction	trachealobstruction	1
+tracheal polyp	trachealpolyp	1
+tracheal pseudolymphoma	trachealpseudolymphoma	1
+tracheal secondary malignant tumor	trachealsecondarymalignanttumor	1
+tracheal stenosis	trachealstenosis	1
+tracheal trauma	trachealtrauma	1
+tracheitis	tracheitis	1
+tracheo-innominate artery fistula	tracheoinnominatearteryfistula	1
+tracheobron-cheopathia ostcochondroplastica,To	tracheobroncheopathiaostcochondroplasticaTo	1
+tracheobronchitis	tracheobronchitis	1
+tracheobronchomalacia	tracheobronchomalacia	1
+tracheobronchomegaly,TBM	tracheobronchomegalyTBM	1
+tracheoesophageal fistula	tracheoesophagealfistula	1
+tracheomalacia	tracheomalacia	1
+tracheorrhagia	tracheorrhagia	1
+tracheoscopy	tracheoscopy	1
+tracheostomy cannula	tracheostomycannula	1
+tracheostomy cannula extubation	tracheostomycannulaextubation	1
+tracheotomy mechanical ventilation	tracheotomymechanicalventilation	1
+tracheotomy sinus	tracheotomysinus	1
+traction bronchicctasis	tractionbronchicctasis	1
+traffic monitoring, flow monitoring	trafficmonitoringflowmonitoring	1
+transairway pressure	transairwaypressure	1
+transbronchial biopsy	transbronchialbiopsy	1
+transbronchial lung biopsy	transbronchiallungbiopsy	1
+transbronchial lung biopsy,TBLB	transbronchiallungbiopsyTBLB	1
+transbronchial needle aspiration	transbronchialneedleaspiration	1
+transbronchial needle aspiration,TBNA	transbronchialneedleaspirationTBNA	1
+transchest wall pressure	transchestwallpressure	1
+transdiaphragmatic pressure	transdiaphragmaticpressure	1
+transmural pressure	transmuralpressure	1
+transmural pressure of capillary	transmuralpressureofcapillary	1
+transpulmonary pressure	transpulmonarypressure	1
+transthoracic needle aspiration biopsy	transthoracicneedleaspirationbiopsy	1
+transthoracic pressure	transthoracicpressure	1
+transtracheal oxygen therapy	transtrachealoxygentherapy	1
+transudative pleural effusion	transudativepleuraleffusion	1
+traumatic acroembolism	traumaticacroembolism	1
+traumatic asphyxia	traumaticasphyxia	1
+traumatic diaphragmatic hernia	traumaticdiaphragmatichernia	1
+traumatic fat embolism	traumaticfatembolism	1
+traumatic pleural effusion	traumaticpleuraleffusion	1
+traumatic pneumothorax	traumaticpneumothorax	1
+traumatic pulmonary edema	traumaticpulmonaryedema	1
+traumatic wet lungu	traumaticwetlungu	1
+treatment of lung cancer	treatmentoflungcancer	1
+triggering time	triggeringtime	1
+triple acid-base disorder	tripleacidbasedisorder	1
+tropical pulmonary cosinophilia	tropicalpulmonarycosinophilia	1
+tubercle	tubercle	1
+tuberculin test	tuberculintest	1
+tuberculosis and hemoptysis	tuberculosisandhemoptysis	1
+tuberculosis of intrathoracic lymph node	tuberculosisofintrathoraciclymphnode	1
+tuberculosis with pleural effusion	tuberculosiswithpleuraleffusion	1
+tuberculous bronchial-lymph fistula	tuberculousbronchiallymphfistula	1
+tuberculous bronchiectasis	tuberculousbronchiectasis	1
+tuberculous bronchostenosis	tuberculousbronchostenosis	1
+tuberculous chylothorax	tuberculouschylothorax	1
+tuberculous destroyed lung	tuberculousdestroyedlung	1
+tuberculous encapsulated empyema	tuberculousencapsulatedempyema	1
+tuberculous fibrosis of lung	tuberculousfibrosisoflung	1
+tuberculous massive hemoptysis	tuberculousmassivehemoptysis	1
+tuberculous pleuritis	tuberculouspleuritis	1
+tuberculous pneumonia	tuberculouspneumonia	1
+tuberculous pneumothorax	tuberculouspneumothorax	1
+tumor node metastasis elassification,TNM	tumornodemetastasiselassificationTNM	1
+tumor of diaphragm	tumorofdiaphragm	1
+tympany	tympany	1
+type Ⅰ respiratory failure	typeⅠrespiratoryfailure	1
+type Ⅱ respiratory failure	typeⅡrespiratoryfailure	1
+typhoid fever complicated with bronchitis	typhoidfevercomplicatedwithbronchitis	1
+typhoid fever complicated with pneumonia	typhoidfevercomplicatedwithpneumonia	1
+ultrasound-guided intrapleural position- ing of pleural catheters	ultrasoundguidedintrapleuralpositioningofpleuralcatheters	1
+ultrasound-guided percutancous lung biopsy	ultrasoundguidedpercutancouslungbiopsy	1
+ultrasound-guided thoracentesis	ultrasoundguidedthoracentesis	1
+unclosed pneumothorax,open pneumothorax	unclosedpneumothoraxopenpneumothorax	1
+uncomplicated parapneumonic pleural effusion	uncomplicatedparapneumonicpleuraleffusion	1
+uncontrolled asthma	uncontrolledasthma	1
+undetermined anion	undeterminedanion	1
+undetermined cation	undeterminedcation	1
+unilateral emphysema	unilateralemphysema	1
+unilateral hyperlucent lung syndrome	unilateralhyperlucentlungsyndrome	1
+unilateral paralysis of diaphragm	unilateralparalysisofdiaphragm	1
+upper airway cough syndrome,UACS	upperairwaycoughsyndromeUACS	1
+upper airway resistance syndrome，UARS	upperairwayresistancesyndromeUARS	1
+upper flat part	upperflatpart	1
+upper inflection point, high inflection point	upperinflectionpointhighinflectionpoint	1
+upper respiratory tract infection	upperrespiratorytractinfection	1
+usual interstitial pneumonia	usualinterstitialpneumonia	1
+variable-pressure constant-volume body plethys- mograph	variablepressureconstantvolumebodyplethysmograph	1
+varicella pneumonia	varicellapneumonia	1
+varicella-zoster virus pneumonia	varicellazosterviruspneumonia	1
+varicose bronchiectasis	varicosebronchiectasis	1
+vasculitis with pulmonary damage	vasculitiswithpulmonarydamage	1
+vasomotor rhinitis	vasomotorrhinitis	1
+vasomotor tone	vasomotortone	1
+vein-artery shunt	veinarteryshunt	1
+venous oxygen content	venousoxygencontent	1
+venous oxygen saturation	venousoxygensaturation	1
+venous thromboembolism,VTE	venousthromboembolismVTE	1
+ventilation limit	ventilationlimit	1
+ventilation mode	ventilationmode	1
+ventilation parameter	ventilationparameter	1
+ventilation perfusion ratio	ventilationperfusionratio	1
+ventilation perfusion ratio mismatch	ventilationperfusionratiomismatch	1
+ventilation pressure	ventilationpressure	1
+ventilation runaway	ventilationrunaway	1
+ventilation-associated acid-base disorder	ventilationassociatedacidbasedisorder	1
+ventilation-associated diaphragmatic dysfunction	ventilationassociateddiaphragmaticdysfunction	1
+ventilation-associated electrolyte distur- bance	ventilationassociatedelectrolytedisturbance	1
+ventilation-associated lung injury	ventilationassociatedlunginjury	1
+ventilation-associated pulmonary edema	ventilationassociatedpulmonaryedema	1
+ventilator assistant ventilation therapy	ventilatorassistantventilationtherapy	1
+ventilator dependency	ventilatordependency	1
+ventilator lung in newborn	ventilatorlunginnewborn	1
+ventilator-associated pneumonia	ventilatorassociatedpneumonia	1
+ventilatory disorder	ventilatorydisorder	1
+ventilatory equivalent for carbon dioxide	ventilatoryequivalentforcarbondioxide	1
+ventilatory equivalent for oxygen	ventilatoryequivalentforoxygen	1
+ventilatory response	ventilatoryresponse	1
+vesicular breath sounds	vesicularbreathsounds	1
+viral pneumonia	viralpneumonia	1
+visceral pleura malignancy	visceralpleuramalignancy	1
+vital capacity	vitalcapacity	1
+vocal fremitus	vocalfremitus	1
+vocal resonance	vocalresonance	1
+volume assist ventilation	volumeassistventilation	1
+volume assist-control ventilation	volumeassistcontrolventilation	1
+volume at peak tidal expiratory flow	volumeatpeaktidalexpiratoryflow	1
+volume cycling	volumecycling	1
+volume monitoring	volumemonitoring	1
+volume of lower inflection point	volumeoflowerinflectionpoint	1
+volume of upper inflection point	volumeofupperinflectionpoint	1
+volume support ventilation	volumesupportventilation	1
+volume trigger	volumetrigger	1
+volume waveform	volumewaveform	1
+volume-controlled intermittent mandatory ventilation	volumecontrolledintermittentmandatoryventilation	1
+volume-controlled inverse ratio ventilation	volumecontrolledinverseratioventilation	1
+volume-controlled mode	volumecontrolledmode	1
+volume-controlled syn- chronized intermittent mandatory ventilation plus pressure support ventilation	volumecontrolledsynchronizedintermittentmandatoryventilationpluspressuresupportventilation	1
+volume-controlled synchronized inter mittent mandatory ventilation	volumecontrolledsynchronizedintermittentmandatoryventilation	1
+volume-controlled ventilation	volumecontrolledventilation	1
+volume-limited	volumelimited	1
+volume-limited time cycling	volumelimitedtimecycling	1
+volume-limited volume cycling	volumelimitedvolumecycling	1
+voluntary breathing	voluntarybreathing	1
+water intoxication	waterintoxication	1
+waveform monitoring	waveformmonitoring	1
+weaning	weaning	1
+weaning method	weaningmethod	1
+wheczing	wheczing	1
+whispered pectoriloquy enhancement	whisperedpectoriloquyenhancement	1
+white frothy sputum	whitefrothysputum	1
+whole lung malignant tumor	wholelungmalignanttumor	1
+work of breathing	workofbreathing	1
+α-antitrypsin deficieney	αantitrypsindeficieney	1
+Ⅲ-phase slope of nitrogen coneentration	Ⅲphaseslopeofnitrogenconeentration	1

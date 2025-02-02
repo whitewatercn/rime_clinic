@@ -1,24 +1,18 @@
-
-
-[简体中文](https://github.com/whitewatercn/rime_clinic/blob/master/README.md)  | [English](https://github.com/whitewatercn/rime_clinic/blob/master/docs/README_en.md) 
+[简体中文](https://github.com/whitewatercn/rime_clinic/blob/master/README.md)  | [English](./docs/README_en.md)
 
 # 项目介绍
 
 rime医学输入法，集成中英医学词库，开箱即用。欢迎补充修改提意见！
 
-原始配置和词库基于[白霜拼音](https://github.com/iDvel/rime-ice)的 [d441930](https://github.com/gaboolic/rime-frost/commit/d441930f657d797979797220eee3c45430dc20f6) commit。
+原始配置和词库基于[白霜拼音](https://github.com/gaboolic/rime-frost)的 [d441930](https://github.com/gaboolic/rime-frost/commit/d441930f657d797979797220eee3c45430dc20f6) commit。
 
-医学词库位于`clinic_dicts`文件夹中
+医学词库位于 `clinic_dicts`文件夹中
 
 # 常见问题
 
 - 如何使用rime医学输入法？参考雾凇拼音的[使用说明](https://github.com/iDvel/rime-ice?tab=readme-ov-file#%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85)
 - 如何从其他rime输入方案迁移数据到本方案？参考白霜拼音的[这个issue](https://github.com/gaboolic/rime-frost/issues/106)
 - 输出的内容旁边的*星号、⚡闪电、𑄗无限是什么意思？[详见这里](https://github.com/gaboolic/rime-frost/issues/12)
-
-
-
-
 
 # 中文词库（位于 `clinic_dicts/cn_dict`文件夹）
 
@@ -45,7 +39,7 @@ flowchart LR
     西医[西医] --> cn_medicine_list_tiny["`cn_medicine_list_tiny （可用）西药词库，基于cn_medicine_list_origin精简，还不够精简，仍保留部分中药及中成药`"]
     西医[西医] --> cn_medicine_list_origin["`cn_medicine_list_origin （太大，不建议直接用）中西医药物大词库，包括中药，中成药、西药、西药制剂，正在拆分成小词库`"]
     cn_clinic_origin --> cn_clinic_dedulpicate["`cn_clinic_dedulpicate 拆分到其他词库后剩下的词`"]
-    cn_medicine_list_origin --> cn_medicine_list_dedulplicate["`cn_medicine_list_dedulplicate 拆分到其他词库后剩下的词`"]        
+    cn_medicine_list_origin --> cn_medicine_list_dedulplicate["`cn_medicine_list_dedulplicate 拆分到其他词库后剩下的词`"]      
 ```
 
 # 英文词库（位于 `clinic_dicts/en_dict`文件夹）
@@ -86,7 +80,6 @@ flowchart LR
 词库收集自互联网公开信息，如侵犯版权请联系删除
 
 ## Star History
-
 
 ![Star History Chart](https://api.star-history.com/svg?repos=whitewatercn/rime_clinic&type=Date)
 

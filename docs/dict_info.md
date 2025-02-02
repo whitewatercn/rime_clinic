@@ -19,19 +19,19 @@
 
 # 英文词库
 
-| 文件名                          | 简介                                                         | 词条数量（非及时更新 | 推荐等级 |
-| ------------------------------- | ------------------------------------------------------------ | -------------------- | -------- |
-| en_MAVL.dict.yaml               | The Medical Academic Vocabulary List (MAVL) 医学学术词汇表（MAVL）是Lei Lei &Liu Dilin在对270万词医学学术英语语料库和350万词医学英语教材语料库的研究基础上于2015年开发的。 MAVL在两个语料库中的覆盖率分别为19.44%和20.18%。[^1] `<br>`[来源](https://www.eapfoundation.com/vocab/academic/other/mavl/) | 1.5k+                | 5        |
-| en_disease.dict.yaml            | 英文疾病名 `<br>`[来源](https://github.com/CodeSante/medical-wordlist) |                      |          |
-| en_anatomy.dict.yaml            | 英文解剖 `<br>`基于公开课本[Anatomy and Physiology by OpenStax](https://openstax.org/books/anatomy-and-physiology/pages/index) `<br>`[开源声明](https://openstax.org/books/anatomy-and-physiology/pages/preface) |                      |          |
-| en_medication.dict.yaml         | 英文药物 `<br>`[来源](https://github.com/CodeSante/medical-wordlist) |                      |          |
-| en_medical_speciality.dict.yaml | 英文医学专业 -`<br>`[来源](https://github.com/CodeSante/medical-wordlist) |                      |          |
-| google.dict.yaml                | Google's 1/3 million most frequent English words. -`<br>`[来源](http://norvig.com/ngrams/count_1w.txt) |                      |          |
-| en_clinic_origin.dict.yaml      | 英文医学词典，正在拆分成小词库，直接挂载会宕机 `<br>`来源 [英汉汉英医学辞典](https://mdict.org/post/%E8%8B%B1%E6%B1%89%E6%B1%89%E8%8B%B1%E5%8C%BB%E5%AD%A6%E8%BE%9E%E5%85%B8/) | 44w+                 |          |
-| en_respiratory.dict.yaml        | 英文呼吸科词库，[来源](https://www.respiratorytherapyzone.com/glossary/) | 约500                |          |
+| 文件名                          | 简介                                                                                                                                                                                                                                                                                                  | 词条数量（非及时更新     | 推荐等级 |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | -------- |
+| en_MAVL.dict.yaml               | The Medical Academic Vocabulary List (MAVL) 医学学术词汇表（MAVL）是Lei Lei &Liu Dilin在对270万词医学学术英语语料库和350万词医学英语教材语料库的研究基础上于2015年开发的。 MAVL在两个语料库中的覆盖率分别为19.44%和20.18%。[^1] `<br>`[来源](https://www.eapfoundation.com/vocab/academic/other/mavl/) | 1.5k+                    | 5        |
+| en_disease.dict.yaml            | 英文疾病名 `<br>`[来源](https://github.com/CodeSante/medical-wordlist)                                                                                                                                                                                                                                 |                          |          |
+| en_anatomy.dict.yaml            | 英文解剖 `<br>`基于公开课本[Anatomy and Physiology by OpenStax](https://openstax.org/books/anatomy-and-physiology/pages/index) `<br>`[开源声明](https://openstax.org/books/anatomy-and-physiology/pages/preface)                                                                                        |                          |          |
+| en_medication.dict.yaml         | 英文药物 `<br>`[来源](https://github.com/CodeSante/medical-wordlist)                                                                                                                                                                                                                                   |                          |          |
+| en_medical_speciality.dict.yaml | 英文医学专业 -`<br>`[来源](https://github.com/CodeSante/medical-wordlist)                                                                                                                                                                                                                              |                          |          |
+| google.dict.yaml                | Google's 1/3 million most frequent English words. -`<br>`[来源](http://norvig.com/ngrams/count_1w.txt)                                                                                                                                                                                                 |                          |          |
+| en_clinic_origin.dict.yaml      | 英文医学词典，正在拆分成小词库，直接挂载会宕机 `<br>`来源 [英汉汉英医学辞典](https://mdict.org/post/%E8%8B%B1%E6%B1%89%E6%B1%89%E8%8B%B1%E5%8C%BB%E5%AD%A6%E8%BE%9E%E5%85%B8/)                                                                                                                         | 44w+                     |          |
+| en_respiratory.dict.yaml        | 英文呼吸科词库，[来源](https://www.respiratorytherapyzone.com/glossary/)                                                                                                                                                                                                                                 | 2.5k+（统计于2025-02-02) |          |
 
 # 参考文献
 
 [^1]: Lei, L., Liu, D. (2016) 'A new medical academic word list: A corpus-based study with enhanced methodology', _Journal of English for Academic Purposes_, Vol 22, p.42-53.
-
+    
 [^2]: https://www.jingfangpai.cn/p/10092157/
