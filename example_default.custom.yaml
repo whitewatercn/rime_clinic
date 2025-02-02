@@ -1,0 +1,38 @@
+# Rime default settings
+# encoding: utf-8
+
+
+# 要比共享目录的同名文件的 config_version 大才可以生效
+config_version: '2025-02-02'
+
+
+patch:
+  key_binder:
+    # Lua 配置: 以词定字（上屏当前词句的第一个或最后一个字），和中括号翻页有冲突
+    select_first_character: "bracketleft"  # 左中括号 [
+    select_last_character: "bracketright"  # 右中括号 ]
+
+    bindings:
+      # Tab / Shift+Tab 切换光标至下/上一个拼音
+      - { when: composing, accept: Shift+Tab, send: Shift+Left }
+      - { when: composing, accept: Tab, send: Shift+Right }
+      # Tab / Shift+Tab 翻页
+      # - { when: has_menu, accept: Shift+Tab, send: Page_Up }
+      # - { when: has_menu, accept: Tab, send: Page_Down }
+
+      # Option/Alt + ←/→ 切换光标至下/上一个拼音
+      - { when: composing, accept: Alt+Left, send: Shift+Left }
+      - { when: composing, accept: Alt+Right, send: Shift+Right }
+
+      # 翻页 - =
+      # - { when: has_menu, accept: minus, send: Page_Up }
+      # - { when: has_menu, accept: equal, send: Page_Down }
+
+      # 翻页 , .
+      - { when: paging, accept: comma, send: Page_Up }
+      - { when: has_menu, accept: period, send: Page_Down }
+
+      # 翻页 [ ]
+      # - { when: paging, accept: bracketleft, send: Page_Up }
+      # - { when: has_menu, accept: bracketright, send: Page_Down }
+
