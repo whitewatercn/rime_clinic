@@ -33,13 +33,14 @@ flowchart LR
     cn_tcm_origin --> cn_tcm_dedulplicate["`cn_tcm_dedulplicate （可用）拆分到其他词库后剩下的词`"]
     cn_tcm_herb --> cn_tcm_dedulplicate
 
-    西医[西医] --> cn_clinic_origin["`cn_clinic_origin （太大，不建议直接用）临床医学大词库，包括药理、解剖、疾病、药物名等，正在拆分成小词库，太大了，不建议直接用`"]
+    西医[西医] --> cn_respiratory["`cn_respiratory （可用）呼吸科专科词库（包括解剖、诊断、手术等)`"]
     西医[西医] --> cn_pharmacology["`cn_pharmacology （可用）药理学词库`"]
     西医[西医] --> cn_anatomy["`cn_anatomy （可用）解剖词库`"]
     西医[西医] --> cn_medicine_list_tiny["`cn_medicine_list_tiny （可用）西药词库，基于cn_medicine_list_origin精简，还不够精简，仍保留部分中药及中成药`"]
+    西医[西医] --> cn_clinic_origin["`cn_clinic_origin （太大，不建议直接用）临床医学大词库，包括药理、解剖、疾病、药物名等，正在拆分成小词库，太大了，不建议直接用`"]
     西医[西医] --> cn_medicine_list_origin["`cn_medicine_list_origin （太大，不建议直接用）中西医药物大词库，包括中药，中成药、西药、西药制剂，正在拆分成小词库`"]
     cn_clinic_origin --> cn_clinic_dedulpicate["`cn_clinic_dedulpicate 拆分到其他词库后剩下的词`"]
-    cn_medicine_list_origin --> cn_medicine_list_dedulplicate["`cn_medicine_list_dedulplicate 拆分到其他词库后剩下的词`"]      
+    cn_medicine_list_origin --> cn_medicine_list_dedulplicate["`cn_medicine_list_dedulplicate 拆分到其他词库后剩下的词`"]  
 ```
 
 # 英文词库（位于 `clinic_dicts/en_dict`文件夹）
