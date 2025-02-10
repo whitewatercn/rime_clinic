@@ -6,7 +6,7 @@
 
 ---
 name: en_disease
-version: "2024-01-25"
+version: "2025-02-10"
 sort: by_weight
 ...
 # +_+
@@ -915,7 +915,6 @@ oromandibular dystonia	oromandibulardystonia	1
 functional gastric disease	functionalgastricdisease	1
 hypercalcemia	hypercalcemia	1
 taeniasis	taeniasis	1
-2q37 deletion syndrome	2q37deletionsyndrome	1
 autosomal dominant polycystic kidney disease	autosomaldominantpolycystickidneydisease	1
 calcaneal spur	calcanealspur	1
 chylous ascites	chylousascites	1
@@ -994,7 +993,6 @@ tibial muscular dystrophy	tibialmusculardystrophy	1
 distal myopathy, Nonaka type	distalmyopathy,Nonakatype	1
 myelophthisic anemia	myelophthisicanemia	1
 myelomeningocele	myelomeningocele	1
-3-M syndrome	3-Msyndrome	1
 hydrops-ectopic calcification-moth-eaten skeletal dysplasia	hydrops-ectopiccalcification-moth-eatenskeletaldysplasia	1
 diastrophic dysplasia	diastrophicdysplasia	1
 mulibrey nanism	mulibreynanism	1
@@ -1261,7 +1259,6 @@ viral meningitis	viralmeningitis	1
 Jervell-Lange Nielsen syndrome	Jervell-LangeNielsensyndrome	1
 Adrenomyeloneuropathy	Adrenomyeloneuropathy	1
 thrombotic microangiopathy	thromboticmicroangiopathy	1
-9q22.3 microdeletion	9q22.3microdeletion	1
 familial hemiplegic migraine	familialhemiplegicmigraine	1
 iniencephaly	iniencephaly	1
 chromosome 9p deletion syndrome	chromosome9pdeletionsyndrome	1
@@ -1288,7 +1285,6 @@ oncovirus	oncovirus	1
 glomerulonephritis	glomerulonephritis	1
 Leiner's disease	Leiner'sdisease	1
 erythrokeratodermia variabilis	erythrokeratodermiavariabilis	1
-3-methylglutaconic aciduria	3-methylglutaconicaciduria	1
 bile duct adenoma	bileductadenoma	1
 renal papillary adenoma	renalpapillaryadenoma	1
 alastrim	alastrim	1
@@ -1304,7 +1300,6 @@ Myhre syndrome	Myhresyndrome	1
 myxoid chondrosarcoma	myxoidchondrosarcoma	1
 Idiopathic sclerosing mesenteritis	Idiopathicsclerosingmesenteritis	1
 reading disorder and écrites disorder	readingdisorderandécritesdisorder	1
-22q11.2 distal deletion syndrome	22q11.2distaldeletionsyndrome	1
 Kowarski syndrome	Kowarskisyndrome	1
 Cenani-Lenz syndactyly syndrome	Cenani-Lenzsyndactylysyndrome	1
 cerebral atherosclerosis	cerebralatherosclerosis	1
@@ -1315,7 +1310,6 @@ in situ pulmonary adenocarcinoma	insitupulmonaryadenocarcinoma	1
 anterograde amnesia	anterogradeamnesia	1
 Seckel syndrome	Seckelsyndrome	1
 Eisenmenger's syndrome	Eisenmenger'ssyndrome	1
-2q37 monosomy	2q37monosomy	1
 anthracosis	anthracosis	1
 tenosynovitis	tenosynovitis	1
 Hermansky-Pudlak syndrome	Hermansky-Pudlaksyndrome	1
@@ -1714,7 +1708,6 @@ metageria	metageria	1
 metanephric adenoma	metanephricadenoma	1
 methylmalonyl-CoA mutase deficiency	methylmalonyl-CoAmutasedeficiency	1
 Michelin tire baby syndrome	Michelintirebabysyndrome	1
-3MC syndrome 1	3MCsyndrome1	1
 Mickleson syndrome	Micklesonsyndrome	1
 Warburg micro syndrome	Warburgmicrosyndrome	1
 microcephalic osteodysplastic primordial dwarfism type II	microcephalicosteodysplasticprimordialdwarfismtypeII	1
@@ -1894,7 +1887,6 @@ rhabdoid tumor	rhabdoidtumor	1
 malignant triton tumor	malignanttritontumor	1
 Malonyl-CoA decarboxylase deficiency	Malonyl-CoAdecarboxylasedeficiency	1
 Malouf syndrome	Maloufsyndrome	1
-3MC syndrome 3	3MCsyndrome3	1
 mammary myofibroblastoma	mammarymyofibroblastoma	1
 Marden–Walker syndrome	Marden–Walkersyndrome	1
 marfanoid	marfanoid	1
@@ -2945,7 +2937,6 @@ psychologic vaginismus	psychologicvaginismus	1
 conjunctival degeneration	conjunctivaldegeneration	1
 dry eye syndrome	dryeyesyndrome	1
 granular corneal dystrophy type I	granularcornealdystrophytypeI	1
-1-alpha-hydroxylase deficiency	1-alpha-hydroxylasedeficiency	1
 diabetic polyneuropathy	diabeticpolyneuropathy	1
 bladder diverticulum	bladderdiverticulum	1
 epithelial basement membrane dystrophy	epithelialbasementmembranedystrophy	1
@@ -3204,24 +3195,12 @@ glomus tumor	glomustumor	1
 ataluren	ataluren	1
 erythema infectiosum	erythemainfectiosum	1
 rheumatic fever	rheumaticfever	1
-17-beta-hydroxysteroid dehydrogenase deficiency	17-beta-hydroxysteroiddehydrogenasedeficiency	1
 Koolen de Vries syndrome	KoolendeVriessyndrome	1
 chromosome 18p deletion syndrome	chromosome18pdeletionsyndrome	1
-2,4 Dienoyl-CoA reductase deficiency	2,4Dienoyl-CoAreductasedeficiency	1
-2-hydroxyglutaric aciduria	2-hydroxyglutaricaciduria	1
-2-methylbutyryl-CoA dehydrogenase deficiency	2-methylbutyryl-CoAdehydrogenasedeficiency	1
 intestinal atresia	intestinalatresia	1
 chromosome 22q11.2 microduplication syndrome	chromosome22q11.2microduplicationsyndrome	1
-2p15-16.1 microdeletion syndrome	2p15-16.1microdeletionsyndrome	1
-3-methylcrotonyl-CoA carboxylase deficiency	3-methylcrotonyl-CoAcarboxylasedeficiency	1
-3-hydroxy-3-methylglutaryl-CoA lyase deficiency	3-hydroxy-3-methylglutaryl-CoAlyasedeficiency	1
-3-hydroxyacyl-coenzyme A dehydrogenase deficiency	3-hydroxyacyl-coenzymeAdehydrogenasedeficiency	1
-3 hydroxyisobutyric aciduria	3hydroxyisobutyricaciduria	1
 chromosome 3q29 microdeletion syndrome	chromosome3q29microdeletionsyndrome	1
-46, XX/XY	46,XX/XY	1
-49,XXXXY	49,XXXXY	1
 BH4-deficient hyperphenylalaninemia A	BH4-deficienthyperphenylalaninemiaA	1
-8p23.1 duplication syndrome	8p23.1duplicationsyndrome	1
 Kleefstra syndrome	Kleefstrasyndrome	1
 infant respiratory distress syndrome	infantrespiratorydistresssyndrome	1
 nephroblastoma	nephroblastoma	1
@@ -3430,7 +3409,6 @@ phacogenic glaucoma	phacogenicglaucoma	1
 neonatal thyrotoxicosis	neonatalthyrotoxicosis	1
 posterior uveitis	posterioruveitis	1
 urethral obstruction	urethralobstruction	1
-22q11 deletion syndrome	22q11deletionsyndrome	1
 hypertrophic pyloric stenosis	hypertrophicpyloricstenosis	1
 displacement of cardia through esophageal hiatus	displacementofcardiathroughesophagealhiatus	1
 vestibulocochlear nerve disease	vestibulocochlearnervedisease	1
@@ -3675,7 +3653,6 @@ CREST syndrome	CRESTsyndrome	1
 Kasabach-Merritt syndrome	Kasabach-Merrittsyndrome	1
 pityriasis rubra pilaris	pityriasisrubrapilaris	1
 sporotrichosis	sporotrichosis	1
-22q13 deletion syndrome	22q13deletionsyndrome	1
 viral infectious disease	viralinfectiousdisease	1
 microsporidiosis	microsporidiosis	1
 microscopic polyangiitis	microscopicpolyangiitis	1
@@ -4860,7 +4837,6 @@ tracheomalacia	tracheomalacia	1
 stomatitis	stomatitis	1
 Behçet's disease	Behçet'sdisease	1
 pulmonary edema	pulmonaryedema	1
-5-alpha-reductase deficiency	5-alpha-reductasedeficiency	1
 complement 3 deficiency	complement3deficiency	1
 complement deficiency	complementdeficiency	1
 Complications of traumatic brain injury	Complicationsoftraumaticbraininjury	1
@@ -5304,7 +5280,6 @@ X-linked intellectual disability	X-linkedintellectualdisability	1
 X-linked spinal muscular atrophy type 2	X-linkedspinalmuscularatrophytype2	1
 XXXY syndrome	XXXYsyndrome	1
 XXYY syndrome	XXYYsyndrome	1
-46 XX gonadal dysgenesis	46XXgonadaldysgenesis	1
 xanthoma disseminatum	xanthomadisseminatum	1
 Y chromosome microdeletion	Ychromosomemicrodeletion	1
 Yemenite deaf-blind hypopigmentation syndrome	Yemenitedeaf-blindhypopigmentationsyndrome	1
@@ -7483,11 +7458,7 @@ narcissistic personality disorder	narcissisticpersonalitydisorder	1
 Kikuchi disease	Kikuchidisease	1
 CD40 ligand deficiency	CD40liganddeficiency	1
 abdominal obesity-metabolic syndrome 3	abdominalobesity-metabolicsyndrome3	1
-3-methylglutaconic aciduria with deafness, encephalopathy, and Leigh-like syndrome	3-methylglutaconicaciduriawithdeafness,encephalopathy,andLeigh-likesyndrome	1
-3-methylglutaconic aciduria type 1	3-methylglutaconicaciduriatype1	1
-3-methylglutaconic aciduria with cataracts, neurologic involvement and neutropenia	3-methylglutaconicaciduriawithcataracts,neurologicinvolvementandneutropenia	1
 Leber congenital amaurosis 9	Lebercongenitalamaurosis9	1
-3-methylglutaconic aciduria type 4	3-methylglutaconicaciduriatype4	1
 achromatopsia 2	achromatopsia2	1
 achromatopsia 3	achromatopsia3	1
 achromatopsia 7	achromatopsia7	1
@@ -7733,7 +7704,6 @@ Hermansky-Pudlak syndrome 7	Hermansky-Pudlaksyndrome7	1
 Hermansky-Pudlak syndrome 8	Hermansky-Pudlaksyndrome8	1
 Hermansky-Pudlak syndrome 9	Hermansky-Pudlaksyndrome9	1
 cardiac tuberculosis	cardiactuberculosis	1
-3MC syndrome 2	3MCsyndrome2	1
 Noonan syndrome 1	Noonansyndrome1	1
 ischemic bone disease	ischemicbonedisease	1
 peripheral vascular disease	peripheralvasculardisease	1
@@ -8234,7 +8204,6 @@ cervical adenoma malignum	cervicaladenomamalignum	1
 nipple carcinoma	nipplecarcinoma	1
 scrotal angioma	scrotalangioma	1
 Mowat-Wilson syndrome	Mowat-Wilsonsyndrome	1
-48, XXXX	48,XXXX	1
 Drug-induced lupus erythematosus	Drug-inducedlupuserythematosus	1
 chronic recurrent multifocal osteomyelitis	chronicrecurrentmultifocalosteomyelitis	1
 essential fructosuria	essentialfructosuria	1
@@ -8242,7 +8211,6 @@ bullous keratopathy	bullouskeratopathy	1
 acanthoma	acanthoma	1
 cerebral malaria	cerebralmalaria	1
 achondrogenesis	achondrogenesis	1
-3-methylglutaconic aciduria type 3	3-methylglutaconicaciduriatype3	1
 succinic semialdehyde dehydrogenase deficiency	succinicsemialdehydedehydrogenasedeficiency	1
 chondrosarcoma	chondrosarcoma	1
 chordoma	chordoma	1
@@ -8547,7 +8515,6 @@ CD3delta deficiency	CD3deltadeficiency	1
 amyotrophic lateral sclerosis type 2	amyotrophiclateralsclerosistype2	1
 amyotrophic lateral sclerosis type 5	amyotrophiclateralsclerosistype5	1
 amyotrophic lateral sclerosis type 7	amyotrophiclateralsclerosistype7	1
-3MC syndrome	3MCsyndrome	1
 Baraitser-Winter syndrome	Baraitser-Wintersyndrome	1
 branchiootic syndrome	branchiooticsyndrome	1
 Van Maldergem syndrome	VanMaldergemsyndrome	1
@@ -9714,13 +9681,11 @@ chromosome 15q24 deletion syndrome	chromosome15q24deletionsyndrome	1
 chromosome 15q26-qter deletion syndrome	chromosome15q26-qterdeletionsyndrome	1
 chromosome 16p11.2 deletion syndrome, 220kb	chromosome16p11.2deletionsyndrome,220kb	1
 chromosome 16p12.2-p11.2 deletion syndrome	chromosome16p12.2-p11.2deletionsyndrome	1
-17q11 microdeletion syndrome	17q11microdeletionsyndrome	1
 chromosome 17q12 deletion syndrome	chromosome17q12deletionsyndrome	1
 chromosome 17q23.1-q23.2 deletion syndrome	chromosome17q23.1-q23.2deletionsyndrome	1
 chromosome 19q13.11 deletion syndrome	chromosome19q13.11deletionsyndrome	1
 chromosome 1p32-p31 deletion syndrome	chromosome1p32-p31deletionsyndrome	1
 chromosome 1q41-q42 deletion syndrome	chromosome1q41-q42deletionsyndrome	1
-3p- syndrome	3p-syndrome	1
 chromosome 3q13.31 deletion syndrome	chromosome3q13.31deletionsyndrome	1
 chromosome 6pter-p24 deletion syndrome	chromosome6pter-p24deletionsyndrome	1
 chromosome 8q21.11 deletion syndrome	chromosome8q21.11deletionsyndrome	1
@@ -9943,7 +9908,6 @@ Renal dysplasia	Renaldysplasia	1
 renal hypoplasia	renalhypoplasia	1
 Beta-ureidopropionase deficiency	Beta-ureidopropionasedeficiency	1
 Malignant infantile osteopetrosis	Malignantinfantileosteopetrosis	1
-3-methylglutaconic aciduria type 5	3-methylglutaconicaciduriatype5	1
 autosomal recessive limb-girdle muscular dystrophy type 2D	autosomalrecessivelimb-girdlemusculardystrophytype2D	1
 distal muscular dystrophy 4	distalmusculardystrophy4	1
 Angel-shaped phalango-epiphyseal dysplasia	Angel-shapedphalango-epiphysealdysplasia	1
@@ -10047,13 +10011,7 @@ lower limb deficiency-hypospadias syndrome	lowerlimbdeficiency-hypospadiassyndro
 rare neoplastic disease	rareneoplasticdisease	1
 paternal uniparental disomy of chromosome 1	paternaluniparentaldisomyofchromosome1	1
 maternal uniparental disomy of chromosome 1	maternaluniparentaldisomyofchromosome1	1
-2q31.1 microdeletion syndrome	2q31.1microdeletionsyndrome	1
-2q33.1 microdeletion syndrome	2q33.1microdeletionsyndrome	1
 ring chromosome 5	ringchromosome5	1
-6p22 microdeletion syndrome	6p22microdeletionsyndrome	1
-7q31 microdeletion syndrome	7q31microdeletionsyndrome	1
-8p11.2 deletion syndrome	8p11.2deletionsyndrome	1
-8p23.1 microdeletion syndrome	8p23.1microdeletionsyndrome	1
 infantile onset panniculitis with uveitis and systemic granulomatosis	infantileonsetpanniculitiswithuveitisandsystemicgranulomatosis	1
 idiopathic recurrent pericarditis	idiopathicrecurrentpericarditis	1
 drug-induced vasculitis	drug-inducedvasculitis	1
@@ -10088,7 +10046,6 @@ inherited nervous system cancer-predisposing syndrome	inheritednervoussystemcanc
 microcephaly-brain defect-spasticity-hypernatremia syndrome	microcephaly-braindefect-spasticity-hypernatremiasyndrome	1
 microcephaly-microcornea syndrome, Seemanova type	microcephaly-microcorneasyndrome,Seemanovatype	1
 microcornea-corectopia-macular hypoplasia syndrome	microcornea-corectopia-macularhypoplasiasyndrome	1
-19p13.12 microdeletion syndrome	19p13.12microdeletionsyndrome	1
 rare cutaneous lichen planus	rarecutaneouslichenplanus	1
 rare mucosal lichen planus	raremucosallichenplanus	1
 actinic lichen planus	actiniclichenplanus	1
@@ -10181,7 +10138,6 @@ Umbilical-urachal sinus	Umbilical-urachalsinus	1
 Aminoacylase 1 deficiency	Aminoacylase1deficiency	1
 Malignant atrophic papulosis	Malignantatrophicpapulosis	1
 Neurotrophic keratitis	Neurotrophickeratitis	1
-46,XX testicular disorders of sex development	46,XXtesticulardisordersofsexdevelopment	1
 mammary analogue secretory carcinoma	mammaryanaloguesecretorycarcinoma	1
 OHVIRA	OHVIRA	1
 Hemochromatosis type 4	Hemochromatosistype4	1
@@ -10312,16 +10268,9 @@ Cyprus facial-neuromusculoskeletal syndrome	Cyprusfacial-neuromusculoskeletalsyn
 autosomal dominant deafness-onychodystrophy syndrome	autosomaldominantdeafness-onychodystrophysyndrome	1
 deafness-ear malformation-facial palsy syndrome	deafness-earmalformation-facialpalsysyndrome	1
 syndrome with 46,XX disorder of sex development	syndromewith46,XXdisorderofsexdevelopment	1
-46,XY disorder of gonadal development	46,XYdisorderofgonadaldevelopment	1
-46,XY ovotesticular disorder of sex development	46,XYovotesticulardisorderofsexdevelopment	1
-46,XY disorder of sex development of endocrine origin	46,XYdisorderofsexdevelopmentofendocrineorigin	1
-46,XY disorder of sex development due to impaired androgen production	46,XYdisorderofsexdevelopmentduetoimpairedandrogenproduction	1
-46,XY disorder of sex development due to a cholesterol synthesis defect	46,XYdisorderofsexdevelopmentduetoacholesterolsynthesisdefect	1
 classic congenital lipoid adrenal hyperplasia due to STAR deficiency	classiccongenitallipoidadrenalhyperplasiaduetoSTARdeficiency	1
 non-classic congenital lipoid adrenal hyperplasia due to STAR deficiency	non-classiccongenitallipoidadrenalhyperplasiaduetoSTARdeficiency	1
-46,XY disorder of sex development induced by maternal-exposure to endocrine disruptors	46,XYdisorderofsexdevelopmentinducedbymaternal-exposuretoendocrinedisruptors	1
 disorder of sex development of gynecological interest	disorderofsexdevelopmentofgynecologicalinterest	1
-46,XY disorder of sex development of gynecological interest	46,XYdisorderofsexdevelopmentofgynecologicalinterest	1
 syndrome with disorder of sex development of gynecological interest	syndromewithdisorderofsexdevelopmentofgynecologicalinterest	1
 syngnathia multiple anomalies	syngnathiamultipleanomalies	1
 syngnathia-cleft palate syndrome	syngnathia-cleftpalatesyndrome	1
@@ -10380,7 +10329,6 @@ mitochondrial DNA maintenance syndrome	mitochondrialDNAmaintenancesyndrome	1
 digital anomalies-intellectual disability-short stature syndrome	digitalanomalies-intellectualdisability-shortstaturesyndrome	1
 intellectual disability-obesity-brain malformations-facial dysmorphism syndrome	intellectualdisability-obesity-brainmalformations-facialdysmorphismsyndrome	1
 focal epilepsy-intellectual disability-cerebro-cerebellar malformation	focalepilepsy-intellectualdisability-cerebro-cerebellarmalformation	1
-16q24.1 microdeletion syndrome	16q24.1microdeletionsyndrome	1
 phalangeal microgeodic syndrome	phalangealmicrogeodicsyndrome	1
 brain dopamine-serotonin vesicular transport disease	braindopamine-serotoninvesiculartransportdisease	1
 neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-hip dysplasia syndrome due to 9q21 microdeletion	neurodevelopmentaldisorder-craniofacialdysmorphism-cardiacdefect-hipdysplasiasyndromedueto9q21microdeletion	1
@@ -10573,7 +10521,6 @@ holoprosencephaly-caudal dysgenesis syndrome	holoprosencephaly-caudaldysgenesiss
 isolated congenitally uncorrected transposition of the great arteries	isolatedcongenitallyuncorrectedtranspositionofthegreatarteries	1
 congenitally uncorrected transposition of the great arteries with cardiac malformation	congenitallyuncorrectedtranspositionofthegreatarterieswithcardiacmalformation	1
 Bockenheimer syndrome	Bockenheimersyndrome	1
-5-fluorouracil poisoning	5-fluorouracilpoisoning	1
 mucopolysaccharidosis type 2, severe form	mucopolysaccharidosistype2,severeform	1
 mucopolysaccharidosis type 2, attenuated form	mucopolysaccharidosistype2,attenuatedform	1
 limbic encephalitis with NMDA receptor antibodies	limbicencephalitiswithNMDAreceptorantibodies	1
@@ -11129,7 +11076,6 @@ polyendocrine-polyneuropathy syndrome	polyendocrine-polyneuropathysyndrome	1
 atrial conduction disease	atrialconductiondisease	1
 mendelian susceptibility to mycobacterial diseases due to complete ISG15 deficiency	mendeliansusceptibilitytomycobacterialdiseasesduetocompleteISG15deficiency	1
 severe intellectual disability-epilepsy-cataract syndrome due to fatty acyl-CoA reductase 1 deficiency	severeintellectualdisability-epilepsy-cataractsyndromeduetofattyacyl-CoAreductase1deficiency	1
-46,XX ovarian dysgenesis-short stature syndrome	46,XXovariandysgenesis-shortstaturesyndrome	1
 progressive myoclonic epilepsy type 7	progressivemyoclonicepilepsytype7	1
 polyglucosan body myopathy type 2	polyglucosanbodymyopathytype2	1
 progeroid features-hepatocellular carcinoma predisposition syndrome	progeroidfeatures-hepatocellularcarcinomapredispositionsyndrome	1
@@ -11161,7 +11107,6 @@ Klippel-Feil anomaly-myopathy-facial dysmorphism syndrome	Klippel-Feilanomaly-my
 microcephaly-intellectual disability-sensorineural hearing loss-epilepsy-abnormal muscle tone syndrome	microcephaly-intellectualdisability-sensorineuralhearingloss-epilepsy-abnormalmuscletonesyndrome	1
 neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-hip dysplasia syndrome due to a point mutation	neurodevelopmentaldisorder-craniofacialdysmorphism-cardiacdefect-hipdysplasiasyndromeduetoapointmutation	1
 spondyloepiphyseal dysplasia, Stanescu type	spondyloepiphysealdysplasia,Stanescutype	1
-14q32 duplication syndrome	14q32duplicationsyndrome	1
 autosomal recessive mendelian susceptibility to mycobacterial diseases due to complete RORgamma receptor deficiency	autosomalrecessivemendeliansusceptibilitytomycobacterialdiseasesduetocompleteRORgammareceptordeficiency	1
 progressive microcephaly-seizures-cortical blindness-developmental delay syndrome	progressivemicrocephaly-seizures-corticalblindness-developmentaldelaysyndrome	1
 primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection	primaryimmunodeficiencywithpost-measles-mumps-rubellavaccineviralinfection	1
@@ -11203,7 +11148,6 @@ DDX41-related hematologic malignancy predisposition syndrome	DDX41-relatedhemato
 pancytopenia due to IKZF1 mutations	pancytopeniaduetoIKZF1mutations	1
 split-foot malformation-mesoaxial polydactyly syndrome	split-footmalformation-mesoaxialpolydactylysyndrome	1
 complex lethal osteochondrodysplasia	complexlethalosteochondrodysplasia	1
-15q14 microdeletion syndrome	15q14microdeletionsyndrome	1
 craniofacial dysplasia-short stature-ectodermal anomalies-intellectual disability syndrome	craniofacialdysplasia-shortstature-ectodermalanomalies-intellectualdisabilitysyndrome	1
 hereditary thrombocytopenia with early-onset myelofibrosis	hereditarythrombocytopeniawithearly-onsetmyelofibrosis	1
 trichothiodystrophy 6, nonphotosensitive	trichothiodystrophy6,nonphotosensitive	1
@@ -11228,7 +11172,6 @@ intellectual disability-epilepsy-extrapyramidal syndrome	intellectualdisability-
 isolated sedoheptulokinase deficiency	isolatedsedoheptulokinasedeficiency	1
 lethal left ventricular non-compaction-seizures-hypotonia-cataract-developmental delay syndrome	lethalleftventricularnon-compaction-seizures-hypotonia-cataract-developmentaldelaysyndrome	1
 immunodeficiency 49	immunodeficiency49	1
-3-methylglutaconic aciduria, type 8	3-methylglutaconicaciduria,type8	1
 atypical glycine encephalopathy	atypicalglycineencephalopathy	1
 anterior segment dysgenesis 6	anteriorsegmentdysgenesis6	1
 anterior segment dysgenesis 8	anteriorsegmentdysgenesis8	1
@@ -11264,7 +11207,6 @@ gallbladder neuroendocrine tumor, grade 1/2	gallbladderneuroendocrinetumor,grade
 idiopathic macular telangiectasia type 1	idiopathicmaculartelangiectasiatype1	1
 idiopathic macular telangiectasia type 3	idiopathicmaculartelangiectasiatype3	1
 vasoproliferative tumor of retina	vasoproliferativetumorofretina	1
-3q26q27 microdeletion syndrome	3q26q27microdeletionsyndrome	1
 atypical hemolytic-uremic syndrome with DGKE deficiency	atypicalhemolytic-uremicsyndromewithDGKEdeficiency	1
 non-hereditary retinoblastoma	non-hereditaryretinoblastoma	1
 arterial thoracic outlet syndrome	arterialthoracicoutletsyndrome	1
@@ -11286,8 +11228,6 @@ acute encephalopathy with inflammation-mediated status epilepticus	acuteencephal
 extragonadal germ cell tumor	extragonadalgermcelltumor	1
 gonadal germ cell tumor	gonadalgermcelltumor	1
 LMNA-related cardiocutaneous progeria syndrome	LMNA-relatedcardiocutaneousprogeriasyndrome	1
-20q11.2 microduplication syndrome	20q11.2microduplicationsyndrome	1
-2p13.2 microdeletion syndrome	2p13.2microdeletionsyndrome	1
 familial cervical artery dissection	familialcervicalarterydissection	1
 Koolen-de Vries syndrome due to a point mutation	Koolen-deVriessyndromeduetoapointmutation	1
 systemic Epstein-Barr virus-positive T-cell lymphoproliferative disease of childhood	systemicEpstein-Barrvirus-positiveT-celllymphoproliferativediseaseofchildhood	1
@@ -11303,7 +11243,6 @@ TRPV4-related bone disorder	TRPV4-relatedbonedisorder	1
 primary short bowel syndrome	primaryshortbowelsyndrome	1
 autoimmune hypoparathyroidism	autoimmunehypoparathyroidism	1
 obesity due to SIM1 deficiency	obesityduetoSIM1deficiency	1
-2p21 microdeletion syndrome without cystinuria	2p21microdeletionsyndromewithoutcystinuria	1
 homozygous 2p21 microdeletion syndrome	homozygous2p21microdeletionsyndrome	1
 intellectual disability-seizures-macrocephaly-obesity syndrome	intellectualdisability-seizures-macrocephaly-obesitysyndrome	1
 finger hyperphalangy-toe anomalies-severe pectus excavatum syndrome	fingerhyperphalangy-toeanomalies-severepectusexcavatumsyndrome	1
@@ -11380,9 +11319,7 @@ idiopathic hypersomnia with long sleep time	idiopathichypersomniawithlongsleepti
 idiopathic hypersomnia without long sleep time	idiopathichypersomniawithoutlongsleeptime	1
 severe early-onset axonal neuropathy due to NEFL deficiency	severeearly-onsetaxonalneuropathyduetoNEFLdeficiency	1
 ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome	ptosis-upperocularmovementlimitation-absenceoflacrimalpunctumsyndrome	1
-8q12 microduplication syndrome	8q12microduplicationsyndrome	1
 Polyvalvular heart disease syndrome	Polyvalvularheartdiseasesyndrome	1
-5q35 microduplication syndrome	5q35microduplicationsyndrome	1
 toxin-mediated infectious botulism	toxin-mediatedinfectiousbotulism	1
 Ehlers-Danlos syndrome, vascular-like type	Ehlers-Danlossyndrome,vascular-liketype	1
 Ehlers-Danlos/osteogenesis imperfecta syndrome	Ehlers-Danlos/osteogenesisimperfectasyndrome	1
@@ -11424,7 +11361,6 @@ multiple acyl-CoA dehydrogenase deficiency, severe neonatal type	multipleacyl-Co
 multiple acyl-CoA dehydrogenase deficiency, mild type	multipleacyl-CoAdehydrogenasedeficiency,mildtype	1
 chronic hiccup	chronichiccup	1
 Silver-Russell syndrome due to a point mutation	Silver-Russellsyndromeduetoapointmutation	1
-3q27.3 microdeletion syndrome	3q27.3microdeletionsyndrome	1
 periodic paralysis with later-onset distal motor neuropathy	periodicparalysiswithlater-onsetdistalmotorneuropathy	1
 periodic paralysis with transient compartment-like syndrome	periodicparalysiswithtransientcompartment-likesyndrome	1
 T+ B+ severe combined immunodeficiency	T+B+severecombinedimmunodeficiency	1
@@ -11632,9 +11568,7 @@ ketamine-induced biliary dilatation	ketamine-inducedbiliarydilatation	1
 toxic dermatosis	toxicdermatosis	1
 constitutional dyserythropoietic anemia	constitutionaldyserythropoieticanemia	1
 distal Xq28 microduplication syndrome	distalXq28microduplicationsyndrome	1
-1p21.3 microdeletion syndrome	1p21.3microdeletionsyndrome	1
 hypogonadotropic hypogonadism-severe microcephaly-sensorineural hearing loss-dysmorphism syndrome	hypogonadotropichypogonadism-severemicrocephaly-sensorineuralhearingloss-dysmorphismsyndrome	1
-2q31.1 microduplication syndrome	2q31.1microduplicationsyndrome	1
 chronic intestinal failure	chronicintestinalfailure	1
 intercalary limb defects	intercalarylimbdefects	1
 non-syndromic terminal limb defects	non-syndromicterminallimbdefects	1
@@ -11689,7 +11623,6 @@ Pilodental dysplasia-refractive errors syndrome	Pilodentaldysplasia-refractiveer
 Gillessen-Kaesbach-Nishimura syndrome	Gillessen-Kaesbach-Nishimurasyndrome	1
 postaxial polydactyly-dental and vertebral anomalies syndrome	postaxialpolydactyly-dentalandvertebralanomaliessyndrome	1
 polysyndactyly-cardiac malformation syndrome	polysyndactyly-cardiacmalformationsyndrome	1
-46,XX disorder of sex development-skeletal anomalies syndrome	46,XXdisorderofsexdevelopment-skeletalanomaliessyndrome	1
 Acrootoocular syndrome	Acrootoocularsyndrome	1
 pulmonary atresia-intact ventricular septum syndrome	pulmonaryatresia-intactventricularseptumsyndrome	1
 Pyknoachondrogenesis	Pyknoachondrogenesis	1
@@ -11777,7 +11710,6 @@ idiopathic recurrent stupor	idiopathicrecurrentstupor	1
 mucopolysaccharidosis type 6, rapidly progressing	mucopolysaccharidosistype6,rapidlyprogressing	1
 mucopolysaccharidosis type 6, slowly progressing	mucopolysaccharidosistype6,slowlyprogressing	1
 limbic encephalitis with caspr2 antibodies	limbicencephalitiswithcaspr2antibodies	1
-10q22.3q23.3 microduplication syndrome	10q22.3q23.3microduplicationsyndrome	1
 familial hyperinsulinism	familialhyperinsulinism	1
 hyperinsulinism due to UCP2 deficiency	hyperinsulinismduetoUCP2deficiency	1
 Diazoxide-resistant hyperinsulinism	Diazoxide-resistanthyperinsulinism	1
@@ -11818,19 +11750,10 @@ shoulder and girdle defects-familial intellectual disability syndrome	shoulderan
 myopathy-growth delay-intellectual disability-hypospadias syndrome	myopathy-growthdelay-intellectualdisability-hypospadiassyndrome	1
 linear verrucous nevus syndrome	linearverrucousnevussyndrome	1
 distal 7q11.23 microduplication syndrome	distal7q11.23microduplicationsyndrome	1
-14q12 microdeletion syndrome	14q12microdeletionsyndrome	1
-16p11.2p12.2 microduplication syndrome	16p11.2p12.2microduplicationsyndrome	1
-14q11.2 microduplication syndrome	14q11.2microduplicationsyndrome	1
-16p13.11 microdeletion syndrome	16p13.11microdeletionsyndrome	1
-16p13.11 microduplication syndrome	16p13.11microduplicationsyndrome	1
-16q24.3 microdeletion syndrome	16q24.3microdeletionsyndrome	1
 distal 17p13.3 microdeletion syndrome	distal17p13.3microdeletionsyndrome	1
 trisomy 17p	trisomy17p	1
-20p12.3 microdeletion syndrome	20p12.3microdeletionsyndrome	1
 paternal 20q13.2q13.3 microdeletion syndrome	paternal20q13.2q13.3microdeletionsyndrome	1
-20q13.33 microdeletion syndrome	20q13.33microdeletionsyndrome	1
 trisomy 20p	trisomy20p	1
-21q22.11q22.12 microdeletion syndrome	21q22.11q22.12microdeletionsyndrome	1
 distal 22q11.2 microduplication syndrome	distal22q11.2microduplicationsyndrome	1
 trisomy 1q	trisomy1q	1
 juvenile temporal arteritis	juveniletemporalarteritis	1
@@ -11838,7 +11761,6 @@ atypical Norrie disease due to monosomy Xp11.3	atypicalNorriediseaseduetomonosom
 maternal uniparental disomy of chromosome X	maternaluniparentaldisomyofchromosomeX	1
 paternal uniparental disomy of chromosome X	paternaluniparentaldisomyofchromosomeX	1
 ring chromosome Y	ringchromosomeY	1
-49,XXXYY syndrome	49,XXXYYsyndrome	1
 Mowat-Wilson syndrome due to monosomy 2q22	Mowat-Wilsonsyndromeduetomonosomy2q22	1
 Mowat-Wilson syndrome due to a ZEB2 point mutation	Mowat-WilsonsyndromeduetoaZEB2pointmutation	1
 familial adenomatous polyposis due to 5q22.2 microdeletion	familialadenomatouspolyposisdueto5q22.2microdeletion	1
@@ -12029,7 +11951,6 @@ classic mast cell leukemia	classicmastcellleukemia	1
 aleukemic mast cell leukemia	aleukemicmastcellleukemia	1
 distal monosomy 17q	distalmonosomy17q	1
 cap polyposis	cappolyposis	1
-2q24 microdeletion syndrome	2q24microdeletionsyndrome	1
 cataract-glaucoma syndrome	cataract-glaucomasyndrome	1
 isolated congenital nasal pyriform aperture stenosis	isolatedcongenitalnasalpyriformaperturestenosis	1
 congenital nasal pyriform aperture stenosis with holoprosencephaly	congenitalnasalpyriformaperturestenosiswithholoprosencephaly	1
@@ -12191,7 +12112,6 @@ congenital insensitivity to pain with severe intellectual disability	congenitali
 idiopathic neonatal atrial flutter	idiopathicneonatalatrialflutter	1
 incessant infant ventricular tachycardia	incessantinfantventriculartachycardia	1
 anti-p200 pemphigoid	anti-p200pemphigoid	1
-1p35.2 microdeletion syndrome	1p35.2microdeletionsyndrome	1
 hereditary neuroendocrine tumor of small intestine	hereditaryneuroendocrinetumorofsmallintestine	1
 pseudohypoparathyroidism with Albright hereditary osteodystrophy	pseudohypoparathyroidismwithAlbrighthereditaryosteodystrophy	1
 pseudohypoparathyroidism without Albright hereditary osteodystrophy	pseudohypoparathyroidismwithoutAlbrighthereditaryosteodystrophy	1
@@ -12372,15 +12292,12 @@ disorder of other vitamins and cofactors metabolism and transport	disorderofothe
 disorder of zinc metabolism	disorderofzincmetabolism	1
 manganese metabolism disease	manganesemetabolismdisease	1
 oral erosive lichen	oralerosivelichen	1
-20p13 microdeletion syndrome	20p13microdeletionsyndrome	1
 congenital pancreatic cyst	congenitalpancreaticcyst	1
 Epstein-Barr virus-associated gastric carcinoma	Epstein-Barrvirus-associatedgastriccarcinoma	1
 PENS syndrome	PENSsyndrome	1
-2q23.1 microduplication syndrome	2q23.1microduplicationsyndrome	1
 idiopathic linear interstitial keratitis	idiopathiclinearinterstitialkeratitis	1
 gastric adenocarcinoma and proximal polyposis of the stomach	gastricadenocarcinomaandproximalpolyposisofthestomach	1
 high bone mass osteogenesis imperfecta	highbonemassosteogenesisimperfecta	1
-7p22.1 microduplication syndrome	7p22.1microduplicationsyndrome	1
 marfanoid habitus-inguinal hernia-advanced bone age syndrome	marfanoidhabitus-inguinalhernia-advancedboneagesyndrome	1
 Xq12-q13.3 duplication syndrome	Xq12-q13.3duplicationsyndrome	1
 Spigelian hernia-cryptorchidism syndrome	Spigelianhernia-cryptorchidismsyndrome	1
@@ -12635,7 +12552,6 @@ salt-wasting 21-hydroxylase deficiency	salt-wasting21-hydroxylasedeficiency	1
 classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency, simple virilizing form	classiccongenitaladrenalhyperplasiadueto21-hydroxylasedeficiency,simplevirilizingform	1
 Biemond syndrome type 2	Biemondsyndrometype2	1
 double urethra	doubleurethra	1
-5-oxoprolinase deficiency	5-oxoprolinasedeficiency	1
 Teebi-Shaltout syndrome	Teebi-Shaltoutsyndrome	1
 mixed sleep apnea	mixedsleepapnea	1
 infantile hemangioma	infantilehemangioma	1
@@ -12648,7 +12564,6 @@ other inborn metabolic disease	otherinbornmetabolicdisease	1
 osteopenia-myopia-hearing loss-intellectual disability-facial dysmorphism syndrome	osteopenia-myopia-hearingloss-intellectualdisability-facialdysmorphismsyndrome	1
 acquired monoclonal Ig light chain-associated Fanconi syndrome	acquiredmonoclonalIglightchain-associatedFanconisyndrome	1
 simple cryoglobulinemia	simplecryoglobulinemia	1
-46,XX disorder of sex development induced by maternal-derived androgen	46,XXdisorderofsexdevelopmentinducedbymaternal-derivedandrogen	1
 functioning gonadotropic adenoma	functioninggonadotropicadenoma	1
 pituitary deficiency due to Rathke's pouch cysts	pituitarydeficiencyduetoRathke'spouchcysts	1
 pituitary dermoid and epidermoid cysts	pituitarydermoidandepidermoidcysts	1
@@ -12767,10 +12682,8 @@ generalized epilepsy-paroxysmal dyskinesia syndrome	generalizedepilepsy-paroxysm
 sarcoidosis, early-onset	sarcoidosis,early-onset	1
 drug metabolism, poor, Cyp2C19-related	drugmetabolism,poor,Cyp2C19-related	1
 omphalocele, diaphragmatic hernia, and radial ray defects	omphalocele,diaphragmatichernia,andradialraydefects	1
-14q22q23 microdeletion syndrome	14q22q23microdeletionsyndrome	1
 talo-patello-scaphoid osteolysis	talo-patello-scaphoidosteolysis	1
 short stature-delayed bone age due to thyroid hormone metabolism deficiency	shortstature-delayedboneageduetothyroidhormonemetabolismdeficiency	1
-7q11.23 microduplication syndrome	7q11.23microduplicationsyndrome	1
 acral peeling skin syndrome	acralpeelingskinsyndrome	1
 combined immunodeficiency due to partial RAG1 deficiency	combinedimmunodeficiencyduetopartialRAG1deficiency	1
 primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency	primaryimmunodeficiencywithnatural-killercelldeficiencyandadrenalinsufficiency	1
@@ -12787,8 +12700,6 @@ rare female infertility due to an anomaly of ovarian function of genetic origin	
 female infertility due to an implantation defect of genetic origin	femaleinfertilityduetoanimplantationdefectofgeneticorigin	1
 lipoic acid biosynthesis defect	lipoicacidbiosynthesisdefect	1
 AXIN2-related attenuated familial adenomatous polyposis	AXIN2-relatedattenuatedfamilialadenomatouspolyposis	1
-9q31.1q31.3 microdeletion syndrome	9q31.1q31.3microdeletionsyndrome	1
-14q24.1q24.3 microdeletion syndrome	14q24.1q24.3microdeletionsyndrome	1
 partial corpus callosum agenesis-cerebellar vermis hypoplasia with posterior fossa cysts syndrome	partialcorpuscallosumagenesis-cerebellarvermishypoplasiawithposteriorfossacystssyndrome	1
 cold-induced sweating syndrome-hyperthermia spectrum	cold-inducedsweatingsyndrome-hyperthermiaspectrum	1
 acute myeloid leukemia with t(6;9)(p23;q34)	acutemyeloidleukemiawitht(6;9)(p23;q34)	1
@@ -12810,7 +12721,6 @@ Angelman syndrome due to a point mutation	Angelmansyndromeduetoapointmutation	1
 Angelman syndrome due to imprinting defect in 15q11-q13	Angelmansyndromeduetoimprintingdefectin15q11-q13	1
 proton-pump inhibitor-responsive esophageal eosinophilia	proton-pumpinhibitor-responsiveesophagealeosinophilia	1
 generalized eruptive keratoacanthoma	generalizederuptivekeratoacanthoma	1
-13q12.3 microdeletion syndrome	13q12.3microdeletionsyndrome	1
 dystonia-aphonia syndrome	dystonia-aphoniasyndrome	1
 carcinoma of esophagus, salivary gland type	carcinomaofesophagus,salivaryglandtype	1
 undifferentiated carcinoma of esophagus	undifferentiatedcarcinomaofesophagus	1
@@ -12819,7 +12729,6 @@ glycogen storage disease due to acid maltase deficiency, late-onset	glycogenstor
 autosomal recessive severe congenital neutropenia due to CXCR2 deficiency	autosomalrecessiveseverecongenitalneutropeniaduetoCXCR2deficiency	1
 rare genetic odontal or periodontal disorder	raregeneticodontalorperiodontaldisorder	1
 cono-spondylar dysplasia	cono-spondylardysplasia	1
-3-phosphoglycerate dehydrogenase deficiency	3-phosphoglyceratedehydrogenasedeficiency	1
 microcephaly-short stature-intellectual disability-facial dysmorphism syndrome	microcephaly-shortstature-intellectualdisability-facialdysmorphismsyndrome	1
 X-linked intellectual disability-limb spasticity-retinal dystrophy-diabetes insipidus syndrome	X-linkedintellectualdisability-limbspasticity-retinaldystrophy-diabetesinsipidussyndrome	1
 ARX-related encephalopathy-brain malformation spectrum	ARX-relatedencephalopathy-brainmalformationspectrum	1
@@ -12988,7 +12897,6 @@ Cerebrooculonasal syndrome	Cerebrooculonasalsyndrome	1
 familial papillary thyroid carcinoma with renal papillary neoplasia	familialpapillarythyroidcarcinomawithrenalpapillaryneoplasia	1
 generalized basaloid follicular hamartoma syndrome	generalizedbasaloidfollicularhamartomasyndrome	1
 Dimethylglycine dehydrogenase deficiency	Dimethylglycinedehydrogenasedeficiency	1
-3-hydroxy-3-methylglutaryl-CoA synthase deficiency	3-hydroxy-3-methylglutaryl-CoAsynthasedeficiency	1
 East Texas bleeding disorder	EastTexasbleedingdisorder	1
 metaphyseal dysplasia, Braun-Tinschert type	metaphysealdysplasia,Braun-Tinscherttype	1
 Ehlers-Danlos syndrome due to tenascin-X deficiency	Ehlers-Danlossyndromeduetotenascin-Xdeficiency	1
@@ -13029,7 +12937,6 @@ visceral neuropathy-brain anomalies-facial dysmorphism-developmental delay syndr
 brain malformation-congenital heart disease-postaxial polydactyly syndrome	brainmalformation-congenitalheartdisease-postaxialpolydactylysyndrome	1
 tropical endomyocardial fibrosis	tropicalendomyocardialfibrosis	1
 primary progressive freezing gait	primaryprogressivefreezinggait	1
-6q terminal deletion syndrome	6qterminaldeletionsyndrome	1
 auricular abnormalities-cleft lip with or without cleft palate-ocular abnormalities syndrome	auricularabnormalities-cleftlipwithorwithoutcleftpalate-ocularabnormalitiessyndrome	1
 rare genetic odontologic disease	raregeneticodontologicdisease	1
 AKT2-related familial partial lipodystrophy	AKT2-relatedfamilialpartiallipodystrophy	1
@@ -13188,10 +13095,6 @@ localized lichen myxedematosus with monoclonal gammopathy or systemic symptoms	l
 scleromyxedema without monoclonal gammopathy	scleromyxedemawithoutmonoclonalgammopathy	1
 syndromic genetic deafness	syndromicgeneticdeafness	1
 rare endocrine growth disease	rareendocrinegrowthdisease	1
-46,XX disorder of sex development induced by fetal androgens excess	46,XXdisorderofsexdevelopmentinducedbyfetalandrogensexcess	1
-46,XY disorder of sex development due to a testosterone synthesis defect	46,XYdisorderofsexdevelopmentduetoatestosteronesynthesisdefect	1
-46,XY disorder of sex development due to adrenal and testicular steroidogenesis defect	46,XYdisorderofsexdevelopmentduetoadrenalandtesticularsteroidogenesisdefect	1
-46,XY disorder of sex development due to testicular steroidogenesis defect	46,XYdisorderofsexdevelopmentduetotesticularsteroidogenesisdefect	1
 primary lipodystrophy	primarylipodystrophy	1
 rare non-malformative gynecologic or obstetric disease	rarenon-malformativegynecologicorobstetricdisease	1
 rare non-malformative breast disease	rarenon-malformativebreastdisease	1
@@ -13255,7 +13158,6 @@ anterior urethral valve	anteriorurethralvalve	1
 precocious puberty in female	precociouspubertyinfemale	1
 genetic otorhinolaryngological malformation	geneticotorhinolaryngologicalmalformation	1
 adactyly of foot	adactylyoffoot	1
-3p25.3 microdeletion syndrome	3p25.3microdeletionsyndrome	1
 congenital urachal anomaly	congenitalurachalanomaly	1
 short stature-advanced bone age-early-onset osteoarthritis syndrome	shortstature-advancedboneage-early-onsetosteoarthritissyndrome	1
 COG2-CDG	COG2-CDG	1
@@ -13287,13 +13189,10 @@ syndromic hereditary optic neuropathy	syndromichereditaryopticneuropathy	1
 early-onset posterior subcapsular cataract	early-onsetposteriorsubcapsularcataract	1
 AH amyloidosis	AHamyloidosis	1
 baroreflex failure	baroreflexfailure	1
-46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect	46,XYdisorderofsexualdevelopmentduetodihydrotestosteronebackdoorpathwaybiosynthesisdefect	1
 hypothalamic adipsic hypernatraemia syndrome	hypothalamicadipsichypernatraemiasyndrome	1
 lymphoplasmacytic lymphoma without IgM production	lymphoplasmacyticlymphomawithoutIgMproduction	1
 ACTH-independent Cushing syndrome due to rare cortisol-producing adrenal tumor	ACTH-independentCushingsyndromeduetorarecortisol-producingadrenaltumor	1
 HIV-associated cancer	HIV-associatedcancer	1
-11q22.2q22.3 microdeletion syndrome	11q22.2q22.3microdeletionsyndrome	1
-20q11.2 microdeletion syndrome	20q11.2microdeletionsyndrome	1
 idiopathic phalangeal acro-osteolysis	idiopathicphalangealacro-osteolysis	1
 caudal regression-sirenomelia spectrum	caudalregression-sirenomeliaspectrum	1
 secondary vasculitis	secondaryvasculitis	1
@@ -13364,7 +13263,6 @@ central nervous system calcification-deafness-tubular acidosis-anemia syndrome	c
 T-cell immunodeficiency with epidermodysplasia verruciformis	T-cellimmunodeficiencywithepidermodysplasiaverruciformis	1
 multiple paragangliomas associated with polycythemia	multipleparagangliomasassociatedwithpolycythemia	1
 severe lateral tibial bowing with short stature	severelateraltibialbowingwithshortstature	1
-9p13 microdeletion syndrome	9p13microdeletionsyndrome	1
 congenital achiasma	congenitalachiasma	1
 mixed sclerosing bone dystrophy with extra-skeletal manifestations	mixedsclerosingbonedystrophywithextra-skeletalmanifestations	1
 hereditary inclusion body myopathy type 4	hereditaryinclusionbodymyopathytype4	1
@@ -13384,10 +13282,6 @@ pyogenic autoinflammatory syndrome	pyogenicautoinflammatorysyndrome	1
 granulomatous autoinflammatory syndrome	granulomatousautoinflammatorysyndrome	1
 mixed autoinflammatory and autoimmune syndrome	mixedautoinflammatoryandautoimmunesyndrome	1
 unclassified autoinflammatory syndrome	unclassifiedautoinflammatorysyndrome	1
-46,XX disorder of gonadal development	46,XXdisorderofgonadaldevelopment	1
-46,XX disorder of sex development induced by fetoplacental androgens excess	46,XXdisorderofsexdevelopmentinducedbyfetoplacentalandrogensexcess	1
-46,XX disorder of sex development induced by endogenous maternal-derived androgen	46,XXdisorderofsexdevelopmentinducedbyendogenousmaternal-derivedandrogen	1
-46,XX disorder of sex development induced by exogenous maternal-derived androgen	46,XXdisorderofsexdevelopmentinducedbyexogenousmaternal-derivedandrogen	1
 Madelung deformity, bilateral	Madelungdeformity,bilateral	1
 congenital elbow dislocation, unilateral	congenitalelbowdislocation,unilateral	1
 congenital elbow dislocation, bilateral	congenitalelbowdislocation,bilateral	1
@@ -13399,9 +13293,7 @@ Macrodactyly of fingers, bilateral	Macrodactylyoffingers,bilateral	1
 Macrodactyly of toes, unilateral	Macrodactylyoftoes,unilateral	1
 Macrodactyly of toes, bilateral	Macrodactylyoftoes,bilateral	1
 Prata-Liberal-Goncalves syndrome	Prata-Liberal-Goncalvessyndrome	1
-46,XX disorder of sex development-anorectal anomalies syndrome	46,XXdisorderofsexdevelopment-anorectalanomaliessyndrome	1
 disorder of thiamine metabolism and transport	disorderofthiaminemetabolismandtransport	1
-11p15.4 microduplication syndrome	11p15.4microduplicationsyndrome	1
 mirror polydactyly-vertebral segmentation-limbs defects syndrome	mirrorpolydactyly-vertebralsegmentation-limbsdefectssyndrome	1
 Sagliker syndrome	Saglikersyndrome	1
 painful orbital and systemic neurofibromas-marfanoid habitus syndrome	painfulorbitalandsystemicneurofibromas-marfanoidhabitussyndrome	1
@@ -13576,7 +13468,6 @@ X-linked intellectual disability, Golabi-Ito-hall type	X-linkedintellectualdisab
 X-linked intellectual disability, Sutherland-Haan type	X-linkedintellectualdisability,Sutherland-Haantype	1
 X-linked dominant intellectual disability-epilepsy syndrome	X-linkeddominantintellectualdisability-epilepsysyndrome	1
 humero-ulnar synostosis	humero-ulnarsynostosis	1
-12q14 microdeletion syndrome	12q14microdeletionsyndrome	1
 severe intellectual disability-epilepsy-anal anomalies-distal phalangeal hypoplasia	severeintellectualdisability-epilepsy-analanomalies-distalphalangealhypoplasia	1
 non-secreting paraganglioma	non-secretingparaganglioma	1
 cytophagic histiocytic panniculitis	cytophagichistiocyticpanniculitis	1
@@ -13628,7 +13519,6 @@ neonatal iodine exposure	neonataliodineexposure	1
 transient congenital hypothyroidism due to maternal factor	transientcongenitalhypothyroidismduetomaternalfactor	1
 transient congenital hypothyroidism due to neonatal factor	transientcongenitalhypothyroidismduetoneonatalfactor	1
 ptosis-syndactyly-learning difficulties syndrome	ptosis-syndactyly-learningdifficultiessyndrome	1
-1q44 microdeletion syndrome	1q44microdeletionsyndrome	1
 syndromic obesity	syndromicobesity	1
 macrocephaly-short stature-paraplegia syndrome	macrocephaly-shortstature-paraplegiasyndrome	1
 central bilateral macrogyria	centralbilateralmacrogyria	1
@@ -13818,7 +13708,6 @@ non-central nervous system-localized embryonal carcinoma	non-centralnervoussyste
 malignancy diagnosed during pregnancy	malignancydiagnosedduringpregnancy	1
 pyoderma gangrenosum-acne-suppurative hidradenitis syndrome	pyodermagangrenosum-acne-suppurativehidradenitissyndrome	1
 hypomyelinating leukodystrophy with or without oligondontia and/or hypogonadism	hypomyelinatingleukodystrophywithorwithoutoligondontiaand/orhypogonadism	1
-12q15q21.1 microdeletion syndrome	12q15q21.1microdeletionsyndrome	1
 Microtriplication 11q24.1	Microtriplication11q24.1	1
 inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency	inheritedisolatedadrenalinsufficiencyduetopartialCYP11A1deficiency	1
 intermediate anorectal malformation	intermediateanorectalmalformation	1
@@ -13828,7 +13717,6 @@ trisomy 18p	trisomy18p	1
 distal trisomy 18q	distaltrisomy18q	1
 distal trisomy 19q	distaltrisomy19q	1
 microcephaly-polymicrogyria-corpus callosum agenesis syndrome	microcephaly-polymicrogyria-corpuscallosumagenesissyndrome	1
-6q16 deletion syndrome	6q16deletionsyndrome	1
 amelogenesis imperfecta-gingival hyperplasia syndrome	amelogenesisimperfecta-gingivalhyperplasiasyndrome	1
 craniosynostosis-hydrocephalus-Arnold-Chiari malformation type I-radioulnar synostosis syndrome	craniosynostosis-hydrocephalus-Arnold-ChiarimalformationtypeI-radioulnarsynostosissyndrome	1
 intellectual disability-cataracts-kyphosis syndrome	intellectualdisability-cataracts-kyphosissyndrome	1
@@ -14180,7 +14068,6 @@ TARP syndrome	TARPsyndrome	1
 congenital complete agenesis of pericardium	congenitalcompleteagenesisofpericardium	1
 congenital partial agenesis of pericardium	congenitalpartialagenesisofpericardium	1
 Pleuro-pericardial cyst	Pleuro-pericardialcyst	1
-6-phosphogluconate dehydrogenase deficiency	6-phosphogluconatedehydrogenasedeficiency	1
 hemolytic anemia due to erythrocyte adenosine deaminase overproduction	hemolyticanemiaduetoerythrocyteadenosinedeaminaseoverproduction	1
 unstable hemoglobin disease	unstablehemoglobindisease	1
 tarsal kink syndrome	tarsalkinksyndrome	1
@@ -14189,7 +14076,6 @@ euryblepharon	euryblepharon	1
 congenital eyelid retraction	congenitaleyelidretraction	1
 mosaic monosomy XX/X0	mosaicmonosomyXX/X0	1
 paternal uniparental disomy of chromosome 13	paternaluniparentaldisomyofchromosome13	1
-49,XYYYY syndrome	49,XYYYYsyndrome	1
 Turner syndrome due to structural X chromosome anomalies	TurnersyndromeduetostructuralXchromosomeanomalies	1
 dappled diaphyseal dysplasia	dappleddiaphysealdysplasia	1
 cheirospondyloenchondromatosis	cheirospondyloenchondromatosis	1
@@ -14243,18 +14129,14 @@ cobalt allergic contact dermatitis	cobaltallergiccontactdermatitis	1
 cobalt allergic asthma	cobaltallergicasthma	1
 palladium allergic contact dermatitis	palladiumallergiccontactdermatitis	1
 benzoic acid allergic contact dermatitis	benzoicacidallergiccontactdermatitis	1
-1,4-phenylenediamine allergic contact dermatitis	1,4-phenylenediamineallergiccontactdermatitis	1
 potassium dichromate allergic contact dermatitis	potassiumdichromateallergiccontactdermatitis	1
 ketoprofen photoallergic dermatitis	ketoprofenphotoallergicdermatitis	1
 remazole black respiratory allergy	remazoleblackrespiratoryallergy	1
 chloramine T respiratory allergy	chloramineTrespiratoryallergy	1
-4-vinylcyclohexene dioxide respiratory allergy	4-vinylcyclohexenedioxiderespiratoryallergy	1
 carvone allergic contact dermatitis	carvoneallergiccontactdermatitis	1
 quinidine allergy	quinidineallergy	1
 melphalan allergy	melphalanallergy	1
 neomycin sulfate allergic contact dermatitis	neomycinsulfateallergiccontactdermatitis	1
-4-tert-butylphenol allergic contact dermatitis	4-tert-butylphenolallergiccontactdermatitis	1
-1-chloro-2,4-dinitrobenzene allergic contact dermatitis	1-chloro-2,4-dinitrobenzeneallergiccontactdermatitis	1
 co-trimoxazole allergy	co-trimoxazoleallergy	1
 sodium aurothiomalate allergy	sodiumaurothiomalateallergy	1
 parthenolide allergic contact dermatitis	parthenolideallergiccontactdermatitis	1
@@ -14264,7 +14146,6 @@ benzo[d]isothiazol-3-one allergic contact dermatitis	benzo[d]isothiazol-3-oneall
 phthalyl group allergy	phthalylgroupallergy	1
 alcuronium bromide allergy	alcuroniumbromideallergy	1
 gallamine allergy	gallamineallergy	1
-2,4-dinitrophenyl allergic contact dermatitis	2,4-dinitrophenylallergiccontactdermatitis	1
 patent blue V allergy	patentblueVallergy	1
 acid anhydride respiratory allergy	acidanhydriderespiratoryallergy	1
 oxirane allergy	oxiraneallergy	1
@@ -14287,8 +14168,6 @@ rare tumor	raretumor	1
 rare otorhinolaryngologic tumor	rareotorhinolaryngologictumor	1
 rare nervous system tumor	rarenervoussystemtumor	1
 gonadal dysgenesis of gynecological interest	gonadaldysgenesisofgynecologicalinterest	1
-46,XX disorder of sex development induced by androgens excess	46,XXdisorderofsexdevelopmentinducedbyandrogensexcess	1
-46,XY disorder of sex development due to a defect in testosterone metabolism by peripheral tissue	46,XYdisorderofsexdevelopmentduetoadefectintestosteronemetabolismbyperipheraltissue	1
 syndrome with 46,XY disorder of sex development	syndromewith46,XYdisorderofsexdevelopment	1
 internal carotid agenesis	internalcarotidagenesis	1
 autosomal anomaly	autosomalanomaly	1
@@ -14360,7 +14239,6 @@ sex chromosome disorder of sex development	sexchromosomedisorderofsexdevelopment
 ovotesticular disorder of sex development	ovotesticulardisorderofsexdevelopment	1
 hereditary angioedema type III	hereditaryangioedematypeIII	1
 central nervous system vascular malformation	centralnervoussystemvascularmalformation	1
-46,XX disorders of sex development	46,XXdisordersofsexdevelopment	1
 Harel-Yoon syndrome	Harel-Yoonsyndrome	1
 sex chromosome aberration	sexchromosomeaberration	1
 refractory anemia	refractoryanemia	1
@@ -14457,12 +14335,9 @@ mosaic trisomy 22	mosaictrisomy22	1
 distal trisomy 1p36	distaltrisomy1p36	1
 distal trisomy 2p	distaltrisomy2p	1
 distal trisomy 3p	distaltrisomy3p	1
-4p16.3 microduplication syndrome	4p16.3microduplicationsyndrome	1
 distal trisomy 7p	distaltrisomy7p	1
 Beckwith-Wiedemann syndrome due to 11p15 microduplication	Beckwith-Wiedemannsyndromedueto11p15microduplication	1
-8p inverted duplication/deletion syndrome	8pinvertedduplication/deletionsyndrome	1
 distal trisomy 2q	distaltrisomy2q	1
-3q26 microduplication syndrome	3q26microduplicationsyndrome	1
 distal trisomy 4q	distaltrisomy4q	1
 distal trisomy 6q	distaltrisomy6q	1
 distal trisomy 8q	distaltrisomy8q	1
@@ -14523,7 +14398,6 @@ chromosome 10 anomaly	chromosome10anomaly	1
 subfertility	subfertility	1
 germ cell and embryonal neoplasms	germcellandembryonalneoplasms	1
 toluene 2,4-diisocyanate allergic asthma	toluene2,4-diisocyanateallergicasthma	1
-3-methylglutaconic aciduria type IX	3-methylglutaconicaciduriatypeIX	1
 spermatogenic failure 21	spermatogenicfailure21	1
 spermatogenic failure 2	spermatogenicfailure2	1
 spermatogenic failure 18	spermatogenicfailure18	1
@@ -14998,8 +14872,6 @@ cataract 48	cataract48	1
 syndactyly type 5	syndactylytype5	1
 Ehlers-Danlos syndrome musculocontractural type 2	Ehlers-Danlossyndromemusculocontracturaltype2	1
 non-syndromic X-linked intellectual disability 84	non-syndromicX-linkedintellectualdisability84	1
-46,XY sex reversal 3	46,XYsexreversal3	1
-46,XY sex reversal 2	46,XYsexreversal2	1
 non-syndromic X-linked intellectual disability ARX-related	non-syndromicX-linkedintellectualdisabilityARX-related	1
 nuclear type mitochondrial complex I deficiency 1	nucleartypemitochondrialcomplexIdeficiency1	1
 combined oxidative phosphorylation deficiency 18	combinedoxidativephosphorylationdeficiency18	1
@@ -15284,7 +15156,6 @@ familial episodic pain syndrome 2	familialepisodicpainsyndrome2	1
 fetal akinesia deformation sequence syndrome 3	fetalakinesiadeformationsequencesyndrome3	1
 restrictive cardiomyopathy 3	restrictivecardiomyopathy3	1
 combined oxidative phosphorylation deficiency 19	combinedoxidativephosphorylationdeficiency19	1
-46,XX sex reversal 4	46,XXsexreversal4	1
 cranioectodermal dysplasia 3	cranioectodermaldysplasia3	1
 immunodeficiency 32A	immunodeficiency32A	1
 optic atrophy 9	opticatrophy9	1
@@ -15583,7 +15454,6 @@ low phospholipid associated cholelithiasis	lowphospholipidassociatedcholelithias
 anaplastic oligodendroglioma	anaplasticoligodendroglioma	1
 XYYY syndrome	XYYYsyndrome	1
 autoinflammation lipodystrophy and dermatosis syndrome	autoinflammationlipodystrophyanddermatosissyndrome	1
-4H leukodystrophy	4Hleukodystrophy	1
 Cotton Excreting Diseases	CottonExcretingDiseases	1
 facial dermal dysplasia type 1	facialdermaldysplasiatype1	1
 Cousin syndrome	Cousinsyndrome	1
@@ -15771,8 +15641,6 @@ congenital disorder of glycosylation Iw	congenitaldisorderofglycosylationIw	1
 congenital disorder of glycosylation Ix	congenitaldisorderofglycosylationIx	1
 congenital disorder of glycosylation Iy	congenitaldisorderofglycosylationIy	1
 digenic disease	digenicdisease	1
-3-methylcrotonyl-CoA carboxylase 1 deficiency	3-methylcrotonyl-CoAcarboxylase1deficiency	1
-3-methylcrotonyl-CoA carboxylase 2 deficiency	3-methylcrotonyl-CoAcarboxylase2deficiency	1
 hyperekplexia 4	hyperekplexia4	1
 hypotrichosis 14	hypotrichosis14	1
 autosomal agammaglobulinemia	autosomalagammaglobulinemia	1
@@ -15818,7 +15686,6 @@ hyperlipoproteinemia, type 1D	hyperlipoproteinemia,type1D	1
 ACTH-independent macronodular adrenal hyperplasia 2	ACTH-independentmacronodularadrenalhyperplasia2	1
 psoriasis 15, pustular, susceptibility to	psoriasis15,pustular,susceptibilityto	1
 peeling skin syndrome type a	peelingskinsyndrometypea	1
-46,XY sex reversal 10	46,XYsexreversal10	1
 Bethlem myopathy 2	Bethlemmyopathy2	1
 adult-onset autosomal recessive sideroblastic anemia	adult-onsetautosomalrecessivesideroblasticanemia	1
 Duane retraction syndrome 3 with or without deafness	Duaneretractionsyndrome3withorwithoutdeafness	1
@@ -15846,7 +15713,6 @@ partial atrioventricular canal	partialatrioventricularcanal	1
 atrial standstill	atrialstandstill	1
 rare disease with Pierre robin syndrome	rarediseasewithPierrerobinsyndrome	1
 isolated craniosynostosis	isolatedcraniosynostosis	1
-17q11.2 microduplication syndrome	17q11.2microduplicationsyndrome	1
 distal hereditary motor neuropathy type 2	distalhereditarymotorneuropathytype2	1
 distal hereditary motor neuropathy type 7	distalhereditarymotorneuropathytype7	1
 Charlie M syndrome	CharlieMsyndrome	1
@@ -15907,7 +15773,6 @@ Alzheimer's disease 9	Alzheimer'sdisease9	1
 immunodeficiency 65	immunodeficiency65	1
 Ehlers-Danlos syndrome spondylodysplastic type 1	Ehlers-Danlossyndromespondylodysplastictype1	1
 osteogenesis imperfecta type 20	osteogenesisimperfectatype20	1
-46,XY sex reversal 6	46,XYsexreversal6	1
 Sotos syndrome 2	Sotossyndrome2	1
 Klippel-Feil syndrome 2	Klippel-Feilsyndrome2	1
 thrombophilia due to thrombomodulin defect	thrombophiliaduetothrombomodulindefect	1
@@ -15986,7 +15851,6 @@ B-lymphoblastic leukemia/lymphoma with hypodiploidy	B-lymphoblasticleukemia/lymp
 retinitis pigmentosa 88	retinitispigmentosa88	1
 idiopathic generalized epilepsy 15	idiopathicgeneralizedepilepsy15	1
 Diamond-Blackfan anemia 16	Diamond-Blackfananemia16	1
-46,XX sex reversal 2	46,XXsexreversal2	1
 congenital disorder of glycosylation 1cc	congenitaldisorderofglycosylation1cc	1
 anterior segment dysgenesis 3	anteriorsegmentdysgenesis3	1
 Ehlers-Danlos syndrome kyphoscoliotic type 1	Ehlers-Danlossyndromekyphoscoliotictype1	1
@@ -16017,7 +15881,6 @@ congenital or early infantile CACH syndrome	congenitalorearlyinfantileCACHsyndro
 late infantile CACH syndrome	lateinfantileCACHsyndrome	1
 juvenile or adult CACH syndrome	juvenileoradultCACHsyndrome	1
 congenital pseudoarthrosis of the limbs	congenitalpseudoarthrosisofthelimbs	1
-2p21 microdeletion syndrome	2p21microdeletionsyndrome	1
 rolandic epilepsy-speech dyspraxia syndrome	rolandicepilepsy-speechdyspraxiasyndrome	1
 von willebrand disease type 2A	vonwillebranddiseasetype2A	1
 von willebrand disease type 2B	vonwillebranddiseasetype2B	1
@@ -16068,8 +15931,6 @@ Pitt-Hopkins-like syndrome	Pitt-Hopkins-likesyndrome	1
 Hyposmia-nasal and ocular hypoplasia-hypogonadotropic hypogonadism syndrome	Hyposmia-nasalandocularhypoplasia-hypogonadotropichypogonadismsyndrome	1
 foveal hypoplasia-presenile cataract syndrome	fovealhypoplasia-presenilecataractsyndrome	1
 autosomal dominant Charcot-Marie-tooth disease type 2M	autosomaldominantCharcot-Marie-toothdiseasetype2M	1
-5q14.3 microdeletion syndrome	5q14.3microdeletionsyndrome	1
-2q23.1 microdeletion syndrome	2q23.1microdeletionsyndrome	1
 isolated agammaglobulinemia	isolatedagammaglobulinemia	1
 syndromic agammaglobulinemia	syndromicagammaglobulinemia	1
 Beckwith-Wiedemann syndrome due to CDKN1C mutation	Beckwith-WiedemannsyndromeduetoCDKN1Cmutation	1
@@ -16098,7 +15959,6 @@ Odontohypophosphatasia	Odontohypophosphatasia	1
 APC-related attenuated familial adenomatous polyposis	APC-relatedattenuatedfamilialadenomatouspolyposis	1
 hereditary persistence of fetal hemoglobin-sickle cell disease syndrome	hereditarypersistenceoffetalhemoglobin-sicklecelldiseasesyndrome	1
 localized junctional epidermolysis bullosa, non-Herlitz type	localizedjunctionalepidermolysisbullosa,non-Herlitztype	1
-46,XY partial gonadal dysgenesis	46,XYpartialgonadaldysgenesis	1
 recurrent infections-inflammatory syndrome due to zinc metabolism disorder syndrome	recurrentinfections-inflammatorysyndromeduetozincmetabolismdisordersyndrome	1
 classic medulloblastoma	classicmedulloblastoma	1
 central nervous system ewing sarcoma/peripheral primitive neuroectodermal tumor	centralnervoussystemewingsarcoma/peripheralprimitiveneuroectodermaltumor	1
@@ -16153,7 +16013,6 @@ proximal myopathy and ophthalmoplegia	proximalmyopathyandophthalmoplegia	1
 combined oxidative phosphorylation deficiency 21	combinedoxidativephosphorylationdeficiency21	1
 nuclear type mitochondrial complex I deficiency 2	nucleartypemitochondrialcomplexIdeficiency2	1
 ichthyosis follicularis-alopecia-photophobia syndrome 1	ichthyosisfollicularis-alopecia-photophobiasyndrome1	1
-46,XX sex reversal 1	46,XXsexreversal1	1
 hereditary mixed polyposis syndrome 2	hereditarymixedpolyposissyndrome2	1
 ectodermal dysplasia 1	ectodermaldysplasia1	1
 non-syndromic X-linked intellectual disability 100	non-syndromicX-linkedintellectualdisability100	1
@@ -16283,8 +16142,6 @@ pancreatic colipase deficiency	pancreaticcolipasedeficiency	1
 combined pancreatic lipase-colipase deficiency	combinedpancreaticlipase-colipasedeficiency	1
 fixed subaortic stenosis	fixedsubaorticstenosis	1
 atypical Rett syndrome	atypicalRettsyndrome	1
-12p12.1 microdeletion syndrome	12p12.1microdeletionsyndrome	1
-15q overgrowth syndrome	15qovergrowthsyndrome	1
 atypical dentin dysplasia due to SMOC2 deficiency	atypicaldentindysplasiaduetoSMOC2deficiency	1
 familial isolated pituitary adenoma	familialisolatedpituitaryadenoma	1
 X-linked spasticity-intellectual disability-epilepsy syndrome	X-linkedspasticity-intellectualdisability-epilepsysyndrome	1
@@ -16322,7 +16179,6 @@ autosomal dominant childhood-onset proximal spinal muscular atrophy	autosomaldom
 distal monosomy 1q	distalmonosomy1q	1
 childhood-onset autosomal recessive myopathy with external ophthalmoplegia	childhood-onsetautosomalrecessivemyopathywithexternalophthalmoplegia	1
 neurofibromatosis type 1 due to NF1 mutation or intragenic deletion	neurofibromatosistype1duetoNF1mutationorintragenicdeletion	1
-17q21.31 microdeletion syndrome	17q21.31microdeletionsyndrome	1
 glycogen storage disease due to glucose-6-phosphatase deficiency	glycogenstoragediseaseduetoglucose-6-phosphatasedeficiency	1
 infantile epileptic-dyskinetic encephalopathy	infantileepileptic-dyskineticencephalopathy	1
 intellectual disability-hyperkinetic movement-truncal ataxia syndrome	intellectualdisability-hyperkineticmovement-truncalataxiasyndrome	1
@@ -16384,7 +16240,6 @@ juvenile absence epilepsy 1	juvenileabsenceepilepsy1	1
 psoriasis 9	psoriasis9	1
 familial glucocorticoid deficiency	familialglucocorticoiddeficiency	1
 non-syndromic X-linked intellectual disability 105	non-syndromicX-linkedintellectualdisability105	1
-46,XY sex reversal 8	46,XYsexreversal8	1
 severe congenital neutropenia 7	severecongenitalneutropenia7	1
 severe congenital neutropenia 5	severecongenitalneutropenia5	1
 ACTH-independent macronodular adrenal hyperplasia 1	ACTH-independentmacronodularadrenalhyperplasia1	1
@@ -16460,7 +16315,6 @@ congenital nystagmus 7	congenitalnystagmus7	1
 hypophosphatemic nephrolithiasis/osteoporosis	hypophosphatemicnephrolithiasis/osteoporosis	1
 familial chylomicronemia syndrome	familialchylomicronemiasyndrome	1
 Polymerase proofreading-related adenomatous polyposis	Polymeraseproofreading-relatedadenomatouspolyposis	1
-19p13.3 microduplication syndrome	19p13.3microduplicationsyndrome	1
 autosomal recessive brachyolmia	autosomalrecessivebrachyolmia	1
 symptomatic form of fragile X syndrome in female carrier	symptomaticformoffragileXsyndromeinfemalecarrier	1
 neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-hip dysplasia syndrome	neurodevelopmentaldisorder-craniofacialdysmorphism-cardiacdefect-hipdysplasiasyndrome	1
@@ -16523,7 +16377,6 @@ Waardenburg-Shah syndrome	Waardenburg-Shahsyndrome	1
 infantile Bartter syndrome with sensorineural deafness	infantileBarttersyndromewithsensorineuraldeafness	1
 hypotrichosis simplex of the scalp	hypotrichosissimplexofthescalp	1
 anonychia-onychodystrophy syndrome	anonychia-onychodystrophysyndrome	1
-46,XY disorder of sex development due to isolated 17,20-lyase deficiency	46,XYdisorderofsexdevelopmentduetoisolated17,20-lyasedeficiency	1
 TSH-secreting pituitary adenoma	TSH-secretingpituitaryadenoma	1
 isolated ankyloblepharon filiforme adnatum	isolatedankyloblepharonfiliformeadnatum	1
 isolated congenital alacrima	isolatedcongenitalalacrima	1
@@ -16696,7 +16549,6 @@ prostate phyllodes tumor	prostatephyllodestumor	1
 oocyte maturation defect 2	oocytematurationdefect2	1
 oocyte maturation defect 3	oocytematurationdefect3	1
 cervical aortic arch	cervicalaorticarch	1
-3 methylcrotonyl-coa carboxylase 1 deficiency	3methylcrotonyl-coacarboxylase1deficiency	1
 Dennis-Fairhurst-Moore syndrome	Dennis-Fairhurst-Mooresyndrome	1
 familial prostate cancer	familialprostatecancer	1
 Martinez Monasterio Pinheiro syndrome	MartinezMonasterioPinheirosyndrome	1
@@ -16718,7 +16570,6 @@ Diamond Blackfan anemia 15 with mandibulofacial dysostosis	DiamondBlackfananemia
 autosomal dominant mutilating palmoplantar keratoderma with periorificial keratotic plaques	autosomaldominantmutilatingpalmoplantarkeratodermawithperiorificialkeratoticplaques	1
 familial adult myoclonic epilepsy 7	familialadultmyoclonicepilepsy7	1
 human cytomegalovirus infection	humancytomegalovirusinfection	1
-46,XY sex reversal 7	46,XYsexreversal7	1
 GNE myopathy	GNEmyopathy	1
 X-linked deafness 3	X-linkeddeafness3	1
 autosomal recessive intellectual developmental disorder-72	autosomalrecessiveintellectualdevelopmentaldisorder-72	1
@@ -16742,24 +16593,19 @@ geleophysic dysplasia 3	geleophysicdysplasia3	1
 brittle cornea syndrome 2	brittlecorneasyndrome2	1
 autosomal recessive spinocerebellar ataxia 8	autosomalrecessivespinocerebellarataxia8	1
 gallbladder benign neoplasm	gallbladderbenignneoplasm	1
-46,XY sex reversal 9	46,XYsexreversal9	1
 severe congenital neutropenia 4	severecongenitalneutropenia4	1
 combined oxidative phosphorylation deficiency 32	combinedoxidativephosphorylationdeficiency32	1
-46,XY sex reversal 5	46,XYsexreversal5	1
 mucopolysaccharidosis type IIIA	mucopolysaccharidosistypeIIIA	1
 inclusion body myopathy with early-onset Paget disease of bone with or without frontotemporal dementia 2	inclusionbodymyopathywithearly-onsetPagetdiseaseofbonewithorwithoutfrontotemporaldementia2	1
 focal or diffuse nonepidermolytic palmoplantar keratoderma	focalordiffusenonepidermolyticpalmoplantarkeratoderma	1
-46,XY sex reversal 4	46,XYsexreversal4	1
 congenital nystagmus 4	congenitalnystagmus4	1
 congenital megabladder	congenitalmegabladder	1
-46,XY sex reversal 1	46,XYsexreversal1	1
 celery allergy	celeryallergy	1
 Fraser syndrome 2	Frasersyndrome2	1
 autosomal recessive nonsyndromic deafness 100	autosomalrecessivenonsyndromicdeafness100	1
 chronic spontaneous urticaria	chronicspontaneousurticaria	1
 X-linked chronic idiopathic intestinal pseudo-obstruction	X-linkedchronicidiopathicintestinalpseudo-obstruction	1
 spermatogenic failure 43	spermatogenicfailure43	1
-46,XX sex reversal 3	46,XXsexreversal3	1
 gnathodiaphyseal dysplasia	gnathodiaphysealdysplasia	1
 multiple epiphyseal dysplasia with myopia and deafness	multipleepiphysealdysplasiawithmyopiaanddeafness	1
 autosomal recessive nonsyndromic deafness 113	autosomalrecessivenonsyndromicdeafness113	1

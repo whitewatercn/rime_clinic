@@ -3,7 +3,6 @@
 .vscode/
 clinic_dicts/.tools/
 
-
 # rime工作目录
 build/
 sync/
@@ -12,12 +11,11 @@ installation.yaml
 user.yaml
 *.custom.yaml
 
-
 # 个人数据
 rime_frost.userdb/
 custom_phrase.txt
 
 # 不要排除
 !others/**/*.custom.yaml
-!rime_frost.custom.yaml_example
 !rime_frost_custom.dict.yaml_example
+!rime_frost.custom.yaml_example
