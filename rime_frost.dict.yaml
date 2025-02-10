@@ -3,7 +3,7 @@
 
 ---
 name: rime_frost
-version: "2023-11-13"
+version: "2025-02-10"
 import_tables:
   - cn_dicts/8105     # 字表
   - cn_dicts/41448  # 大字表（按需启用）
@@ -18,24 +18,24 @@ import_tables:
   - clinic_dicts/cn_dict/cn_anatomy
   - clinic_dicts/cn_dict/cn_clinic_dedulplicate
   - clinic_dicts/cn_dict/cn_medicine_list_tiny
-  - clinic_dicts/cn_dict/cn_respiratory
+  # - clinic_dicts/cn_dict/cn_respiratory
 
   # 其他词库
   - clinic_dicts/other_dict/number # 数字（罗马数字等
   # 细胞词库
-  - cn_dicts_cell/industry_product # 行业产品
-  - cn_dicts_cell/exthot # 网络热词
-  - cn_dicts_cell/animal # 动物词库
+  # - cn_dicts_cell/industry_product # 行业产品
+  # - cn_dicts_cell/exthot # 网络热词
+  # - cn_dicts_cell/animal # 动物词库
   # - cn_dicts_cell/game # 游戏词库
-  - cn_dicts_cell/idiom # 成语词库
-  - cn_dicts_cell/sport # 体育词库
-  - cn_dicts_cell/shulihua # 各学科术语词库
+  # - cn_dicts_cell/idiom # 成语词库
+  # - cn_dicts_cell/sport # 体育词库
+  # - cn_dicts_cell/shulihua # 各学科术语词库
   # - cn_dicts_cell/food # 食物词库
-  - cn_dicts_cell/history # 历史词库
-  - cn_dicts_cell/place   # 地名词库
-  - cn_dicts_cell/geography # 地理词库
-  - cn_dicts_cell/literature # 文学词库
-  - cn_dicts_cell/composite # 复合词库
+  # - cn_dicts_cell/history # 历史词库
+  # - cn_dicts_cell/place   # 地名词库
+  # - cn_dicts_cell/geography # 地理词库
+  # - cn_dicts_cell/literature # 文学词库
+  # - cn_dicts_cell/composite # 复合词库
 ...
 
 # 按需启用：
