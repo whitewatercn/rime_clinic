@@ -35,4 +35,6 @@ patch:
       # 翻页 [ ]
       # - { when: paging, accept: bracketleft, send: Page_Up }
       # - { when: has_menu, accept: bracketright, send: Page_Down }
+  translator:
+    dictionary: rime_frost_custom        # 挂载词库 rime_frost.dict.yaml
 
