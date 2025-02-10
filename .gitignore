@@ -10,9 +10,11 @@ sync/
 *.userdb/
 installation.yaml
 user.yaml
-*.custom.yaml
+
 !others/**/*.custom.yaml
 
 # 个人数据
 rime_frost.userdb/
 custom_phrase.txt
+
+*custom*

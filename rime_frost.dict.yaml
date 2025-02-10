@@ -18,11 +18,8 @@ import_tables:
   - clinic_dicts/cn_dict/cn_anatomy
   - clinic_dicts/cn_dict/cn_clinic_dedulplicate
   - clinic_dicts/cn_dict/cn_medicine_list_tiny
-  # 英文词库
-  # - clinic_dicts/en_dict/en_disease  # 英语疾病
-  # - clinic_dicts/en_dict/en_medical_speciality # 英语医学专业
-  # - clinic_dicts/en_dict/en_anatomy # 英语解剖学
-  # - clinic_dicts/en_dict/en_medication # 英语药物
+  - clinic_dicts/cn_dict/cn_respiratory
+
   # 其他词库
   - clinic_dicts/other_dict/number # 数字（罗马数字等
   # 细胞词库
