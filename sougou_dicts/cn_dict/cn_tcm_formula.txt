@@ -1,110 +1,110 @@
 # 生成工具 https://github.com/whitewatercn/rimetool
-# 生成时间 2025-02-18_11-10-13
+# 生成时间 2025-02-18_11-22-32
 ---
-'gui'zhi'tang 桂枝汤
-'gui'zhi'jia'gui'tang 桂枝加桂汤
-'gui'zhi'jia'shao'yao'tang 桂枝加芍药汤
-'gui'zhi'jia'dai'huang'tang 桂枝加大黄汤
-'gui'zhi'jia'hou'po'xing'zi'tang 桂枝加厚朴杏子汤
-'gui'zhi'jia'fu'zi'tang 桂枝加附子汤
-'gua'zhi'qu'shao'yao'tang 挂枝去芍药汤
-'gui'zhi'qu'shao'yao'jia'fu'zi'tang 桂枝去芍药加附子汤
-'gui'zhi'qu'shao'yao'jia'shu'qi'mu'li'long'gu'jiu'ni'tang 桂枝去芍药加蜀漆牡蛎龙骨救逆汤
-'gui'zhi'gan'cao'long'gu'mu'li'tang 桂枝甘草龙骨牡蛎汤
-'gui'zhi'ren'shen'tang 桂枝人参汤
-'gui'zhi'fu'zi'tang 桂枝附子汤
-'gui'zhi'qu'gui'jia'fu'ling'bai'shu'tang 桂枝去桂加茯苓白朮汤
-'gui'zhi'jia'shao'yao'sheng'jiang'ge'yi'liang'ren'shen'san'liang'xin'jia'tang 桂枝加芍药生姜各一两人参三两新加汤
-'ma'huang'tang 麻黄汤
-'da'qing'long'tang 大青龙汤
-'xiao'qing'long'tang 小青龙汤
-'gui'zhi'ma'huang'ge'ban'tang 桂枝麻黄各半汤
-'gui'zhi'er'ma'huang'yi'tang 桂枝二麻黄一汤
-'gui'zhi'er'yue'bi'yi'tang 桂枝二越婢一汤
-'ma'huang'xi'xin'fu'zi'tang 麻黄细辛附子汤
-'ma'huang'fu'zi'gan'cao'tang 麻黄附子甘草汤
-'ma'huang'xing'ren'gan'cao'shi'gao'tang 麻黄杏仁甘草石膏汤
-'ma'huang'lian'yao'chi'xiao'dou'tang 麻黄连轺赤小豆汤
-'ge'gen'tang 葛根汤
-'ge'gen'jia'ban'xia'tang 葛根加半夏汤
-'ge'gen'huang'qin'huang'lian'tang 葛根黄芩黄连汤
-'gui'zhi'jia'ge'gen'tang 桂枝加葛根汤
-'bai'hu'tang 白虎汤
-'bai'hu'jia'ren'shen'tang 白虎加人参汤
-'zhu'ye'shi'gao'tang 竹叶石膏汤
-'diao'wei'cheng'qi'tang 调胃承气汤
-'xiao'cheng'qi'tang 小承气汤
-'tao'he'cheng'qi'tang 桃核承气汤
-'di'dang'tang 抵当汤
-'da'xian'xiong'tang 大陷胸汤
-'xiao'xian'xiong'tang 小陷胸汤
-'shi'zao'tang 十枣汤
-'zhi'zi'shi'tang 栀子豉汤
-'zhi'zi'gan'cao'shi'tang 栀子甘草豉汤
-'zhi'zi'sheng'jiang'gu'tang 栀子生姜鼓汤
-'zhi'zi'hou'po'tang 栀子厚朴汤
-'zhi'zi'gan'jiang'tang 栀子干姜汤
-'zhi'zi'bai'pi'tang 栀子柏皮汤
-'yin'chen'hao'tang 茵陈蒿汤
-'zhi'shi'zhi'zi'shi'tang 枳实栀子豉汤
-'xiao'chai'hu'tang 小柴胡汤
-'da'chai'hu'tang 大柴胡汤
-'chai'hu'jia'mang'xiao'tang 柴胡加芒硝汤
-'chai'hu'gui'zhi'tang 柴胡桂枝汤
-'chai'hu'gui'zhi'gan'jiang'tang 柴胡桂枝干姜汤
-'chai'hu'jia'long'gu'mu'li'tang 柴胡加龙骨牡蛎汤
-'huang'qin'tang 黄芩汤
-'huang'qin'jia'ban'xia'sheng'jiang'tang 黄芩加半夏生姜汤
-'dai'huang'huang'lian'xie'xin'tang 大黄黄连泻心汤
-'fu'zi'xie'xin'tang 附子泻心汤
-'gan'cao'xie'xin'tang 甘草泻心汤
-'ban'xia'xie'xin'tang 半夏泻心汤
-'sheng'jiang'xie'xin'tang 生姜泻心汤
-'gan'jiang'huang'qin'huang'lian'ren'shen'tang 干姜黄芩黄连人参汤
-'huang'lian'tang 黄连汤
-'xuan'fu'dai'zhe'tang 旋复代赭汤
-'si'ni'tang 四逆汤
-'tong'mai'si'ni'tang 通脉四逆汤
-'tong'mai'si'ni'jia'zhu'dan'zhi'tang 通脉四逆加猪胆汁汤
-'gan'jiang'fu'zi'tang 干姜附子汤
-'si'ni'jia'ren'shen'tang 四逆加人参汤
-'fu'ling'si'ni'tang 茯苓四逆汤
-'si'ni'jia'ren'shen'tang 四逆加人参汤
-'fu'zi'tang 附子汤
-'zhen'wu'tang 真武汤
-'bai'tong'tang 白通汤
-'dang'gui'si'ni'tang 当归四逆汤
-'dang'gui'si'ni'jia'wu'zhu'yu'sheng'jiang'tang 当归四逆加吴茱萸生姜汤
-'gan'cao'tang 甘草汤
-'jie'geng'tang 桔梗汤
-'gui'zhi'gan'cao'tang 桂枝甘草汤
-'gan'cao'gan'jiang'tang 甘草干姜汤
-'shao'yao'gan'cao'tang 芍药甘草汤
-'shao'yao'gan'cao'fu'zi'tang 芍药甘草附子汤
-'fu'ling'gan'cao'tang 茯苓甘草汤
-'fu'ling'gui'zhi'gan'cao'da'zao'tang 茯苓桂枝甘草大枣汤
-'fu'ling'gui'zhi'bai'shu'gan'cao'tang 茯苓桂枝白朮甘草汤
-'hou'po'sheng'jiang'ban'xia'gan'cao'ren'shen'tang 厚朴生姜半夏甘草人参汤
-'xiao'jian'zhong'tang 小建中汤
-'zhi'gan'cao'tang 炙甘草汤
-'li'zhong'wan 理中丸
-'wu'mei'wan 乌梅丸
-'mi'jian'dao 蜜煎导
-'di'dang'wan 抵当丸
-'da'xian'xiong'wan 大陷胸丸
-'wu'ling'san 五苓散
-'wen'ge'san 文蛤散
-'bai'san 白散
-'ban'xia'san'ji'tang 半夏散及汤
-'gua'di'san 瓜蒂散
-'mu'li'ze'xie'san 牡蛎泽泻散
-'shao'kun'san 烧褌散
-'chi'shi'zhi'yu'yu'liang'tang 赤石脂禹余粮汤
-'tao'hua'tang 桃花汤
-'zhu'ling'tang 猪苓汤
-'wu'lai'yu'tang 吴莱萸汤
-'ma'huang'sheng'ma'tang 麻黄升麻汤
-'huang'lian'e'jiao'tang 黄连阿胶汤
-'ku'jiu'tang 苦酒汤
-'zhu'fu'tang 猪肤汤
-'bai'tou'weng'tang 白头翁汤
+桂枝汤
+桂枝加桂汤
+桂枝加芍药汤
+桂枝加大黄汤
+桂枝加厚朴杏子汤
+桂枝加附子汤
+挂枝去芍药汤
+桂枝去芍药加附子汤
+桂枝去芍药加蜀漆牡蛎龙骨救逆汤
+桂枝甘草龙骨牡蛎汤
+桂枝人参汤
+桂枝附子汤
+桂枝去桂加茯苓白朮汤
+桂枝加芍药生姜各一两人参三两新加汤
+麻黄汤
+大青龙汤
+小青龙汤
+桂枝麻黄各半汤
+桂枝二麻黄一汤
+桂枝二越婢一汤
+麻黄细辛附子汤
+麻黄附子甘草汤
+麻黄杏仁甘草石膏汤
+麻黄连轺赤小豆汤
+葛根汤
+葛根加半夏汤
+葛根黄芩黄连汤
+桂枝加葛根汤
+白虎汤
+白虎加人参汤
+竹叶石膏汤
+调胃承气汤
+小承气汤
+桃核承气汤
+抵当汤
+大陷胸汤
+小陷胸汤
+十枣汤
+栀子豉汤
+栀子甘草豉汤
+栀子生姜鼓汤
+栀子厚朴汤
+栀子干姜汤
+栀子柏皮汤
+茵陈蒿汤
+枳实栀子豉汤
+小柴胡汤
+大柴胡汤
+柴胡加芒硝汤
+柴胡桂枝汤
+柴胡桂枝干姜汤
+柴胡加龙骨牡蛎汤
+黄芩汤
+黄芩加半夏生姜汤
+大黄黄连泻心汤
+附子泻心汤
+甘草泻心汤
+半夏泻心汤
+生姜泻心汤
+干姜黄芩黄连人参汤
+黄连汤
+旋复代赭汤
+四逆汤
+通脉四逆汤
+通脉四逆加猪胆汁汤
+干姜附子汤
+四逆加人参汤
+茯苓四逆汤
+四逆加人参汤
+附子汤
+真武汤
+白通汤
+当归四逆汤
+当归四逆加吴茱萸生姜汤
+甘草汤
+桔梗汤
+桂枝甘草汤
+甘草干姜汤
+芍药甘草汤
+芍药甘草附子汤
+茯苓甘草汤
+茯苓桂枝甘草大枣汤
+茯苓桂枝白朮甘草汤
+厚朴生姜半夏甘草人参汤
+小建中汤
+炙甘草汤
+理中丸
+乌梅丸
+蜜煎导
+抵当丸
+大陷胸丸
+五苓散
+文蛤散
+白散
+半夏散及汤
+瓜蒂散
+牡蛎泽泻散
+烧褌散
+赤石脂禹余粮汤
+桃花汤
+猪苓汤
+吴莱萸汤
+麻黄升麻汤
+黄连阿胶汤
+苦酒汤
+猪肤汤
+白头翁汤

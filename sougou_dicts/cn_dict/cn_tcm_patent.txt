@@ -1,50 +1,50 @@
 # 生成工具 https://github.com/whitewatercn/rimetool
-# 生成时间 2025-02-18_11-10-13
+# 生成时间 2025-02-18_11-22-33
 ---
-'shao'fu'zhu'yu'jiao'nang 少腹逐瘀胶囊
-'shao'fu'zhu'yu'ke'li 少腹逐瘀颗粒
-'shao'fu'zhu'yu'tang 少腹逐瘀汤
-'shao'fu'zhu'yu'wan 少腹逐瘀丸
-'shao'lin'die'da'zhi'tong 少林跌打止痛
-'shao'lin'die'da'zhi'tong'gao 少林跌打止痛膏
-'shao'lin'feng'shi'die'da 少林风湿跌打
-'shao'lin'feng'shi'die'da'ba'bu'gao 少林风湿跌打巴布膏
-'shao'lin'feng'shi'die'da'gao 少林风湿跌打膏
-'shao'lin'qu'feng'zhi'tong'san 少林祛风止痛散
-'shao'fu'qu'yu'wan 少腹祛瘀丸
-'shao'fu'zhu'yu 少腹逐瘀
-'shao'lin'zheng'gu 少林正骨
-'shao'lin'zheng'gu'jing 少林正骨精
-'shao'bei 芍倍
-'shao'bei'zhu'she'ye 芍倍注射液
-'she'dan'ban'xia 蛇胆半夏
-'she'dan'ban'xia'pian 蛇胆半夏片
-'she'dan'ban'xia'san 蛇胆半夏散
-'she'dan'bei'mu 蛇胆贝母
-'she'dan'bei'mu'pian 蛇胆贝母片
-'she'dan'bei'mu'san 蛇胆贝母散
-'she'dan'chen'pi 蛇胆陈皮
-'she'dan'chen'pi'hua'tan 蛇胆陈皮化痰
-'she'dan'chen'pi'hua'tan'san 蛇胆陈皮化痰散
-'she'dan'chen'pi'jiao'nang 蛇胆陈皮胶囊
-'she'dan'chen'pi'kou'fu'ye 蛇胆陈皮口服液
-'she'dan'chen'pi'pian 蛇胆陈皮片
-'she'dan'chen'pi'san 蛇胆陈皮散
-'she'dan'chen'pi'ye 蛇胆陈皮液
-'she'dan'chuan'bei 蛇胆川贝
-'she'dan'chuan'bei'han'pian 蛇胆川贝含片
-'she'dan'chuan'bei'jiao'nang 蛇胆川贝胶囊
-'she'dan'chuan'bei'kou'fu'ye 蛇胆川贝口服液
-'she'dan'chuan'bei'pi'pa 蛇胆川贝枇杷
-'she'dan'chuan'bei'pi'pa'gao 蛇胆川贝枇杷膏
-'she'dan'chuan'bei'ruan'jiao'nang 蛇胆川贝软胶囊
-'she'dan'chuan'bei'san 蛇胆川贝散
-'she'dan'chuan'bei'tang'jiang 蛇胆川贝糖浆
-'she'dan'chuan'bei'ye 蛇胆川贝液
-'she'dan'chuan'ye 蛇胆川液
-'she'dan'jiang'li 蛇胆姜粒
-'she'dan'nan'xing'pian 蛇胆南星片
-'she'dan'nan'xing'san 蛇胆南星散
-'she'dan'zhi 蛇胆汁
-'she'dan'zhui'feng 蛇胆追风
-'she'dan'zhui'feng'wan 蛇胆追风丸
+少腹逐瘀胶囊
+少腹逐瘀颗粒
+少腹逐瘀汤
+少腹逐瘀丸
+少林跌打止痛
+少林跌打止痛膏
+少林风湿跌打
+少林风湿跌打巴布膏
+少林风湿跌打膏
+少林祛风止痛散
+少腹祛瘀丸
+少腹逐瘀
+少林正骨
+少林正骨精
+芍倍
+芍倍注射液
+蛇胆半夏
+蛇胆半夏片
+蛇胆半夏散
+蛇胆贝母
+蛇胆贝母片
+蛇胆贝母散
+蛇胆陈皮
+蛇胆陈皮化痰
+蛇胆陈皮化痰散
+蛇胆陈皮胶囊
+蛇胆陈皮口服液
+蛇胆陈皮片
+蛇胆陈皮散
+蛇胆陈皮液
+蛇胆川贝
+蛇胆川贝含片
+蛇胆川贝胶囊
+蛇胆川贝口服液
+蛇胆川贝枇杷
+蛇胆川贝枇杷膏
+蛇胆川贝软胶囊
+蛇胆川贝散
+蛇胆川贝糖浆
+蛇胆川贝液
+蛇胆川液
+蛇胆姜粒
+蛇胆南星片
+蛇胆南星散
+蛇胆汁
+蛇胆追风
+蛇胆追风丸

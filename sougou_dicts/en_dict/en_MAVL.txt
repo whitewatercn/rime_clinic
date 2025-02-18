@@ -1,1636 +1,1636 @@
 # 生成工具 https://github.com/whitewatercn/rimetool
-# 生成时间 2025-02-18_11-10-14
+# 生成时间 2025-02-18_11-22-33
 ---
-'abdominal abdominal
-'ability ability
-'abilities abilities
-'abnormal abnormal
-'abnormality abnormality
-'abnormalities abnormalities
-'absence absence
-'absences absences
-'absent absent
-'absolute absolute
-'absorption absorption
-'absorptions absorptions
-'accord accord
-'accorded accorded
-'according according
-'accords accords
-'accumulate accumulate
-'accumulated accumulated
-'accumulates accumulates
-'accumulating accumulating
-'accumulation accumulation
-'accumulations accumulations
-'accuracy accuracy
-'accuracies accuracies
-'accurate accurate
-'accurately accurately
-'acid acid
-'acids acids
-'acquire acquire
-'acquired acquired
-'acquires acquires
-'acquiring acquiring
-'activate activate
-'activated activated
-'activates activates
-'activating activating
-'activation activation
-'active active
-'activity activity
-'activities activities
-'acute acute
-'adequate adequate
-'adequately adequately
-'adjacent adjacent
-'adjust adjust
-'adjusted adjusted
-'adjusting adjusting
-'adjusts adjusts
-'administer administer
-'administered administered
-'administering administering
-'administers administers
-'administration administration
-'administrations administrations
-'admission admission
-'admissions admissions
-'adult adult
-'adults adults
-'advance advance
-'advanced advanced
-'advances advances
-'advancing advancing
-'adverse adverse
-'affect affect
-'affected affected
-'affecting affecting
-'affects affects
-'age age
-'ages ages
-'aged aged
-'agent agent
-'agents agents
-'aggressive aggressive
-'agonist agonist
-'agonists agonists
-'albumin albumin
-'albumins albumins
-'alter alter
-'altered altered
-'altering altering
-'alters alters
-'alteration alteration
-'alterations alterations
-'alternatively alternatively
-'analysis analysis
-'analyses analyses
-'animal animal
-'animals animals
-'antagonist antagonist
-'antagonists antagonists
-'anterior anterior
-'antiinflammatory antiinflammatory
-'antibiotic antibiotic
-'antibiotics antibiotics
-'antibody antibody
-'antibodies antibodies
-'anxiety anxiety
-'anxieties anxieties
-'apoptosis apoptosis
-'approach approach
-'approaches approaches
-'appropriate appropriate
-'arrest arrest
-'arrested arrested
-'arresting arresting
-'arrests arrests
-'arterial arterial
-'artery artery
-'arteries arteries
-'assay assay
-'assays assays
-'assess assess
-'assessed assessed
-'assesses assesses
-'assessing assessing
-'assessment assessment
-'assessments assessments
-'associate associate
-'associated associated
-'associates associates
-'associating associating
-'association association
-'associations associations
-'asymptomatic asymptomatic
-'attributable attributable
-'attribute attribute
-'attributed attributed
-'attributes attributes
-'attributing attributing
-'availability availability
-'availabilities availabilities
-'average average
-'averages averages
-'axis axis
-'bacterial bacterial
-'barrier barrier
-'barriers barriers
-'basal basal
-'base base
-'based based
-'bases bases
-'basing basing
-'baseline baseline
-'baselines baselines
-'beneficial beneficial
-'benefit benefit
-'benefits benefits
-'benign benign
-'best best
-'bind bind
-'binding binding
-'binds binds
-'bound bound
-'bindings bindings
-'biochemical biochemical
-'biological biological
-'biology biology
-'biopsy biopsy
-'biopsies biopsies
-'bleeding bleeding
-'bleedings bleedings
-'block block
-'blocked blocked
-'blocking blocking
-'blocks blocks
-'blood blood
-'bowel bowel
-'bowels bowels
-'brain brain
-'brains brains
-'burden burden
-'burdens burdens
-'cancer cancer
-'cancers cancers
-'carcinoma carcinoma
-'carcinomas carcinomas
-'cardiac cardiac
-'cardiovascular cardiovascular
-'care care
-'cares cares
-'carrier carrier
-'carriers carriers
-'case case
-'cases cases
-'category category
-'categories categories
-'cause cause
-'causes causes
-'caused caused
-'causing causing
-'cell cell
-'cells cells
-'cellular cellular
-'cerebral cerebral
-'change change
-'changes changes
-'characterise characterise
-'characterised characterised
-'characterises characterises
-'characterising characterising
-'characterize characterize
-'characterized characterized
-'characterizes characterizes
-'characterizing characterizing
-'characteristic characteristic
-'characteristics characteristics
-'chest chest
-'chests chests
-'childhood childhood
-'childhoods childhoods
-'chronic chronic
-'circulate circulate
-'circulated circulated
-'circulates circulates
-'circulating circulating
-'circulation circulation
-'circulations circulations
-'classification classification
-'classifications classifications
-'classify classify
-'classified classified
-'classifies classifies
-'classifying classifying
-'clearance clearance
-'clearances clearances
-'clinic clinic
-'clinics clinics
-'clinical clinical
-'clinically clinically
-'clinician clinician
-'clinicians clinicians
-'cluster cluster
-'clusters clusters
-'code code
-'coded coded
-'codes codes
-'coding coding
-'cognitive cognitive
-'cohort cohort
-'cohorts cohorts
-'collect collect
-'collected collected
-'collecting collecting
-'collects collects
-'collection collection
-'collections collections
-'combination combination
-'combinations combinations
-'combine combine
-'combined combined
-'combines combines
-'combining combining
-'common common
-'commonly commonly
-'comparable comparable
-'compartment compartment
-'compartments compartments
-'complete complete
-'completed completed
-'completes completes
-'completing completing
-'complex complex
-'complexes complexes
-'compliance compliance
-'compliances compliances
-'complication complication
-'complications complications
-'component component
-'components components
-'compose compose
-'composed composed
-'composes composes
-'composing composing
-'compound compound
-'compounds compounds
-'compromise compromise
-'compromised compromised
-'compromises compromises
-'compromising compromising
-'compromize compromize
-'compromized compromized
-'compromizes compromizes
-'compromizing compromizing
-'compute compute
-'computed computed
-'computes computes
-'computing computing
-'concentration concentration
-'concentrations concentrations
-'concomitant concomitant
-'condition condition
-'conditions conditions
-'conduct conduct
-'conducted conducted
-'conducting conducting
-'conducts conducts
-'confer confer
-'confering confering
-'conferred conferred
-'conferring conferring
-'confers confers
-'confirm confirm
-'confirmed confirmed
-'confirming confirming
-'confirms confirms
-'consensus consensus
-'consumption consumption
-'consumptions consumptions
-'content content
-'contents contents
-'continuous continuous
-'contrast contrast
-'contrasts contrasts
-'control control
-'controls controls
-'controlled controlled
-'controlling controlling
-'controversial controversial
-'conversely conversely
-'conversion conversion
-'conversions conversions
-'core core
-'cores cores
-'correct correct
-'corrected corrected
-'correcting correcting
-'corrects corrects
-'correction correction
-'corrections corrections
-'correlate correlate
-'correlated correlated
-'correlates correlates
-'correlating correlating
-'correlation correlation
-'correlations correlations
-'count count
-'counts counts
-'creatinine creatinine
-'criterion criterion
-'criteria criteria
-'criterions criterions
-'critical critical
-'culture culture
-'cultures cultures
-'current current
-'curve curve
-'curves curves
-'cycle cycle
-'cycles cycles
-'cytokine cytokine
-'cytokines cytokines
-'damage damage
-'damages damages
-'datum datum
-'datums datums
-'death death
-'deaths deaths
-'decrease decrease
-'decreases decreases
-'decreased decreased
-'decreasing decreasing
-'defect defect
-'defects defects
-'deficiency deficiency
-'deficiencies deficiencies
-'define define
-'defined defined
-'defines defines
-'defining defining
-'definition definition
-'definitions definitions
-'definitive definitive
-'delay delay
-'delays delays
-'delayed delayed
-'delaying delaying
-'delivery delivery
-'deliveries deliveries
-'demonstrate demonstrate
-'demonstrated demonstrated
-'demonstrates demonstrates
-'demonstrating demonstrating
-'density density
-'densities densities
-'dependence dependence
-'dependences dependences
-'dependent dependent
-'derive derive
-'derived derived
-'derives derives
-'deriving deriving
-'detect detect
-'detected detected
-'detecting detecting
-'detects detects
-'detectable detectable
-'detection detection
-'detections detections
-'determinant determinant
-'determinants determinants
-'determination determination
-'determinations determinations
-'determine determine
-'determined determined
-'determines determines
-'determining determining
-'develop develop
-'developed developed
-'developing developing
-'develops develops
-'deviation deviation
-'deviations deviations
-'device device
-'devices devices
-'diabetes diabetes
-'diagnose diagnose
-'diagnosed diagnosed
-'diagnoses diagnoses
-'diagnosing diagnosing
-'diagnosis diagnosis
-'diagnostic diagnostic
-'diameter diameter
-'diameters diameters
-'diet diet
-'diets diets
-'differential differential
-'differentiate differentiate
-'differentiated differentiated
-'differentiates differentiates
-'differentiating differentiating
-'differentiation differentiation
-'differentiations differentiations
-'diffuse diffuse
-'diminish diminish
-'diminished diminished
-'diminishes diminishes
-'diminishing diminishing
-'disability disability
-'disabilities disabilities
-'discharge discharge
-'discharges discharges
-'discontinue discontinue
-'discontinued discontinued
-'discontinues discontinues
-'discontinuing discontinuing
-'disease disease
-'diseases diseases
-'disorder disorder
-'disorders disorders
-'distal distal
-'distinguish distinguish
-'distinguished distinguished
-'distinguishes distinguishes
-'distinguishing distinguishing
-'distress distress
-'distresses distresses
-'distribution distribution
-'distributions distributions
-'divide divide
-'divided divided
-'divides divides
-'dividing dividing
-'document document
-'documented documented
-'documenting documenting
-'documents documents
-'domain domain
-'domains domains
-'dosage dosage
-'dosages dosages
-'dose dose
-'doses doses
-'drug drug
-'drugs drugs
-'due due
-'duration duration
-'durations durations
-'dysfunction dysfunction
-'dysfunctions dysfunctions
-'effect effect
-'effects effects
-'effective effective
-'effectiveness effectiveness
-'efficacy efficacy
-'efficacies efficacies
-'elderly elderly
-'elevated elevated
-'elevation elevation
-'elevations elevations
-'elicit elicit
-'elicited elicited
-'eliciting eliciting
-'elicits elicits
-'eliminate eliminate
-'eliminated eliminated
-'eliminates eliminates
-'eliminating eliminating
-'emphasise emphasise
-'emphasised emphasised
-'emphasises emphasises
-'emphasising emphasising
-'emphasize emphasize
-'emphasized emphasized
-'emphasizes emphasizes
-'emphasizing emphasizing
-'empirical empirical
-'encode encode
-'encoded encoded
-'encodes encodes
-'encoding encoding
-'endogenous endogenous
-'endothelial endothelial
-'enhance enhance
-'enhanced enhanced
-'enhances enhances
-'enhancing enhancing
-'entity entity
-'entities entities
-'enzyme enzyme
-'enzymes enzymes
-'epidemiological epidemiological
-'epidemiology epidemiology
-'episode episode
-'episodes episodes
-'equivalent equivalent
-'error error
-'errors errors
-'established established
-'evaluation evaluation
-'evaluations evaluations
-'event event
-'events events
-'evidence evidence
-'evident evident
-'evolve evolve
-'evolved evolved
-'evolves evolves
-'evolving evolving
-'exact exact
-'examination examination
-'examinations examinations
-'examine examine
-'examined examined
-'examines examines
-'examining examining
-'exceed exceed
-'exceeded exceeded
-'exceeding exceeding
-'exceeds exceeds
-'excess excess
-'excessive excessive
-'exclude exclude
-'excluded excluded
-'excludes excludes
-'excluding excluding
-'exclusion exclusion
-'exclusions exclusions
-'exercise exercise
-'exercises exercises
-'exert exert
-'exerted exerted
-'exerting exerting
-'exerts exerts
-'exhibit exhibit
-'exhibited exhibited
-'exhibiting exhibiting
-'exhibits exhibits
-'experience experience
-'experienced experienced
-'experiences experiences
-'experiencing experiencing
-'experiment experiment
-'experiments experiments
-'experimental experimental
-'expose expose
-'exposed exposed
-'exposes exposes
-'exposing exposing
-'exposure exposure
-'exposures exposures
-'express express
-'expressed expressed
-'expresses expresses
-'expressing expressing
-'expression expression
-'expressions expressions
-'extension extension
-'extensions extensions
-'extensive extensive
-'external external
-'extracellular extracellular
-'facilitate facilitate
-'facilitated facilitated
-'facilitates facilitates
-'facilitating facilitating
-'factor factor
-'factors factors
-'failure failure
-'failures failures
-'false false
-'familial familial
-'fatigue fatigue
-'female female
-'females females
-'fever fever
-'fevers fevers
-'fig fig.
-'flow flow
-'flows flows
-'fluid fluid
-'fluids fluids
-'focal focal
-'focus focus
-'foci foci
-'focuses focuses
-'focused focused
-'focusing focusing
-'focussed focussed
-'focussing focussing
-'foetal foetal
-'followup follow-up
-'formation formation
-'formations formations
-'fraction fraction
-'fractions fractions
-'fragment fragment
-'fragments fragments
-'frequency frequency
-'frequencies frequencies
-'frequent frequent
-'function function
-'functions functions
-'functioned functioned
-'functioning functioning
-'functional functional
-'gain gain
-'gains gains
-'gastrointestinal gastrointestinal
-'gene gene
-'genes genes
-'generalise generalise
-'generalised generalised
-'generalises generalises
-'generalising generalising
-'generalize generalize
-'generalized generalized
-'generalizes generalizes
-'generalizing generalizing
-'generate generate
-'generated generated
-'generates generates
-'generating generating
-'genetic genetic
-'genome genome
-'genomes genomes
-'genotype genotype
-'genotypes genotypes
-'global global
-'glucose glucose
-'grade grade
-'grades grades
-'greatest greatest
-'group group
-'groups groups
-'growth growth
-'growths growths
-'guide guide
-'guided guided
-'guides guides
-'guiding guiding
-'guideline guideline
-'guidelines guidelines
-'hazard hazard
-'hazards hazards
-'healing healing
-'health health
-'healthy healthy
-'height height
-'heights heights
-'heterogeneous heterogeneous
-'highrisk high-risk
-'high high
-'histological histological
-'history history
-'histories histories
-'hormone hormone
-'hormones hormones
-'hospital hospital
-'hospitals hospitals
-'host host
-'hosts hosts
-'human human
-'humans humans
-'hypertension hypertension
-'hypothesis hypothesis
-'hypotheses hypotheses
-'identical identical
-'identification identification
-'identifications identifications
-'identify identify
-'identified identified
-'identifies identifies
-'identifying identifying
-'illness illness
-'illnesses illnesses
-'image image
-'images images
-'imaging imaging
-'imagings imagings
-'immune immune
-'immunosuppressive immunosuppressive
-'impaired impaired
-'implicate implicate
-'implicated implicated
-'implicates implicates
-'implicating implicating
-'inability inability
-'inabilities inabilities
-'inadequate inadequate
-'incidence incidence
-'incidences incidences
-'include include
-'included included
-'includes includes
-'including including
-'inclusion inclusion
-'inclusions inclusions
-'incomplete incomplete
-'incubation incubation
-'incubations incubations
-'index index
-'indexes indexes
-'indices indices
-'indicate indicate
-'indicated indicated
-'indicates indicates
-'indicating indicating
-'indication indication
-'indications indications
-'indicator indicator
-'indicators indicators
-'indirect indirect
-'individual individual
-'individuals individuals
-'induce induce
-'induced induced
-'induces induces
-'inducing inducing
-'induction induction
-'inductions inductions
-'infection infection
-'infections infections
-'infectious infectious
-'inferior inferior
-'inflammation inflammation
-'inflammations inflammations
-'inflammatory inflammatory
-'infusion infusion
-'infusions infusions
-'inhibit inhibit
-'inhibited inhibited
-'inhibiting inhibiting
-'inhibits inhibits
-'inhibition inhibition
-'inhibitions inhibitions
-'inhibitor inhibitor
-'inhibitors inhibitors
-'inhibitory inhibitory
-'initial initial
-'initially initially
-'initiate initiate
-'initiated initiated
-'initiates initiates
-'initiating initiating
-'initiation initiation
-'initiations initiations
-'inject inject
-'injected injected
-'injecting injecting
-'injects injects
-'injection injection
-'injections injections
-'injury injury
-'injuries injuries
-'insert insert
-'inserted inserted
-'inserting inserting
-'inserts inserts
-'insertion insertion
-'insertions insertions
-'instability instability
-'instabilities instabilities
-'insufficient insufficient
-'insulin insulin
-'insulins insulins
-'intact intact
-'intake intake
-'intakes intakes
-'intensity intensity
-'intensities intensities
-'intensive intensive
-'interact interact
-'interacted interacted
-'interacting interacting
-'interacts interacts
-'interaction interaction
-'interactions interactions
-'interfere interfere
-'interfered interfered
-'interferes interferes
-'interfering interfering
-'intermediate intermediate
-'internal internal
-'interpret interpret
-'interpreted interpreted
-'interpreting interpreting
-'interprets interprets
-'interpretation interpretation
-'interpretations interpretations
-'interval interval
-'intervals intervals
-'intervention intervention
-'interventions interventions
-'intestinal intestinal
-'intracellular intracellular
-'intravenous intravenous
-'intrinsic intrinsic
-'introduction introduction
-'introductions introductions
-'invasive invasive
-'investigator investigator
-'investigators investigators
-'involve involve
-'involved involved
-'involves involves
-'involving involving
-'involvement involvement
-'involvements involvements
-'isolate isolate
-'isolated isolated
-'isolates isolates
-'isolating isolating
-'isolation isolation
-'isolations isolations
-'kidney kidney
-'kidneys kidneys
-'kinase kinase
-'kinases kinases
-'known known
-'label label
-'labeled labeled
-'labeling labeling
-'labelled labelled
-'labelling labelling
-'labels labels
-'laboratory laboratory
-'laboratories laboratories
-'lateral lateral
-'layer layer
-'layers layers
-'lead lead
-'leading leading
-'leads leads
-'led led
-'least least
-'left left
-'length length
-'lengths lengths
-'lesion lesion
-'lesions lesions
-'level level
-'levels levels
-'likelihood likelihood
-'likelihoods likelihoods
-'limb limb
-'limbs limbs
-'limit limit
-'limited limited
-'limiting limiting
-'limits limits
-'limitation limitation
-'limitations limitations
-'linear linear
-'linkage linkage
-'linkages linkages
-'load load
-'loads loads
-'localised localised
-'locally locally
-'located located
-'loss loss
-'losses losses
-'low low
-'lower lower
-'lowered lowered
-'lowering lowering
-'lowers lowers
-'lung lung
-'lungs lungs
-'lymphocyte lymphocyte
-'lymphocytes lymphocytes
-'macrophage macrophage
-'macrophages macrophages
-'magnetic magnetic
-'maintenance maintenance
-'major major
-'majority majority
-'majorities majorities
-'male male
-'males males
-'malignancy malignancy
-'malignancies malignancies
-'manifestation manifestation
-'manifestations manifestations
-'margin margin
-'margins margins
-'marked marked
-'markedly markedly
-'marker marker
-'markers markers
-'mass mass
-'masses masses
-'matrix matrix
-'matrices matrices
-'matrixes matrixes
-'maximal maximal
-'maximum maximum
-'maxima maxima
-'maximums maximums
-'mean mean
-'means means
-'measure measure
-'measures measures
-'measured measured
-'measuring measuring
-'measurement measurement
-'measurements measurements
-'mechanical mechanical
-'mechanism mechanism
-'mechanisms mechanisms
-'median median
-'mediate mediate
-'mediated mediated
-'mediates mediates
-'mediating mediating
-'mediator mediator
-'mediators mediators
-'medical medical
-'medication medication
-'medications medications
-'medicine medicine
-'medicines medicines
-'medium medium
-'mediums mediums
-'mellitus mellitus
-'membrane membrane
-'membranes membranes
-'mental mental
-'metaanalysis meta-analysis
-'metabolic metabolic
-'metabolism metabolism
-'metabolisms metabolisms
-'method method
-'methods methods
-'migration migration
-'migrations migrations
-'mild mild
-'minimal minimal
-'minimise minimise
-'minimised minimised
-'minimises minimises
-'minimising minimising
-'minimize minimize
-'minimized minimized
-'minimizes minimizes
-'minimizing minimizing
-'minor minor
-'mixed mixed
-'modality modality
-'modalities modalities
-'model model
-'models models
-'moderate moderate
-'moderately moderately
-'modest modest
-'modification modification
-'modifications modifications
-'modify modify
-'modified modified
-'modifies modifies
-'modifying modifying
-'molecular molecular
-'molecule molecule
-'molecules molecules
-'monitor monitor
-'monitored monitored
-'monitoring monitoring
-'monitors monitors
-'monitorings monitorings
-'monoclonal monoclonal
-'month month
-'months months
-'morbidity morbidity
-'morphology morphology
-'morphologies morphologies
-'mortality mortality
-'mortalities mortalities
-'mouse mouse
-'mice mice
-'mouses mouses
-'multiple multiple
-'namely namely
-'neck neck
-'necks necks
-'necrosis necrosis
-'needle needle
-'needles needles
-'negative negative
-'neonatal neonatal
-'nerve nerve
-'nerves nerves
-'network network
-'networks networks
-'neurological neurological
-'node node
-'nodes nodes
-'normal normal
-'notably notably
-'nucleus nucleus
-'nuclei nuclei
-'number number
-'numerous numerous
-'obesity obesity
-'objective objective
-'observation observation
-'observations observations
-'observe observe
-'observed observed
-'observes observes
-'observing observing
-'occurrence occurrence
-'occurrences occurrences
-'onset onset
-'optimal optimal
-'oral oral
-'organ organ
-'organs organs
-'outcome outcome
-'outcomes outcomes
-'overlap overlap
-'overlapped overlapped
-'overlapping overlapping
-'overlaps overlaps
-'oxygen oxygen
-'oxygens oxygens
-'pain pain
-'pains pains
-'parameter parameter
-'parameters parameters
-'partial partial
-'partially partially
-'pathogenesis pathogenesis
-'pathological pathological
-'pathology pathology
-'pathologies pathologies
-'pathway pathway
-'pathways pathways
-'patient patient
-'patients patients
-'pattern pattern
-'patterns patterns
-'peak peak
-'peaks peaks
-'percentage percentage
-'percentages percentages
-'perform perform
-'performed performed
-'performing performing
-'performs performs
-'performance performance
-'performances performances
-'period period
-'periods periods
-'peripheral peripheral
-'persist persist
-'persisted persisted
-'persisting persisting
-'persists persists
-'persistent persistent
-'phase phase
-'phases phases
-'phenomenon phenomenon
-'phenomena phenomena
-'phenotype phenotype
-'phenotypes phenotypes
-'physical physical
-'physician physician
-'physicians physicians
-'physiological physiological
-'placebo placebo
-'placebos placebos
-'plasma plasma
-'plasmas plasmas
-'plate plate
-'plates plates
-'polymorphism polymorphism
-'polymorphisms polymorphisms
-'poorly poorly
-'population population
-'populations populations
-'portion portion
-'portions portions
-'positive positive
-'postoperative postoperative
-'potent potent
-'potential potential
-'potentials potentials
-'practise practise
-'practiced practiced
-'practices practices
-'practicing practicing
-'practised practised
-'practises practises
-'practising practising
-'practitioner practitioner
-'practitioners practitioners
-'precede precede
-'preceded preceded
-'precedes precedes
-'preceding preceding
-'predictive predictive
-'predispose predispose
-'predisposed predisposed
-'predisposes predisposes
-'predisposing predisposing
-'predominant predominant
-'predominantly predominantly
-'pregnancy pregnancy
-'pregnancies pregnancies
-'premature premature
-'preparation preparation
-'preparations preparations
-'prescribe prescribe
-'prescribed prescribed
-'prescribes prescribes
-'prescribing prescribing
-'prescription prescription
-'prescriptions prescriptions
-'present present
-'presented presented
-'presenting presenting
-'presents presents
-'presentation presentation
-'presentations presentations
-'pressure pressure
-'pressures pressures
-'prevalence prevalence
-'prevalences prevalences
-'prevalent prevalent
-'prevent prevent
-'prevented prevented
-'preventing preventing
-'prevents prevents
-'prevention prevention
-'preventions preventions
-'primary primary
-'prior prior
-'probability probability
-'probabilities probabilities
-'procedure procedure
-'procedures procedures
-'process process
-'processes processes
-'processing processing
-'profile profile
-'profiles profiles
-'prognosis prognosis
-'prognostic prognostic
-'progress progress
-'progressed progressed
-'progresses progresses
-'progressing progressing
-'progression progression
-'progressions progressions
-'progressive progressive
-'proliferation proliferation
-'proliferations proliferations
-'prolonged prolonged
-'prominent prominent
-'promote promote
-'promoted promoted
-'promotes promotes
-'promoting promoting
-'proportion proportion
-'proportions proportions
-'prospective prospective
-'protease protease
-'proteases proteases
-'protective protective
-'protein protein
-'proteins proteins
-'proximal proximal
-'psychological psychological
-'pulmonary pulmonary
-'pulse pulse
-'pulses pulses
-'quality quality
-'qualities qualities
-'quantitative quantitative
-'randomise randomise
-'randomised randomised
-'randomises randomises
-'randomising randomising
-'randomize randomize
-'randomized randomized
-'randomizes randomizes
-'randomizing randomizing
-'range range
-'ranges ranges
-'ranged ranged
-'ranging ranging
-'rat rat
-'rats rats
-'rate rate
-'rates rates
-'ratio ratio
-'ratios ratios
-'reaction reaction
-'reactions reactions
-'reactive reactive
-'receptor receptor
-'receptors receptors
-'recipient recipient
-'recipients recipients
-'recognise recognise
-'recognised recognised
-'recognises recognises
-'recognising recognising
-'recognize recognize
-'recognized recognized
-'recognizes recognizes
-'recognizing recognizing
-'record record
-'recorded recorded
-'recording recording
-'records records
-'recovery recovery
-'recoveries recoveries
-'recurrence recurrence
-'recurrences recurrences
-'recurrent recurrent
-'reduce reduce
-'reduced reduced
-'reduces reduces
-'reducing reducing
-'reduction reduction
-'reductions reductions
-'reference reference
-'references references
-'referral referral
-'referrals referrals
-'reflect reflect
-'reflected reflected
-'reflecting reflecting
-'reflects reflects
-'regimen regimen
-'regimens regimens
-'region region
-'regions regions
-'regulate regulate
-'regulated regulated
-'regulates regulates
-'regulating regulating
-'regulation regulation
-'regulations regulations
-'regulatory regulatory
-'relapse relapse
-'relapses relapses
-'relate relate
-'related related
-'relates relates
-'relating relating
-'relationship relationship
-'relationships relationships
-'release release
-'releases releases
-'relevance relevance
-'relevances relevances
-'reliable reliable
-'removal removal
-'removals removals
-'renal renal
-'repair repair
-'repairs repairs
-'repeat repeat
-'repeats repeats
-'repeated repeated
-'repeating repeating
-'replacement replacement
-'replacements replacements
-'replication replication
-'replications replications
-'report report
-'reported reported
-'reporting reporting
-'reports reports
-'research research
-'resection resection
-'resections resections
-'residual residual
-'resistance resistance
-'resistances resistances
-'resistant resistant
-'resolution resolution
-'resolutions resolutions
-'resonance resonance
-'resonances resonances
-'respectively respectively
-'respiratory respiratory
-'response response
-'responses responses
-'restricted restricted
-'review review
-'reviews reviews
-'reviewed reviewed
-'reviewing reviewing
-'risk risk
-'risks risks
-'role role
-'roles roles
-'routine routine
-'routinely routinely
-'safety safety
-'safeties safeties
-'saline saline
-'sample sample
-'samples samples
-'sampling sampling
-'samplings samplings
-'scale scale
-'scales scales
-'scan scan
-'scans scans
-'scanned scanned
-'scanning scanning
-'score score
-'scores scores
-'screen screen
-'screened screened
-'screening screening
-'screens screens
-'screenings screenings
-'secondary secondary
-'secretion secretion
-'secretions secretions
-'segment segment
-'segments segments
-'select select
-'selected selected
-'selecting selecting
-'selects selects
-'selection selection
-'selections selections
-'selective selective
-'sensitive sensitive
-'sensitivity sensitivity
-'sensitivities sensitivities
-'sequence sequence
-'sequences sequences
-'series series
-'serum serum
-'serums serums
-'severity severity
-'severities severities
-'sex sex
-'sexes sexes
-'shift shift
-'shifts shifts
-'shortterm short-term
-'show show
-'showed showed
-'showing showing
-'shown shown
-'shows shows
-'signal signal
-'signals signals
-'significance significance
-'significances significances
-'significant significant
-'site site
-'sites sites
-'sodium sodium
-'solid solid
-'specific specific
-'specificity specificity
-'specificities specificities
-'specimen specimen
-'specimens specimens
-'spectrum spectrum
-'spectra spectra
-'spectrums spectrums
-'spontaneous spontaneous
-'stabilise stabilise
-'stabilised stabilised
-'stabilises stabilises
-'stabilising stabilising
-'stabilize stabilize
-'stabilized stabilized
-'stabilizes stabilizes
-'stabilizing stabilizing
-'stable stable
-'stage stage
-'stages stages
-'standard standard
-'status status
-'stem stem
-'stems stems
-'steroid steroid
-'steroids steroids
-'stimulate stimulate
-'stimulated stimulated
-'stimulates stimulates
-'stimulating stimulating
-'stimulation stimulation
-'stimulations stimulations
-'stimulus stimulus
-'stimuli stimuli
-'strain strain
-'strains strains
-'strategy strategy
-'strategies strategies
-'stress stress
-'stresses stresses
-'stroke stroke
-'strokes strokes
-'structural structural
-'subgroup subgroup
-'subgroups subgroups
-'subject subject
-'subjects subjects
-'subsequently subsequently
-'subset subset
-'subsets subsets
-'substantially substantially
-'substrate substrate
-'substrates substrates
-'subtype subtype
-'subtypes subtypes
-'summarise summarise
-'summarised summarised
-'summarises summarises
-'summarising summarising
-'summarize summarize
-'summarized summarized
-'summarizes summarizes
-'summarizing summarizing
-'summary summary
-'summaries summaries
-'superior superior
-'supplementation supplementation
-'support support
-'supported supported
-'supporting supporting
-'supports supports
-'supportive supportive
-'suppress suppress
-'suppressed suppressed
-'suppresses suppresses
-'suppressing suppressing
-'suppression suppression
-'suppressions suppressions
-'surface surface
-'surfaces surfaces
-'surgeon surgeon
-'surgeons surgeons
-'surgery surgery
-'surgeries surgeries
-'surgical surgical
-'surveillance surveillance
-'surveillances surveillances
-'survey survey
-'surveys surveys
-'survival survival
-'survivals survivals
-'susceptibility susceptibility
-'susceptibilities susceptibilities
-'susceptible susceptible
-'sustained sustained
-'symptom symptom
-'symptoms symptoms
-'symptomatic symptomatic
-'syndrome syndrome
-'syndromes syndromes
-'synthesis synthesis
-'syntheses syntheses
-'systematic systematic
-'systemic systemic
-'table table
-'tables tables
-'target target
-'targets targets
-'targeted targeted
-'targeting targeting
-'targetted targetted
-'targetting targetting
-'task task
-'tasks tasks
-'technique technique
-'techniques techniques
-'temporal temporal
-'test test
-'tests tests
-'tested tested
-'testing testing
-'testings testings
-'therapeutic therapeutic
-'therapy therapy
-'therapies therapies
-'thereafter thereafter
-'thereby thereby
-'threshold threshold
-'thresholds thresholds
-'timing timing
-'timings timings
-'tissue tissue
-'tissues tissues
-'tolerance tolerance
-'tolerances tolerances
-'tolerate tolerate
-'tolerated tolerated
-'tolerates tolerates
-'tolerating tolerating
-'tomography tomography
-'toxicity toxicity
-'toxicities toxicities
-'tract tract
-'tracts tracts
-'transcription transcription
-'transcriptions transcriptions
-'transform transform
-'transformed transformed
-'transforming transforming
-'transforms transforms
-'transformation transformation
-'transformations transformations
-'transient transient
-'transmission transmission
-'transmissions transmissions
-'trauma trauma
-'traumas traumas
-'treat treat
-'treated treated
-'treating treating
-'treats treats
-'treatment treatment
-'treatments treatments
-'trend trend
-'trends trends
-'trial trial
-'trials trials
-'trigger trigger
-'triggered triggered
-'triggering triggering
-'triggers triggers
-'tube tube
-'tubes tubes
-'type type
-'types types
-'typically typically
-'ultrasound ultrasound
-'ultrasounds ultrasounds
-'unclear unclear
-'undergo undergo
-'undergoes undergoes
-'undergoing undergoing
-'undergone undergone
-'underwent underwent
-'underlie underlie
-'underlay underlay
-'underlying underlying
-'unit unit
-'units units
-'unknown unknown
-'untreated untreated
-'upper upper
-'uptake uptake
-'uptakes uptakes
-'urinary urinary
-'urine urine
-'utilise utilise
-'utilised utilised
-'utilises utilises
-'utilising utilising
-'utilize utilize
-'utilized utilized
-'utilizes utilizes
-'utilizing utilizing
-'value value
-'values values
-'variability variability
-'variabilities variabilities
-'variable variable
-'variant variant
-'variants variants
-'variation variation
-'variations variations
-'vary vary
-'varied varied
-'varies varies
-'varying varying
-'vascular vascular
-'vein vein
-'veins veins
-'venous venous
-'ventricular ventricular
-'vessel vessel
-'vessels vessels
-'vitamin vitamin
-'vitamins vitamins
-'volume volume
-'volumes volumes
-'weight weight
-'weights weights
-'worsen worsen
-'worsened worsened
-'worsening worsening
-'worsens worsens
-'wound wound
-'wounds wounds
-'yield yield
-'yields yields
-'yielded yielded
-'yielding yielding
+abdominal
+ability
+abilities
+abnormal
+abnormality
+abnormalities
+absence
+absences
+absent
+absolute
+absorption
+absorptions
+accord
+accorded
+according
+accords
+accumulate
+accumulated
+accumulates
+accumulating
+accumulation
+accumulations
+accuracy
+accuracies
+accurate
+accurately
+acid
+acids
+acquire
+acquired
+acquires
+acquiring
+activate
+activated
+activates
+activating
+activation
+active
+activity
+activities
+acute
+adequate
+adequately
+adjacent
+adjust
+adjusted
+adjusting
+adjusts
+administer
+administered
+administering
+administers
+administration
+administrations
+admission
+admissions
+adult
+adults
+advance
+advanced
+advances
+advancing
+adverse
+affect
+affected
+affecting
+affects
+age
+ages
+aged
+agent
+agents
+aggressive
+agonist
+agonists
+albumin
+albumins
+alter
+altered
+altering
+alters
+alteration
+alterations
+alternatively
+analysis
+analyses
+animal
+animals
+antagonist
+antagonists
+anterior
+antiinflammatory
+antibiotic
+antibiotics
+antibody
+antibodies
+anxiety
+anxieties
+apoptosis
+approach
+approaches
+appropriate
+arrest
+arrested
+arresting
+arrests
+arterial
+artery
+arteries
+assay
+assays
+assess
+assessed
+assesses
+assessing
+assessment
+assessments
+associate
+associated
+associates
+associating
+association
+associations
+asymptomatic
+attributable
+attribute
+attributed
+attributes
+attributing
+availability
+availabilities
+average
+averages
+axis
+bacterial
+barrier
+barriers
+basal
+base
+based
+bases
+basing
+baseline
+baselines
+beneficial
+benefit
+benefits
+benign
+best
+bind
+binding
+binds
+bound
+bindings
+biochemical
+biological
+biology
+biopsy
+biopsies
+bleeding
+bleedings
+block
+blocked
+blocking
+blocks
+blood
+bowel
+bowels
+brain
+brains
+burden
+burdens
+cancer
+cancers
+carcinoma
+carcinomas
+cardiac
+cardiovascular
+care
+cares
+carrier
+carriers
+case
+cases
+category
+categories
+cause
+causes
+caused
+causing
+cell
+cells
+cellular
+cerebral
+change
+changes
+characterise
+characterised
+characterises
+characterising
+characterize
+characterized
+characterizes
+characterizing
+characteristic
+characteristics
+chest
+chests
+childhood
+childhoods
+chronic
+circulate
+circulated
+circulates
+circulating
+circulation
+circulations
+classification
+classifications
+classify
+classified
+classifies
+classifying
+clearance
+clearances
+clinic
+clinics
+clinical
+clinically
+clinician
+clinicians
+cluster
+clusters
+code
+coded
+codes
+coding
+cognitive
+cohort
+cohorts
+collect
+collected
+collecting
+collects
+collection
+collections
+combination
+combinations
+combine
+combined
+combines
+combining
+common
+commonly
+comparable
+compartment
+compartments
+complete
+completed
+completes
+completing
+complex
+complexes
+compliance
+compliances
+complication
+complications
+component
+components
+compose
+composed
+composes
+composing
+compound
+compounds
+compromise
+compromised
+compromises
+compromising
+compromize
+compromized
+compromizes
+compromizing
+compute
+computed
+computes
+computing
+concentration
+concentrations
+concomitant
+condition
+conditions
+conduct
+conducted
+conducting
+conducts
+confer
+confering
+conferred
+conferring
+confers
+confirm
+confirmed
+confirming
+confirms
+consensus
+consumption
+consumptions
+content
+contents
+continuous
+contrast
+contrasts
+control
+controls
+controlled
+controlling
+controversial
+conversely
+conversion
+conversions
+core
+cores
+correct
+corrected
+correcting
+corrects
+correction
+corrections
+correlate
+correlated
+correlates
+correlating
+correlation
+correlations
+count
+counts
+creatinine
+criterion
+criteria
+criterions
+critical
+culture
+cultures
+current
+curve
+curves
+cycle
+cycles
+cytokine
+cytokines
+damage
+damages
+datum
+datums
+death
+deaths
+decrease
+decreases
+decreased
+decreasing
+defect
+defects
+deficiency
+deficiencies
+define
+defined
+defines
+defining
+definition
+definitions
+definitive
+delay
+delays
+delayed
+delaying
+delivery
+deliveries
+demonstrate
+demonstrated
+demonstrates
+demonstrating
+density
+densities
+dependence
+dependences
+dependent
+derive
+derived
+derives
+deriving
+detect
+detected
+detecting
+detects
+detectable
+detection
+detections
+determinant
+determinants
+determination
+determinations
+determine
+determined
+determines
+determining
+develop
+developed
+developing
+develops
+deviation
+deviations
+device
+devices
+diabetes
+diagnose
+diagnosed
+diagnoses
+diagnosing
+diagnosis
+diagnostic
+diameter
+diameters
+diet
+diets
+differential
+differentiate
+differentiated
+differentiates
+differentiating
+differentiation
+differentiations
+diffuse
+diminish
+diminished
+diminishes
+diminishing
+disability
+disabilities
+discharge
+discharges
+discontinue
+discontinued
+discontinues
+discontinuing
+disease
+diseases
+disorder
+disorders
+distal
+distinguish
+distinguished
+distinguishes
+distinguishing
+distress
+distresses
+distribution
+distributions
+divide
+divided
+divides
+dividing
+document
+documented
+documenting
+documents
+domain
+domains
+dosage
+dosages
+dose
+doses
+drug
+drugs
+due
+duration
+durations
+dysfunction
+dysfunctions
+effect
+effects
+effective
+effectiveness
+efficacy
+efficacies
+elderly
+elevated
+elevation
+elevations
+elicit
+elicited
+eliciting
+elicits
+eliminate
+eliminated
+eliminates
+eliminating
+emphasise
+emphasised
+emphasises
+emphasising
+emphasize
+emphasized
+emphasizes
+emphasizing
+empirical
+encode
+encoded
+encodes
+encoding
+endogenous
+endothelial
+enhance
+enhanced
+enhances
+enhancing
+entity
+entities
+enzyme
+enzymes
+epidemiological
+epidemiology
+episode
+episodes
+equivalent
+error
+errors
+established
+evaluation
+evaluations
+event
+events
+evidence
+evident
+evolve
+evolved
+evolves
+evolving
+exact
+examination
+examinations
+examine
+examined
+examines
+examining
+exceed
+exceeded
+exceeding
+exceeds
+excess
+excessive
+exclude
+excluded
+excludes
+excluding
+exclusion
+exclusions
+exercise
+exercises
+exert
+exerted
+exerting
+exerts
+exhibit
+exhibited
+exhibiting
+exhibits
+experience
+experienced
+experiences
+experiencing
+experiment
+experiments
+experimental
+expose
+exposed
+exposes
+exposing
+exposure
+exposures
+express
+expressed
+expresses
+expressing
+expression
+expressions
+extension
+extensions
+extensive
+external
+extracellular
+facilitate
+facilitated
+facilitates
+facilitating
+factor
+factors
+failure
+failures
+false
+familial
+fatigue
+female
+females
+fever
+fevers
+fig.
+flow
+flows
+fluid
+fluids
+focal
+focus
+foci
+focuses
+focused
+focusing
+focussed
+focussing
+foetal
+followup
+formation
+formations
+fraction
+fractions
+fragment
+fragments
+frequency
+frequencies
+frequent
+function
+functions
+functioned
+functioning
+functional
+gain
+gains
+gastrointestinal
+gene
+genes
+generalise
+generalised
+generalises
+generalising
+generalize
+generalized
+generalizes
+generalizing
+generate
+generated
+generates
+generating
+genetic
+genome
+genomes
+genotype
+genotypes
+global
+glucose
+grade
+grades
+greatest
+group
+groups
+growth
+growths
+guide
+guided
+guides
+guiding
+guideline
+guidelines
+hazard
+hazards
+healing
+health
+healthy
+height
+heights
+heterogeneous
+highrisk
+high
+histological
+history
+histories
+hormone
+hormones
+hospital
+hospitals
+host
+hosts
+human
+humans
+hypertension
+hypothesis
+hypotheses
+identical
+identification
+identifications
+identify
+identified
+identifies
+identifying
+illness
+illnesses
+image
+images
+imaging
+imagings
+immune
+immunosuppressive
+impaired
+implicate
+implicated
+implicates
+implicating
+inability
+inabilities
+inadequate
+incidence
+incidences
+include
+included
+includes
+including
+inclusion
+inclusions
+incomplete
+incubation
+incubations
+index
+indexes
+indices
+indicate
+indicated
+indicates
+indicating
+indication
+indications
+indicator
+indicators
+indirect
+individual
+individuals
+induce
+induced
+induces
+inducing
+induction
+inductions
+infection
+infections
+infectious
+inferior
+inflammation
+inflammations
+inflammatory
+infusion
+infusions
+inhibit
+inhibited
+inhibiting
+inhibits
+inhibition
+inhibitions
+inhibitor
+inhibitors
+inhibitory
+initial
+initially
+initiate
+initiated
+initiates
+initiating
+initiation
+initiations
+inject
+injected
+injecting
+injects
+injection
+injections
+injury
+injuries
+insert
+inserted
+inserting
+inserts
+insertion
+insertions
+instability
+instabilities
+insufficient
+insulin
+insulins
+intact
+intake
+intakes
+intensity
+intensities
+intensive
+interact
+interacted
+interacting
+interacts
+interaction
+interactions
+interfere
+interfered
+interferes
+interfering
+intermediate
+internal
+interpret
+interpreted
+interpreting
+interprets
+interpretation
+interpretations
+interval
+intervals
+intervention
+interventions
+intestinal
+intracellular
+intravenous
+intrinsic
+introduction
+introductions
+invasive
+investigator
+investigators
+involve
+involved
+involves
+involving
+involvement
+involvements
+isolate
+isolated
+isolates
+isolating
+isolation
+isolations
+kidney
+kidneys
+kinase
+kinases
+known
+label
+labeled
+labeling
+labelled
+labelling
+labels
+laboratory
+laboratories
+lateral
+layer
+layers
+lead
+leading
+leads
+led
+least
+left
+length
+lengths
+lesion
+lesions
+level
+levels
+likelihood
+likelihoods
+limb
+limbs
+limit
+limited
+limiting
+limits
+limitation
+limitations
+linear
+linkage
+linkages
+load
+loads
+localised
+locally
+located
+loss
+losses
+low
+lower
+lowered
+lowering
+lowers
+lung
+lungs
+lymphocyte
+lymphocytes
+macrophage
+macrophages
+magnetic
+maintenance
+major
+majority
+majorities
+male
+males
+malignancy
+malignancies
+manifestation
+manifestations
+margin
+margins
+marked
+markedly
+marker
+markers
+mass
+masses
+matrix
+matrices
+matrixes
+maximal
+maximum
+maxima
+maximums
+mean
+means
+measure
+measures
+measured
+measuring
+measurement
+measurements
+mechanical
+mechanism
+mechanisms
+median
+mediate
+mediated
+mediates
+mediating
+mediator
+mediators
+medical
+medication
+medications
+medicine
+medicines
+medium
+mediums
+mellitus
+membrane
+membranes
+mental
+metaanalysis
+metabolic
+metabolism
+metabolisms
+method
+methods
+migration
+migrations
+mild
+minimal
+minimise
+minimised
+minimises
+minimising
+minimize
+minimized
+minimizes
+minimizing
+minor
+mixed
+modality
+modalities
+model
+models
+moderate
+moderately
+modest
+modification
+modifications
+modify
+modified
+modifies
+modifying
+molecular
+molecule
+molecules
+monitor
+monitored
+monitoring
+monitors
+monitorings
+monoclonal
+month
+months
+morbidity
+morphology
+morphologies
+mortality
+mortalities
+mouse
+mice
+mouses
+multiple
+namely
+neck
+necks
+necrosis
+needle
+needles
+negative
+neonatal
+nerve
+nerves
+network
+networks
+neurological
+node
+nodes
+normal
+notably
+nucleus
+nuclei
+number
+numerous
+obesity
+objective
+observation
+observations
+observe
+observed
+observes
+observing
+occurrence
+occurrences
+onset
+optimal
+oral
+organ
+organs
+outcome
+outcomes
+overlap
+overlapped
+overlapping
+overlaps
+oxygen
+oxygens
+pain
+pains
+parameter
+parameters
+partial
+partially
+pathogenesis
+pathological
+pathology
+pathologies
+pathway
+pathways
+patient
+patients
+pattern
+patterns
+peak
+peaks
+percentage
+percentages
+perform
+performed
+performing
+performs
+performance
+performances
+period
+periods
+peripheral
+persist
+persisted
+persisting
+persists
+persistent
+phase
+phases
+phenomenon
+phenomena
+phenotype
+phenotypes
+physical
+physician
+physicians
+physiological
+placebo
+placebos
+plasma
+plasmas
+plate
+plates
+polymorphism
+polymorphisms
+poorly
+population
+populations
+portion
+portions
+positive
+postoperative
+potent
+potential
+potentials
+practise
+practiced
+practices
+practicing
+practised
+practises
+practising
+practitioner
+practitioners
+precede
+preceded
+precedes
+preceding
+predictive
+predispose
+predisposed
+predisposes
+predisposing
+predominant
+predominantly
+pregnancy
+pregnancies
+premature
+preparation
+preparations
+prescribe
+prescribed
+prescribes
+prescribing
+prescription
+prescriptions
+present
+presented
+presenting
+presents
+presentation
+presentations
+pressure
+pressures
+prevalence
+prevalences
+prevalent
+prevent
+prevented
+preventing
+prevents
+prevention
+preventions
+primary
+prior
+probability
+probabilities
+procedure
+procedures
+process
+processes
+processing
+profile
+profiles
+prognosis
+prognostic
+progress
+progressed
+progresses
+progressing
+progression
+progressions
+progressive
+proliferation
+proliferations
+prolonged
+prominent
+promote
+promoted
+promotes
+promoting
+proportion
+proportions
+prospective
+protease
+proteases
+protective
+protein
+proteins
+proximal
+psychological
+pulmonary
+pulse
+pulses
+quality
+qualities
+quantitative
+randomise
+randomised
+randomises
+randomising
+randomize
+randomized
+randomizes
+randomizing
+range
+ranges
+ranged
+ranging
+rat
+rats
+rate
+rates
+ratio
+ratios
+reaction
+reactions
+reactive
+receptor
+receptors
+recipient
+recipients
+recognise
+recognised
+recognises
+recognising
+recognize
+recognized
+recognizes
+recognizing
+record
+recorded
+recording
+records
+recovery
+recoveries
+recurrence
+recurrences
+recurrent
+reduce
+reduced
+reduces
+reducing
+reduction
+reductions
+reference
+references
+referral
+referrals
+reflect
+reflected
+reflecting
+reflects
+regimen
+regimens
+region
+regions
+regulate
+regulated
+regulates
+regulating
+regulation
+regulations
+regulatory
+relapse
+relapses
+relate
+related
+relates
+relating
+relationship
+relationships
+release
+releases
+relevance
+relevances
+reliable
+removal
+removals
+renal
+repair
+repairs
+repeat
+repeats
+repeated
+repeating
+replacement
+replacements
+replication
+replications
+report
+reported
+reporting
+reports
+research
+resection
+resections
+residual
+resistance
+resistances
+resistant
+resolution
+resolutions
+resonance
+resonances
+respectively
+respiratory
+response
+responses
+restricted
+review
+reviews
+reviewed
+reviewing
+risk
+risks
+role
+roles
+routine
+routinely
+safety
+safeties
+saline
+sample
+samples
+sampling
+samplings
+scale
+scales
+scan
+scans
+scanned
+scanning
+score
+scores
+screen
+screened
+screening
+screens
+screenings
+secondary
+secretion
+secretions
+segment
+segments
+select
+selected
+selecting
+selects
+selection
+selections
+selective
+sensitive
+sensitivity
+sensitivities
+sequence
+sequences
+series
+serum
+serums
+severity
+severities
+sex
+sexes
+shift
+shifts
+shortterm
+show
+showed
+showing
+shown
+shows
+signal
+signals
+significance
+significances
+significant
+site
+sites
+sodium
+solid
+specific
+specificity
+specificities
+specimen
+specimens
+spectrum
+spectra
+spectrums
+spontaneous
+stabilise
+stabilised
+stabilises
+stabilising
+stabilize
+stabilized
+stabilizes
+stabilizing
+stable
+stage
+stages
+standard
+status
+stem
+stems
+steroid
+steroids
+stimulate
+stimulated
+stimulates
+stimulating
+stimulation
+stimulations
+stimulus
+stimuli
+strain
+strains
+strategy
+strategies
+stress
+stresses
+stroke
+strokes
+structural
+subgroup
+subgroups
+subject
+subjects
+subsequently
+subset
+subsets
+substantially
+substrate
+substrates
+subtype
+subtypes
+summarise
+summarised
+summarises
+summarising
+summarize
+summarized
+summarizes
+summarizing
+summary
+summaries
+superior
+supplementation
+support
+supported
+supporting
+supports
+supportive
+suppress
+suppressed
+suppresses
+suppressing
+suppression
+suppressions
+surface
+surfaces
+surgeon
+surgeons
+surgery
+surgeries
+surgical
+surveillance
+surveillances
+survey
+surveys
+survival
+survivals
+susceptibility
+susceptibilities
+susceptible
+sustained
+symptom
+symptoms
+symptomatic
+syndrome
+syndromes
+synthesis
+syntheses
+systematic
+systemic
+table
+tables
+target
+targets
+targeted
+targeting
+targetted
+targetting
+task
+tasks
+technique
+techniques
+temporal
+test
+tests
+tested
+testing
+testings
+therapeutic
+therapy
+therapies
+thereafter
+thereby
+threshold
+thresholds
+timing
+timings
+tissue
+tissues
+tolerance
+tolerances
+tolerate
+tolerated
+tolerates
+tolerating
+tomography
+toxicity
+toxicities
+tract
+tracts
+transcription
+transcriptions
+transform
+transformed
+transforming
+transforms
+transformation
+transformations
+transient
+transmission
+transmissions
+trauma
+traumas
+treat
+treated
+treating
+treats
+treatment
+treatments
+trend
+trends
+trial
+trials
+trigger
+triggered
+triggering
+triggers
+tube
+tubes
+type
+types
+typically
+ultrasound
+ultrasounds
+unclear
+undergo
+undergoes
+undergoing
+undergone
+underwent
+underlie
+underlay
+underlying
+unit
+units
+unknown
+untreated
+upper
+uptake
+uptakes
+urinary
+urine
+utilise
+utilised
+utilises
+utilising
+utilize
+utilized
+utilizes
+utilizing
+value
+values
+variability
+variabilities
+variable
+variant
+variants
+variation
+variations
+vary
+varied
+varies
+varying
+vascular
+vein
+veins
+venous
+ventricular
+vessel
+vessels
+vitamin
+vitamins
+volume
+volumes
+weight
+weights
+worsen
+worsened
+worsening
+worsens
+wound
+wounds
+yield
+yields
+yielded
+yielding

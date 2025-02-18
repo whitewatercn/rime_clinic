@@ -1,9 +1,9 @@
 # 生成工具 https://github.com/whitewatercn/rimetool
-# 生成时间 2025-02-18_11-10-11
+# 生成时间 2025-02-18_11-22-31
 ---
-'bei'ta'nei'xian'an β-内酰胺
-'dan'huan'nei'xian'an 单环内酰胺
-'nei'xian'an 内酰胺
-'ji'nei'xian'an 己内酰胺
-'jin'shu'nei'xian'an'mei 金属内酰胺酶
-'lai'an'suan'nei'xian'an'mei 赖氨酸内酰胺酶
+β内酰胺
+单环内酰胺
+内酰胺
+己内酰胺
+金属内酰胺酶
+赖氨酸内酰胺酶

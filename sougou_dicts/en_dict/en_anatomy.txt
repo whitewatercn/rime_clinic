@@ -1,3028 +1,3028 @@
 # 生成工具 https://github.com/whitewatercn/rimetool
-# 生成时间 2025-02-18_11-10-14
+# 生成时间 2025-02-18_11-22-33
 ---
-'α-dextrin α-dextrin
-'α-dextrinase α-dextrinase
-'abdominalaorta abdominal aorta
-'abdominopelviccavity abdominopelvic cavity
-'abducensnerve abducens nerve
-'abduct abduct
-'Abduction Abduction
-'abductor abductor
-'abductordigitiminimi abductor digiti minimi
-'abductorpollicisbrevis abductor pollicis brevis
-'abductorpollicislongus abductor pollicis longus
-'ABObloodgroup ABO blood group
-'absoluterefractoryperiod absolute refractory period
-'absorption absorption
-'absorptivestate absorptive state
-'accessorydigestiveorgan accessory digestive organ
-'accessoryduct accessory duct
-'Acclimatization Acclimatization
-'accommodation accommodation
-'accommodation–convergencereflex accommodation–convergence reflex
-'acetabularlabrum acetabular labrum
-'acetabulum acetabulum
-'acetylcoenzymeA(acetylCoA) acetyl coenzyme A (acetyl CoA)
-'acetylcholine(ACh) acetylcholine (ACh)
-'acid acid
-'acinus acinus
-'Acne Acne
-'acromegaly acromegaly
-'acromialendoftheclavicle acromial end of the clavicle
-'acromialprocess acromial process
-'acromioclavicularjoint acromioclavicular joint
-'acromion acromion
-'acrosomalreaction acrosomal reaction
-'acrosome acrosome
-'actin actin
-'actionpotential action potential
-'activationenergy activation energy
-'activationgate activation gate
-'Activeimmunity Active immunity
-'activetransport active transport
-'Acuteinflammation Acute inflammation
-'Acutemountainsickness(AMS) Acute mountain sickness (AMS)
-'adaptiveimmuneresponse adaptive immune response
-'adduction adduction
-'adductor adductor
-'adductorbrevis adductor brevis
-'adductorlongus adductor longus
-'adductormagnus adductor magnus
-'adductorpollicis adductor pollicis
-'adductortubercle adductor tubercle
-'adenosinetriphosphate(ATP) adenosine triphosphate (ATP)
-'adenylylcyclase adenylyl cyclase
-'Adipocytes Adipocytes
-'Adiposetissue Adipose tissue
-'adrenalartery adrenal artery
-'adrenalcortex adrenal cortex
-'adrenalglands adrenal glands
-'adrenalmedulla adrenal medulla
-'adrenalvein adrenal vein
-'adrenergic adrenergic
-'adrenocorticotropichormone(ACTH) adrenocorticotropic hormone (ACTH)
-'Aerobicrespiration Aerobic respiration
-'afferentbranch afferent branch
-'afferentlymphaticvessels afferent lymphatic vessels
-'afterbirth afterbirth
-'Afterload Afterload
-'agglutination agglutination
-'agonist agonist
-'agranularleukocytes agranular leukocytes
-'ala ala
-'alarcartilage alar cartilage
-'alarplate alar plate
-'alarmreaction alarm reaction
-'Albinism Albinism
-'Albumin Albumin
-'Aldosterone Aldosterone
-'alimentarycanal alimentary canal
-'Alkaloids Alkaloids
-'allantois allantois
-'allele allele
-'alpha(α)-adrenergicreceptor alpha (α)-adrenergic receptor
-'alphacell alpha cell
-'Alveolardeadspace Alveolar dead space
-'alveolarduct alveolar duct
-'alveolarmacrophage alveolar macrophage
-'alveolarpores alveolar pores
-'Alveolarprocessofthemandible Alveolar process of the mandible
-'alveolarprocessofthemaxilla alveolar process of the maxilla
-'alveolarsac alveolar sac
-'alveoli alveoli
-'alveolus alveolus
-'amacrinecells amacrine cells
-'aminoacid amino acid
-'aminopeptidase aminopeptidase
-'amnion amnion
-'amnioticcavity amniotic cavity
-'amphiarthrosis amphiarthrosis
-'amphipathic amphipathic
-'ampulla ampulla
-'amygdala amygdala
-'Anabolichormones Anabolic hormones
-'anabolicreactions anabolic reactions
-'anabolism anabolism
-'anagen anagen
-'analcanal anal canal
-'analcolumn anal column
-'analsinus anal sinus
-'analtriangle anal triangle
-'Anaphase Anaphase
-'Anaphylacticshock Anaphylactic shock
-'anastomosis anastomosis
-'anatomicaldeadspace anatomical dead space
-'anatomicalneck anatomical neck
-'anatomicalposition anatomical position
-'anatomicalsphincter anatomical sphincter
-'anatomy anatomy
-'anchoringjunction anchoring junction
-'anconeus anconeus
-'anemia anemia
-'angioblasts angioblasts
-'angiogenesis angiogenesis
-'angiotensinI angiotensin I
-'AngiotensinII Angiotensin II
-'angiotensin-convertingenzyme angiotensin-converting enzyme
-'angiotensin-convertingenzyme(ACE) angiotensin-converting enzyme (ACE)
-'angiotensinogen angiotensinogen
-'angleofthemandible angle of the mandible
-'angleoftherib angle of the rib
-'anion anion
-'anklejoint ankle joint
-'annularligament annular ligament
-'anosmia anosmia
-'antagonist antagonist
-'Anterior Anterior
-'anterior(ventral)sacralforamen anterior (ventral) sacral foramen
-'anteriorarch anterior arch
-'anteriorborderofthetibia anterior border of the tibia
-'anteriorcardiacveins anterior cardiac veins
-'anteriorcerebralartery anterior cerebral artery
-'anteriorcolumns anterior columns
-'anteriorcommunicatingartery anterior communicating artery
-'anteriorcompartmentofthearm anterior compartment of the arm
-'anteriorcompartmentoftheforearm anterior compartment of the forearm
-'anteriorcompartmentoftheleg anterior compartment of the leg
-'anteriorcompartmentofthethigh anterior compartment of the thigh
-'anteriorcorticospinaltract anterior corticospinal tract
-'anteriorcranialfossa anterior cranial fossa
-'anteriorcruciateligament anterior cruciate ligament
-'anteriorhorn anterior horn
-'anteriorinferioriliacspine anterior inferior iliac spine
-'anteriorinterventricularartery anterior interventricular artery
-'anteriorinterventricularsulcus anterior interventricular sulcus
-'anteriorlongitudinalligament anterior longitudinal ligament
-'anteriormedianfissure anterior median fissure
-'anteriorsacroiliacligament anterior sacroiliac ligament
-'anteriorscalene anterior scalene
-'anteriorspinalartery anterior spinal artery
-'anteriorsuperioriliacspine anterior superior iliac spine
-'anteriortalofibularligament anterior talofibular ligament
-'anteriortibialartery anterior tibial artery
-'anteriortibialvein anterior tibial vein
-'anterogradeamnesia anterograde amnesia
-'antibodies antibodies
-'antibody antibody
-'anticholinergicdrugs anticholinergic drugs
-'anticoagulant anticoagulant
-'anticodon anticodon
-'antidiuretichormone(ADH) antidiuretic hormone (ADH)
-'antigen antigen
-'antigenpresentation antigen presentation
-'Antigenprocessing Antigen processing
-'antigenreceptor antigen receptor
-'antigenicdeterminant antigenic determinant
-'Antithrombin Antithrombin
-'antrum antrum
-'anulusfibrosus anulus fibrosus
-'anuria anuria
-'aorta aorta
-'aorticarch aortic arch
-'aortichiatus aortic hiatus
-'aorticsinuses aortic sinuses
-'aorticvalve aortic valve
-'apex apex
-'aphasia aphasia
-'apical apical
-'apicalectodermalridge apical ectodermal ridge
-'apneusticcenter apneustic center
-'Apocrinesecretion Apocrine secretion
-'apocrinesweatgland apocrine sweat gland
-'aponeurosis aponeurosis
-'Apoptosis Apoptosis
-'appendicular appendicular
-'appendicularskeleton appendicular skeleton
-'appendix appendix
-'aquaporin aquaporin
-'aqueoushumor aqueous humor
-'arachnoidgranulations arachnoid granulations
-'arachnoidmater arachnoid mater
-'arachnoidtrabeculae arachnoid trabeculae
-'arcuatelineoftheilium arcuate line of the ilium
-'areola areola
-'Areolartissue Areolar tissue
-'arm arm
-'arrectorpili arrector pili
-'arterialcircle arterial circle
-'arteriole arteriole
-'arteriovenousanastomosis arteriovenous anastomosis
-'artery artery
-'articularcapsule articular capsule
-'articularcartilage articular cartilage
-'articulardisc articular disc
-'Articulartubercle Articular tubercle
-'articulation articulation
-'artificialpacemaker artificial pacemaker
-'ascendingaorta ascending aorta
-'ascendingcolon ascending colon
-'ascendingpathway ascending pathway
-'Ascendingtracts Ascending tracts
-'associationarea association area
-'Astrocyte Astrocyte
-'ataxia ataxia
-'atlanto-occipitaljoint atlanto-occipital joint
-'atlantoaxialjoint atlantoaxial joint
-'atlas atlas
-'Atmosphericpressure Atmospheric pressure
-'atom atom
-'atomicnumber atomic number
-'ATPsynthase ATP synthase
-'ATPase ATPase
-'atrialnatriureticpeptide(ANP) atrial natriuretic peptide (ANP)
-'atrialreflex atrial reflex
-'atrioventricular(AV)node atrioventricular (AV) node
-'atrioventricularbundle atrioventricular bundle
-'atrioventricularbundlebranches atrioventricular bundle branches
-'atrioventricularseptum atrioventricular septum
-'atrioventricularvalves atrioventricular valves
-'atrium atrium
-'atrophy atrophy
-'audition audition
-'auricle auricle
-'auricularsurfaceoftheilium auricular surface of the ilium
-'autocrine autocrine
-'autolysis autolysis
-'autonomicnervoussystem(ANS) autonomic nervous system (ANS)
-'autonomictone autonomic tone
-'Autophagy Autophagy
-'autorhythmicity autorhythmicity
-'autosomalchromosomes autosomal chromosomes
-'autosomaldominant autosomal dominant
-'autosomalrecessive autosomal recessive
-'axial axial
-'axialskeleton axial skeleton
-'axillaryartery axillary artery
-'axillarynerve axillary nerve
-'axillaryvein axillary vein
-'axis axis
-'axon axon
-'axonhillock axon hillock
-'axonsegment axon segment
-'axonterminal axon terminal
-'axoplasm axoplasm
-'azygosvein azygos vein
-'Bcells B cells
-'Blymphocytes B lymphocytes
-'Babinskisign Babinski sign
-'Bachmann’sbundle Bachmann’s bundle
-'bacterialflora bacterial flora
-'Bainbridgereflex Bainbridge reflex
-'ball-and-socketjoint ball-and-socket joint
-'baroreceptor baroreceptor
-'baroreceptorreflex baroreceptor reflex
-'Barrierdefenses Barrier defenses
-'Bartholin’sglands Bartholin’s glands
-'basalcell basal cell
-'Basalcellcarcinoma Basal cell carcinoma
-'basalforebrain basal forebrain
-'basallamina basal lamina
-'basalmetabolicrate(BMR) basal metabolic rate (BMR)
-'basalnuclei basal nuclei
-'basalplate basal plate
-'base base
-'baseofthemetatarsalbone base of the metatarsal bone
-'basementmembrane basement membrane
-'basilarartery basilar artery
-'basilarmembrane basilar membrane
-'basilicvein basilic vein
-'Basophils Basophils
-'bedsore bedsore
-'belly belly
-'beta(β)-adrenergicreceptor beta (β)-adrenergic receptor
-'beta(β)-hydroxybutyrate beta (β)-hydroxybutyrate
-'beta(β)-oxidation beta (β)-oxidation
-'betacell beta cell
-'Betzcells Betz cells
-'bi bi
-'biaxialjoint biaxial joint
-'bicepsbrachii biceps brachii
-'bicepsfemoris biceps femoris
-'bicipitalgroove bicipital groove
-'bicuspidvalve bicuspid valve
-'Bile Bile
-'bilecanaliculus bile canaliculus
-'bilesalts bile salts
-'bilirubin bilirubin
-'biliverdin biliverdin
-'binoculardepthcues binocular depth cues
-'biogenicamine biogenic amine
-'biosynthesisreactions biosynthesis reactions
-'bipennate bipennate
-'Bipolar Bipolar
-'bipolarcells bipolar cells
-'blastocoel blastocoel
-'blastocyst blastocyst
-'blastomere blastomere
-'blood blood
-'bloodcolloidalosmoticpressure(BCOP) blood colloidal osmotic pressure (BCOP)
-'Bloodflow Blood flow
-'Bloodhydrostaticpressure Blood hydrostatic pressure
-'bloodislands blood islands
-'bloodpressure blood pressure
-'blood-brainbarrier(BBB) blood-brain barrier (BBB)
-'blood–testisbarrier blood–testis barrier
-'body body
-'bodymassindex(BMI) body mass index (BMI)
-'bodyoftherib body of the rib
-'bodyofuterus body of uterus
-'Bohreffect Bohr effect
-'bolus bolus
-'bond bond
-'Bone Bone
-'bonemarrow bone marrow
-'bonemarrowbiopsy bone marrow biopsy
-'bonemarrowtransplant bone marrow transplant
-'Bowman’scapsule Bowman’s capsule
-'Boyle’slaw Boyle’s law
-'brachialartery brachial artery
-'brachialplexus brachial plexus
-'brachialvein brachial vein
-'brachialis brachialis
-'brachiocephalicvein brachiocephalic vein
-'brachioradialis brachioradialis
-'brain brain
-'braincase brain case
-'brainstem brain stem
-'BraxtonHickscontractions Braxton Hicks contractions
-'brevis brevis
-'bridge bridge
-'broadligament broad ligament
-'Broca’sarea Broca’s area
-'Brodmann’sareas Brodmann’s areas
-'bronchus bronchus
-'bronchi bronchi
-'bronchialartery bronchial artery
-'bronchialbud bronchial bud
-'bronchialtree bronchial tree
-'bronchialvein bronchial vein
-'bronchiole bronchiole
-'bronchoconstriction bronchoconstriction
-'bronchodilation bronchodilation
-'brownadiposetissue brown adipose tissue
-'bruise bruise
-'brushborder brush border
-'buccinator buccinator
-'buffer buffer
-'buffycoat buffy coat
-'bulbourethralglands bulbourethral glands
-'bulbuscordis bulbus cordis
-'bundleofHis bundle of His
-'bursa bursa
-'calcanealtendon calcaneal tendon
-'calcaneofibularligament calcaneofibular ligament
-'calcaneus calcaneus
-'calcitonin calcitonin
-'callus callus
-'calmodulin calmodulin
-'Calorie Calorie
-'calvaria calvaria
-'calyces calyces
-'canaliculi canaliculi
-'capacitance capacitance
-'capacitancevessels capacitance vessels
-'capacitation capacitation
-'capillary capillary
-'capillarybed capillary bed
-'capillaryhydrostaticpressure(CHP) capillary hydrostatic pressure (CHP)
-'capitate capitate
-'capitulum capitulum
-'capsaicin capsaicin
-'carbaminohemoglobin carbaminohemoglobin
-'carbohydrate carbohydrate
-'Carbonicanhydrase(CA) Carbonic anhydrase (CA)
-'cardia cardia
-'cardiacacceleratornerves cardiac accelerator nerves
-'cardiaccycle cardiac cycle
-'Cardiacmuscle Cardiac muscle
-'cardiacnotch cardiac notch
-'Cardiacoutput(CO) Cardiac output (CO)
-'cardiacplexus cardiac plexus
-'cardiacreflexes cardiac reflexes
-'cardiacreserve cardiac reserve
-'cardiacskeleton cardiac skeleton
-'cardiogenicarea cardiogenic area
-'cardiogeniccords cardiogenic cords
-'Cardiogenicshock Cardiogenic shock
-'cardiomyocyte cardiomyocyte
-'cardiovascularcenter cardiovascular center
-'Carotidcanal Carotid canal
-'carotidsinuses carotid sinuses
-'carpalbone carpal bone
-'carpaltunnel carpal tunnel
-'carpometacarpaljoint carpometacarpal joint
-'carrier carrier
-'cartilage cartilage
-'cartilaginousjoint cartilaginous joint
-'Catabolichormones Catabolic hormones
-'Catabolicreactions Catabolic reactions
-'catabolism catabolism
-'catagen catagen
-'catalyst catalyst
-'cation cation
-'caudaequina cauda equina
-'caudal caudal
-'caudate caudate
-'cavalopening caval opening
-'cavernoussinus cavernous sinus
-'cecum cecum
-'celiacganglion celiac ganglion
-'celiactrunk celiac trunk
-'cell cell
-'cellcycle cell cycle
-'celljunction cell junction
-'cellmembrane cell membrane
-'cellularrespiration cellular respiration
-'cementum cementum
-'centralcanal central canal
-'centralchemoreceptor central chemoreceptor
-'centralnervoussystem(CNS) central nervous system (CNS)
-'centralneuron central neuron
-'centralsulcus central sulcus
-'Centraltolerance Central tolerance
-'centralvein central vein
-'centriole centriole
-'centromere centromere
-'centrosome centrosome
-'cephalicflexure cephalic flexure
-'cephalicphase cephalic phase
-'cephalicvein cephalic vein
-'cerebellum cerebellum
-'cerebralaqueduct cerebral aqueduct
-'cerebralcortex cerebral cortex
-'cerebralhemisphere cerebral hemisphere
-'cerebralpeduncles cerebral peduncles
-'cerebrocerebellum cerebrocerebellum
-'cerebrospinalfluid(CSF) cerebrospinal fluid (CSF)
-'cerebrovascularaccident(CVA) cerebrovascular accident (CVA)
-'cerebrum cerebrum
-'cervicalcurve cervical curve
-'cervicalenlargement cervical enlargement
-'cervicalplexus cervical plexus
-'cervicalvertebrae cervical vertebrae
-'cervix cervix
-'channelprotein channel protein
-'checkreflex check reflex
-'checkpoint checkpoint
-'chemicaldigestion chemical digestion
-'Chemicalenergy Chemical energy
-'chemicalsynapse chemical synapse
-'chemokine chemokine
-'chemoreceptor chemoreceptor
-'chiefcells chief cells
-'chiefsensorynucleus chief sensory nucleus
-'chlorideshift chloride shift
-'cholecystokinin(CCK) cholecystokinin (CCK)
-'cholinergic cholinergic
-'cholinergicsystem cholinergic system
-'chondrocytes chondrocytes
-'chordaetendineae chordae tendineae
-'chorion chorion
-'chorionicmembrane chorionic membrane
-'chorionicvilli chorionic villi
-'choroid choroid
-'choroidplexus choroid plexus
-'chromaffin chromaffin
-'chromaffincells chromaffin cells
-'chromatin chromatin
-'chromosome chromosome
-'Chronicinflammation Chronic inflammation
-'chyle chyle
-'chylomicron chylomicron
-'chylomicrons chylomicrons
-'chyme chyme
-'chymotrypsin chymotrypsin
-'chymotrypsinogen chymotrypsinogen
-'Cilia Cilia
-'ciliarybody ciliary body
-'ciliaryganglion ciliary ganglion
-'circadianrhythm circadian rhythm
-'circleofWillis circle of Willis
-'Circular Circular
-'circularfold circular fold
-'circulatoryshock circulatory shock
-'Circumduction Circumduction
-'circumflexartery circumflex artery
-'cisternachyli cisterna chyli
-'citricacidcycle citric acid cycle
-'clasp-kniferesponse clasp-knife response
-'Classswitching Class switching
-'clavicle clavicle
-'clavicularnotch clavicular notch
-'cleavage cleavage
-'cleavagefurrow cleavage furrow
-'clitoris clitoris
-'clonalanergy clonal anergy
-'clonaldeletion clonal deletion
-'clonalexpansion clonal expansion
-'Clonalselection Clonal selection
-'clone clone
-'closedreduction closed reduction
-'Clotting Clotting
-'clottingfactors clotting factors
-'coagulation coagulation
-'coccyx coccyx
-'cochlea cochlea
-'cochlearduct cochlear duct
-'Codominance Codominance
-'codon codon
-'Collagenfiber Collagen fiber
-'Collateralganglia Collateral ganglia
-'colloid colloid
-'colon colon
-'Colony-stimulatingfactors(CSFs) Colony-stimulating factors (CSFs)
-'colostrum colostrum
-'commonbileduct common bile duct
-'commoncarotidarteries common carotid arteries
-'commoncarotidartery common carotid artery
-'commonhepaticartery common hepatic artery
-'commonhepaticduct common hepatic duct
-'commoniliacartery common iliac artery
-'commoniliacvein common iliac vein
-'commonpathway common pathway
-'compactbone compact bone
-'complement complement
-'Compliance Compliance
-'compound compound
-'compressorurethrae compressor urethrae
-'Computedtomography(CT) Computed tomography (CT)
-'concentration concentration
-'concentrationgradient concentration gradient
-'concentriccontraction concentric contraction
-'conceptus conceptus
-'conductingzone conducting zone
-'Conduction Conduction
-'Conductionaphasia Conduction aphasia
-'conductivehearing conductive hearing
-'condylarprocessofthemandible condylar process of the mandible
-'condyle condyle
-'condyloidjoint condyloid joint
-'conephotoreceptor cone photoreceptor
-'conjugategaze conjugate gaze
-'Connectivetissue Connective tissue
-'connectivetissuemembrane connective tissue membrane
-'Connectivetissueproper Connective tissue proper
-'constantregiondomain constant region domain
-'continuouscapillary continuous capillary
-'continuousconduction continuous conduction
-'Contractility Contractility
-'contractionphase contraction phase
-'contralateral contralateral
-'controlcenter control center
-'Convection Convection
-'convergence convergence
-'convergent convergent
-'coordinationexam coordination exam
-'coracobrachialis coracobrachialis
-'coracoclavicularligament coracoclavicular ligament
-'coracohumeralligament coracohumeral ligament
-'coracoidprocess coracoid process
-'corn corn
-'cornea cornea
-'cornealreflex corneal reflex
-'coronaradiata corona radiata
-'coronalsuture coronal suture
-'Coronaryarteries Coronary arteries
-'coronarysinus coronary sinus
-'coronarysulcus coronary sulcus
-'Coronaryveins Coronary veins
-'coronoidfossa coronoid fossa
-'coronoidprocessofthemandible coronoid process of the mandible
-'coronoidprocessoftheulna coronoid process of the ulna
-'corpusalbicans corpus albicans
-'corpuscallosum corpus callosum
-'corpuscavernosum corpus cavernosum
-'corpusluteum corpus luteum
-'corpusspongiosum corpus spongiosum
-'corrugatorsupercilii corrugator supercilii
-'cortex cortex
-'corticalnephrons cortical nephrons
-'corticalreaction cortical reaction
-'cortico-ponto-cerebellarpathway cortico-ponto-cerebellar pathway
-'corticobulbartract corticobulbar tract
-'corticospinaltract corticospinal tract
-'cortisol cortisol
-'costalcartilage costal cartilage
-'costalfacet costal facet
-'costalgroove costal groove
-'costoclavicularligament costoclavicular ligament
-'countercurrentmultipliersystem countercurrent multiplier system
-'covalentbond covalent bond
-'coxalbone coxal bone
-'cranial cranial
-'cranialcavity cranial cavity
-'cranialnerve cranial nerve
-'cranialnerveexam cranial nerve exam
-'cranialnerveganglion cranial nerve ganglion
-'craniosacralsystem craniosacral system
-'cranium cranium
-'Creatinephosphate Creatine phosphate
-'cribriformplate cribriform plate
-'cricoidcartilage cricoid cartilage
-'cristagalli crista galli
-'crown crown
-'cuboid cuboid
-'cupula cupula
-'cuspids cuspids
-'cutaneousmembrane cutaneous membrane
-'cuticle cuticle
-'cyclicadenosinemonophosphate(cAMP) cyclic adenosine monophosphate (cAMP)
-'cyclin cyclin
-'cyclin-dependentkinase(CDK) cyclin-dependent kinase (CDK)
-'cysticartery cystic artery
-'cysticduct cystic duct
-'cytoarchitecture cytoarchitecture
-'cytokine cytokine
-'Cytokines Cytokines
-'Cytokinesis Cytokinesis
-'cytoplasm cytoplasm
-'cytoskeleton cytoskeleton
-'Cytosol Cytosol
-'CytotoxicTcells(Tc) Cytotoxic T cells (Tc)
-'Dalton’slaw Dalton’s law
-'deciduousteeth deciduous teeth
-'decompositionreaction decomposition reaction
-'decussates decussates
-'Deep Deep
-'deepanteriorcompartment deep anterior compartment
-'deepfemoralartery deep femoral artery
-'deepfemoralvein deep femoral vein
-'deepposteriorcompartmentoftheforearm deep posterior compartment of the forearm
-'deeptendonreflex deep tendon reflex
-'deeptransverseperineal deep transverse perineal
-'defecation defecation
-'defensins defensins
-'deglutition deglutition
-'dehydration dehydration
-'Delayedhypersensitivity Delayed hypersensitivity
-'deltacell delta cell
-'deltoid deltoid
-'deltoidligament deltoid ligament
-'deltoidtuberosity deltoid tuberosity
-'Denaturation Denaturation
-'dendrite dendrite
-'dens dens
-'densebody dense body
-'denseconnectivetissue dense connective tissue
-'dentes dentes
-'dentin dentin
-'dentition dentition
-'deoxyhemoglobin deoxyhemoglobin
-'deoxyribonuclease deoxyribonuclease
-'Deoxyribonucleicacid(DNA) Deoxyribonucleic acid (DNA)
-'depolarization depolarization
-'depolarize depolarize
-'Depression Depression
-'dermalpapilla dermal papilla
-'dermis dermis
-'descendingaorta descending aorta
-'descendingcolon descending colon
-'descendingtracts descending tracts
-'desmosome desmosome
-'detrusormuscle detrusor muscle
-'Development Development
-'diabetesmellitus diabetes mellitus
-'diacylglycerol(DAG) diacylglycerol (DAG)
-'diapedesis diapedesis
-'diaphragm diaphragm
-'diaphysis diaphysis
-'diarthrosis diarthrosis
-'diastole diastole
-'diastolicpressure diastolic pressure
-'diencephalon diencephalon
-'differentiation differentiation
-'Diffusion Diffusion
-'digastric digastric
-'digitalarteries digital arteries
-'digitalveins digital veins
-'dihydroxyvitaminD dihydroxyvitamin D
-'dilation dilation
-'dipeptidase dipeptidase
-'diploë diploë
-'diploid diploid
-'diplopia diplopia
-'directpathway direct pathway
-'disaccharide disaccharide
-'disinhibition disinhibition
-'Distal Distal
-'distalconvolutedtubules distal convoluted tubules
-'distalradioulnarjoint distal radioulnar joint
-'distaltibiofibularjoint distal tibiofibular joint
-'disulfidebond disulfide bond
-'Diuresis Diuresis
-'diuretic diuretic
-'DNApolymerase DNA polymerase
-'DNAreplication DNA replication
-'dominant dominant
-'Dominantlethal Dominant lethal
-'dorsal dorsal
-'dorsal(posterior)cavity dorsal (posterior) cavity
-'dorsal(posterior)nerveroot dorsal (posterior) nerve root
-'dorsal(posterior)rootganglion dorsal (posterior) root ganglion
-'dorsalarch dorsal arch
-'dorsalcolumnsystem dorsal column system
-'dorsalgroup dorsal group
-'dorsalinterossei dorsal interossei
-'dorsallongitudinalfasciculus dorsal longitudinal fasciculus
-'dorsalnucleusofthevagusnerve dorsal nucleus of the vagus nerve
-'dorsalrespiratorygroup(DRG) dorsal respiratory group (DRG)
-'dorsalstream dorsal stream
-'dorsalvenousarch dorsal venous arch
-'dorsalispedisartery dorsalis pedis artery
-'Dorsiflexion Dorsiflexion
-'dorsumnasi dorsum nasi
-'downregulation downregulation
-'ductusarteriosus ductus arteriosus
-'ductusdeferens ductus deferens
-'ductusvenosus ductus venosus
-'duodenalglands duodenal glands
-'duodenum duodenum
-'duramater dura mater
-'duralsinuses dural sinuses
-'earossicles ear ossicles
-'earlyinducedimmuneresponse early induced immune response
-'eccentriccontraction eccentric contraction
-'eccrinesweatgland eccrine sweat gland
-'ectoderm ectoderm
-'ectopicpregnancy ectopic pregnancy
-'Eczema Eczema
-'edema edema
-'Edinger–Westphalnucleus Edinger–Westphal nucleus
-'effector effector
-'effectorprotein effector protein
-'effectorTcells effector T cells
-'efferentarteriole efferent arteriole
-'efferentbranch efferent branch
-'efferentlymphaticvessels efferent lymphatic vessels
-'ejaculatoryduct ejaculatory duct
-'ejectionfraction ejection fraction
-'elastase elastase
-'elasticartery elastic artery
-'Elasticcartilage Elastic cartilage
-'Elasticfiber Elastic fiber
-'elasticity elasticity
-'Elastinfibers Elastin fibers
-'elbowjoint elbow joint
-'electricalgradient electrical gradient
-'electricalsynapse electrical synapse
-'electrocardiogram(ECG) electrocardiogram (ECG)
-'electrochemicalexclusion electrochemical exclusion
-'electron electron
-'electronshell electron shell
-'electrontransportchain(ETC) electron transport chain (ETC)
-'eleidin eleidin
-'element element
-'elevation elevation
-'embolus embolus
-'embryo embryo
-'embryonicfolding embryonic folding
-'emigration emigration
-'enamel enamel
-'encapsulatedending encapsulated ending
-'enddiastolicvolume(EDV) end diastolic volume (EDV)
-'endsystolicvolume(ESV) end systolic volume (ESV)
-'endocardialtubes endocardial tubes
-'endocardium endocardium
-'endochondralossification endochondral ossification
-'endocrinegland endocrine gland
-'endocrinesystem endocrine system
-'Endocytosis Endocytosis
-'endoderm endoderm
-'endogenous endogenous
-'endogenouschemical endogenous chemical
-'endometrium endometrium
-'endomysium endomysium
-'endoneurium endoneurium
-'endoplasmicreticulum(ER) endoplasmic reticulum (ER)
-'endosteum endosteum
-'Endothelins Endothelins
-'endothelium endothelium
-'energy-consumingphase energy-consuming phase
-'energy-yieldingphase energy-yielding phase
-'entericnervoussystem enteric nervous system
-'entericnervoussystem(ENS) enteric nervous system (ENS)
-'entericplexus enteric plexus
-'enteroendocrinecells enteroendocrine cells
-'enterohepaticcirculation enterohepatic circulation
-'enterokinase enterokinase
-'enteropeptidase enteropeptidase
-'enzyme enzyme
-'Eosinophils Eosinophils
-'ependymalcell ependymal cell
-'epiblast epiblast
-'epicardialcoronaryarteries epicardial coronary arteries
-'epicardium epicardium
-'epicranialaponeurosis epicranial aponeurosis
-'epidermis epidermis
-'epididymis epididymis
-'epiglottis epiglottis
-'epimysium epimysium
-'epinephrine epinephrine
-'epineurium epineurium
-'epiphysealline epiphyseal line
-'epiphysealplate epiphyseal plate
-'epiphysis epiphysis
-'epiploicappendages epiploic appendages
-'episiotomy episiotomy
-'episodicmemory episodic memory
-'epithalamus epithalamus
-'epithelialmembrane epithelial membrane
-'Epithelialtissue Epithelial tissue
-'eponychium eponychium
-'equilibrium equilibrium
-'erectorspinaegroup erector spinae group
-'erythroblastosisfetalis erythroblastosis fetalis
-'erythrocyte erythrocyte
-'erythropoietin(EPO) erythropoietin (EPO)
-'esophagealartery esophageal artery
-'esophagealplexus esophageal plexus
-'esophagealvein esophageal vein
-'esophagus esophagus
-'estrogens estrogens
-'ethmoidaircell ethmoid air cell
-'ethmoidbone ethmoid bone
-'Evaporation Evaporation
-'eversion eversion
-'exchangereaction exchange reaction
-'excitability excitability
-'excitablemembrane excitable membrane
-'excitation-contractioncoupling excitation-contraction coupling
-'excitatorypostsynapticpotential(EPSP) excitatory postsynaptic potential (EPSP)
-'executivefunctions executive functions
-'exocrinegland exocrine gland
-'exocrinesystem exocrine system
-'exocytosis exocytosis
-'exogenous exogenous
-'exogenouschemical exogenous chemical
-'exon exon
-'expiration expiration
-'Expiratoryreservevolume(ERV) Expiratory reserve volume (ERV)
-'expressiveaphasia expressive aphasia
-'expulsion expulsion
-'extensibility extensibility
-'extension extension
-'extensor extensor
-'extensorcarpiradialisbrevis extensor carpi radialis brevis
-'extensorcarpiulnaris extensor carpi ulnaris
-'extensordigitiminimi extensor digiti minimi
-'extensordigitorum extensor digitorum
-'extensordigitorumbrevis extensor digitorum brevis
-'extensordigitorumlongus extensor digitorum longus
-'extensorhallucislongus extensor hallucis longus
-'extensorindicis extensor indicis
-'extensorpollicisbrevis extensor pollicis brevis
-'extensorpollicislongus extensor pollicis longus
-'extensorradialislongus extensor radialis longus
-'extensorretinaculum extensor retinaculum
-'Externalacousticmeatus External acoustic meatus
-'externalanalsphincter external anal sphincter
-'externalcallus external callus
-'externalcarotidartery external carotid artery
-'externalear external ear
-'externalelasticmembrane external elastic membrane
-'externaliliacartery external iliac artery
-'externaliliacvein external iliac vein
-'externalintercostal external intercostal
-'externaljugularvein external jugular vein
-'externalnose external nose
-'externaloblique external oblique
-'externaloccipitalprotuberance external occipital protuberance
-'Externalrespiration External respiration
-'externalrootsheath external root sheath
-'externalurinarysphincter external urinary sphincter
-'exteroceptor exteroceptor
-'Extracellularfluid(ECF) Extracellular fluid (ECF)
-'extraocularmuscles extraocular muscles
-'extrapyramidalsystem extrapyramidal system
-'extrinsiceyemuscles extrinsic eye muscles
-'extrinsicligament extrinsic ligament
-'extrinsicmusclesofthehand extrinsic muscles of the hand
-'extrinsicmusclesofthetongue extrinsic muscles of the tongue
-'extrinsicpathway extrinsic pathway
-'facet facet
-'facialbones facial bones
-'facialnerve facial nerve
-'Facilitateddiffusion Facilitated diffusion
-'FADH2 FADH2
-'falseribs false ribs
-'fasligand fas ligand
-'fascicle fascicle
-'fascicles fascicles
-'fasciculation fasciculation
-'fasciculuscuneatus fasciculus cuneatus
-'fasciculusgracilis fasciculus gracilis
-'fastglycolytic(FG) fast glycolytic (FG)
-'Fastoxidative(FO) Fast oxidative (FO)
-'fattyacidoxidation fatty acid oxidation
-'fauces fauces
-'Fcregion Fc region
-'feces feces
-'femoralartery femoral artery
-'femoralcircumflexvein femoral circumflex vein
-'femoralnerve femoral nerve
-'femoraltriangle femoral triangle
-'femoralvein femoral vein
-'femoropatellarjoint femoropatellar joint
-'femur femur
-'fenestratedcapillary fenestrated capillary
-'fenestrations fenestrations
-'ferritin ferritin
-'Fertilization Fertilization
-'fertilizationmembrane fertilization membrane
-'fetus fetus
-'fibrillation fibrillation
-'fibrin fibrin
-'Fibrinogen Fibrinogen
-'Fibrinolysis Fibrinolysis
-'fibroblast fibroblast
-'Fibrocartilage Fibrocartilage
-'fibrocyte fibrocyte
-'fibroelasticmembrane fibroelastic membrane
-'fibrosis fibrosis
-'fibrousjoint fibrous joint
-'fibroustunic fibrous tunic
-'fibula fibula
-'fibularcollateralligament fibular collateral ligament
-'fibularnerve fibular nerve
-'fibularnotch fibular notch
-'fibularvein fibular vein
-'fibularisbrevis fibularis brevis
-'fibularislongus fibularis longus
-'fibularistertius fibularis tertius
-'fight-or-flightresponse fight-or-flight response
-'fillingtime filling time
-'filtration filtration
-'filtrationslits filtration slits
-'fimbriae fimbriae
-'firstmessenger first messenger
-'first-degreeburn first-degree burn
-'fixator fixator
-'flaccidparalysis flaccid paralysis
-'flaccidity flaccidity
-'flagellum flagellum
-'flatbone flat bone
-'flatus flatus
-'flavinadeninedinucleotide(FAD) flavin adenine dinucleotide (FAD)
-'Flexion Flexion
-'flexor flexor
-'flexorcarpiradialis flexor carpi radialis
-'flexorcarpiulnaris flexor carpi ulnaris
-'flexordigitiminimibrevis flexor digiti minimi brevis
-'flexordigitorumlongus flexor digitorum longus
-'flexordigitorumprofundus flexor digitorum profundus
-'flexordigitorumsuperficialis flexor digitorum superficialis
-'flexorhallucislongus flexor hallucis longus
-'flexorpollicisbrevis flexor pollicis brevis
-'flexorpollicislongus flexor pollicis longus
-'flexorretinaculum flexor retinaculum
-'floatingribs floating ribs
-'flocculonodularlobe flocculonodular lobe
-'fluidcompartment fluid compartment
-'fluidconnectivetissue fluid connective tissue
-'follicle follicle
-'follicle-stimulatinghormone(FSH) follicle-stimulating hormone (FSH)
-'folliculogenesis folliculogenesis
-'fontanelle fontanelle
-'fontanelles fontanelles
-'foot foot
-'Foramenlacerum Foramen lacerum
-'foramenmagnum foramen magnum
-'foramenovale foramen ovale
-'Foramenovaleofthemiddlecranialfossa Foramen ovale of the middle cranial fossa
-'Foramenrotundum Foramen rotundum
-'Foramenspinosum Foramen spinosum
-'forcedbreathing forced breathing
-'forearm forearm
-'forebrain forebrain
-'foregut foregut
-'foremilk foremilk
-'formedelements formed elements
-'formingurine forming urine
-'fossa fossa
-'fossaovalis fossa ovalis
-'fourthventricle fourth ventricle
-'fourth-degreeburn fourth-degree burn
-'fovea fovea
-'foveacapitis fovea capitis
-'fracture fracture
-'fracturehematoma fracture hematoma
-'Frank-Starlingmechanism Frank-Starling mechanism
-'freenerveending free nerve ending
-'frontalbone frontal bone
-'frontaleyefields frontal eye fields
-'frontallobe frontal lobe
-'frontalplane frontal plane
-'frontalsinus frontal sinus
-'frontalis frontalis
-'functionalgroup functional group
-'functionalresidualcapacity(FRC) functional residual capacity (FRC)
-'fundus fundus
-'fusiform fusiform
-'Gcells G cells
-'Gprotein G protein
-'Gprotein–coupledreceptor G protein–coupled receptor
-'G0phase G0 phase
-'G1phase G1 phase
-'G2phase G2 phase
-'gait gait
-'gaitexam gait exam
-'gallbladder gallbladder
-'gamete gamete
-'ganglion ganglion
-'ganglionicneuron ganglionic neuron
-'gapjunction gap junction
-'gastricemptying gastric emptying
-'gastricgland gastric gland
-'gastricphase gastric phase
-'gastricpits gastric pits
-'gastricplexuses gastric plexuses
-'gastrin gastrin
-'gastrocnemius gastrocnemius
-'gastrocolicreflex gastrocolic reflex
-'gastroilealreflex gastroileal reflex
-'gastrulation gastrulation
-'gated gated
-'gene gene
-'Geneexpression Gene expression
-'generaladaptationsyndrome(GAS) general adaptation syndrome (GAS)
-'generalsense general sense
-'generatorpotential generator potential
-'genicularartery genicular artery
-'genioglossus genioglossus
-'geniohyoid geniohyoid
-'genome genome
-'genotype genotype
-'Germinalcenters Germinal centers
-'gestation gestation
-'gigantism gigantism
-'Gingivae Gingivae
-'glabella glabella
-'glanspenis glans penis
-'glassymembrane glassy membrane
-'glenohumeraljoint glenohumeral joint
-'glenohumeralligament glenohumeral ligament
-'glenoidcavity glenoid cavity
-'glenoidlabrum glenoid labrum
-'glialcell glial cell
-'globin globin
-'globulins globulins
-'globuspallidus globus pallidus
-'glomerularfiltrationrate(GFR) glomerular filtration rate (GFR)
-'glomerulus glomerulus
-'glossopharyngealnerve glossopharyngeal nerve
-'glottis glottis
-'glucagon glucagon
-'glucocorticoids glucocorticoids
-'Glucokinase Glucokinase
-'Gluconeogenesis Gluconeogenesis
-'glucose-6-phosphate glucose-6-phosphate
-'glutealgroup gluteal group
-'glutealtuberosity gluteal tuberosity
-'gluteusmaximus gluteus maximus
-'gluteusmedius gluteus medius
-'gluteusminimus gluteus minimus
-'glycocalyx glycocalyx
-'glycogen glycogen
-'Glycolysis Glycolysis
-'glycoprotein glycoprotein
-'glycosuria glycosuria
-'gnosis gnosis
-'gobletcell goblet cell
-'goiter goiter
-'Golgiapparatus Golgi apparatus
-'gomphosis gomphosis
-'gonadalartery gonadal artery
-'gonadalvein gonadal vein
-'gonadotropin-releasinghormone(GnRH) gonadotropin-releasing hormone (GnRH)
-'gonadotropins gonadotropins
-'gonads gonads
-'gracilis gracilis
-'gradedmuscleresponse graded muscle response
-'gradedpotential graded potential
-'graft-versus-hostdisease graft-versus-host disease
-'Granularleukocytes Granular leukocytes
-'granulosacells granulosa cells
-'granzyme granzyme
-'graphesthesia graphesthesia
-'graymatter gray matter
-'grayramicommunicantes gray rami communicantes
-'greatcardiacvein great cardiac vein
-'greatcerebralvein great cerebral vein
-'greatsaphenousvein great saphenous vein
-'greaterpelvis greater pelvis
-'greatersciaticforamen greater sciatic foramen
-'greatersciaticnotch greater sciatic notch
-'greatersplanchnicnerve greater splanchnic nerve
-'greatertrochanter greater trochanter
-'greatertubercle greater tubercle
-'greaterwingsofthesphenoidbone greater wings of the sphenoid bone
-'Grossanatomy Gross anatomy
-'groundsubstance ground substance
-'Growth Growth
-'growthhormone(GH) growth hormone (GH)
-'gustation gustation
-'gustatoryreceptorcells gustatory receptor cells
-'gyrus gyrus
-'Hair Hair
-'hairbulb hair bulb
-'haircells hair cells
-'hairfollicle hair follicle
-'hairmatrix hair matrix
-'hairpapilla hair papilla
-'hairroot hair root
-'hairshaft hair shaft
-'Haldaneeffect Haldane effect
-'hallux hallux
-'hamate hamate
-'hamstringgroup hamstring group
-'hand hand
-'hardpalate hard palate
-'haustra haustra
-'haustralcontraction haustral contraction
-'headofthefemur head of the femur
-'headofthefibula head of the fibula
-'headofthehumerus head of the humerus
-'headofthemetatarsalbone head of the metatarsal bone
-'headoftheradius head of the radius
-'headoftherib head of the rib
-'headoftheulna head of the ulna
-'heartblock heart block
-'heartbulge heart bulge
-'heartrate(HR) heart rate (HR)
-'heartsounds heart sounds
-'heavychain heavy chain
-'helicase helicase
-'HelperTcells(Th) Helper T cells (Th)
-'hemangioblasts hemangioblasts
-'hematocrit hematocrit
-'hematopoiesis hematopoiesis
-'hematopoieticstemcell hematopoietic stem cell
-'heme heme
-'hemiazygosvein hemiazygos vein
-'hemisection hemisection
-'hemocytoblast hemocytoblast
-'Hemoglobin Hemoglobin
-'hemolysis hemolysis
-'hemolyticdiseaseofthenewborn(HDN) hemolytic disease of the newborn (HDN)
-'hemophilia hemophilia
-'hemopoiesis hemopoiesis
-'hemopoieticgrowthfactors hemopoietic growth factors
-'hemorrhage hemorrhage
-'hemorrhagicstroke hemorrhagic stroke
-'hemosiderin hemosiderin
-'hemostasis hemostasis
-'Henry’slaw Henry’s law
-'heparin heparin
-'hepaticartery hepatic artery
-'hepaticarteryproper hepatic artery proper
-'hepaticlobule hepatic lobule
-'hepaticportalsystem hepatic portal system
-'hepaticportalvein hepatic portal vein
-'hepaticsinusoid hepatic sinusoid
-'hepaticvein hepatic vein
-'hepatocyte hepatocyte
-'hepatopancreaticampulla hepatopancreatic ampulla
-'hepatopancreaticsphincter hepatopancreatic sphincter
-'heterozygous heterozygous
-'Hexokinase Hexokinase
-'highendothelialvenules high endothelial venules
-'hilum hilum
-'hindbrain hindbrain
-'Hindmilk Hindmilk
-'hingejoint hinge joint
-'hipbone hip bone
-'hipjoint hip joint
-'hippocampus hippocampus
-'histamine histamine
-'histology histology
-'histone histone
-'hole hole
-'holocrinesecretion holocrine secretion
-'Homeostasis Homeostasis
-'homologous homologous
-'homozygous homozygous
-'hookofthehamatebone hook of the hamate bone
-'horizontalplate horizontal plate
-'hormone hormone
-'hormonereceptor hormone receptor
-'humanchorionicgonadotropin(hCG) human chorionic gonadotropin (hCG)
-'humeroradialjoint humeroradial joint
-'humeroulnarjoint humeroulnar joint
-'humerus humerus
-'Hyalinecartilage Hyaline cartilage
-'hydrochloricacid(HCl) hydrochloric acid (HCl)
-'hydrogenbond hydrogen bond
-'hydrophilic hydrophilic
-'hydrophobic hydrophobic
-'Hydrostaticpressure Hydrostatic pressure
-'hydroxymethylglutarylCoA(HMGCoA) hydroxymethylglutaryl CoA (HMG CoA)
-'hymen hymen
-'hyoglossus hyoglossus
-'hyoidbone hyoid bone
-'hypercalcemia hypercalcemia
-'Hypercapnia Hypercapnia
-'Hyperchloremia Hyperchloremia
-'Hyperextension Hyperextension
-'hyperflexia hyperflexia
-'hyperflexion hyperflexion
-'hyperglycemia hyperglycemia
-'Hyperkalemia Hyperkalemia
-'Hypernatremia Hypernatremia
-'hyperparathyroidism hyperparathyroidism
-'Hyperphosphatemia Hyperphosphatemia
-'hyperplasia hyperplasia
-'Hyperpnea Hyperpnea
-'hypertension hypertension
-'hyperthyroidism hyperthyroidism
-'hypertonia hypertonia
-'hypertonic hypertonic
-'hypertrophiccardiomyopathy hypertrophic cardiomyopathy
-'hypertrophy hypertrophy
-'hyperventilation hyperventilation
-'Hypervolemia Hypervolemia
-'hypoblast hypoblast
-'Hypocalcemia Hypocalcemia
-'Hypocapnia Hypocapnia
-'Hypochloremia Hypochloremia
-'hypodermis hypodermis
-'hypoglossalcanal hypoglossal canal
-'hypoglossalnerve hypoglossal nerve
-'Hypokalemia Hypokalemia
-'Hyponatremia Hyponatremia
-'hyponychium hyponychium
-'hypoparathyroidism hypoparathyroidism
-'Hypophosphatemia Hypophosphatemia
-'hypophyseal(pituitary)fossa hypophyseal (pituitary) fossa
-'hypophysealportalsystem hypophyseal portal system
-'hypothalamus hypothalamus
-'hypothenar hypothenar
-'hypothenareminence hypothenar eminence
-'hypothyroidism hypothyroidism
-'hypotonia hypotonia
-'hypotonic hypotonic
-'hypotonicity hypotonicity
-'hypovolemia hypovolemia
-'Hypovolemicshock Hypovolemic shock
-'hypoxemia hypoxemia
-'hypoxia hypoxia
-'IgA IgA
-'IgD IgD
-'IgE IgE
-'IgG IgG
-'IgM IgM
-'ileocecalsphincter ileocecal sphincter
-'ileum ileum
-'iliaccrest iliac crest
-'iliacfossa iliac fossa
-'iliacus iliacus
-'iliococcygeus iliococcygeus
-'iliocostaliscervicis iliocostalis cervicis
-'iliocostalisgroup iliocostalis group
-'iliocostalislumborum iliocostalis lumborum
-'iliocostalisthoracis iliocostalis thoracis
-'iliofemoralligament iliofemoral ligament
-'iliopsoasgroup iliopsoas group
-'iliotibialtract iliotibial tract
-'ilium ilium
-'immediatehypersensitivity immediate hypersensitivity
-'immunesystem immune system
-'immunoglobulin immunoglobulin
-'immunoglobulins immunoglobulins
-'immunologicalmemory immunological memory
-'implantation implantation
-'inactivationgate inactivation gate
-'inactiveproenzymes inactive proenzymes
-'incisors incisors
-'incompletedominance incomplete dominance
-'incontinence incontinence
-'incus incus
-'indirectpathway indirect pathway
-'Inferior Inferior
-'inferiorangleofthescapula inferior angle of the scapula
-'inferiorarticularprocess inferior articular process
-'inferiorcerebellarpeduncle(ICP) inferior cerebellar peduncle (ICP)
-'inferiorcolliculus inferior colliculus
-'inferiorextensorretinaculum inferior extensor retinaculum
-'inferiorgemellus inferior gemellus
-'inferiormesentericartery inferior mesenteric artery
-'inferiormesentericganglion inferior mesenteric ganglion
-'inferiornasalconcha inferior nasal concha
-'inferioroblique inferior oblique
-'inferiorolive inferior olive
-'inferiorphrenicartery inferior phrenic artery
-'inferiorpubicramus inferior pubic ramus
-'inferiorrectus inferior rectus
-'Inferiorrotation Inferior rotation
-'inferiorvenacava inferior vena cava
-'Inflammation Inflammation
-'infraglenoidtubercle infraglenoid tubercle
-'infrahyoidmuscles infrahyoid muscles
-'infraorbitalforamen infraorbital foramen
-'infraspinatus infraspinatus
-'infraspinousfossa infraspinous fossa
-'infratemporalfossa infratemporal fossa
-'infundibulum infundibulum
-'ingestion ingestion
-'inguinalcanal inguinal canal
-'inhibin inhibin
-'inhibitorypostsynapticpotential(IPSP) inhibitory postsynaptic potential (IPSP)
-'initialsegment initial segment
-'innateimmuneresponse innate immune response
-'innercellmass inner cell mass
-'innerear inner ear
-'innersegment inner segment
-'innersynapticlayer inner synaptic layer
-'innermostintercostal innermost intercostal
-'inorganiccompound inorganic compound
-'inositoltriphosphate(IP3) inositol triphosphate (IP3)
-'insertion insertion
-'Inspiration Inspiration
-'Inspiratorycapacity(IC) Inspiratory capacity (IC)
-'Inspiratoryreservevolume(IRV) Inspiratory reserve volume (IRV)
-'insulin insulin
-'insulin-likegrowthfactors(IGFs) insulin-like growth factors (IGFs)
-'integralprotein integral protein
-'integration integration
-'integumentarysystem integumentary system
-'interatrialband interatrial band
-'interatrialseptum interatrial septum
-'interauralintensitydifference interaural intensity difference
-'interauraltimedifference interaural time difference
-'intercalatedcell intercalated cell
-'intercalateddisc intercalated disc
-'intercondylareminence intercondylar eminence
-'intercondylarfossa intercondylar fossa
-'intercostalartery intercostal artery
-'intercostalmuscles intercostal muscles
-'intercostalnerves intercostal nerves
-'intercostalvein intercostal vein
-'Interferons Interferons
-'Interleukins Interleukins
-'intermediate intermediate
-'intermediatecuneiform intermediate cuneiform
-'intermediatefilament intermediate filament
-'Internalacousticmeatus Internal acoustic meatus
-'internalanalsphincter internal anal sphincter
-'internalcallus internal callus
-'internalcapsule internal capsule
-'internalcarotidarteries internal carotid arteries
-'internalcarotidartery internal carotid artery
-'internalelasticmembrane internal elastic membrane
-'internaliliacartery internal iliac artery
-'internaliliacvein internal iliac vein
-'internalintercostal internal intercostal
-'internaljugularvein internal jugular vein
-'internaloblique internal oblique
-'Internalrespiration Internal respiration
-'internalrootsheath internal root sheath
-'internalthoracicartery internal thoracic artery
-'internalthoracicvein internal thoracic vein
-'internalurinarysphincter internal urinary sphincter
-'internodalpathways internodal pathways
-'internuclearophthalmoplegia internuclear ophthalmoplegia
-'interoceptor interoceptor
-'interosseousborderofthefibula interosseous border of the fibula
-'interosseousborderoftheradius interosseous border of the radius
-'interosseousborderofthetibia interosseous border of the tibia
-'interosseousborderoftheulna interosseous border of the ulna
-'interosseousmembrane interosseous membrane
-'interosseousmembraneoftheforearm interosseous membrane of the forearm
-'interosseousmembraneoftheleg interosseous membrane of the leg
-'interphalangealjoint interphalangeal joint
-'Interphase Interphase
-'interstitialfluid(IF) interstitial fluid (IF)
-'Interstitialfluid(IF) Interstitial fluid (IF)
-'interstitialfluidcolloidalosmoticpressure(IFCOP) interstitial fluid colloidal osmotic pressure (IFCOP)
-'interstitialfluidhydrostaticpressure(IFHP) interstitial fluid hydrostatic pressure (IFHP)
-'intertrochantericcrest intertrochanteric crest
-'intertrochantericline intertrochanteric line
-'intertuberculargroove(sulcus) intertubercular groove (sulcus)
-'interventricularforamina interventricular foramina
-'interventricularseptum interventricular septum
-'intervertebraldisc intervertebral disc
-'intervertebralforamen intervertebral foramen
-'intestinalgland intestinal gland
-'intestinaljuice intestinal juice
-'intestinalphase intestinal phase
-'intorsion intorsion
-'Intra-alveolarpressure Intra-alveolar pressure
-'intracapsularligament intracapsular ligament
-'intracellularfluid(ICF) intracellular fluid (ICF)
-'Intracellularfluid(ICF) Intracellular fluid (ICF)
-'intramembranousossification intramembranous ossification
-'intramuralganglia intramural ganglia
-'Intrapleuralpressure Intrapleural pressure
-'intrinsicfactor intrinsic factor
-'intrinsicligament intrinsic ligament
-'intrinsicmusclesofthehand intrinsic muscles of the hand
-'intrinsicmusclesofthetongue intrinsic muscles of the tongue
-'intrinsicpathway intrinsic pathway
-'intron intron
-'inulin inulin
-'Inversion Inversion
-'involution involution
-'ion ion
-'ionicbond ionic bond
-'ionotropicreceptor ionotropic receptor
-'ipsilateral ipsilateral
-'iris iris
-'irregularbone irregular bone
-'ischemia ischemia
-'ischemicstroke ischemic stroke
-'ischialramus ischial ramus
-'ischialspine ischial spine
-'ischialtuberosity ischial tuberosity
-'ischiococcygeus ischiococcygeus
-'ischiofemoralligament ischiofemoral ligament
-'ischiopubicramus ischiopubic ramus
-'ischium ischium
-'isometriccontraction isometric contraction
-'isotonic isotonic
-'isotoniccontractions isotonic contractions
-'isotope isotope
-'isovolumiccontraction isovolumic contraction
-'isovolumicventricularrelaxationphase isovolumic ventricular relaxation phase
-'isthmus isthmus
-'jaundice jaundice
-'jaw-jerkreflex jaw-jerk reflex
-'jejunum jejunum
-'joint joint
-'jointcavity joint cavity
-'jointinterzone joint interzone
-'jugular(suprasternal)notch jugular (suprasternal) notch
-'jugularforamen jugular foramen
-'jugularveins jugular veins
-'juxtaglomerularapparatus(JGA) juxtaglomerular apparatus (JGA)
-'juxtaglomerularcell juxtaglomerular cell
-'juxtamedullarynephrons juxtamedullary nephrons
-'karyotype karyotype
-'keloid keloid
-'Keratin Keratin
-'keratinocyte keratinocyte
-'keratohyalin keratohyalin
-'ketonebodies ketone bodies
-'kinesthesia kinesthesia
-'kineticenergy kinetic energy
-'kinetochore kinetochore
-'kneejoint knee joint
-'Korotkoffsounds Korotkoff sounds
-'Krebscycle Krebs cycle
-'kyphosis kyphosis
-'labia labia
-'labiamajora labia majora
-'labiaminora labia minora
-'labialfrenulum labial frenulum
-'lacrimalbone lacrimal bone
-'lacrimalduct lacrimal duct
-'lacrimalfossa lacrimal fossa
-'lacrimalgland lacrimal gland
-'lactase lactase
-'Lactation Lactation
-'lacteal lacteal
-'lacticacid lactic acid
-'lactiferousducts lactiferous ducts
-'lactiferoussinus lactiferous sinus
-'lacuna lacuna
-'lacunae lacunae
-'lambdoidsuture lambdoid suture
-'lamina lamina
-'laminapropria lamina propria
-'Langerhanscell Langerhans cell
-'lanugo lanugo
-'largeintestine large intestine
-'laryngealprominence laryngeal prominence
-'laryngopharynx laryngopharynx
-'laryngotrachealbud laryngotracheal bud
-'larynx larynx
-'latch-bridges latch-bridges
-'latentperiod latent period
-'Lateral Lateral
-'lateral(external)rotation lateral (external) rotation
-'lateralapertures lateral apertures
-'lateralborderofthescapula lateral border of the scapula
-'lateralcircumflexartery lateral circumflex artery
-'lateralcolumns lateral columns
-'lateralcompartmentoftheleg lateral compartment of the leg
-'lateralcondyleofthefemur lateral condyle of the femur
-'lateralcondyleofthetibia lateral condyle of the tibia
-'lateralcorticospinaltract lateral corticospinal tract
-'lateralcuneiform lateral cuneiform
-'lateralepicondyleofthefemur lateral epicondyle of the femur
-'lateralepicondyleofthehumerus lateral epicondyle of the humerus
-'Lateralexcursion Lateral excursion
-'Lateralflexion Lateral flexion
-'lateralgeniculatenucleus lateral geniculate nucleus
-'lateralhorn lateral horn
-'lateralmalleolus lateral malleolus
-'lateralmeniscus lateral meniscus
-'lateralplantarartery lateral plantar artery
-'lateralpterygoid lateral pterygoid
-'lateralpterygoidplate lateral pterygoid plate
-'lateralrectus lateral rectus
-'lateralsacralcrest lateral sacral crest
-'lateralsulcus lateral sulcus
-'lateralsupracondylarridge lateral supracondylar ridge
-'lateraltibiofemoraljoint lateral tibiofemoral joint
-'lateralventricles lateral ventricles
-'lateralis lateralis
-'latissimusdorsi latissimus dorsi
-'leakagechannel leakage channel
-'leakytightjunctions leaky tight junctions
-'leftatrioventricularvalve left atrioventricular valve
-'leftcolicflexure left colic flexure
-'leftgastricartery left gastric artery
-'leg leg
-'lens lens
-'leptin leptin
-'lesserpelvis lesser pelvis
-'lessersciaticforamen lesser sciatic foramen
-'lessersciaticnotch lesser sciatic notch
-'lessersplanchnicnerve lesser splanchnic nerve
-'lessertrochanter lesser trochanter
-'lessertubercle lesser tubercle
-'lesserwingsofthesphenoidbone lesser wings of the sphenoid bone
-'let-downreflex let-down reflex
-'Leukemia Leukemia
-'leukocyte leukocyte
-'Leukocyteesterase Leukocyte esterase
-'leukocytosis leukocytosis
-'Leukopenia Leukopenia
-'levatorani levator ani
-'levatorpalpebraesuperioris levator palpebrae superioris
-'Leydigcells Leydig cells
-'ligament ligament
-'ligamentoftheheadofthefemur ligament of the head of the femur
-'ligamentumflavum ligamentum flavum
-'ligand ligand
-'ligand-gatedcationchannel ligand-gated cation channel
-'ligand-gatedchannel ligand-gated channel
-'lightchain light chain
-'lightening lightening
-'limbbud limb bud
-'limbiccortex limbic cortex
-'limbiclobe limbic lobe
-'limbicsystem limbic system
-'lineaalba linea alba
-'lineaaspera linea aspera
-'lingualfrenulum lingual frenulum
-'linguallipase lingual lipase
-'lingualtonsil lingual tonsil
-'Lingula Lingula
-'Lingular Lingular
-'lipid lipid
-'lipogenesis lipogenesis
-'lipolysis lipolysis
-'lipoproteinlipase lipoprotein lipase
-'liver liver
-'lochia lochia
-'longbone long bone
-'longreflex long reflex
-'longissimuscapitis longissimus capitis
-'longissimuscervicis longissimus cervicis
-'longissimusgroup longissimus group
-'longissimusthoracis longissimus thoracis
-'longitudinalfissure longitudinal fissure
-'longus longus
-'loopofHenle loop of Henle
-'looseconnectivetissue loose connective tissue
-'lordosis lordosis
-'loweresophagealsphincter lower esophageal sphincter
-'lowermotorneuron lower motor neuron
-'lumbararteries lumbar arteries
-'lumbarcurve lumbar curve
-'lumbarenlargement lumbar enlargement
-'lumbarplexus lumbar plexus
-'lumbarpuncture lumbar puncture
-'lumbarveins lumbar veins
-'Lumbarvertebrae Lumbar vertebrae
-'lumbrical lumbrical
-'lumen lumen
-'lunate lunate
-'lung lung
-'lungbud lung bud
-'lunula lunula
-'Luteinizinghormone(LH) Luteinizing hormone (LH)
-'Lymph Lymph
-'lymphnode lymph node
-'Lymphaticcapillaries Lymphatic capillaries
-'lymphaticsystem lymphatic system
-'lymphatictrunks lymphatic trunks
-'Lymphocytes Lymphocytes
-'lymphoidnodules lymphoid nodules
-'Lymphoidstemcells Lymphoid stem cells
-'Lymphoma Lymphoma
-'lysosome lysosome
-'lysozyme lysozyme
-'macromolecule macromolecule
-'macrophage macrophage
-'Macrophageoxidativemetabolism Macrophage oxidative metabolism
-'macula macula
-'maculadensa macula densa
-'Magneticresonanceimaging(MRI) Magnetic resonance imaging (MRI)
-'mainpancreaticduct main pancreatic duct
-'majorduodenalpapilla major duodenal papilla
-'majorhistocompatibilitycomplex(MHC) major histocompatibility complex (MHC)
-'malleus malleus
-'maltase maltase
-'mammaryglands mammary glands
-'mandible mandible
-'Mandibularforamen Mandibular foramen
-'Mandibularfossa Mandibular fossa
-'mandibularnotch mandibular notch
-'manubrium manubrium
-'marginalarteries marginal arteries
-'massmovement mass movement
-'massnumber mass number
-'masseter masseter
-'mastcell mast cell
-'mastication mastication
-'mastoidprocess mastoid process
-'matrix matrix
-'matter matter
-'maxillarybone maxillary bone
-'maxillarysinus maxillary sinus
-'maxillaryvein maxillary vein
-'maximus maximus
-'Meanarterialpressure(MAP) Mean arterial pressure (MAP)
-'meatuses meatuses
-'Mechanicaldigestion Mechanical digestion
-'mechanicallygatedchannel mechanically gated channel
-'mechanoreceptor mechanoreceptor
-'meconium meconium
-'Medial Medial
-'medial(internal)rotation medial (internal) rotation
-'medialborderofthescapula medial border of the scapula
-'medialcompartmentofthethigh medial compartment of the thigh
-'medialcondyleofthefemur medial condyle of the femur
-'medialcondyleofthetibia medial condyle of the tibia
-'medialcuneiform medial cuneiform
-'medialepicondyleofthefemur medial epicondyle of the femur
-'medialepicondyleofthehumerus medial epicondyle of the humerus
-'Medialexcursion Medial excursion
-'medialforebrainbundle medial forebrain bundle
-'medialgeniculatenucleus medial geniculate nucleus
-'mediallemniscus medial lemniscus
-'mediallongitudinalfasciculus(MLF) medial longitudinal fasciculus (MLF)
-'medialmalleolus medial malleolus
-'medialmeniscus medial meniscus
-'medialplantarartery medial plantar artery
-'medialpterygoid medial pterygoid
-'medialpterygoidplate medial pterygoid plate
-'medialrectus medial rectus
-'medialtibiofemoraljoint medial tibiofemoral joint
-'medialis medialis
-'medianantebrachialvein median antebrachial vein
-'medianaperture median aperture
-'mediancubitalvein median cubital vein
-'mediannerve median nerve
-'mediansacralartery median sacral artery
-'mediansacralcrest median sacral crest
-'mediastinalartery mediastinal artery
-'medius medius
-'medulla medulla
-'medullarycavity medullary cavity
-'megakaryocyte megakaryocyte
-'Meissnercorpuscle Meissner corpuscle
-'Melanin Melanin
-'melanocyte melanocyte
-'melanoma melanoma
-'melanosome melanosome
-'melatonin melatonin
-'membranepotential membrane potential
-'memorycell memory cell
-'memoryTcells memory T cells
-'menarche menarche
-'meninges meninges
-'meniscus meniscus
-'menses menses
-'mensesphase menses phase
-'menstrualcycle menstrual cycle
-'Mentalforamen Mental foramen
-'Mentalprotuberance Mental protuberance
-'mentalstatusexam mental status exam
-'Merkelcell Merkel cell
-'Merocrinesecretion Merocrine secretion
-'mesangial mesangial
-'mesencephalicnuclei mesencephalic nuclei
-'mesencephalon mesencephalon
-'mesenchymalcell mesenchymal cell
-'mesenchyme mesenchyme
-'mesentericplexus mesenteric plexus
-'mesoappendix mesoappendix
-'mesoderm mesoderm
-'mesothelium mesothelium
-'messengerRNA(mRNA) messenger RNA (mRNA)
-'Metabolicacidosis Metabolic acidosis
-'Metabolicalkalosis Metabolic alkalosis
-'metabolicrate metabolic rate
-'Metabolism Metabolism
-'metabotropicreceptor metabotropic receptor
-'metacarpalbone metacarpal bone
-'metacarpophalangealjoint metacarpophalangeal joint
-'Metaphase Metaphase
-'metaphaseplate metaphase plate
-'metarteriole metarteriole
-'metastasis metastasis
-'metatarsalbone metatarsal bone
-'metatarsophalangealjoint metatarsophalangeal joint
-'metencephalon metencephalon
-'MHCclassI MHC class I
-'MHCclassII MHC class II
-'MHCpolygeny MHC polygeny
-'MHCpolymorphism MHC polymorphism
-'micelle micelle
-'microcirculation microcirculation
-'microfilament microfilament
-'Microglia Microglia
-'microscopicanatomy microscopic anatomy
-'microtubule microtubule
-'microvilli microvilli
-'Micturition Micturition
-'midbrain midbrain
-'midcarpaljoint midcarpal joint
-'middlecardiacvein middle cardiac vein
-'middlecerebellarpeduncle(MCP) middle cerebellar peduncle (MCP)
-'middlecerebralartery middle cerebral artery
-'middlecranialfossa middle cranial fossa
-'middleear middle ear
-'middlenasalconcha middle nasal concha
-'middlesacralvein middle sacral vein
-'middlescalene middle scalene
-'migratingmotilitycomplex migrating motility complex
-'mineralocorticoids mineralocorticoids
-'Minerals Minerals
-'minimus minimus
-'mitochondrion mitochondrion
-'Mitosis Mitosis
-'mitoticphase mitotic phase
-'mitoticspindle mitotic spindle
-'mitralvalve mitral valve
-'mixingwave mixing wave
-'modeling modeling
-'moderatorband moderator band
-'molars molars
-'molecule molecule
-'monocyte monocyte
-'Monocytes Monocytes
-'monoglyceridemolecules monoglyceride molecules
-'monosaccharide monosaccharide
-'monspubis mons pubis
-'morula morula
-'motilin motilin
-'motility motility
-'motorend-plate motor end-plate
-'motorexam motor exam
-'motorunit motor unit
-'mucosa mucosa
-'Mucosa-associatedlymphoidtissue(MALT) Mucosa-associated lymphoid tissue (MALT)
-'mucosalbarrier mucosal barrier
-'mucousconnectivetissue mucous connective tissue
-'mucousgland mucous gland
-'mucousmembrane mucous membrane
-'mucousneckcells mucous neck cells
-'Müllerianduct Müllerian duct
-'multiaxialjoint multiaxial joint
-'multifidus multifidus
-'multipennate multipennate
-'Multipolar Multipolar
-'multipotent multipotent
-'murmur murmur
-'muscarinicreceptor muscarinic receptor
-'muscletension muscle tension
-'Muscletissue Muscle tissue
-'muscletone muscle tone
-'muscularartery muscular artery
-'muscularis muscularis
-'mutation mutation
-'mydriasis mydriasis
-'myelencephalon myelencephalon
-'myelin myelin
-'myelinsheath myelin sheath
-'Myeloidstemcells Myeloid stem cells
-'myentericplexus myenteric plexus
-'mylohyoid mylohyoid
-'Mylohyoidline Mylohyoid line
-'myoblast myoblast
-'myocardialconductingcells myocardial conducting cells
-'myocardialcontractilecells myocardial contractile cells
-'myocardium myocardium
-'myocyte myocyte
-'myofibril myofibril
-'myogenicmechanism myogenic mechanism
-'myogenicresponse myogenic response
-'myogram myogram
-'myometrium myometrium
-'myosin myosin
-'myotube myotube
-'NADH NADH
-'nailbed nail bed
-'nailbody nail body
-'nailcuticle nail cuticle
-'nailfold nail fold
-'nailroot nail root
-'naïvelymphocyte naïve lymphocyte
-'naris naris
-'nasalbone nasal bone
-'nasalcavity nasal cavity
-'nasalconchae nasal conchae
-'nasalseptum nasal septum
-'nasolacrimalcanal nasolacrimal canal
-'nasopharynx nasopharynx
-'Naturalkiller(NK)cells Natural killer (NK) cells
-'naturalkillercell(NK) natural killer cell (NK)
-'navicular navicular
-'neckofthefemur neck of the femur
-'neckoftheradius neck of the radius
-'neckoftherib neck of the rib
-'Necrosis Necrosis
-'Negativefeedback Negative feedback
-'negativeinotropicfactors negative inotropic factors
-'negativeselection negative selection
-'Neonatalhypothyroidism Neonatal hypothyroidism
-'Nephrons Nephrons
-'nerve nerve
-'nerveplexus nerve plexus
-'nervivasorum nervi vasorum
-'Nervoustissue Nervous tissue
-'netfiltrationpressure(NFP) net filtration pressure (NFP)
-'neuralcrest neural crest
-'neuralfold neural fold
-'neuralgroove neural groove
-'neuralplate neural plate
-'neuraltube neural tube
-'neuraltunic neural tunic
-'neuraxis neuraxis
-'Neurogenicshock Neurogenic shock
-'neuroglia neuroglia
-'neurologicalexam neurological exam
-'neuromuscularjunction(NMJ) neuromuscular junction (NMJ)
-'neuron neuron
-'neuropeptide neuropeptide
-'neurotransmitter neurotransmitter
-'neurulation neurulation
-'Neutralization Neutralization
-'neutron neutron
-'neutrophil neutrophil
-'neutrophils neutrophils
-'nicotinamideadeninedinucleotide(NAD) nicotinamide adenine dinucleotide (NAD)
-'nicotinicreceptor nicotinic receptor
-'nociceptor nociceptor
-'nodeofRanvier node of Ranvier
-'nonshiveringthermogenesis nonshivering thermogenesis
-'nonspecificchannel nonspecific channel
-'norepinephrine norepinephrine
-'normalrange normal range
-'notochord notochord
-'nuchalligament nuchal ligament
-'nuclearenvelope nuclear envelope
-'nuclearpore nuclear pore
-'nucleolus nucleolus
-'nucleosidase nucleosidase
-'nucleosome nucleosome
-'nucleotide nucleotide
-'nucleus nucleus
-'nucleusambiguus nucleus ambiguus
-'nucleuscuneatus nucleus cuneatus
-'nucleusgracilis nucleus gracilis
-'nucleuspulposus nucleus pulposus
-'nutrient nutrient
-'nutrientforamen nutrient foramen
-'oblique oblique
-'Obstructiveshock Obstructive shock
-'obturatorexternus obturator externus
-'obturatorforamen obturator foramen
-'obturatorinternus obturator internus
-'occipitalbone occipital bone
-'occipitalcondyle occipital condyle
-'occipitallobe occipital lobe
-'occipitalsinus occipital sinus
-'occipitalsinuses occipital sinuses
-'occipitalis occipitalis
-'occipitofrontalis occipitofrontalis
-'oculomotornerve oculomotor nerve
-'odorantmolecules odorant molecules
-'olecranonfossa olecranon fossa
-'olecranonprocess olecranon process
-'olfaction olfaction
-'olfactorybulb olfactory bulb
-'olfactoryepithelium olfactory epithelium
-'olfactorynerve olfactory nerve
-'olfactorypit olfactory pit
-'olfactorysensoryneuron olfactory sensory neuron
-'Oligodendrocyte Oligodendrocyte
-'oligopotent oligopotent
-'oliguria oliguria
-'omohyoid omohyoid
-'oocyte oocyte
-'oogenesis oogenesis
-'oogonia oogonia
-'Openreduction Open reduction
-'ophthalmicartery ophthalmic artery
-'opponensdigitiminimi opponens digiti minimi
-'opponenspollicis opponens pollicis
-'Opposition Opposition
-'opsins opsins
-'Opsonization Opsonization
-'opticcanal optic canal
-'opticchiasm optic chiasm
-'opticdisc optic disc
-'opticnerve optic nerve
-'optictract optic tract
-'oralcavity oral cavity
-'oralvestibule oral vestibule
-'orbicularisoculi orbicularis oculi
-'orbicularisoris orbicularis oris
-'orbit orbit
-'organ organ
-'organsystem organ system
-'organelle organelle
-'organelles organelles
-'organiccompound organic compound
-'organism organism
-'organogenesis organogenesis
-'organsofCorti organs of Corti
-'origin origin
-'oropharynx oropharynx
-'orthopedist orthopedist
-'orthostaticreflex orthostatic reflex
-'Osmoreceptors Osmoreceptors
-'Osmosis Osmosis
-'osseoustissue osseous tissue
-'ossicles ossicles
-'ossification ossification
-'ossificationcenter ossification center
-'osteoblast osteoblast
-'osteoclast osteoclast
-'osteocyte osteocyte
-'osteogeniccell osteogenic cell
-'osteoid osteoid
-'osteomalacia osteomalacia
-'osteon osteon
-'Osteoporosis Osteoporosis
-'otolithicmembrane otolithic membrane
-'outersegment outer segment
-'outersynapticlayer outer synaptic layer
-'ovalwindow oval window
-'ovarianartery ovarian artery
-'ovariancycle ovarian cycle
-'ovarianvein ovarian vein
-'ovaries ovaries
-'ovulation ovulation
-'ovum ovum
-'oxidation oxidation
-'oxidation-reductionreaction oxidation-reduction reaction
-'oxidativephosphorylation oxidative phosphorylation
-'oxygendebt oxygen debt
-'oxygen–hemoglobindissociationcurve oxygen–hemoglobin dissociation curve
-'oxyhemoglobin oxyhemoglobin
-'oxytocin oxytocin
-'Pwave P wave
-'pacemaker pacemaker
-'pacesettercell pacesetter cell
-'Paciniancorpuscle Pacinian corpuscle
-'packedcellvolume(PCV) packed cell volume (PCV)
-'palatinebone palatine bone
-'palatineprocess palatine process
-'palatinetonsil palatine tonsil
-'palatoglossalarch palatoglossal arch
-'palatoglossus palatoglossus
-'palatopharyngealarch palatopharyngeal arch
-'palmararches palmar arches
-'palmarinterossei palmar interossei
-'palmarvenousarches palmar venous arches
-'palmarislongus palmaris longus
-'palpebralconjunctiva palpebral conjunctiva
-'pancreas pancreas
-'pancreaticamylase pancreatic amylase
-'pancreaticislets pancreatic islets
-'pancreaticjuice pancreatic juice
-'pancreaticlipase pancreatic lipase
-'pancreaticlipases pancreatic lipases
-'pancreaticnuclease pancreatic nuclease
-'papillae papillae
-'papillarylayer papillary layer
-'papillarymuscle papillary muscle
-'paracrine paracrine
-'Parallel Parallel
-'paramedianpontinereticularformation(PPRF) paramedian pontine reticular formation (PPRF)
-'paranasalsinus paranasal sinus
-'paranasalsinuses paranasal sinuses
-'parasympatheticdivision parasympathetic division
-'parasympathomimeticdrugs parasympathomimetic drugs
-'parathyroidglands parathyroid glands
-'parathyroidhormone(PTH) parathyroid hormone (PTH)
-'paravertebralganglia paravertebral ganglia
-'parenchyma parenchyma
-'paresis paresis
-'parietalbone parietal bone
-'parietalbranches parietal branches
-'parietalcells parietal cells
-'parietallobe parietal lobe
-'parietalpleura parietal pleura
-'parieto-occipitalsulcus parieto-occipital sulcus
-'parotidglands parotid glands
-'Partialpressure Partial pressure
-'parturition parturition
-'Passiveimmunity Passive immunity
-'Passivetransport Passive transport
-'patella patella
-'patellarligament patellar ligament
-'patellarsurface patellar surface
-'patternrecognitionreceptor(PRR) pattern recognition receptor (PRR)
-'pectinateline pectinate line
-'pectinatemuscles pectinate muscles
-'pectinealline pectineal line
-'pectineus pectineus
-'pectoralgirdle pectoral girdle
-'pectoralismajor pectoralis major
-'pectoralisminor pectoralis minor
-'pedicels pedicels
-'pedicle pedicle
-'pelvicbrim pelvic brim
-'pelvicdiaphragm pelvic diaphragm
-'pelvicgirdle pelvic girdle
-'pelvicinlet pelvic inlet
-'pelvicoutlet pelvic outlet
-'pelvis pelvis
-'penis penis
-'Pennate Pennate
-'pepsin pepsin
-'pepsinogen pepsinogen
-'peptidebond peptide bond
-'perforatingcanal perforating canal
-'perforin perforin
-'perfusion perfusion
-'pericardialartery pericardial artery
-'pericardialcavity pericardial cavity
-'pericardialsac pericardial sac
-'pericardium pericardium
-'perichondrium perichondrium
-'pericyte pericyte
-'perimetrium perimetrium
-'perimysium perimysium
-'perineum perineum
-'perineurium perineurium
-'periodictableoftheelements periodic table of the elements
-'periodontalligament periodontal ligament
-'periosteum periosteum
-'peripheralchemoreceptor peripheral chemoreceptor
-'peripheralnervoussystem(PNS) peripheral nervous system (PNS)
-'Peripheralproteins Peripheral proteins
-'peripheraltolerance peripheral tolerance
-'Peristalsis Peristalsis
-'peritoneum peritoneum
-'peritubularcapillaries peritubular capillaries
-'permanentteeth permanent teeth
-'peroxisome peroxisome
-'perpendicularplateoftheethmoidbone perpendicular plate of the ethmoid bone
-'petrosalsinus petrosal sinus
-'petrousridge petrous ridge
-'pH pH
-'Phagocytosis Phagocytosis
-'phalanxboneofthefoot phalanx bone of the foot
-'phalanxboneofthehand phalanx bone of the hand
-'pharyngealtonsil pharyngeal tonsil
-'pharynx pharynx
-'phenotype phenotype
-'philtrum philtrum
-'phosphatase phosphatase
-'phosphodiesterase(PDE) phosphodiesterase (PDE)
-'phospholipid phospholipid
-'Phosphorylation Phosphorylation
-'phosphorylationcascade phosphorylation cascade
-'photoisomerization photoisomerization
-'photon photon
-'photoreceptor photoreceptor
-'phrenicnerve phrenic nerve
-'phrenicvein phrenic vein
-'physiologicalsphincter physiological sphincter
-'physiology physiology
-'piamater pia mater
-'pinealgland pineal gland
-'pinealocyte pinealocyte
-'pinocytosis pinocytosis
-'piriformis piriformis
-'pisiform pisiform
-'pituitarydwarfism pituitary dwarfism
-'pituitarygland pituitary gland
-'pivotjoint pivot joint
-'placenta placenta
-'placentaprevia placenta previa
-'placentation placentation
-'plane plane
-'planejoint plane joint
-'plantaraponeurosis plantar aponeurosis
-'plantararch plantar arch
-'plantarflexion plantar flexion
-'plantargroup plantar group
-'plantarreflex plantar reflex
-'plantarveins plantar veins
-'plantarvenousarch plantar venous arch
-'plantaris plantaris
-'plasma plasma
-'plasmacell plasma cell
-'Plasmaosmolality Plasma osmolality
-'plasmin plasmin
-'plateletplug platelet plug
-'platelets platelets
-'pleura pleura
-'pleuralcavity pleural cavity
-'Pleuralfluid Pleural fluid
-'plexus plexus
-'pluripotent pluripotent
-'pluripotentstemcell pluripotent stem cell
-'pneumotaxiccenter pneumotaxic center
-'podocytes podocytes
-'polarbody polar body
-'polarmolecule polar molecule
-'pollex pollex
-'polyclonalresponse polyclonal response
-'polycythemia polycythemia
-'polymorphonuclear polymorphonuclear
-'polypeptide polypeptide
-'polyribosome polyribosome
-'Polysaccharides Polysaccharides
-'polyspermy polyspermy
-'polyuria polyuria
-'poplitealartery popliteal artery
-'poplitealfossa popliteal fossa
-'poplitealvein popliteal vein
-'popliteus popliteus
-'portahepatis porta hepatis
-'portaltriad portal triad
-'positivechemotaxis positive chemotaxis
-'Positivefeedback Positive feedback
-'positiveinotropicfactors positive inotropic factors
-'positiveselection positive selection
-'Positronemissiontomography(PET) Positron emission tomography (PET)
-'postabsorptivestate postabsorptive state
-'postcentralgyrus postcentral gyrus
-'Posterior Posterior
-'posterior(dorsal)sacralforamen posterior (dorsal) sacral foramen
-'posteriorarch posterior arch
-'posteriorcardiacvein posterior cardiac vein
-'posteriorcerebralartery posterior cerebral artery
-'posteriorcolumns posterior columns
-'posteriorcommunicatingartery posterior communicating artery
-'posteriorcompartmentoftheleg posterior compartment of the leg
-'posteriorcompartmentofthethigh posterior compartment of the thigh
-'posteriorcranialfossa posterior cranial fossa
-'posteriorcruciateligament posterior cruciate ligament
-'posteriorhorn posterior horn
-'posteriorinferioriliacspine posterior inferior iliac spine
-'posteriorinterventricularartery posterior interventricular artery
-'posteriorinterventricularsulcus posterior interventricular sulcus
-'posteriorlongitudinalligament posterior longitudinal ligament
-'posteriormediansulcus posterior median sulcus
-'posteriorsacroiliacligament posterior sacroiliac ligament
-'posteriorscalene posterior scalene
-'posteriorsuperioriliacspine posterior superior iliac spine
-'posteriortalofibularligament posterior talofibular ligament
-'posteriortibialartery posterior tibial artery
-'posteriortibialvein posterior tibial vein
-'posterolateralsulcus posterolateral sulcus
-'postganglionicfiber postganglionic fiber
-'postsynapticpotential(PSP) postsynaptic potential (PSP)
-'Potentialenergy Potential energy
-'powerstroke power stroke
-'PPcell PP cell
-'praxis praxis
-'precapillarysphincters precapillary sphincters
-'precentralgyrus precentral gyrus
-'precentralgyrusofthefrontalcortex precentral gyrus of the frontal cortex
-'prefrontallobe prefrontal lobe
-'preganglionicfiber preganglionic fiber
-'preload preload
-'premolars premolars
-'premotorarea premotor area
-'premotorcortex premotor cortex
-'prepotentialdepolarization prepotential depolarization
-'prepuce prepuce
-'Pressure Pressure
-'prevertebralganglia prevertebral ganglia
-'primaryadaptiveresponse primary adaptive response
-'primarycurve primary curve
-'primaryfollicles primary follicles
-'primarylymphoidorgans primary lymphoid organs
-'primaryossificationcenter primary ossification center
-'primarysensorycortex primary sensory cortex
-'primaryunion primary union
-'primaryvesicles primary vesicles
-'primemover prime mover
-'primitiveatrium primitive atrium
-'primitivehearttube primitive heart tube
-'primitivestreak primitive streak
-'primitiveventricle primitive ventricle
-'primordialfollicles primordial follicles
-'principalcell principal cell
-'proceduralmemory procedural memory
-'process process
-'product product
-'progesterone progesterone
-'projection projection
-'prolactin prolactin
-'prolactin(PRL) prolactin (PRL)
-'proliferativephase proliferative phase
-'proliferativezone proliferative zone
-'promoter promoter
-'pronatedposition pronated position
-'Pronation Pronation
-'pronatordrift pronator drift
-'pronatorquadratus pronator quadratus
-'pronatorteres pronator teres
-'Prone Prone
-'propagation propagation
-'Prophase Prophase
-'proprioception proprioception
-'proprioceptor proprioceptor
-'propulsion propulsion
-'prosencephalon prosencephalon
-'prostaglandin prostaglandin
-'prostategland prostate gland
-'protein protein
-'proteinkinase protein kinase
-'proteolysis proteolysis
-'proteome proteome
-'proton proton
-'Protraction Protraction
-'Proximal Proximal
-'proximalconvolutedtubules(PCTs) proximal convoluted tubules (PCTs)
-'proximalradioulnarjoint proximal radioulnar joint
-'proximaltibiofibularjoint proximal tibiofibular joint
-'Pseudostratifiedcolumnarepithelium Pseudostratified columnar epithelium
-'psoasmajor psoas major
-'psychoneuroimmunology psychoneuroimmunology
-'pterion pterion
-'Puberty Puberty
-'pubicarch pubic arch
-'pubicbody pubic body
-'pubicsymphysis pubic symphysis
-'pubictubercle pubic tubercle
-'pubis pubis
-'pubococcygeus pubococcygeus
-'pubofemoralligament pubofemoral ligament
-'pulmonaryarteries pulmonary arteries
-'pulmonaryartery pulmonary artery
-'pulmonarycapillaries pulmonary capillaries
-'pulmonarycircuit pulmonary circuit
-'pulmonaryplexus pulmonary plexus
-'pulmonarysurfactant pulmonary surfactant
-'pulmonarytrunk pulmonary trunk
-'pulmonaryvalve pulmonary valve
-'pulmonaryveins pulmonary veins
-'Pulmonaryventilation Pulmonary ventilation
-'pulpcavity pulp cavity
-'pulse pulse
-'pulsepressure pulse pressure
-'Punnettsquare Punnett square
-'pupil pupil
-'purine purine
-'Purkinjefibers Purkinje fibers
-'putamen putamen
-'pyloricantrum pyloric antrum
-'pyloriccanal pyloric canal
-'pyloricsphincter pyloric sphincter
-'pylorus pylorus
-'pyramidaldecussation pyramidal decussation
-'pyramidine pyramidine
-'pyramids pyramids
-'pyruvate pyruvate
-'pyruvicacid pyruvic acid
-'QRScomplex QRS complex
-'quadratusfemoris quadratus femoris
-'quadratuslumborum quadratus lumborum
-'quadricepsfemorisgroup quadriceps femoris group
-'quadricepstendon quadriceps tendon
-'quickening quickening
-'Quietbreathing Quiet breathing
-'radialartery radial artery
-'radialcollateralligament radial collateral ligament
-'radialfossa radial fossa
-'radialnerve radial nerve
-'radialnotchoftheulna radial notch of the ulna
-'radialtuberosity radial tuberosity
-'radialvein radial vein
-'Radiation Radiation
-'radioactiveisotope radioactive isotope
-'radiocarpaljoint radiocarpal joint
-'radius radius
-'ramusofthemandible ramus of the mandible
-'reabsorption reabsorption
-'reactant reactant
-'Reactiveoxygenspecies(ROS) Reactive oxygen species (ROS)
-'receptiveaphasia receptive aphasia
-'receptor receptor
-'receptorcell receptor cell
-'receptorpotential receptor potential
-'Receptor-mediatedendocytosis Receptor-mediated endocytosis
-'recessive recessive
-'recessivelethal recessive lethal
-'recruitment recruitment
-'rectalvalves rectal valves
-'rectum rectum
-'rectus rectus
-'rectusabdominis rectus abdominis
-'rectusfemoris rectus femoris
-'rectussheaths rectus sheaths
-'redbloodcells(RBCs) red blood cells (RBCs)
-'Redmarrow Red marrow
-'rednucleus red nucleus
-'reduction reduction
-'referredpain referred pain
-'reflexarc reflex arc
-'refractoryperiod refractory period
-'Regionalanatomy Regional anatomy
-'RegulatoryTcells(Treg) Regulatory T cells (Treg)
-'relativerefractoryperiod relative refractory period
-'relaxationphase relaxation phase
-'remodeling remodeling
-'renalartery renal artery
-'renalcolumns renal columns
-'renalcorpuscle renal corpuscle
-'renalcortex renal cortex
-'renalfatpad renal fat pad
-'renalhilum renal hilum
-'renalpapillae renal papillae
-'renalpyramids renal pyramids
-'renalvein renal vein
-'renin renin
-'repolarization repolarization
-'reposition reposition
-'Reproduction Reproduction
-'reservezone reserve zone
-'Residualvolume(RV) Residual volume (RV)
-'resistance resistance
-'Respiratoryacidosis Respiratory acidosis
-'Respiratoryalkalosis Respiratory alkalosis
-'respiratorybronchiole respiratory bronchiole
-'respiratorycycle respiratory cycle
-'respiratoryepithelium respiratory epithelium
-'respiratorymembrane respiratory membrane
-'respiratorypump respiratory pump
-'respiratoryrate respiratory rate
-'Respiratoryvolume Respiratory volume
-'respiratoryzone respiratory zone
-'response response
-'Responsiveness Responsiveness
-'restanddigest rest and digest
-'restingmembranepotential resting membrane potential
-'Reticularfiber Reticular fiber
-'reticularformation reticular formation
-'reticularlamina reticular lamina
-'reticularlayer reticular layer
-'Reticulartissue Reticular tissue
-'reticulocyte reticulocyte
-'reticuloendothelialcells reticuloendothelial cells
-'reticulospinaltract reticulospinal tract
-'retina retina
-'retinacula retinacula
-'retinal retinal
-'retinalganglioncell(RGC) retinal ganglion cell (RGC)
-'retraction retraction
-'retrogradeamnesia retrograde amnesia
-'retroperitoneal retroperitoneal
-'Rhbloodgroup Rh blood group
-'rhodopsin rhodopsin
-'rhombencephalon rhombencephalon
-'rhomboidmajor rhomboid major
-'rhomboidminor rhomboid minor
-'ribonuclease ribonuclease
-'Ribonucleicacid(RNA) Ribonucleic acid (RNA)
-'RibosomalRNA(rRNA) Ribosomal RNA (rRNA)
-'ribosome ribosome
-'ribs ribs
-'rickets rickets
-'rightatrioventricularvalve right atrioventricular valve
-'rightcolicflexure right colic flexure
-'rightgastricartery right gastric artery
-'rightlymphaticduct right lymphatic duct
-'Rinnetest Rinne test
-'RNApolymerase RNA polymerase
-'rodphotoreceptor rod photoreceptor
-'Rombergtest Romberg test
-'root root
-'Rotation Rotation
-'rotatorcuff rotator cuff
-'roundwindow round window
-'rubrospinaltract rubrospinal tract
-'ruga ruga
-'rugae rugae
-'Sphase S phase
-'saccade saccade
-'saccharolyticfermentation saccharolytic fermentation
-'saccule saccule
-'sacralcanal sacral canal
-'sacralforamina sacral foramina
-'sacralhiatus sacral hiatus
-'sacralmicturitioncenter sacral micturition center
-'sacralplexus sacral plexus
-'sacralpromontory sacral promontory
-'sacrococcygealcurve sacrococcygeal curve
-'sacroiliacjoint sacroiliac joint
-'sacrospinousligament sacrospinous ligament
-'sacrotuberousligament sacrotuberous ligament
-'sacrum sacrum
-'saddlejoint saddle joint
-'sagittalplane sagittal plane
-'sagittalsuture sagittal suture
-'Saliva Saliva
-'salivaryamylase salivary amylase
-'salivaryglands salivary glands
-'salivation salivation
-'saltatoryconduction saltatory conduction
-'saphenousnerve saphenous nerve
-'sarcolemma sarcolemma
-'sarcomere sarcomere
-'sarcopenia sarcopenia
-'sarcoplasm sarcoplasm
-'sarcoplasmicreticulum(SR) sarcoplasmic reticulum (SR)
-'sartorius sartorius
-'satellitecell satellite cell
-'scalatympani scala tympani
-'scalavestibuli scala vestibuli
-'scalenemuscles scalene muscles
-'scaphoid scaphoid
-'scapula scapula
-'scar scar
-'Schwanncell Schwann cell
-'sciaticnerve sciatic nerve
-'sciatica sciatica
-'sclera sclera
-'sclerotome sclerotome
-'scoliosis scoliosis
-'scrotum scrotum
-'sebaceousgland sebaceous gland
-'sebum sebum
-'secondmessenger second messenger
-'second-degreeburn second-degree burn
-'secondaryadaptiveresponse secondary adaptive response
-'secondarycurve secondary curve
-'secondaryfollicles secondary follicles
-'secondarylymphoidorgans secondary lymphoid organs
-'secondaryossificationcenter secondary ossification center
-'secondarysexcharacteristics secondary sex characteristics
-'secondaryunion secondary union
-'secondaryvesicles secondary vesicles
-'secretin secretin
-'secretoryphase secretory phase
-'section section
-'segmentalmusclegroup segmental muscle group
-'Segmentation Segmentation
-'selectivepermeability selective permeability
-'sellaturcica sella turcica
-'semen semen
-'semicircularcanals semicircular canals
-'semilunarvalves semilunar valves
-'semimembranosus semimembranosus
-'seminalvesicle seminal vesicle
-'seminiferoustubules seminiferous tubules
-'semispinaliscapitis semispinalis capitis
-'semispinaliscervicis semispinalis cervicis
-'semispinalisthoracis semispinalis thoracis
-'semitendinosus semitendinosus
-'sensation sensation
-'sensitization sensitization
-'sensor sensor
-'sensorineuralhearing sensorineural hearing
-'sensoryexam sensory exam
-'sensoryhomunculus sensory homunculus
-'sensorymodality sensory modality
-'sepsis sepsis
-'septalcartilage septal cartilage
-'septicshock septic shock
-'septum septum
-'septumprimum septum primum
-'Seroconversion Seroconversion
-'serosa serosa
-'serousgland serous gland
-'serousmembrane serous membrane
-'serratusanterior serratus anterior
-'Sertolicells Sertoli cells
-'serum serum
-'sesamoidbone sesamoid bone
-'setpoint set point
-'severecombinedimmunodeficiencydisease(SCID) severe combined immunodeficiency disease (SCID)
-'sexchromosomes sex chromosomes
-'shaftofthefemur shaft of the femur
-'shaftofthefibula shaft of the fibula
-'shaftofthehumerus shaft of the humerus
-'shaftoftheradius shaft of the radius
-'shaftofthetibia shaft of the tibia
-'shaftoftheulna shaft of the ulna
-'shortbone short bone
-'shortreflex short reflex
-'short-termmemory short-term memory
-'shunt shunt
-'sicklecelldisease sickle cell disease
-'sigmoidcolon sigmoid colon
-'sigmoidsinuses sigmoid sinuses
-'simplecolumnarepithelium simple columnar epithelium
-'simplecuboidalepithelium simple cuboidal epithelium
-'simplesquamousepithelium simple squamous epithelium
-'sinoatrial(SA)node sinoatrial (SA) node
-'sinusrhythm sinus rhythm
-'sinusvenosus sinus venosus
-'sinusoidcapillary sinusoid capillary
-'sisterchromatid sister chromatid
-'sizeexclusion size exclusion
-'Skeletalmuscle Skeletal muscle
-'skeletalmusclepump skeletal muscle pump
-'skeletalsystem skeletal system
-'skeleton skeleton
-'skull skull
-'Slowoxidative(SO) Slow oxidative (SO)
-'smallcardiacvein small cardiac vein
-'smallintestine small intestine
-'smallsaphenousvein small saphenous vein
-'Smoothmuscle Smooth muscle
-'Snellenchart Snellen chart
-'sodiumbicarbonate sodium bicarbonate
-'sodium-potassiumpump sodium-potassium pump
-'softpalate soft palate
-'solealline soleal line
-'soleus soleus
-'solitarynucleus solitary nucleus
-'solution solution
-'soma soma
-'somaticcell somatic cell
-'somaticnervoussystem(SNS) somatic nervous system (SNS)
-'somaticreflex somatic reflex
-'somatosensation somatosensation
-'somite somite
-'somites somites
-'spasticity spasticity
-'Spatialsummation Spatial summation
-'specialsense special sense
-'specificgravity specific gravity
-'sperm sperm
-'spermaticcord spermatic cord
-'spermatid spermatid
-'spermatocyte spermatocyte
-'spermatogenesis spermatogenesis
-'spermatogonia spermatogonia
-'spermiogenesis spermiogenesis
-'sphenoidbone sphenoid bone
-'sphenoidsinus sphenoid sinus
-'sphincterurethrovaginalis sphincter urethrovaginalis
-'sphygmomanometer sphygmomanometer
-'spinalaccessorynerve spinal accessory nerve
-'spinalcavity spinal cavity
-'spinalcord spinal cord
-'spinalnerve spinal nerve
-'spinaltrigeminalnucleus spinal trigeminal nucleus
-'spinaliscapitis spinalis capitis
-'spinaliscervicis spinalis cervicis
-'spinalisgroup spinalis group
-'spinalisthoracis spinalis thoracis
-'spineofthescapula spine of the scapula
-'spinocerebellartract spinocerebellar tract
-'spinocerebellum spinocerebellum
-'spinothalamictract spinothalamic tract
-'spinousprocess spinous process
-'spiralganglia spiral ganglia
-'spleen spleen
-'splenicartery splenic artery
-'splenius splenius
-'spleniuscapitis splenius capitis
-'spleniuscervicis splenius cervicis
-'spliceosome spliceosome
-'splicing splicing
-'spongybone spongy bone
-'spontaneousdepolarization spontaneous depolarization
-'Squamouscellcarcinoma Squamous cell carcinoma
-'squamoussuture squamous suture
-'stageofexhaustion stage of exhaustion
-'stageofresistance stage of resistance
-'stapes stapes
-'stemcell stem cell
-'stereocilia stereocilia
-'stereognosis stereognosis
-'sternalangle sternal angle
-'sternalendoftheclavicle sternal end of the clavicle
-'sternoclavicularjoint sternoclavicular joint
-'sternocleidomastoid sternocleidomastoid
-'sternohyoid sternohyoid
-'sternothyroid sternothyroid
-'sternum sternum
-'steroid steroid
-'stimulus stimulus
-'stomach stomach
-'straightsinus straight sinus
-'stratifiedcolumnarepithelium stratified columnar epithelium
-'Stratifiedcuboidalepithelium Stratified cuboidal epithelium
-'Stratifiedsquamousepithelium Stratified squamous epithelium
-'stratumbasale stratum basale
-'stratumcorneum stratum corneum
-'stratumgranulosum stratum granulosum
-'stratumlucidum stratum lucidum
-'stratumspinosum stratum spinosum
-'stress-relaxationresponse stress-relaxation response
-'stretchmark stretch mark
-'stretchreflex stretch reflex
-'striation striation
-'striatum striatum
-'stroke stroke
-'strokevolume(SV) stroke volume (SV)
-'styloglossus styloglossus
-'stylohyoid stylohyoid
-'Styloidprocess Styloid process
-'styloidprocessoftheradius styloid process of the radius
-'styloidprocessoftheulna styloid process of the ulna
-'Stylomastoidforamen Stylomastoid foramen
-'subacromialbursa subacromial bursa
-'subarachnoidspace subarachnoid space
-'subclavianartery subclavian artery
-'subclavianvein subclavian vein
-'subclavius subclavius
-'subcorticalnuclei subcortical nuclei
-'subcutaneousbursa subcutaneous bursa
-'sublingualglands sublingual glands
-'submandibularglands submandibular glands
-'submodalities submodalities
-'submucosa submucosa
-'submucosalplexus submucosal plexus
-'submuscularbursa submuscular bursa
-'subpubicangle subpubic angle
-'subscapularbursa subscapular bursa
-'subscapularfossa subscapular fossa
-'subscapularvein subscapular vein
-'subscapularis subscapularis
-'substantianigraparscompacta substantia nigra pars compacta
-'substantianigraparsreticulata substantia nigra pars reticulata
-'substrate substrate
-'subtalarjoint subtalar joint
-'subtendinousbursa subtendinous bursa
-'subthalamus subthalamus
-'Sucrase Sucrase
-'sudoriferousglands sudoriferous glands
-'sulcus sulcus
-'summate summate
-'Superficial Superficial
-'superficialanteriorcompartmentoftheforearm superficial anterior compartment of the forearm
-'superficialposteriorcompartmentoftheforearm superficial posterior compartment of the forearm
-'superficialreflex superficial reflex
-'Superior Superior
-'superiorangleofthescapula superior angle of the scapula
-'superiorarticularprocess superior articular process
-'superiorarticularprocessofthesacrum superior articular process of the sacrum
-'superiorborderofthescapula superior border of the scapula
-'superiorcerebellarpeduncle(SCP) superior cerebellar peduncle (SCP)
-'superiorcervicalganglion superior cervical ganglion
-'superiorcolliculus superior colliculus
-'superiorextensorretinaculum superior extensor retinaculum
-'superiorgemellus superior gemellus
-'superiormesentericartery superior mesenteric artery
-'superiormesentericganglion superior mesenteric ganglion
-'superiornasalconcha superior nasal concha
-'superiornuchalline superior nuchal line
-'superioroblique superior oblique
-'Superiororbitalfissure Superior orbital fissure
-'superiorphrenicartery superior phrenic artery
-'superiorpubicramus superior pubic ramus
-'superiorrectus superior rectus
-'superiorrotation superior rotation
-'superiorsagittalsinus superior sagittal sinus
-'superiorvenacava superior vena cava
-'supinatedposition supinated position
-'Supination Supination
-'supinator supinator
-'supine supine
-'supplementalmotorarea supplemental motor area
-'Supportiveconnectivetissue Supportive connective tissue
-'suprachiasmaticnucleus suprachiasmatic nucleus
-'supraglenoidtubercle supraglenoid tubercle
-'Suprahyoidmuscles Suprahyoid muscles
-'supraorbitalforamen supraorbital foramen
-'supraorbitalmargin supraorbital margin
-'suprascapularnotch suprascapular notch
-'supraspinatus supraspinatus
-'supraspinousfossa supraspinous fossa
-'supraspinousligament supraspinous ligament
-'surgicalneck surgical neck
-'suspension suspension
-'suspensoryligaments suspensory ligaments
-'sustentaculumtali sustentaculum tali
-'suture suture
-'sympatheticchainganglia sympathetic chain ganglia
-'sympatheticdivision sympathetic division
-'sympatholyticdrug sympatholytic drug
-'sympathomimeticdrug sympathomimetic drug
-'symphysis symphysis
-'synapses synapses
-'synapticcleft synaptic cleft
-'synapticendbulb synaptic end bulb
-'synarthrosis synarthrosis
-'synchondrosis synchondrosis
-'syncytiotrophoblast syncytiotrophoblast
-'syndesmosis syndesmosis
-'synergist synergist
-'synostosis synostosis
-'synovialfluid synovial fluid
-'synovialjoint synovial joint
-'synovialmembrane synovial membrane
-'synthesisreaction synthesis reaction
-'systemicanatomy systemic anatomy
-'systemiccircuit systemic circuit
-'systemicedema systemic edema
-'systemicnerve systemic nerve
-'systole systole
-'systolicpressure systolic pressure
-'Tcell T cell
-'Tcelltolerance T cell tolerance
-'Tcell-dependentantigen T cell-dependent antigen
-'Tcell-independentantigen T cell-independent antigen
-'Tlymphocytes T lymphocytes
-'Twave T wave
-'T-tubules T-tubules
-'talocruraljoint talocrural joint
-'talus talus
-'targeteffector target effector
-'targetheartrate target heart rate
-'tarsalbone tarsal bone
-'tastebuds taste buds
-'tectorialmembrane tectorial membrane
-'tectospinaltract tectospinal tract
-'tectum tectum
-'tegmentum tegmentum
-'telencephalon telencephalon
-'telogen telogen
-'Telophase Telophase
-'temporalbone temporal bone
-'temporalfossa temporal fossa
-'temporallobe temporal lobe
-'temporalprocessofthezygomaticbone temporal process of the zygomatic bone
-'Temporalsummation Temporal summation
-'temporalvein temporal vein
-'temporalis temporalis
-'temporomandibularjoint(TMJ) temporomandibular joint (TMJ)
-'tendinousintersections tendinous intersections
-'tendon tendon
-'tendonsheath tendon sheath
-'teniaecoli teniae coli
-'tensorfascialatae tensor fascia latae
-'teresmajor teres major
-'teresminor teres minor
-'terminalelectronacceptor terminal electron acceptor
-'terminalganglia terminal ganglia
-'tertiaryfollicles tertiary follicles
-'testes testes
-'testicularartery testicular artery
-'testicularvein testicular vein
-'testosterone testosterone
-'tetanus tetanus
-'Th1cells Th1 cells
-'Th2cells Th2 cells
-'thalamus thalamus
-'Thalassemia Thalassemia
-'thecacells theca cells
-'thenar thenar
-'thenareminence thenar eminence
-'thermoneutral thermoneutral
-'thermoreceptor thermoreceptor
-'thermoregulation thermoregulation
-'thickfilament thick filament
-'thigh thigh
-'thinfilament thin filament
-'thirdventricle third ventricle
-'third-degreeburn third-degree burn
-'thoracicaorta thoracic aorta
-'thoraciccage thoracic cage
-'thoraciccavity thoracic cavity
-'thoraciccurve thoracic curve
-'thoracicduct thoracic duct
-'thoracicvertebrae thoracic vertebrae
-'Thoracicwallcompliance Thoracic wall compliance
-'thoracolumbarsystem thoracolumbar system
-'thoroughfarechannel thoroughfare channel
-'threshold threshold
-'thrombin thrombin
-'thrombocytes thrombocytes
-'thrombocytopenia thrombocytopenia
-'Thrombocytosis Thrombocytosis
-'Thrombopoietin Thrombopoietin
-'thrombosis thrombosis
-'thrombus thrombus
-'thymocyte thymocyte
-'thymosins thymosins
-'thymus thymus
-'thyrocervicalartery thyrocervical artery
-'thyrohyoid thyrohyoid
-'thyroidcartilage thyroid cartilage
-'thyroidgland thyroid gland
-'thyroid-stimulatinghormone(TSH) thyroid-stimulating hormone (TSH)
-'thyroxine thyroxine
-'tibia tibia
-'tibialcollateralligament tibial collateral ligament
-'tibialnerve tibial nerve
-'tibialtuberosity tibial tuberosity
-'tibialisanterior tibialis anterior
-'tibialisposterior tibialis posterior
-'tightjunction tight junction
-'tissue tissue
-'tissuefactor tissue factor
-'tissuemembrane tissue membrane
-'Tissuetyping Tissue typing
-'tongue tongue
-'Tonsils Tonsils
-'topographical topographical
-'Totaldeadspace Total dead space
-'totallungcapacity(TLC) total lung capacity (TLC)
-'Totalpressure Total pressure
-'totipotent totipotent
-'totipotentstemcell totipotent stem cell
-'trabeculae trabeculae
-'trabeculaecarneae trabeculae carneae
-'trachea trachea
-'trachealismuscle trachealis muscle
-'tract tract
-'trait trait
-'transamination transamination
-'transcription transcription
-'transcriptionfactor transcription factor
-'transduction transduction
-'TransferRNA(tRNA) Transfer RNA (tRNA)
-'transferrin transferrin
-'transientischemicattack(TIA) transient ischemic attack (TIA)
-'transitionalepithelium transitional epithelium
-'Translation Translation
-'Transpulmonarypressure Transpulmonary pressure
-'transversecolon transverse colon
-'transverseforamen transverse foramen
-'transverseplane transverse plane
-'transverseprocess transverse process
-'transversesinuses transverse sinuses
-'transversospinales transversospinales
-'transversusabdominis transversus abdominis
-'trapezium trapezium
-'trapezius trapezius
-'trapezoid trapezoid
-'treppe treppe
-'tri tri
-'triad triad
-'tricarboxylicacidcycle(TCA) tricarboxylic acid cycle (TCA)
-'tricepsbrachii triceps brachii
-'tricuspidvalve tricuspid valve
-'trigeminalganglion trigeminal ganglion
-'trigeminalnerve trigeminal nerve
-'triglyceride triglyceride
-'triglycerides triglycerides
-'trigone trigone
-'triiodothyronine triiodothyronine
-'trimesters trimesters
-'triplet triplet
-'triquetrum triquetrum
-'trochlea trochlea
-'trochlearnerve trochlear nerve
-'trochlearnotch trochlear notch
-'trophoblasts trophoblasts
-'tropomyosin tropomyosin
-'troponin troponin
-'truelabor true labor
-'trueribs true ribs
-'truevocalcord true vocal cord
-'truncusarteriosus truncus arteriosus
-'trunk trunk
-'trypsin trypsin
-'trypsinogen trypsinogen
-'tubercleoftherib tubercle of the rib
-'tubuloglomerularfeedback tubuloglomerular feedback
-'tunicaexterna tunica externa
-'tunicaintima tunica intima
-'tunicamedia tunica media
-'twitch twitch
-'tympanicmembrane tympanic membrane
-'typeIalveolarcell type I alveolar cell
-'typeIhypersensitivity type I hypersensitivity
-'typeIIalveolarcell type II alveolar cell
-'TypeIIhypersensitivity Type II hypersensitivity
-'TypeIIIhypersensitivity Type III hypersensitivity
-'ulna ulna
-'ulnarartery ulnar artery
-'ulnarcollateralligament ulnar collateral ligament
-'ulnarnerve ulnar nerve
-'ulnarnotchoftheradius ulnar notch of the radius
-'ulnartuberosity ulnar tuberosity
-'ulnarvein ulnar vein
-'Ultrasonography Ultrasonography
-'Umami Umami
-'umbilicalarteries umbilical arteries
-'umbilicalcord umbilical cord
-'umbilicalvein umbilical vein
-'uniaxialjoint uniaxial joint
-'unipennate unipennate
-'Unipolar Unipolar
-'unipotent unipotent
-'universaldonor universal donor
-'universalrecipient universal recipient
-'upperesophagealsphincter upper esophageal sphincter
-'uppermotorneuron upper motor neuron
-'upregulation upregulation
-'ureacycle urea cycle
-'urethra urethra
-'Urinalysis Urinalysis
-'urochrome urochrome
-'urogenitaltriangle urogenital triangle
-'uterinetubes uterine tubes
-'uterus uterus
-'utricle utricle
-'vagina vagina
-'vagusnerve vagus nerve
-'valenceshell valence shell
-'Valsalva’smaneuver Valsalva’s maneuver
-'valve valve
-'variableregiondomain variable region domain
-'varicosity varicosity
-'vasarecta vasa recta
-'vasavasorum vasa vasorum
-'Vascularshock Vascular shock
-'vascularshunt vascular shunt
-'vascularspasm vascular spasm
-'vasculartone vascular tone
-'Vasculartubes Vascular tubes
-'vasculartunic vascular tunic
-'vasoconstriction vasoconstriction
-'vasodilation vasodilation
-'vasomotion vasomotion
-'vasomotornerves vasomotor nerves
-'vastusintermedius vastus intermedius
-'vastuslateralis vastus lateralis
-'vastusmedialis vastus medialis
-'vein vein
-'venousreserve venous reserve
-'Ventilation Ventilation
-'ventral ventral
-'ventral(anterior)cavity ventral (anterior) cavity
-'ventral(anterior)nerveroot ventral (anterior) nerve root
-'ventralposteriornucleus ventral posterior nucleus
-'ventralrespiratorygroup(VRG) ventral respiratory group (VRG)
-'ventralstream ventral stream
-'ventricle ventricle
-'ventricles ventricles
-'ventricularejectionphase ventricular ejection phase
-'venule venule
-'vermis vermis
-'vernixcaseosa vernix caseosa
-'vertebra vertebra
-'vertebral(spinal)canal vertebral (spinal) canal
-'vertebralarch vertebral arch
-'vertebralarteries vertebral arteries
-'vertebralartery vertebral artery
-'vertebralcolumn vertebral column
-'vertebralforamen vertebral foramen
-'vertebralvein vertebral vein
-'vesicle vesicle
-'vestibularfold vestibular fold
-'vestibularganglion vestibular ganglion
-'vestibularnuclei vestibular nuclei
-'vestibule vestibule
-'vestibulo-ocularreflex(VOR) vestibulo-ocular reflex (VOR)
-'vestibulocerebellum vestibulocerebellum
-'vestibulocochlearnerve vestibulocochlear nerve
-'vestibulospinaltract vestibulospinal tract
-'villi villi
-'visceralbranches visceral branches
-'visceralmuscle visceral muscle
-'visceralpleura visceral pleura
-'visceralreflex visceral reflex
-'visceralsense visceral sense
-'Vision Vision
-'visualacuity visual acuity
-'Vitalcapacity(VC) Vital capacity (VC)
-'vitaminD vitamin D
-'Vitamins Vitamins
-'vitiligo vitiligo
-'vitreoushumor vitreous humor
-'voltage-gatedchannel voltage-gated channel
-'voltage-gatedsodiumchannels voltage-gated sodium channels
-'voluntaryphase voluntary phase
-'vomerbone vomer bone
-'vulva vulva
-'wavesummation wave summation
-'Webertest Weber test
-'Wernicke’sarea Wernicke’s area
-'whitebloodcells(WBCs) white blood cells (WBCs)
-'whitematter white matter
-'whiteramicommunicantes white rami communicantes
-'Wolffianduct Wolffian duct
-'workingmemory working memory
-'woundcontraction wound contraction
-'X-linked X-linked
-'X-linkeddominant X-linked dominant
-'X-linkedrecessive X-linked recessive
-'X-ray X-ray
-'xiphoidprocess xiphoid process
-'Yellowmarrow Yellow marrow
-'yolksac yolk sac
-'zonafasciculata zona fasciculata
-'zonaglomerulosa zona glomerulosa
-'zonapellucida zona pellucida
-'zonareticularis zona reticularis
-'zoneofcalcifiedmatrix zone of calcified matrix
-'zoneofmaturationandhypertrophy zone of maturation and hypertrophy
-'zonulefibers zonule fibers
-'zygapophysialjoints zygapophysial joints
-'zygomaticarch zygomatic arch
-'zygomaticbone zygomatic bone
-'zygomaticprocessofthetemporalbone zygomatic process of the temporal bone
-'zygote zygote
+αdextrin
+αdextrinase
+abdominal aorta
+abdominopelvic cavity
+abducens nerve
+abduct
+Abduction
+abductor
+abductor digiti minimi
+abductor pollicis brevis
+abductor pollicis longus
+ABO blood group
+absolute refractory period
+absorption
+absorptive state
+accessory digestive organ
+accessory duct
+Acclimatization
+accommodation
+accommodation–convergence reflex
+acetabular labrum
+acetabulum
+acetyl coenzyme A (acetyl CoA)
+acetylcholine (ACh)
+acid
+acinus
+Acne
+acromegaly
+acromial end of the clavicle
+acromial process
+acromioclavicular joint
+acromion
+acrosomal reaction
+acrosome
+actin
+action potential
+activation energy
+activation gate
+Active immunity
+active transport
+Acute inflammation
+Acute mountain sickness (AMS)
+adaptive immune response
+adduction
+adductor
+adductor brevis
+adductor longus
+adductor magnus
+adductor pollicis
+adductor tubercle
+adenosine triphosphate (ATP)
+adenylyl cyclase
+Adipocytes
+Adipose tissue
+adrenal artery
+adrenal cortex
+adrenal glands
+adrenal medulla
+adrenal vein
+adrenergic
+adrenocorticotropic hormone (ACTH)
+Aerobic respiration
+afferent branch
+afferent lymphatic vessels
+afterbirth
+Afterload
+agglutination
+agonist
+agranular leukocytes
+ala
+alar cartilage
+alar plate
+alarm reaction
+Albinism
+Albumin
+Aldosterone
+alimentary canal
+Alkaloids
+allantois
+allele
+alpha (α)adrenergic receptor
+alpha cell
+Alveolar dead space
+alveolar duct
+alveolar macrophage
+alveolar pores
+Alveolar process of the mandible
+alveolar process of the maxilla
+alveolar sac
+alveoli
+alveolus
+amacrine cells
+amino acid
+aminopeptidase
+amnion
+amniotic cavity
+amphiarthrosis
+amphipathic
+ampulla
+amygdala
+Anabolic hormones
+anabolic reactions
+anabolism
+anagen
+anal canal
+anal column
+anal sinus
+anal triangle
+Anaphase
+Anaphylactic shock
+anastomosis
+anatomical dead space
+anatomical neck
+anatomical position
+anatomical sphincter
+anatomy
+anchoring junction
+anconeus
+anemia
+angioblasts
+angiogenesis
+angiotensin I
+Angiotensin II
+angiotensinconverting enzyme
+angiotensinconverting enzyme (ACE)
+angiotensinogen
+angle of the mandible
+angle of the rib
+anion
+ankle joint
+annular ligament
+anosmia
+antagonist
+Anterior
+anterior (ventral) sacral foramen
+anterior arch
+anterior border of the tibia
+anterior cardiac veins
+anterior cerebral artery
+anterior columns
+anterior communicating artery
+anterior compartment of the arm
+anterior compartment of the forearm
+anterior compartment of the leg
+anterior compartment of the thigh
+anterior corticospinal tract
+anterior cranial fossa
+anterior cruciate ligament
+anterior horn
+anterior inferior iliac spine
+anterior interventricular artery
+anterior interventricular sulcus
+anterior longitudinal ligament
+anterior median fissure
+anterior sacroiliac ligament
+anterior scalene
+anterior spinal artery
+anterior superior iliac spine
+anterior talofibular ligament
+anterior tibial artery
+anterior tibial vein
+anterograde amnesia
+antibodies
+antibody
+anticholinergic drugs
+anticoagulant
+anticodon
+antidiuretic hormone (ADH)
+antigen
+antigen presentation
+Antigen processing
+antigen receptor
+antigenic determinant
+Antithrombin
+antrum
+anulus fibrosus
+anuria
+aorta
+aortic arch
+aortic hiatus
+aortic sinuses
+aortic valve
+apex
+aphasia
+apical
+apical ectodermal ridge
+apneustic center
+Apocrine secretion
+apocrine sweat gland
+aponeurosis
+Apoptosis
+appendicular
+appendicular skeleton
+appendix
+aquaporin
+aqueous humor
+arachnoid granulations
+arachnoid mater
+arachnoid trabeculae
+arcuate line of the ilium
+areola
+Areolar tissue
+arm
+arrector pili
+arterial circle
+arteriole
+arteriovenous anastomosis
+artery
+articular capsule
+articular cartilage
+articular disc
+Articular tubercle
+articulation
+artificial pacemaker
+ascending aorta
+ascending colon
+ascending pathway
+Ascending tracts
+association area
+Astrocyte
+ataxia
+atlantooccipital joint
+atlantoaxial joint
+atlas
+Atmospheric pressure
+atom
+atomic number
+ATP synthase
+ATPase
+atrial natriuretic peptide (ANP)
+atrial reflex
+atrioventricular (AV) node
+atrioventricular bundle
+atrioventricular bundle branches
+atrioventricular septum
+atrioventricular valves
+atrium
+atrophy
+audition
+auricle
+auricular surface of the ilium
+autocrine
+autolysis
+autonomic nervous system (ANS)
+autonomic tone
+Autophagy
+autorhythmicity
+autosomal chromosomes
+autosomal dominant
+autosomal recessive
+axial
+axial skeleton
+axillary artery
+axillary nerve
+axillary vein
+axis
+axon
+axon hillock
+axon segment
+axon terminal
+axoplasm
+azygos vein
+B cells
+B lymphocytes
+Babinski sign
+Bachmann’s bundle
+bacterial flora
+Bainbridge reflex
+ballandsocket joint
+baroreceptor
+baroreceptor reflex
+Barrier defenses
+Bartholin’s glands
+basal cell
+Basal cell carcinoma
+basal forebrain
+basal lamina
+basal metabolic rate (BMR)
+basal nuclei
+basal plate
+base
+base of the metatarsal bone
+basement membrane
+basilar artery
+basilar membrane
+basilic vein
+Basophils
+bedsore
+belly
+beta (β)adrenergic receptor
+beta (β)hydroxybutyrate
+beta (β)oxidation
+beta cell
+Betz cells
+bi
+biaxial joint
+biceps brachii
+biceps femoris
+bicipital groove
+bicuspid valve
+Bile
+bile canaliculus
+bile salts
+bilirubin
+biliverdin
+binocular depth cues
+biogenic amine
+biosynthesis reactions
+bipennate
+Bipolar
+bipolar cells
+blastocoel
+blastocyst
+blastomere
+blood
+blood colloidal osmotic pressure (BCOP)
+Blood flow
+Blood hydrostatic pressure
+blood islands
+blood pressure
+bloodbrain barrier (BBB)
+blood–testis barrier
+body
+body mass index (BMI)
+body of the rib
+body of uterus
+Bohr effect
+bolus
+bond
+Bone
+bone marrow
+bone marrow biopsy
+bone marrow transplant
+Bowman’s capsule
+Boyle’s law
+brachial artery
+brachial plexus
+brachial vein
+brachialis
+brachiocephalic vein
+brachioradialis
+brain
+brain case
+brain stem
+Braxton Hicks contractions
+brevis
+bridge
+broad ligament
+Broca’s area
+Brodmann’s areas
+bronchus
+bronchi
+bronchial artery
+bronchial bud
+bronchial tree
+bronchial vein
+bronchiole
+bronchoconstriction
+bronchodilation
+brown adipose tissue
+bruise
+brush border
+buccinator
+buffer
+buffy coat
+bulbourethral glands
+bulbus cordis
+bundle of His
+bursa
+calcaneal tendon
+calcaneofibular ligament
+calcaneus
+calcitonin
+callus
+calmodulin
+Calorie
+calvaria
+calyces
+canaliculi
+capacitance
+capacitance vessels
+capacitation
+capillary
+capillary bed
+capillary hydrostatic pressure (CHP)
+capitate
+capitulum
+capsaicin
+carbaminohemoglobin
+carbohydrate
+Carbonic anhydrase (CA)
+cardia
+cardiac accelerator nerves
+cardiac cycle
+Cardiac muscle
+cardiac notch
+Cardiac output (CO)
+cardiac plexus
+cardiac reflexes
+cardiac reserve
+cardiac skeleton
+cardiogenic area
+cardiogenic cords
+Cardiogenic shock
+cardiomyocyte
+cardiovascular center
+Carotid canal
+carotid sinuses
+carpal bone
+carpal tunnel
+carpometacarpal joint
+carrier
+cartilage
+cartilaginous joint
+Catabolic hormones
+Catabolic reactions
+catabolism
+catagen
+catalyst
+cation
+cauda equina
+caudal
+caudate
+caval opening
+cavernous sinus
+cecum
+celiac ganglion
+celiac trunk
+cell
+cell cycle
+cell junction
+cell membrane
+cellular respiration
+cementum
+central canal
+central chemoreceptor
+central nervous system (CNS)
+central neuron
+central sulcus
+Central tolerance
+central vein
+centriole
+centromere
+centrosome
+cephalic flexure
+cephalic phase
+cephalic vein
+cerebellum
+cerebral aqueduct
+cerebral cortex
+cerebral hemisphere
+cerebral peduncles
+cerebrocerebellum
+cerebrospinal fluid (CSF)
+cerebrovascular accident (CVA)
+cerebrum
+cervical curve
+cervical enlargement
+cervical plexus
+cervical vertebrae
+cervix
+channel protein
+check reflex
+checkpoint
+chemical digestion
+Chemical energy
+chemical synapse
+chemokine
+chemoreceptor
+chief cells
+chief sensory nucleus
+chloride shift
+cholecystokinin (CCK)
+cholinergic
+cholinergic system
+chondrocytes
+chordae tendineae
+chorion
+chorionic membrane
+chorionic villi
+choroid
+choroid plexus
+chromaffin
+chromaffin cells
+chromatin
+chromosome
+Chronic inflammation
+chyle
+chylomicron
+chylomicrons
+chyme
+chymotrypsin
+chymotrypsinogen
+Cilia
+ciliary body
+ciliary ganglion
+circadian rhythm
+circle of Willis
+Circular
+circular fold
+circulatory shock
+Circumduction
+circumflex artery
+cisterna chyli
+citric acid cycle
+claspknife response
+Class switching
+clavicle
+clavicular notch
+cleavage
+cleavage furrow
+clitoris
+clonal anergy
+clonal deletion
+clonal expansion
+Clonal selection
+clone
+closed reduction
+Clotting
+clotting factors
+coagulation
+coccyx
+cochlea
+cochlear duct
+Codominance
+codon
+Collagen fiber
+Collateral ganglia
+colloid
+colon
+Colonystimulating factors (CSFs)
+colostrum
+common bile duct
+common carotid arteries
+common carotid artery
+common hepatic artery
+common hepatic duct
+common iliac artery
+common iliac vein
+common pathway
+compact bone
+complement
+Compliance
+compound
+compressor urethrae
+Computed tomography (CT)
+concentration
+concentration gradient
+concentric contraction
+conceptus
+conducting zone
+Conduction
+Conduction aphasia
+conductive hearing
+condylar process of the mandible
+condyle
+condyloid joint
+cone photoreceptor
+conjugate gaze
+Connective tissue
+connective tissue membrane
+Connective tissue proper
+constant region domain
+continuous capillary
+continuous conduction
+Contractility
+contraction phase
+contralateral
+control center
+Convection
+convergence
+convergent
+coordination exam
+coracobrachialis
+coracoclavicular ligament
+coracohumeral ligament
+coracoid process
+corn
+cornea
+corneal reflex
+corona radiata
+coronal suture
+Coronary arteries
+coronary sinus
+coronary sulcus
+Coronary veins
+coronoid fossa
+coronoid process of the mandible
+coronoid process of the ulna
+corpus albicans
+corpus callosum
+corpus cavernosum
+corpus luteum
+corpus spongiosum
+corrugator supercilii
+cortex
+cortical nephrons
+cortical reaction
+corticopontocerebellar pathway
+corticobulbar tract
+corticospinal tract
+cortisol
+costal cartilage
+costal facet
+costal groove
+costoclavicular ligament
+countercurrent multiplier system
+covalent bond
+coxal bone
+cranial
+cranial cavity
+cranial nerve
+cranial nerve exam
+cranial nerve ganglion
+craniosacral system
+cranium
+Creatine phosphate
+cribriform plate
+cricoid cartilage
+crista galli
+crown
+cuboid
+cupula
+cuspids
+cutaneous membrane
+cuticle
+cyclic adenosine monophosphate (cAMP)
+cyclin
+cyclindependent kinase (CDK)
+cystic artery
+cystic duct
+cytoarchitecture
+cytokine
+Cytokines
+Cytokinesis
+cytoplasm
+cytoskeleton
+Cytosol
+Cytotoxic T cells (Tc)
+Dalton’s law
+deciduous teeth
+decomposition reaction
+decussates
+Deep
+deep anterior compartment
+deep femoral artery
+deep femoral vein
+deep posterior compartment of the forearm
+deep tendon reflex
+deep transverse perineal
+defecation
+defensins
+deglutition
+dehydration
+Delayed hypersensitivity
+delta cell
+deltoid
+deltoid ligament
+deltoid tuberosity
+Denaturation
+dendrite
+dens
+dense body
+dense connective tissue
+dentes
+dentin
+dentition
+deoxyhemoglobin
+deoxyribonuclease
+Deoxyribonucleic acid (DNA)
+depolarization
+depolarize
+Depression
+dermal papilla
+dermis
+descending aorta
+descending colon
+descending tracts
+desmosome
+detrusor muscle
+Development
+diabetes mellitus
+diacylglycerol (DAG)
+diapedesis
+diaphragm
+diaphysis
+diarthrosis
+diastole
+diastolic pressure
+diencephalon
+differentiation
+Diffusion
+digastric
+digital arteries
+digital veins
+dihydroxyvitamin D
+dilation
+dipeptidase
+diploë
+diploid
+diplopia
+direct pathway
+disaccharide
+disinhibition
+Distal
+distal convoluted tubules
+distal radioulnar joint
+distal tibiofibular joint
+disulfide bond
+Diuresis
+diuretic
+DNA polymerase
+DNA replication
+dominant
+Dominant lethal
+dorsal
+dorsal (posterior) cavity
+dorsal (posterior) nerve root
+dorsal (posterior) root ganglion
+dorsal arch
+dorsal column system
+dorsal group
+dorsal interossei
+dorsal longitudinal fasciculus
+dorsal nucleus of the vagus nerve
+dorsal respiratory group (DRG)
+dorsal stream
+dorsal venous arch
+dorsalis pedis artery
+Dorsiflexion
+dorsum nasi
+downregulation
+ductus arteriosus
+ductus deferens
+ductus venosus
+duodenal glands
+duodenum
+dura mater
+dural sinuses
+ear ossicles
+early induced immune response
+eccentric contraction
+eccrine sweat gland
+ectoderm
+ectopic pregnancy
+Eczema
+edema
+Edinger–Westphal nucleus
+effector
+effector protein
+effector T cells
+efferent arteriole
+efferent branch
+efferent lymphatic vessels
+ejaculatory duct
+ejection fraction
+elastase
+elastic artery
+Elastic cartilage
+Elastic fiber
+elasticity
+Elastin fibers
+elbow joint
+electrical gradient
+electrical synapse
+electrocardiogram (ECG)
+electrochemical exclusion
+electron
+electron shell
+electron transport chain (ETC)
+eleidin
+element
+elevation
+embolus
+embryo
+embryonic folding
+emigration
+enamel
+encapsulated ending
+end diastolic volume (EDV)
+end systolic volume (ESV)
+endocardial tubes
+endocardium
+endochondral ossification
+endocrine gland
+endocrine system
+Endocytosis
+endoderm
+endogenous
+endogenous chemical
+endometrium
+endomysium
+endoneurium
+endoplasmic reticulum (ER)
+endosteum
+Endothelins
+endothelium
+energyconsuming phase
+energyyielding phase
+enteric nervous system
+enteric nervous system (ENS)
+enteric plexus
+enteroendocrine cells
+enterohepatic circulation
+enterokinase
+enteropeptidase
+enzyme
+Eosinophils
+ependymal cell
+epiblast
+epicardial coronary arteries
+epicardium
+epicranial aponeurosis
+epidermis
+epididymis
+epiglottis
+epimysium
+epinephrine
+epineurium
+epiphyseal line
+epiphyseal plate
+epiphysis
+epiploic appendages
+episiotomy
+episodic memory
+epithalamus
+epithelial membrane
+Epithelial tissue
+eponychium
+equilibrium
+erector spinae group
+erythroblastosis fetalis
+erythrocyte
+erythropoietin (EPO)
+esophageal artery
+esophageal plexus
+esophageal vein
+esophagus
+estrogens
+ethmoid air cell
+ethmoid bone
+Evaporation
+eversion
+exchange reaction
+excitability
+excitable membrane
+excitationcontraction coupling
+excitatory postsynaptic potential (EPSP)
+executive functions
+exocrine gland
+exocrine system
+exocytosis
+exogenous
+exogenous chemical
+exon
+expiration
+Expiratory reserve volume (ERV)
+expressive aphasia
+expulsion
+extensibility
+extension
+extensor
+extensor carpi radialis brevis
+extensor carpi ulnaris
+extensor digiti minimi
+extensor digitorum
+extensor digitorum brevis
+extensor digitorum longus
+extensor hallucis longus
+extensor indicis
+extensor pollicis brevis
+extensor pollicis longus
+extensor radialis longus
+extensor retinaculum
+External acoustic meatus
+external anal sphincter
+external callus
+external carotid artery
+external ear
+external elastic membrane
+external iliac artery
+external iliac vein
+external intercostal
+external jugular vein
+external nose
+external oblique
+external occipital protuberance
+External respiration
+external root sheath
+external urinary sphincter
+exteroceptor
+Extracellular fluid (ECF)
+extraocular muscles
+extrapyramidal system
+extrinsic eye muscles
+extrinsic ligament
+extrinsic muscles of the hand
+extrinsic muscles of the tongue
+extrinsic pathway
+facet
+facial bones
+facial nerve
+Facilitated diffusion
+FADH2
+false ribs
+fas ligand
+fascicle
+fascicles
+fasciculation
+fasciculus cuneatus
+fasciculus gracilis
+fast glycolytic (FG)
+Fast oxidative (FO)
+fatty acid oxidation
+fauces
+Fc region
+feces
+femoral artery
+femoral circumflex vein
+femoral nerve
+femoral triangle
+femoral vein
+femoropatellar joint
+femur
+fenestrated capillary
+fenestrations
+ferritin
+Fertilization
+fertilization membrane
+fetus
+fibrillation
+fibrin
+Fibrinogen
+Fibrinolysis
+fibroblast
+Fibrocartilage
+fibrocyte
+fibroelastic membrane
+fibrosis
+fibrous joint
+fibrous tunic
+fibula
+fibular collateral ligament
+fibular nerve
+fibular notch
+fibular vein
+fibularis brevis
+fibularis longus
+fibularis tertius
+fightorflight response
+filling time
+filtration
+filtration slits
+fimbriae
+first messenger
+firstdegree burn
+fixator
+flaccid paralysis
+flaccidity
+flagellum
+flat bone
+flatus
+flavin adenine dinucleotide (FAD)
+Flexion
+flexor
+flexor carpi radialis
+flexor carpi ulnaris
+flexor digiti minimi brevis
+flexor digitorum longus
+flexor digitorum profundus
+flexor digitorum superficialis
+flexor hallucis longus
+flexor pollicis brevis
+flexor pollicis longus
+flexor retinaculum
+floating ribs
+flocculonodular lobe
+fluid compartment
+fluid connective tissue
+follicle
+folliclestimulating hormone (FSH)
+folliculogenesis
+fontanelle
+fontanelles
+foot
+Foramen lacerum
+foramen magnum
+foramen ovale
+Foramen ovale of the middle cranial fossa
+Foramen rotundum
+Foramen spinosum
+forced breathing
+forearm
+forebrain
+foregut
+foremilk
+formed elements
+forming urine
+fossa
+fossa ovalis
+fourth ventricle
+fourthdegree burn
+fovea
+fovea capitis
+fracture
+fracture hematoma
+FrankStarling mechanism
+free nerve ending
+frontal bone
+frontal eye fields
+frontal lobe
+frontal plane
+frontal sinus
+frontalis
+functional group
+functional residual capacity (FRC)
+fundus
+fusiform
+G cells
+G protein
+G protein–coupled receptor
+G0 phase
+G1 phase
+G2 phase
+gait
+gait exam
+gallbladder
+gamete
+ganglion
+ganglionic neuron
+gap junction
+gastric emptying
+gastric gland
+gastric phase
+gastric pits
+gastric plexuses
+gastrin
+gastrocnemius
+gastrocolic reflex
+gastroileal reflex
+gastrulation
+gated
+gene
+Gene expression
+general adaptation syndrome (GAS)
+general sense
+generator potential
+genicular artery
+genioglossus
+geniohyoid
+genome
+genotype
+Germinal centers
+gestation
+gigantism
+Gingivae
+glabella
+glans penis
+glassy membrane
+glenohumeral joint
+glenohumeral ligament
+glenoid cavity
+glenoid labrum
+glial cell
+globin
+globulins
+globus pallidus
+glomerular filtration rate (GFR)
+glomerulus
+glossopharyngeal nerve
+glottis
+glucagon
+glucocorticoids
+Glucokinase
+Gluconeogenesis
+glucose6phosphate
+gluteal group
+gluteal tuberosity
+gluteus maximus
+gluteus medius
+gluteus minimus
+glycocalyx
+glycogen
+Glycolysis
+glycoprotein
+glycosuria
+gnosis
+goblet cell
+goiter
+Golgi apparatus
+gomphosis
+gonadal artery
+gonadal vein
+gonadotropinreleasing hormone (GnRH)
+gonadotropins
+gonads
+gracilis
+graded muscle response
+graded potential
+graftversushost disease
+Granular leukocytes
+granulosa cells
+granzyme
+graphesthesia
+gray matter
+gray rami communicantes
+great cardiac vein
+great cerebral vein
+great saphenous vein
+greater pelvis
+greater sciatic foramen
+greater sciatic notch
+greater splanchnic nerve
+greater trochanter
+greater tubercle
+greater wings of the sphenoid bone
+Gross anatomy
+ground substance
+Growth
+growth hormone (GH)
+gustation
+gustatory receptor cells
+gyrus
+Hair
+hair bulb
+hair cells
+hair follicle
+hair matrix
+hair papilla
+hair root
+hair shaft
+Haldane effect
+hallux
+hamate
+hamstring group
+hand
+hard palate
+haustra
+haustral contraction
+head of the femur
+head of the fibula
+head of the humerus
+head of the metatarsal bone
+head of the radius
+head of the rib
+head of the ulna
+heart block
+heart bulge
+heart rate (HR)
+heart sounds
+heavy chain
+helicase
+Helper T cells (Th)
+hemangioblasts
+hematocrit
+hematopoiesis
+hematopoietic stem cell
+heme
+hemiazygos vein
+hemisection
+hemocytoblast
+Hemoglobin
+hemolysis
+hemolytic disease of the newborn (HDN)
+hemophilia
+hemopoiesis
+hemopoietic growth factors
+hemorrhage
+hemorrhagic stroke
+hemosiderin
+hemostasis
+Henry’s law
+heparin
+hepatic artery
+hepatic artery proper
+hepatic lobule
+hepatic portal system
+hepatic portal vein
+hepatic sinusoid
+hepatic vein
+hepatocyte
+hepatopancreatic ampulla
+hepatopancreatic sphincter
+heterozygous
+Hexokinase
+high endothelial venules
+hilum
+hindbrain
+Hindmilk
+hinge joint
+hip bone
+hip joint
+hippocampus
+histamine
+histology
+histone
+hole
+holocrine secretion
+Homeostasis
+homologous
+homozygous
+hook of the hamate bone
+horizontal plate
+hormone
+hormone receptor
+human chorionic gonadotropin (hCG)
+humeroradial joint
+humeroulnar joint
+humerus
+Hyaline cartilage
+hydrochloric acid (HCl)
+hydrogen bond
+hydrophilic
+hydrophobic
+Hydrostatic pressure
+hydroxymethylglutaryl CoA (HMG CoA)
+hymen
+hyoglossus
+hyoid bone
+hypercalcemia
+Hypercapnia
+Hyperchloremia
+Hyperextension
+hyperflexia
+hyperflexion
+hyperglycemia
+Hyperkalemia
+Hypernatremia
+hyperparathyroidism
+Hyperphosphatemia
+hyperplasia
+Hyperpnea
+hypertension
+hyperthyroidism
+hypertonia
+hypertonic
+hypertrophic cardiomyopathy
+hypertrophy
+hyperventilation
+Hypervolemia
+hypoblast
+Hypocalcemia
+Hypocapnia
+Hypochloremia
+hypodermis
+hypoglossal canal
+hypoglossal nerve
+Hypokalemia
+Hyponatremia
+hyponychium
+hypoparathyroidism
+Hypophosphatemia
+hypophyseal (pituitary) fossa
+hypophyseal portal system
+hypothalamus
+hypothenar
+hypothenar eminence
+hypothyroidism
+hypotonia
+hypotonic
+hypotonicity
+hypovolemia
+Hypovolemic shock
+hypoxemia
+hypoxia
+IgA
+IgD
+IgE
+IgG
+IgM
+ileocecal sphincter
+ileum
+iliac crest
+iliac fossa
+iliacus
+iliococcygeus
+iliocostalis cervicis
+iliocostalis group
+iliocostalis lumborum
+iliocostalis thoracis
+iliofemoral ligament
+iliopsoas group
+iliotibial tract
+ilium
+immediate hypersensitivity
+immune system
+immunoglobulin
+immunoglobulins
+immunological memory
+implantation
+inactivation gate
+inactive proenzymes
+incisors
+incomplete dominance
+incontinence
+incus
+indirect pathway
+Inferior
+inferior angle of the scapula
+inferior articular process
+inferior cerebellar peduncle (ICP)
+inferior colliculus
+inferior extensor retinaculum
+inferior gemellus
+inferior mesenteric artery
+inferior mesenteric ganglion
+inferior nasal concha
+inferior oblique
+inferior olive
+inferior phrenic artery
+inferior pubic ramus
+inferior rectus
+Inferior rotation
+inferior vena cava
+Inflammation
+infraglenoid tubercle
+infrahyoid muscles
+infraorbital foramen
+infraspinatus
+infraspinous fossa
+infratemporal fossa
+infundibulum
+ingestion
+inguinal canal
+inhibin
+inhibitory postsynaptic potential (IPSP)
+initial segment
+innate immune response
+inner cell mass
+inner ear
+inner segment
+inner synaptic layer
+innermost intercostal
+inorganic compound
+inositol triphosphate (IP3)
+insertion
+Inspiration
+Inspiratory capacity (IC)
+Inspiratory reserve volume (IRV)
+insulin
+insulinlike growth factors (IGFs)
+integral protein
+integration
+integumentary system
+interatrial band
+interatrial septum
+interaural intensity difference
+interaural time difference
+intercalated cell
+intercalated disc
+intercondylar eminence
+intercondylar fossa
+intercostal artery
+intercostal muscles
+intercostal nerves
+intercostal vein
+Interferons
+Interleukins
+intermediate
+intermediate cuneiform
+intermediate filament
+Internal acoustic meatus
+internal anal sphincter
+internal callus
+internal capsule
+internal carotid arteries
+internal carotid artery
+internal elastic membrane
+internal iliac artery
+internal iliac vein
+internal intercostal
+internal jugular vein
+internal oblique
+Internal respiration
+internal root sheath
+internal thoracic artery
+internal thoracic vein
+internal urinary sphincter
+internodal pathways
+internuclear ophthalmoplegia
+interoceptor
+interosseous border of the fibula
+interosseous border of the radius
+interosseous border of the tibia
+interosseous border of the ulna
+interosseous membrane
+interosseous membrane of the forearm
+interosseous membrane of the leg
+interphalangeal joint
+Interphase
+interstitial fluid (IF)
+Interstitial fluid (IF)
+interstitial fluid colloidal osmotic pressure (IFCOP)
+interstitial fluid hydrostatic pressure (IFHP)
+intertrochanteric crest
+intertrochanteric line
+intertubercular groove (sulcus)
+interventricular foramina
+interventricular septum
+intervertebral disc
+intervertebral foramen
+intestinal gland
+intestinal juice
+intestinal phase
+intorsion
+Intraalveolar pressure
+intracapsular ligament
+intracellular fluid (ICF)
+Intracellular fluid (ICF)
+intramembranous ossification
+intramural ganglia
+Intrapleural pressure
+intrinsic factor
+intrinsic ligament
+intrinsic muscles of the hand
+intrinsic muscles of the tongue
+intrinsic pathway
+intron
+inulin
+Inversion
+involution
+ion
+ionic bond
+ionotropic receptor
+ipsilateral
+iris
+irregular bone
+ischemia
+ischemic stroke
+ischial ramus
+ischial spine
+ischial tuberosity
+ischiococcygeus
+ischiofemoral ligament
+ischiopubic ramus
+ischium
+isometric contraction
+isotonic
+isotonic contractions
+isotope
+isovolumic contraction
+isovolumic ventricular relaxation phase
+isthmus
+jaundice
+jawjerk reflex
+jejunum
+joint
+joint cavity
+joint interzone
+jugular (suprasternal) notch
+jugular foramen
+jugular veins
+juxtaglomerular apparatus (JGA)
+juxtaglomerular cell
+juxtamedullary nephrons
+karyotype
+keloid
+Keratin
+keratinocyte
+keratohyalin
+ketone bodies
+kinesthesia
+kinetic energy
+kinetochore
+knee joint
+Korotkoff sounds
+Krebs cycle
+kyphosis
+labia
+labia majora
+labia minora
+labial frenulum
+lacrimal bone
+lacrimal duct
+lacrimal fossa
+lacrimal gland
+lactase
+Lactation
+lacteal
+lactic acid
+lactiferous ducts
+lactiferous sinus
+lacuna
+lacunae
+lambdoid suture
+lamina
+lamina propria
+Langerhans cell
+lanugo
+large intestine
+laryngeal prominence
+laryngopharynx
+laryngotracheal bud
+larynx
+latchbridges
+latent period
+Lateral
+lateral (external) rotation
+lateral apertures
+lateral border of the scapula
+lateral circumflex artery
+lateral columns
+lateral compartment of the leg
+lateral condyle of the femur
+lateral condyle of the tibia
+lateral corticospinal tract
+lateral cuneiform
+lateral epicondyle of the femur
+lateral epicondyle of the humerus
+Lateral excursion
+Lateral flexion
+lateral geniculate nucleus
+lateral horn
+lateral malleolus
+lateral meniscus
+lateral plantar artery
+lateral pterygoid
+lateral pterygoid plate
+lateral rectus
+lateral sacral crest
+lateral sulcus
+lateral supracondylar ridge
+lateral tibiofemoral joint
+lateral ventricles
+lateralis
+latissimus dorsi
+leakage channel
+leaky tight junctions
+left atrioventricular valve
+left colic flexure
+left gastric artery
+leg
+lens
+leptin
+lesser pelvis
+lesser sciatic foramen
+lesser sciatic notch
+lesser splanchnic nerve
+lesser trochanter
+lesser tubercle
+lesser wings of the sphenoid bone
+letdown reflex
+Leukemia
+leukocyte
+Leukocyte esterase
+leukocytosis
+Leukopenia
+levator ani
+levator palpebrae superioris
+Leydig cells
+ligament
+ligament of the head of the femur
+ligamentum flavum
+ligand
+ligandgated cation channel
+ligandgated channel
+light chain
+lightening
+limb bud
+limbic cortex
+limbic lobe
+limbic system
+linea alba
+linea aspera
+lingual frenulum
+lingual lipase
+lingual tonsil
+Lingula
+Lingular
+lipid
+lipogenesis
+lipolysis
+lipoprotein lipase
+liver
+lochia
+long bone
+long reflex
+longissimus capitis
+longissimus cervicis
+longissimus group
+longissimus thoracis
+longitudinal fissure
+longus
+loop of Henle
+loose connective tissue
+lordosis
+lower esophageal sphincter
+lower motor neuron
+lumbar arteries
+lumbar curve
+lumbar enlargement
+lumbar plexus
+lumbar puncture
+lumbar veins
+Lumbar vertebrae
+lumbrical
+lumen
+lunate
+lung
+lung bud
+lunula
+Luteinizing hormone (LH)
+Lymph
+lymph node
+Lymphatic capillaries
+lymphatic system
+lymphatic trunks
+Lymphocytes
+lymphoid nodules
+Lymphoid stem cells
+Lymphoma
+lysosome
+lysozyme
+macromolecule
+macrophage
+Macrophage oxidative metabolism
+macula
+macula densa
+Magnetic resonance imaging (MRI)
+main pancreatic duct
+major duodenal papilla
+major histocompatibility complex (MHC)
+malleus
+maltase
+mammary glands
+mandible
+Mandibular foramen
+Mandibular fossa
+mandibular notch
+manubrium
+marginal arteries
+mass movement
+mass number
+masseter
+mast cell
+mastication
+mastoid process
+matrix
+matter
+maxillary bone
+maxillary sinus
+maxillary vein
+maximus
+Mean arterial pressure (MAP)
+meatuses
+Mechanical digestion
+mechanically gated channel
+mechanoreceptor
+meconium
+Medial
+medial (internal) rotation
+medial border of the scapula
+medial compartment of the thigh
+medial condyle of the femur
+medial condyle of the tibia
+medial cuneiform
+medial epicondyle of the femur
+medial epicondyle of the humerus
+Medial excursion
+medial forebrain bundle
+medial geniculate nucleus
+medial lemniscus
+medial longitudinal fasciculus (MLF)
+medial malleolus
+medial meniscus
+medial plantar artery
+medial pterygoid
+medial pterygoid plate
+medial rectus
+medial tibiofemoral joint
+medialis
+median antebrachial vein
+median aperture
+median cubital vein
+median nerve
+median sacral artery
+median sacral crest
+mediastinal artery
+medius
+medulla
+medullary cavity
+megakaryocyte
+Meissner corpuscle
+Melanin
+melanocyte
+melanoma
+melanosome
+melatonin
+membrane potential
+memory cell
+memory T cells
+menarche
+meninges
+meniscus
+menses
+menses phase
+menstrual cycle
+Mental foramen
+Mental protuberance
+mental status exam
+Merkel cell
+Merocrine secretion
+mesangial
+mesencephalic nuclei
+mesencephalon
+mesenchymal cell
+mesenchyme
+mesenteric plexus
+mesoappendix
+mesoderm
+mesothelium
+messenger RNA (mRNA)
+Metabolic acidosis
+Metabolic alkalosis
+metabolic rate
+Metabolism
+metabotropic receptor
+metacarpal bone
+metacarpophalangeal joint
+Metaphase
+metaphase plate
+metarteriole
+metastasis
+metatarsal bone
+metatarsophalangeal joint
+metencephalon
+MHC class I
+MHC class II
+MHC polygeny
+MHC polymorphism
+micelle
+microcirculation
+microfilament
+Microglia
+microscopic anatomy
+microtubule
+microvilli
+Micturition
+midbrain
+midcarpal joint
+middle cardiac vein
+middle cerebellar peduncle (MCP)
+middle cerebral artery
+middle cranial fossa
+middle ear
+middle nasal concha
+middle sacral vein
+middle scalene
+migrating motility complex
+mineralocorticoids
+Minerals
+minimus
+mitochondrion
+Mitosis
+mitotic phase
+mitotic spindle
+mitral valve
+mixing wave
+modeling
+moderator band
+molars
+molecule
+monocyte
+Monocytes
+monoglyceride molecules
+monosaccharide
+mons pubis
+morula
+motilin
+motility
+motor endplate
+motor exam
+motor unit
+mucosa
+Mucosaassociated lymphoid tissue (MALT)
+mucosal barrier
+mucous connective tissue
+mucous gland
+mucous membrane
+mucous neck cells
+Müllerian duct
+multiaxial joint
+multifidus
+multipennate
+Multipolar
+multipotent
+murmur
+muscarinic receptor
+muscle tension
+Muscle tissue
+muscle tone
+muscular artery
+muscularis
+mutation
+mydriasis
+myelencephalon
+myelin
+myelin sheath
+Myeloid stem cells
+myenteric plexus
+mylohyoid
+Mylohyoid line
+myoblast
+myocardial conducting cells
+myocardial contractile cells
+myocardium
+myocyte
+myofibril
+myogenic mechanism
+myogenic response
+myogram
+myometrium
+myosin
+myotube
+NADH
+nail bed
+nail body
+nail cuticle
+nail fold
+nail root
+naïve lymphocyte
+naris
+nasal bone
+nasal cavity
+nasal conchae
+nasal septum
+nasolacrimal canal
+nasopharynx
+Natural killer (NK) cells
+natural killer cell (NK)
+navicular
+neck of the femur
+neck of the radius
+neck of the rib
+Necrosis
+Negative feedback
+negative inotropic factors
+negative selection
+Neonatal hypothyroidism
+Nephrons
+nerve
+nerve plexus
+nervi vasorum
+Nervous tissue
+net filtration pressure (NFP)
+neural crest
+neural fold
+neural groove
+neural plate
+neural tube
+neural tunic
+neuraxis
+Neurogenic shock
+neuroglia
+neurological exam
+neuromuscular junction (NMJ)
+neuron
+neuropeptide
+neurotransmitter
+neurulation
+Neutralization
+neutron
+neutrophil
+neutrophils
+nicotinamide adenine dinucleotide (NAD)
+nicotinic receptor
+nociceptor
+node of Ranvier
+nonshivering thermogenesis
+nonspecific channel
+norepinephrine
+normal range
+notochord
+nuchal ligament
+nuclear envelope
+nuclear pore
+nucleolus
+nucleosidase
+nucleosome
+nucleotide
+nucleus
+nucleus ambiguus
+nucleus cuneatus
+nucleus gracilis
+nucleus pulposus
+nutrient
+nutrient foramen
+oblique
+Obstructive shock
+obturator externus
+obturator foramen
+obturator internus
+occipital bone
+occipital condyle
+occipital lobe
+occipital sinus
+occipital sinuses
+occipitalis
+occipitofrontalis
+oculomotor nerve
+odorant molecules
+olecranon fossa
+olecranon process
+olfaction
+olfactory bulb
+olfactory epithelium
+olfactory nerve
+olfactory pit
+olfactory sensory neuron
+Oligodendrocyte
+oligopotent
+oliguria
+omohyoid
+oocyte
+oogenesis
+oogonia
+Open reduction
+ophthalmic artery
+opponens digiti minimi
+opponens pollicis
+Opposition
+opsins
+Opsonization
+optic canal
+optic chiasm
+optic disc
+optic nerve
+optic tract
+oral cavity
+oral vestibule
+orbicularis oculi
+orbicularis oris
+orbit
+organ
+organ system
+organelle
+organelles
+organic compound
+organism
+organogenesis
+organs of Corti
+origin
+oropharynx
+orthopedist
+orthostatic reflex
+Osmoreceptors
+Osmosis
+osseous tissue
+ossicles
+ossification
+ossification center
+osteoblast
+osteoclast
+osteocyte
+osteogenic cell
+osteoid
+osteomalacia
+osteon
+Osteoporosis
+otolithic membrane
+outer segment
+outer synaptic layer
+oval window
+ovarian artery
+ovarian cycle
+ovarian vein
+ovaries
+ovulation
+ovum
+oxidation
+oxidationreduction reaction
+oxidative phosphorylation
+oxygen debt
+oxygen–hemoglobin dissociation curve
+oxyhemoglobin
+oxytocin
+P wave
+pacemaker
+pacesetter cell
+Pacinian corpuscle
+packed cell volume (PCV)
+palatine bone
+palatine process
+palatine tonsil
+palatoglossal arch
+palatoglossus
+palatopharyngeal arch
+palmar arches
+palmar interossei
+palmar venous arches
+palmaris longus
+palpebral conjunctiva
+pancreas
+pancreatic amylase
+pancreatic islets
+pancreatic juice
+pancreatic lipase
+pancreatic lipases
+pancreatic nuclease
+papillae
+papillary layer
+papillary muscle
+paracrine
+Parallel
+paramedian pontine reticular formation (PPRF)
+paranasal sinus
+paranasal sinuses
+parasympathetic division
+parasympathomimetic drugs
+parathyroid glands
+parathyroid hormone (PTH)
+paravertebral ganglia
+parenchyma
+paresis
+parietal bone
+parietal branches
+parietal cells
+parietal lobe
+parietal pleura
+parietooccipital sulcus
+parotid glands
+Partial pressure
+parturition
+Passive immunity
+Passive transport
+patella
+patellar ligament
+patellar surface
+pattern recognition receptor (PRR)
+pectinate line
+pectinate muscles
+pectineal line
+pectineus
+pectoral girdle
+pectoralis major
+pectoralis minor
+pedicels
+pedicle
+pelvic brim
+pelvic diaphragm
+pelvic girdle
+pelvic inlet
+pelvic outlet
+pelvis
+penis
+Pennate
+pepsin
+pepsinogen
+peptide bond
+perforating canal
+perforin
+perfusion
+pericardial artery
+pericardial cavity
+pericardial sac
+pericardium
+perichondrium
+pericyte
+perimetrium
+perimysium
+perineum
+perineurium
+periodic table of the elements
+periodontal ligament
+periosteum
+peripheral chemoreceptor
+peripheral nervous system (PNS)
+Peripheral proteins
+peripheral tolerance
+Peristalsis
+peritoneum
+peritubular capillaries
+permanent teeth
+peroxisome
+perpendicular plate of the ethmoid bone
+petrosal sinus
+petrous ridge
+pH
+Phagocytosis
+phalanx bone of the foot
+phalanx bone of the hand
+pharyngeal tonsil
+pharynx
+phenotype
+philtrum
+phosphatase
+phosphodiesterase (PDE)
+phospholipid
+Phosphorylation
+phosphorylation cascade
+photoisomerization
+photon
+photoreceptor
+phrenic nerve
+phrenic vein
+physiological sphincter
+physiology
+pia mater
+pineal gland
+pinealocyte
+pinocytosis
+piriformis
+pisiform
+pituitary dwarfism
+pituitary gland
+pivot joint
+placenta
+placenta previa
+placentation
+plane
+plane joint
+plantar aponeurosis
+plantar arch
+plantar flexion
+plantar group
+plantar reflex
+plantar veins
+plantar venous arch
+plantaris
+plasma
+plasma cell
+Plasma osmolality
+plasmin
+platelet plug
+platelets
+pleura
+pleural cavity
+Pleural fluid
+plexus
+pluripotent
+pluripotent stem cell
+pneumotaxic center
+podocytes
+polar body
+polar molecule
+pollex
+polyclonal response
+polycythemia
+polymorphonuclear
+polypeptide
+polyribosome
+Polysaccharides
+polyspermy
+polyuria
+popliteal artery
+popliteal fossa
+popliteal vein
+popliteus
+porta hepatis
+portal triad
+positive chemotaxis
+Positive feedback
+positive inotropic factors
+positive selection
+Positron emission tomography (PET)
+postabsorptive state
+postcentral gyrus
+Posterior
+posterior (dorsal) sacral foramen
+posterior arch
+posterior cardiac vein
+posterior cerebral artery
+posterior columns
+posterior communicating artery
+posterior compartment of the leg
+posterior compartment of the thigh
+posterior cranial fossa
+posterior cruciate ligament
+posterior horn
+posterior inferior iliac spine
+posterior interventricular artery
+posterior interventricular sulcus
+posterior longitudinal ligament
+posterior median sulcus
+posterior sacroiliac ligament
+posterior scalene
+posterior superior iliac spine
+posterior talofibular ligament
+posterior tibial artery
+posterior tibial vein
+posterolateral sulcus
+postganglionic fiber
+postsynaptic potential (PSP)
+Potential energy
+power stroke
+PP cell
+praxis
+precapillary sphincters
+precentral gyrus
+precentral gyrus of the frontal cortex
+prefrontal lobe
+preganglionic fiber
+preload
+premolars
+premotor area
+premotor cortex
+prepotential depolarization
+prepuce
+Pressure
+prevertebral ganglia
+primary adaptive response
+primary curve
+primary follicles
+primary lymphoid organs
+primary ossification center
+primary sensory cortex
+primary union
+primary vesicles
+prime mover
+primitive atrium
+primitive heart tube
+primitive streak
+primitive ventricle
+primordial follicles
+principal cell
+procedural memory
+process
+product
+progesterone
+projection
+prolactin
+prolactin (PRL)
+proliferative phase
+proliferative zone
+promoter
+pronated position
+Pronation
+pronator drift
+pronator quadratus
+pronator teres
+Prone
+propagation
+Prophase
+proprioception
+proprioceptor
+propulsion
+prosencephalon
+prostaglandin
+prostate gland
+protein
+protein kinase
+proteolysis
+proteome
+proton
+Protraction
+Proximal
+proximal convoluted tubules (PCTs)
+proximal radioulnar joint
+proximal tibiofibular joint
+Pseudostratified columnar epithelium
+psoas major
+psychoneuroimmunology
+pterion
+Puberty
+pubic arch
+pubic body
+pubic symphysis
+pubic tubercle
+pubis
+pubococcygeus
+pubofemoral ligament
+pulmonary arteries
+pulmonary artery
+pulmonary capillaries
+pulmonary circuit
+pulmonary plexus
+pulmonary surfactant
+pulmonary trunk
+pulmonary valve
+pulmonary veins
+Pulmonary ventilation
+pulp cavity
+pulse
+pulse pressure
+Punnett square
+pupil
+purine
+Purkinje fibers
+putamen
+pyloric antrum
+pyloric canal
+pyloric sphincter
+pylorus
+pyramidal decussation
+pyramidine
+pyramids
+pyruvate
+pyruvic acid
+QRS complex
+quadratus femoris
+quadratus lumborum
+quadriceps femoris group
+quadriceps tendon
+quickening
+Quiet breathing
+radial artery
+radial collateral ligament
+radial fossa
+radial nerve
+radial notch of the ulna
+radial tuberosity
+radial vein
+Radiation
+radioactive isotope
+radiocarpal joint
+radius
+ramus of the mandible
+reabsorption
+reactant
+Reactive oxygen species (ROS)
+receptive aphasia
+receptor
+receptor cell
+receptor potential
+Receptormediated endocytosis
+recessive
+recessive lethal
+recruitment
+rectal valves
+rectum
+rectus
+rectus abdominis
+rectus femoris
+rectus sheaths
+red blood cells (RBCs)
+Red marrow
+red nucleus
+reduction
+referred pain
+reflex arc
+refractory period
+Regional anatomy
+Regulatory T cells (Treg)
+relative refractory period
+relaxation phase
+remodeling
+renal artery
+renal columns
+renal corpuscle
+renal cortex
+renal fat pad
+renal hilum
+renal papillae
+renal pyramids
+renal vein
+renin
+repolarization
+reposition
+Reproduction
+reserve zone
+Residual volume (RV)
+resistance
+Respiratory acidosis
+Respiratory alkalosis
+respiratory bronchiole
+respiratory cycle
+respiratory epithelium
+respiratory membrane
+respiratory pump
+respiratory rate
+Respiratory volume
+respiratory zone
+response
+Responsiveness
+rest and digest
+resting membrane potential
+Reticular fiber
+reticular formation
+reticular lamina
+reticular layer
+Reticular tissue
+reticulocyte
+reticuloendothelial cells
+reticulospinal tract
+retina
+retinacula
+retinal
+retinal ganglion cell (RGC)
+retraction
+retrograde amnesia
+retroperitoneal
+Rh blood group
+rhodopsin
+rhombencephalon
+rhomboid major
+rhomboid minor
+ribonuclease
+Ribonucleic acid (RNA)
+Ribosomal RNA (rRNA)
+ribosome
+ribs
+rickets
+right atrioventricular valve
+right colic flexure
+right gastric artery
+right lymphatic duct
+Rinne test
+RNA polymerase
+rod photoreceptor
+Romberg test
+root
+Rotation
+rotator cuff
+round window
+rubrospinal tract
+ruga
+rugae
+S phase
+saccade
+saccharolytic fermentation
+saccule
+sacral canal
+sacral foramina
+sacral hiatus
+sacral micturition center
+sacral plexus
+sacral promontory
+sacrococcygeal curve
+sacroiliac joint
+sacrospinous ligament
+sacrotuberous ligament
+sacrum
+saddle joint
+sagittal plane
+sagittal suture
+Saliva
+salivary amylase
+salivary glands
+salivation
+saltatory conduction
+saphenous nerve
+sarcolemma
+sarcomere
+sarcopenia
+sarcoplasm
+sarcoplasmic reticulum (SR)
+sartorius
+satellite cell
+scala tympani
+scala vestibuli
+scalene muscles
+scaphoid
+scapula
+scar
+Schwann cell
+sciatic nerve
+sciatica
+sclera
+sclerotome
+scoliosis
+scrotum
+sebaceous gland
+sebum
+second messenger
+seconddegree burn
+secondary adaptive response
+secondary curve
+secondary follicles
+secondary lymphoid organs
+secondary ossification center
+secondary sex characteristics
+secondary union
+secondary vesicles
+secretin
+secretory phase
+section
+segmental muscle group
+Segmentation
+selective permeability
+sella turcica
+semen
+semicircular canals
+semilunar valves
+semimembranosus
+seminal vesicle
+seminiferous tubules
+semispinalis capitis
+semispinalis cervicis
+semispinalis thoracis
+semitendinosus
+sensation
+sensitization
+sensor
+sensorineural hearing
+sensory exam
+sensory homunculus
+sensory modality
+sepsis
+septal cartilage
+septic shock
+septum
+septum primum
+Seroconversion
+serosa
+serous gland
+serous membrane
+serratus anterior
+Sertoli cells
+serum
+sesamoid bone
+set point
+severe combined immunodeficiency disease (SCID)
+sex chromosomes
+shaft of the femur
+shaft of the fibula
+shaft of the humerus
+shaft of the radius
+shaft of the tibia
+shaft of the ulna
+short bone
+short reflex
+shortterm memory
+shunt
+sickle cell disease
+sigmoid colon
+sigmoid sinuses
+simple columnar epithelium
+simple cuboidal epithelium
+simple squamous epithelium
+sinoatrial (SA) node
+sinus rhythm
+sinus venosus
+sinusoid capillary
+sister chromatid
+size exclusion
+Skeletal muscle
+skeletal muscle pump
+skeletal system
+skeleton
+skull
+Slow oxidative (SO)
+small cardiac vein
+small intestine
+small saphenous vein
+Smooth muscle
+Snellen chart
+sodium bicarbonate
+sodiumpotassium pump
+soft palate
+soleal line
+soleus
+solitary nucleus
+solution
+soma
+somatic cell
+somatic nervous system (SNS)
+somatic reflex
+somatosensation
+somite
+somites
+spasticity
+Spatial summation
+special sense
+specific gravity
+sperm
+spermatic cord
+spermatid
+spermatocyte
+spermatogenesis
+spermatogonia
+spermiogenesis
+sphenoid bone
+sphenoid sinus
+sphincter urethrovaginalis
+sphygmomanometer
+spinal accessory nerve
+spinal cavity
+spinal cord
+spinal nerve
+spinal trigeminal nucleus
+spinalis capitis
+spinalis cervicis
+spinalis group
+spinalis thoracis
+spine of the scapula
+spinocerebellar tract
+spinocerebellum
+spinothalamic tract
+spinous process
+spiral ganglia
+spleen
+splenic artery
+splenius
+splenius capitis
+splenius cervicis
+spliceosome
+splicing
+spongy bone
+spontaneous depolarization
+Squamous cell carcinoma
+squamous suture
+stage of exhaustion
+stage of resistance
+stapes
+stem cell
+stereocilia
+stereognosis
+sternal angle
+sternal end of the clavicle
+sternoclavicular joint
+sternocleidomastoid
+sternohyoid
+sternothyroid
+sternum
+steroid
+stimulus
+stomach
+straight sinus
+stratified columnar epithelium
+Stratified cuboidal epithelium
+Stratified squamous epithelium
+stratum basale
+stratum corneum
+stratum granulosum
+stratum lucidum
+stratum spinosum
+stressrelaxation response
+stretch mark
+stretch reflex
+striation
+striatum
+stroke
+stroke volume (SV)
+styloglossus
+stylohyoid
+Styloid process
+styloid process of the radius
+styloid process of the ulna
+Stylomastoid foramen
+subacromial bursa
+subarachnoid space
+subclavian artery
+subclavian vein
+subclavius
+subcortical nuclei
+subcutaneous bursa
+sublingual glands
+submandibular glands
+submodalities
+submucosa
+submucosal plexus
+submuscular bursa
+subpubic angle
+subscapular bursa
+subscapular fossa
+subscapular vein
+subscapularis
+substantia nigra pars compacta
+substantia nigra pars reticulata
+substrate
+subtalar joint
+subtendinous bursa
+subthalamus
+Sucrase
+sudoriferous glands
+sulcus
+summate
+Superficial
+superficial anterior compartment of the forearm
+superficial posterior compartment of the forearm
+superficial reflex
+Superior
+superior angle of the scapula
+superior articular process
+superior articular process of the sacrum
+superior border of the scapula
+superior cerebellar peduncle (SCP)
+superior cervical ganglion
+superior colliculus
+superior extensor retinaculum
+superior gemellus
+superior mesenteric artery
+superior mesenteric ganglion
+superior nasal concha
+superior nuchal line
+superior oblique
+Superior orbital fissure
+superior phrenic artery
+superior pubic ramus
+superior rectus
+superior rotation
+superior sagittal sinus
+superior vena cava
+supinated position
+Supination
+supinator
+supine
+supplemental motor area
+Supportive connective tissue
+suprachiasmatic nucleus
+supraglenoid tubercle
+Suprahyoid muscles
+supraorbital foramen
+supraorbital margin
+suprascapular notch
+supraspinatus
+supraspinous fossa
+supraspinous ligament
+surgical neck
+suspension
+suspensory ligaments
+sustentaculum tali
+suture
+sympathetic chain ganglia
+sympathetic division
+sympatholytic drug
+sympathomimetic drug
+symphysis
+synapses
+synaptic cleft
+synaptic end bulb
+synarthrosis
+synchondrosis
+syncytiotrophoblast
+syndesmosis
+synergist
+synostosis
+synovial fluid
+synovial joint
+synovial membrane
+synthesis reaction
+systemic anatomy
+systemic circuit
+systemic edema
+systemic nerve
+systole
+systolic pressure
+T cell
+T cell tolerance
+T celldependent antigen
+T cellindependent antigen
+T lymphocytes
+T wave
+Ttubules
+talocrural joint
+talus
+target effector
+target heart rate
+tarsal bone
+taste buds
+tectorial membrane
+tectospinal tract
+tectum
+tegmentum
+telencephalon
+telogen
+Telophase
+temporal bone
+temporal fossa
+temporal lobe
+temporal process of the zygomatic bone
+Temporal summation
+temporal vein
+temporalis
+temporomandibular joint (TMJ)
+tendinous intersections
+tendon
+tendon sheath
+teniae coli
+tensor fascia latae
+teres major
+teres minor
+terminal electron acceptor
+terminal ganglia
+tertiary follicles
+testes
+testicular artery
+testicular vein
+testosterone
+tetanus
+Th1 cells
+Th2 cells
+thalamus
+Thalassemia
+theca cells
+thenar
+thenar eminence
+thermoneutral
+thermoreceptor
+thermoregulation
+thick filament
+thigh
+thin filament
+third ventricle
+thirddegree burn
+thoracic aorta
+thoracic cage
+thoracic cavity
+thoracic curve
+thoracic duct
+thoracic vertebrae
+Thoracic wall compliance
+thoracolumbar system
+thoroughfare channel
+threshold
+thrombin
+thrombocytes
+thrombocytopenia
+Thrombocytosis
+Thrombopoietin
+thrombosis
+thrombus
+thymocyte
+thymosins
+thymus
+thyrocervical artery
+thyrohyoid
+thyroid cartilage
+thyroid gland
+thyroidstimulating hormone (TSH)
+thyroxine
+tibia
+tibial collateral ligament
+tibial nerve
+tibial tuberosity
+tibialis anterior
+tibialis posterior
+tight junction
+tissue
+tissue factor
+tissue membrane
+Tissue typing
+tongue
+Tonsils
+topographical
+Total dead space
+total lung capacity (TLC)
+Total pressure
+totipotent
+totipotent stem cell
+trabeculae
+trabeculae carneae
+trachea
+trachealis muscle
+tract
+trait
+transamination
+transcription
+transcription factor
+transduction
+Transfer RNA (tRNA)
+transferrin
+transient ischemic attack (TIA)
+transitional epithelium
+Translation
+Transpulmonary pressure
+transverse colon
+transverse foramen
+transverse plane
+transverse process
+transverse sinuses
+transversospinales
+transversus abdominis
+trapezium
+trapezius
+trapezoid
+treppe
+tri
+triad
+tricarboxylic acid cycle (TCA)
+triceps brachii
+tricuspid valve
+trigeminal ganglion
+trigeminal nerve
+triglyceride
+triglycerides
+trigone
+triiodothyronine
+trimesters
+triplet
+triquetrum
+trochlea
+trochlear nerve
+trochlear notch
+trophoblasts
+tropomyosin
+troponin
+true labor
+true ribs
+true vocal cord
+truncus arteriosus
+trunk
+trypsin
+trypsinogen
+tubercle of the rib
+tubuloglomerular feedback
+tunica externa
+tunica intima
+tunica media
+twitch
+tympanic membrane
+type I alveolar cell
+type I hypersensitivity
+type II alveolar cell
+Type II hypersensitivity
+Type III hypersensitivity
+ulna
+ulnar artery
+ulnar collateral ligament
+ulnar nerve
+ulnar notch of the radius
+ulnar tuberosity
+ulnar vein
+Ultrasonography
+Umami
+umbilical arteries
+umbilical cord
+umbilical vein
+uniaxial joint
+unipennate
+Unipolar
+unipotent
+universal donor
+universal recipient
+upper esophageal sphincter
+upper motor neuron
+upregulation
+urea cycle
+urethra
+Urinalysis
+urochrome
+urogenital triangle
+uterine tubes
+uterus
+utricle
+vagina
+vagus nerve
+valence shell
+Valsalva’s maneuver
+valve
+variable region domain
+varicosity
+vasa recta
+vasa vasorum
+Vascular shock
+vascular shunt
+vascular spasm
+vascular tone
+Vascular tubes
+vascular tunic
+vasoconstriction
+vasodilation
+vasomotion
+vasomotor nerves
+vastus intermedius
+vastus lateralis
+vastus medialis
+vein
+venous reserve
+Ventilation
+ventral
+ventral (anterior) cavity
+ventral (anterior) nerve root
+ventral posterior nucleus
+ventral respiratory group (VRG)
+ventral stream
+ventricle
+ventricles
+ventricular ejection phase
+venule
+vermis
+vernix caseosa
+vertebra
+vertebral (spinal) canal
+vertebral arch
+vertebral arteries
+vertebral artery
+vertebral column
+vertebral foramen
+vertebral vein
+vesicle
+vestibular fold
+vestibular ganglion
+vestibular nuclei
+vestibule
+vestibuloocular reflex (VOR)
+vestibulocerebellum
+vestibulocochlear nerve
+vestibulospinal tract
+villi
+visceral branches
+visceral muscle
+visceral pleura
+visceral reflex
+visceral sense
+Vision
+visual acuity
+Vital capacity (VC)
+vitamin D
+Vitamins
+vitiligo
+vitreous humor
+voltagegated channel
+voltagegated sodium channels
+voluntary phase
+vomer bone
+vulva
+wave summation
+Weber test
+Wernicke’s area
+white blood cells (WBCs)
+white matter
+white rami communicantes
+Wolffian duct
+working memory
+wound contraction
+Xlinked
+Xlinked dominant
+Xlinked recessive
+Xray
+xiphoid process
+Yellow marrow
+yolk sac
+zona fasciculata
+zona glomerulosa
+zona pellucida
+zona reticularis
+zone of calcified matrix
+zone of maturation and hypertrophy
+zonule fibers
+zygapophysial joints
+zygomatic arch
+zygomatic bone
+zygomatic process of the temporal bone
+zygote
