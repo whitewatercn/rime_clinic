@@ -1,0 +1,31 @@
+name: Transform Rime Clinic Dicts to Sougou
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  transform:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install rimetool
+      run: pip install rimetool
+
+    - name: Process Rime Clinic Dicts
+      run: |
+        for file in rime_clinic_dicts/cn_dict/*; do
+          rimetool -i "$file" -t tosougou
+          prefix=$(basename "$file" | cut -d '.' -f 1)
+          mv "$file" "sougou_dicts/cn_dict/$prefix"
+        done
