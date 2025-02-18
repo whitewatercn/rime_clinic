@@ -2,23 +2,18 @@
 
 # 项目介绍
 
-rime医学输入法，集成中英医学词库，开箱即用。欢迎补充修改提意见！
-
-原始配置和词库基于[白霜拼音](https://github.com/gaboolic/rime-frost)的 [d441930](https://github.com/gaboolic/rime-frost/commit/d441930f657d797979797220eee3c45430dc20f6) commit。
-
-医学词库位于 `clinic_dicts`文件夹中
-
-# 常见问题
-
-- 如何使用rime医学输入法？参考雾凇拼音的[使用说明](https://github.com/iDvel/rime-ice?tab=readme-ov-file#%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85)
-- 如何从其他rime输入方案迁移数据到本方案？参考白霜拼音的[这个issue](https://github.com/gaboolic/rime-frost/issues/106)
-- 输出的内容旁边的*星号、⚡闪电、𑄗无限是什么意思？[详见这里](https://github.com/gaboolic/rime-frost/issues/12)
+中英医学词库，欢迎补充修改提意见！
+⚠️注意⚠️挂载词库时请逐个挂载后，一次挂载多个大词库后部署可占用大量内存导致电脑卡死
 
 # 中文词库（位于 `clinic_dicts/cn_dict`文件夹）
 
 [详细介绍点此查看](./docs/dict_info.md)
 
-⚠️注意⚠️挂载词库时请逐个挂载后部署，一次挂载多个大词库后部署可占用大量内存导致电脑卡死
+⚠️注意⚠️挂载词库时请逐个挂载后，一次挂载多个大词库后部署可占用大量内存导致电脑卡死
+
+⚠️注意⚠️挂载词库时请逐个挂载后，一次挂载多个大词库后部署可占用大量内存导致电脑卡死
+
+⚠️注意⚠️挂载词库时请逐个挂载后，一次挂载多个大词库后部署可占用大量内存导致电脑卡死
 简略介绍
 
 ```mermaid
