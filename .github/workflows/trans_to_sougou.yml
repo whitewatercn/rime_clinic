@@ -45,4 +45,3 @@ jobs:
         github_token: ${{ secrets.UPLOAD_TOKEN }}
         branch: master
         force: true
-        commit_message: "Update Sougou dicts"
