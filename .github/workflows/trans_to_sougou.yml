@@ -27,5 +27,5 @@ jobs:
         for file in rime_clinic_dicts/cn_dict/*; do
           rimetool -i "$file" -t tosougou
           prefix=$(basename "$file" | cut -d '.' -f 1)
-          mv "/home/runner/work/rime_clinic/rime_clinic/rimetool_output/tosougou_output.txt" "/home/runner/work/rime_clinic/rime_clinic/sougou_dicts/cn_dict/$prefix"
+          mv "/home/runner/work/rime_clinic/rime_clinic/rimetool_output/tosougou_output.txt" "/home/runner/work/rime_clinic/rime_clinic/sougou_dicts/cn_dict/$prefix.txt"
         done
