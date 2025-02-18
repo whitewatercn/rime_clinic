@@ -38,10 +38,6 @@ jobs:
     - name: Add processed files to git
       run: |
         git add /home/runner/work/rime_clinic/rime_clinic/sougou_dicts/cn_dict/*
+        git commit -m "github bot 自动转换rime词典到搜狗词典"
+        git push origin master
 
-    - name: Commit and push changes
-      uses: ad-m/github-push-action@v0.6.0
-      with:
-        github_token: ${{ secrets.UPLOAD_TOKEN }}
-        branch: master
-        force: true
