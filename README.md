@@ -3,20 +3,16 @@
 # 项目介绍
 
 中英医学词库，欢迎补充修改提意见！
-⚠️注意⚠️挂载词库时请按需逐个挂载，一次挂载多个大词库后部署可占用大量内存导致电脑卡死
+
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/dd271867-c107-40e0-9976-0d1e8d19189b" />
+
 
 # 中文词库（位于 `clinic_dicts/cn_dict`文件夹）
 
 [详细介绍点此查看](./docs/dict_info.md)
 
-⚠️注意⚠️挂载词库时请按需逐个挂载，一次挂载多个大词库后部署可占用大量内存导致电脑卡死
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/dd271867-c107-40e0-9976-0d1e8d19189b" />
 
-
-⚠️注意⚠️挂载词库时请按需逐个挂载，一次挂载多个大词库后部署可占用大量内存导致电脑卡死
-
-
-
-⚠️注意⚠️挂载词库时请按需逐个挂载，一次挂载多个大词库后部署可占用大量内存导致电脑卡死
 简略介绍
 
 ```mermaid
@@ -45,7 +41,8 @@ flowchart LR
 
 [详细介绍点此查看](./docs/dict_info.md)
 
-⚠️注意⚠️挂载词库时请逐个挂载后部署，一次挂载多个大词库后部署可占用大量内存导致电脑卡死
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/dd271867-c107-40e0-9976-0d1e8d19189b" />
+
 
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
@@ -63,7 +60,6 @@ flowchart LR
 
 ```
 
-⚠️注意⚠️挂载词库时请逐个挂载后部署，一次挂载多个大词库后部署可占用大量内存导致电脑卡死
 
 # 感谢
 
