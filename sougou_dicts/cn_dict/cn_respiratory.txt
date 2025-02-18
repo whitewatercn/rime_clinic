@@ -1,5 +1,5 @@
 # 生成工具 https://github.com/whitewatercn/rimetool
-# 生成时间 2025-02-18_10-27-47
+# 生成时间 2025-02-18_10-40-17
 ---
 'yi'xing'hu'xi'shuai'jie Ⅰ型呼吸衰竭
 'er'xing'hu'xi'shuai'jie Ⅱ型呼吸衰竭

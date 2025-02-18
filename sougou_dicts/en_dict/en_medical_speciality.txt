@@ -1,0 +1,275 @@
+# 生成工具 https://github.com/whitewatercn/rimetool
+# 生成时间 2025-02-18_10-40-20
+---
+'pathology pathology
+'toxicology toxicology
+'palliativemedicine palliative medicine
+'alcohology alcohology
+'childpulmonology child pulmonology
+'pediatricradiology pediatric radiology
+'pediatrictraumatology pediatric traumatology
+'pediatricurology pediatric urology
+'clinicalneurophysiology clinical neurophysiology
+'preventivemedicine preventive medicine
+'psychiatry psychiatry
+'clinicalpharmacology clinical pharmacology
+'venereology venereology
+'laryngology laryngology
+'molecularvirology molecular virology
+'neurointensivecare neurointensive care
+'neuromuscularmedicine neuromuscular medicine
+'oncogenomics oncogenomics
+'Ophthalmicpathology Ophthalmic pathology
+'Oralandmaxillofacialradiology Oral and maxillofacial radiology
+'pediatricophthalmology pediatric ophthalmology
+'pediatricpathology pediatric pathology
+'pharmaceuticalmedicine pharmaceutical medicine
+'rhinology rhinology
+'occupationalhealth occupational health
+'Sportschiropractic Sports chiropractic
+'urogynecology urogynecology
+'publichealthphysician public health physician
+'medicalparasitology medical parasitology
+'cardiology cardiology
+'insurancemedicine insurance medicine
+'Lifestylemedicine Lifestyle medicine
+'medicalmycology medical mycology
+'cardiogenetics cardiogenetics
+'Naturalorificetranslumenalendoscopicsurgery Natural orifice translumenal endoscopic surgery
+'battlefieldmedicine battlefield medicine
+'oralsurgery oral surgery
+'pedaudiology pedaudiology
+'socialmedicine social medicine
+'technicalmedicine technical medicine
+'roentgenology roentgenology
+'molecularoncology molecular oncology
+'pediatricneurology pediatric neurology
+'generalpractice general practice
+'dermatovenerology dermatovenerology
+'podiatry podiatry
+'clinicaloncology clinical oncology
+'pediatricendocrinology pediatric endocrinology
+'phthisiology phthisiology
+'physicalmedicineandrehabilitation physical medicine and rehabilitation
+'neuropsychiatry neuropsychiatry
+'Sexualmedicine Sexual medicine
+'adhesivedentistry adhesive dentistry
+'sportstraumatology sports traumatology
+'strabology strabology
+'clinicalnutrition clinical nutrition
+'geriatricdentistry geriatric dentistry
+'phlebology phlebology
+'neuroimmunology neuroimmunology
+'veterinarysurgery veterinary surgery
+'geriatrics geriatrics
+'internalmedicine internal medicine
+'immunopathology immunopathology
+'Agada Agada
+'emergencymedicine emergency medicine
+'dentistry dentistry
+'speech-languagepathology speech-language pathology
+'pediatricnephrology pediatric nephrology
+'surgicalendocrinology surgical endocrinology
+'pediatriconcology pediatric oncology
+'clinicalimmunology clinical immunology
+'orthognathicsurgery orthognathic surgery
+'behavioralmedicine behavioral medicine
+'aestheticmedicine aesthetic medicine
+'maritimemedicine maritime medicine
+'Predictivemedicine Predictive medicine
+'aviationmedicine aviation medicine
+'equinemedicine equine medicine
+'obstetricsandgynaecology obstetrics and gynaecology
+'neurology neurology
+'molecularmedicine molecular medicine
+'surgicaloncology surgical oncology
+'interventionalcardiology interventional cardiology
+'clinicalvirology clinical virology
+'oralmedicine oral medicine
+'orthopedicsurgery orthopedic surgery
+'lipidology lipidology
+'humanpathology human pathology
+'genitourinaryoncology genitourinary oncology
+'endocrineoncology endocrine oncology
+'scienceofprosthetics science of prosthetics
+'obstetricmedicine obstetric medicine
+'immuno-oncology immuno-oncology
+'hematopathology hematopathology
+'reproductiveendocrinologyandinfertility reproductive endocrinology and infertility
+'osteopathicmedicine osteopathic medicine
+'interventionalneuroradiology interventional neuroradiology
+'Pediatricgastroenterology Pediatric gastroenterology
+'radiology radiology
+'hematology hematology
+'renalpathology renal pathology
+'oncogenetics oncogenetics
+'familyplanningmethods family planning methods
+'integrativemedicine integrative medicine
+'dermatopathology dermatopathology
+'familymedicine family medicine
+'symptomatology symptomatology
+'immunology immunology
+'clinicalmedicine clinical medicine
+'complementarymedicine complementary medicine
+'pediatricgynaecology pediatric gynaecology
+'pediatricneurosurgery pediatric neurosurgery
+'perinatalpsychiatry perinatal psychiatry
+'cardiooncology cardiooncology
+'oncohematology oncohematology
+'pediatricorthopedicsurgery pediatric orthopedic surgery
+'pediatricvisceralsurgery pediatric visceral surgery
+'diagnosticneuroradiology diagnostic neuroradiology
+'diagnosticmicrobiology diagnostic microbiology
+'geriatrictraumatology geriatric traumatology
+'psychiatricsemiology psychiatric semiology
+'functionalsurgery functional surgery
+'bonesurgery bone surgery
+'addictionmedicine addiction medicine
+'endocrinology endocrinology
+'pharmacology pharmacology
+'surgery surgery
+'electromedicine electromedicine
+'communitymedicine community medicine
+'medicaljurisprudence medical jurisprudence
+'publicmedicine public medicine
+'humandentalmedicine human dental medicine
+'Vertebroneurology Vertebroneurology
+'desmurgy desmurgy
+'adolescentmedicine adolescent medicine
+'veterinarymedicine veterinary medicine
+'dermatology dermatology
+'bronchology bronchology
+'genitourinarymedicine genitourinary medicine
+'gynecologiconcology gynecologic oncology
+'operationalmedicine operational medicine
+'pediatricplasticsurgery pediatric plastic surgery
+'oncologicalplasticsurgery oncological plastic surgery
+'clinicalepidemiology clinical epidemiology
+'clinicalgenetics clinical genetics
+'hospitalmedicine hospital medicine
+'lymphology lymphology
+'immunotoxicology immunotoxicology
+'pre-hospitalemergencymedicine pre-hospital emergency medicine
+'neuroembryology neuroembryology
+'medicaloncology medical oncology
+'pediatriccardiacsurgery pediatric cardiac surgery
+'footandanklesurgery foot and ankle surgery
+'gynecologicalsurgery gynecological surgery
+'thoracicsurgery thoracic surgery
+'essure essure
+'medicalentomology medical entomology
+'gastroenterology gastroenterology
+'nephrology nephrology
+'criticalemergencymedicine critical emergency medicine
+'minimallyinvasivestrabismussurgery minimally invasive strabismus surgery
+'headandnecksurgery head and neck surgery
+'orthotics orthotics
+'academicmedicine academic medicine
+'oralpathology oral pathology
+'thoraciconcology thoracic oncology
+'molecularimmunology molecular immunology
+'liversurgery liver surgery
+'Sportspsychiatry Sports psychiatry
+'painmedicine pain medicine
+'gastrointestinalsurgery gastrointestinal surgery
+'forensicmedicine forensic medicine
+'throatsurgery throat surgery
+'burnsurgery burn surgery
+'medicalrehabilitation medical rehabilitation
+'spinesurgery spine surgery
+'algesiology algesiology
+'coloproctology coloproctology
+'mammology mammology
+'assessmentmedicine assessment medicine
+'radiationtherapy radiation therapy
+'ophthalmology ophthalmology
+'pediatrics pediatrics
+'otolaryngology otolaryngology
+'pulmonology pulmonology
+'nuclearmedicine nuclear medicine
+'plasticsurgery plastic surgery
+'neurosurgery neurosurgery
+'orthopedics orthopedics
+'cardiacsurgery cardiac surgery
+'refractivesurgery refractive surgery
+'handsurgery hand surgery
+'hospiceandpalliativemedicine hospice and palliative medicine
+'emetology emetology
+'Cardiogeriatrics Cardiogeriatrics
+'Colpocleisis Colpocleisis
+'Prisonhealthcare Prison healthcare
+'craniofacialsurgery craniofacial surgery
+'obstetrics obstetrics
+'emergencynursing emergency nursing
+'oncology oncology
+'rheumatology rheumatology
+'andrology andrology
+'Tauro-Traumatology Tauro-Traumatology
+'keraunomedicine keraunomedicine
+'Mass-gatheringmedicine Mass-gathering medicine
+'medicaltoxicology medical toxicology
+'interventionalradiology interventional radiology
+'medicaljurisprudence medical jurisprudence
+'traumasurgery trauma surgery
+'reproductivemedicine reproductive medicine
+'traumatology traumatology
+'mastology mastology
+'psychosomaticmedicine psychosomatic medicine
+'clinicalpathology clinical pathology
+'oralandmaxillofacialsurgery oral and maxillofacial surgery
+'environmentalmedicine environmental medicine
+'angiology angiology
+'maternal-fetalmedicine maternal-fetal medicine
+'medicalmicrobiology medical microbiology
+'hysterectomy hysterectomy
+'audiology audiology
+'anaesthesiology anaesthesiology
+'painmanagement pain management
+'occupationalmedicine occupational medicine
+'neuroradiology neuroradiology
+'hepatology hepatology
+'intensivecaremedicine intensive care medicine
+'anatomicalpathology anatomical pathology
+'radiationoncology radiation oncology
+'abdominalsurgery abdominal surgery
+'sleepmedicine sleep medicine
+'Strabismussurgery Strabismus surgery
+'eyesurgery eye surgery
+'sportsmedicine sports medicine
+'nosology nosology
+'neonatology neonatology
+'infectiousdiseases infectious diseases
+'balneology balneology
+'travelmedicine travel medicine
+'generalsurgery general surgery
+'allergology allergology
+'regenerativemedicine regenerative medicine
+'medicalgenetics medical genetics
+'pathophysiology pathophysiology
+'diabetology diabetology
+'gynaecology gynaecology
+'dietetics dietetics
+'Interventionalpainmanagement Interventional pain management
+'familyplanning family planning
+'transfusionmedicine transfusion medicine
+'neuropediatrics neuropediatrics
+'neuroendocrinology neuroendocrinology
+'anaplastology anaplastology
+'socialpsychiatry social psychiatry
+'neurotology neurotology
+'colorectalsurgery colorectal surgery
+'divingmedicine diving medicine
+'spacemedicine space medicine
+'pediatricsurgery pediatric surgery
+'harmreduction harm reduction
+'bariatricmedicine bariatric medicine
+'Fetalsurgery Fetal surgery
+'militarymedicine military medicine
+'neuropathology neuropathology
+'infectionepidemiology infection epidemiology
+'vascularsurgery vascular surgery
+'phoniatrics phoniatrics
+'gerontopsychiatry gerontopsychiatry
+'rhythmology rhythmology
+'haemostasisspecialty haemostasis specialty
+'otology otology
