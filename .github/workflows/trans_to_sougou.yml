@@ -29,3 +29,9 @@ jobs:
           prefix=$(basename "$file" | cut -d '.' -f 1)
           mv "/home/runner/work/rime_clinic/rime_clinic/rimetool_output/tosougou_output.txt" "/home/runner/work/rime_clinic/rime_clinic/sougou_dicts/cn_dict/$prefix.txt"
         done
+
+    - name: Save processed files
+      uses: actions/upload-artifact@v2
+      with:
+        name: sougou_dicts
+        path: /home/runner/work/rime_clinic/rime_clinic/sougou_dicts/cn_dict/
