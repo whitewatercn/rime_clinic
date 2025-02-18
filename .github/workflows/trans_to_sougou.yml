@@ -32,7 +32,7 @@ jobs:
           rimetool -i "$file" -t tosougou
           prefix=$(basename "$file" | cut -d '.' -f 1)
           mv "/home/runner/work/rime_clinic/rime_clinic/rimetool_output/tosougou_output.txt" "/home/runner/work/rime_clinic/rime_clinic/sougou_dicts/en_dict/$prefix.txt"
-
+        done
     - name: Add processed files to git
       run: |
         git config --local user.email ${{ secrets.USER_EMAIL }}
