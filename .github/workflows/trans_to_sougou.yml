@@ -28,18 +28,16 @@ jobs:
           rimetool -i "$file" -t tosougou
           prefix=$(basename "$file" | cut -d '.' -f 1)
           mv "/home/runner/work/rime_clinic/rime_clinic/rimetool_output/tosougou_output.txt" "/home/runner/work/rime_clinic/rime_clinic/sougou_dicts/cn_dict/$prefix.txt"
-        done
+        for file in rime_clinic_dicts/en_dict/*; do
+          rimetool -i "$file" -t tosougou
+          prefix=$(basename "$file" | cut -d '.' -f 1)
+          mv "/home/runner/work/rime_clinic/rime_clinic/rimetool_output/tosougou_output.txt" "/home/runner/work/rime_clinic/rime_clinic/sougou_dicts/en_dict/$prefix.txt"
 
-    # - name: Save processed files
-    #   uses: actions/upload-artifact@v4
-    #   with:
-    #     name: sougou_dicts
-    #     path: /home/runner/work/rime_clinic/rime_clinic/sougou_dicts/cn_dict/
     - name: Add processed files to git
       run: |
         git config --local user.email ${{ secrets.USER_EMAIL }}
         git config --local user.name ${{ secrets.USER_NAME }}
-        git add /home/runner/work/rime_clinic/rime_clinic/sougou_dicts/cn_dict/*
+        git add /home/runner/work/rime_clinic/rime_clinic/sougou_dicts/*
         git commit -m "github bot 自动转换rime词典到搜狗词典"
     - name: Commit and push changes
       uses: ad-m/github-push-action@master
