@@ -38,7 +38,7 @@ jobs:
     - name: Commit and push changes
       uses: ad-m/github-push-action@v0.6.0
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.UPLOAD_TOKEN }}
         branch: main
         force: true
         commit_message: "Update Sougou dicts"
