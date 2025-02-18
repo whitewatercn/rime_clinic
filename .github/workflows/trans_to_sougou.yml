@@ -37,6 +37,8 @@ jobs:
     #     path: /home/runner/work/rime_clinic/rime_clinic/sougou_dicts/cn_dict/
     - name: Add processed files to git
       run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add /home/runner/work/rime_clinic/rime_clinic/sougou_dicts/cn_dict/*
         git commit -m "github bot 自动转换rime词典到搜狗词典"
         git push origin master
