@@ -1,4 +1,4 @@
-[Simplified Chinese](../README.md)  | [English](https://github.com/whitewatercn/rime_clinic/blob/master/docs/README_en.md)
+[Simplified Chinese](https://github.com/whitewatercn/rime_clinic/blob/master/README.md)  | [English](https://github.com/whitewatercn/rime_clinic/blob/master/docs/README_en.md) 
 
 # Project Introduction
 
@@ -30,7 +30,7 @@ flowchart LR
     WesternMedicine[Western Medicine] --> cn_medicine_list_tiny["`cn_medicine_list_tiny (available) Western medicine dictionary, simplified from cn_medicine_list_origin, still retains some Chinese herbs and Chinese patent medicines`"]
     WesternMedicine[Western Medicine] --> cn_medicine_list_origin["`cn_medicine_list_origin (too large, not recommended for direct use) Large dictionary of Chinese and Western medicines, including Chinese herbs, Chinese patent medicines, Western medicines, and Western medicine preparations, being split into smaller dictionaries`"]
     cn_clinic_origin --> cn_clinic_dedulplicate["`cn_clinic_dedulplicate Words left after splitting into other dictionaries`"]
-    cn_medicine_list_origin --> cn_medicine_list_dedulplicate["`cn_medicine_list_dedulplicate Words left after splitting into other dictionaries`"]      
+    cn_medicine_list_origin --> cn_medicine_list_dedulplicate["`cn_medicine_list_dedulplicate Words left after splitting into other dictionaries`"]        
 ```
 
 # English Dictionary (located in the `en_dict` folder)
