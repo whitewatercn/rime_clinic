@@ -1,5 +1,5 @@
 # 生成工具 https://github.com/whitewatercn/rimetool
-# 生成时间 2025-02-18_10-40-15
+# 生成时间 2025-02-18_11-10-10
 ---
 'a'ba'ka'wei 阿巴卡韦
 'a'ba'ka'wei'shuang'fu'ding 阿巴卡韦双夫定

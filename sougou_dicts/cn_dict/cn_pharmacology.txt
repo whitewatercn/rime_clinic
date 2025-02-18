@@ -1,5 +1,5 @@
 # 生成工具 https://github.com/whitewatercn/rimetool
-# 生成时间 2025-02-18_10-40-16
+# 生成时间 2025-02-18_11-10-11
 ---
 'bei'ta'nei'xian'an β-内酰胺
 'dan'huan'nei'xian'an 单环内酰胺
