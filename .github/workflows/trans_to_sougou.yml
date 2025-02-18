@@ -31,7 +31,7 @@ jobs:
         done
 
     - name: Save processed files
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: sougou_dicts
         path: /home/runner/work/rime_clinic/rime_clinic/sougou_dicts/cn_dict/
