@@ -4,7 +4,8 @@
 
 中英医学词库，欢迎补充修改提意见！
 
-<img width="674" alt="image" src="https://github.com/user-attachments/assets/dd271867-c107-40e0-9976-0d1e8d19189b" />
+<img width="614" alt="image" src="https://github.com/user-attachments/assets/f60b67a2-a561-4bf4-af38-266815fc0cba" />
+
 
 
 # 中文词库（位于 `clinic_dicts/cn_dict`文件夹）
