@@ -75,6 +75,7 @@ flowchart LR
 
 词库收集自互联网公开信息，如侵犯版权请联系删除
 
+
 ## Star History
 
 ![Star History Chart](https://api.star-history.com/svg?repos=whitewatercn/rime_clinic&type=Date)
