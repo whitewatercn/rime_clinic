@@ -1,5 +1,5 @@
 # 生成工具 https://github.com/whitewatercn/rimetool
-# 生成时间 2025-02-20_02-41-03
+# 生成时间 2025-02-26_09-26-29
 ---
 20 dynamic lung compliance at 20 times per minute of respiratory frequency
 40 dynamic lung compliance at 40 times per minute of respiratory frequency
