@@ -1,0 +1,24 @@
+ # Rime extended dictionary
+ # encoding: utf-8
+ # 更多内容见 https://github.com/whitewatercn/rime_clinic
+---
+name: 中文中医难拼写字词
+version: "2025-02-26"
+sort: by_weight
+version: 1.0
+
+...
+
+# 㕮	fu	1
+㕮咀	fu ju	1
+㕮咀	fu jv	1
+# 㽲	jiao	1
+㽲痛	xiao tong	1
+㽲痛	qiao tong	1
+# 瞤	shun	1
+# 憹	nao	1
+懊憹	ao nao	1
+# 漐	zhi	1
+# 漐	zhe	1
+漐漐	zhi zhi	1
+漐漐	zhe zhe	1

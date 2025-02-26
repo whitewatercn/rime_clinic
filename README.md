@@ -6,8 +6,6 @@
 
 <img width="614" alt="image" src="https://github.com/user-attachments/assets/f60b67a2-a561-4bf4-af38-266815fc0cba" />
 
-
-
 # 中文词库（位于 `clinic_dicts/cn_dict`文件夹）
 
 [详细介绍点此查看](./docs/dict_info.md)
@@ -25,6 +23,8 @@ flowchart LR
     中医[中医] --> cn_tcm_clinicia["`cn_tcm_clinician （可用）中医临床家词库`"]
     中医[中医] --> cn_tcm_formula["`cn_tcm_formula （可用）方剂词库（现已集合伤寒论）`"]
     中医[中医] --> cn_tcm_acupuncture["`cn_tcm_acupuncture （可用）针灸穴位词库`"]
+    中医[中医] --> 中医难拼写词库["（可用）中医难拼写词库，如`㕮咀`、`遍身漐漐`"]
+
     cn_tcm_origin --> cn_tcm_dedulplicate["`cn_tcm_dedulplicate （可用）拆分到其他词库后剩下的词`"]
     cn_tcm_herb --> cn_tcm_dedulplicate
 
@@ -44,7 +44,6 @@ flowchart LR
 
 <img width="674" alt="image" src="https://github.com/user-attachments/assets/dd271867-c107-40e0-9976-0d1e8d19189b" />
 
-
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 
@@ -61,7 +60,6 @@ flowchart LR
 
 ```
 
-
 # 感谢
 
 - [深蓝词库转换](https://github.com/studyzy/imewlconverter)：本仓库的很多词库由搜狗等词库使用该工具转换而来，使用方法见[如何在Linux上使用深蓝词库转换（以Google colab为例——基于Ubuntu）](https://forum.beginner.center/t/topic/719)
@@ -74,7 +72,6 @@ flowchart LR
 # 版权
 
 词库收集自互联网公开信息，如侵犯版权请联系删除
-
 
 ## Star History
 
