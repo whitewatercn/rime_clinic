@@ -16,8 +16,8 @@ sort: by_weight
 八邪穴	ba xie xue	1
 百虫窝	bai chong wo	1
 百虫窝穴	bai chong wo xue	1
-白环俞	bai huan yu	1
-白环俞穴	bai huan yu xue	1
+白环俞	bai huan shu	1
+白环俞穴	bai huan shu xue	1
 百会	bai hui	1
 百会穴	bai hui xue	1
 胞肓	bao huang	1
@@ -77,7 +77,7 @@ sort: by_weight
 大肠	da chang	1
 大肠经	da chang jing	1
 大肠俞穴	da chang shu xue	1
-大肠俞	da chang yu	1
+大肠俞	da chang shu	1
 大都	da dou	1
 大都穴	da dou xue	1
 大敦	da dun	1
@@ -107,7 +107,7 @@ sort: by_weight
 胆囊	dan nang	1
 胆囊穴	dan nang xue	1
 胆俞穴	dan shu xue	1
-胆俞	dan yu	1
+胆俞	dan shu	1
 膻中穴	dan zhong xue	1
 当阳	dang yang	1
 当阳穴	dang yang xue	1
@@ -127,7 +127,7 @@ sort: by_weight
 督俞穴	du shu xue	1
 独阴	du yin	1
 独阴穴	du yin xue	1
-督俞	du yu	1
+督俞	du shu	1
 兑端	dui duan	1
 兑端穴	dui duan xue	1
 对耳轮	dui er lun	1
@@ -167,7 +167,7 @@ sort: by_weight
 肺穴	fei xue	1
 飞扬	fei yang	1
 飞扬穴	fei yang xue	1
-肺俞	fei yu	1
+肺俞	fei shu	1
 风池	feng chi	1
 风池穴	feng chi xue	1
 风府	feng fu	1
@@ -213,17 +213,17 @@ sort: by_weight
 肝穴	gan xue	1
 肝炎点	gan yan dian	1
 肝阳	gan yang	1
-肝俞	gan yu	1
+肝俞	gan shu	1
 肛门	gang men	1
 膏肓	gao huang	1
 膏肓穴	gao huang xue	1
-膏肓俞	gao huang yu	1
+膏肓俞	gao huang shu	1
 睾丸	gao wan	1
 高血压点	gao xue ya dian	1
 膈关	ge guan	1
 膈关穴	ge guan xue	1
-膈俞	ge yu	1
-膈俞穴	ge yu xue	1
+膈俞	ge shu	1
+膈俞穴	ge shu xue	1
 跟区	gen qu	1
 跟穴	gen xue	1
 公孙	gong sun	1
@@ -235,8 +235,8 @@ sort: by_weight
 关门穴	guan men xue	1
 关元	guan yuan	1
 关元穴	guan yuan xue	1
-关元俞	guan yuan yu	1
-关元俞穴	guan yuan yu xue	1
+关元俞	guan shuan shu	1
+关元俞穴	guan shuan shu xue	1
 光明	guang ming	1
 光明穴	guang ming xue	1
 归来	gui lai	1
@@ -275,8 +275,8 @@ sort: by_weight
 环中穴	huan zhong xue	1
 肓门	huang men	1
 肓门穴	huang men xue	1
-肓俞	huang yu	1
-肓俞穴	huang yu xue	1
+肓俞	huang shu	1
+肓俞穴	huang shu xue	1
 会阳	hui yang	1
 会阳穴	hui yang xue	1
 会阴	hui yin	1
@@ -312,15 +312,15 @@ sort: by_weight
 肩区	jian qu	1
 间使	jian shi	1
 间使穴	jian shi xue	1
-肩外俞	jian wai yu	1
-肩外俞穴	jian wai yu xue	1
+肩外俞	jian wai shu	1
+肩外俞穴	jian wai shu xue	1
 肩穴	jian xue	1
 肩髃	jian yu	1
 肩髃穴	jian yu xue	1
 肩贞	jian zhen	1
 肩贞穴	jian zhen xue	1
-肩中俞	jian zhong yu	1
-肩中俞穴	jian zhong yu xue	1
+肩中俞	jian zhong shu	1
+肩中俞穴	jian zhong shu xue	1
 交感	jiao gan	1
 角孙	jiao sun	1
 角孙穴	jiao sun xue	1
@@ -371,10 +371,10 @@ sort: by_weight
 巨阙	ju que	1
 巨阙俞穴	ju que shu xue	1
 巨阙穴	ju que xue	1
-巨阙俞	ju que yu	1
+巨阙俞	ju que shu	1
 绝骨穴	jue gu xue	1
-厥阴俞	jue yin yu	1
-厥阴俞穴	jue yin yu xue	1
+厥阴俞	jue yin shu	1
+厥阴俞穴	jue yin shu xue	1
 渴点	ke dian	1
 孔最	kong zui	1
 孔最穴	kong zui xue	1
@@ -449,8 +449,8 @@ sort: by_weight
 臑会穴	nao hui xue	1
 脑空	nao kong	1
 脑空穴	nao kong xue	1
-臑俞	nao yu	1
-臑俞穴	nao yu xue	1
+臑俞	nao shu	1
+臑俞穴	nao shu xue	1
 内鼻	nei bi	1
 内耳	nei er	1
 内分泌	nei fen mi	1
@@ -473,15 +473,15 @@ sort: by_weight
 膀胱	pang guang	1
 膀胱经	pang guang jing	1
 膀胱俞穴	pang guang shu xue	1
-膀胱俞	pang guang yu	1
+膀胱俞	pang guang shu	1
 盆腔	pen qiang	1
 痞根	pi gen	1
 痞根穴	pi gen xue	1
 脾经	pi jing	1
 脾区	pi qu	1
 脾穴	pi xue	1
-脾俞	pi yu	1
-脾俞穴	pi yu xue	1
+脾俞	pi shu	1
+脾俞穴	pi shu xue	1
 皮质下	pi zhi xia	1
 偏历	pian li	1
 偏历穴	pian li xue	1
@@ -500,8 +500,8 @@ sort: by_weight
 气管	qi guan	1
 气海	qi hai	1
 气海穴	qi hai xue	1
-气海俞	qi hai yu	1
-气海俞穴	qi hai yu xue	1
+气海俞	qi hai shu	1
+气海俞穴	qi hai shu xue	1
 气户	qi hu	1
 气户穴	qi hu xue	1
 期门	qi men	1
@@ -569,8 +569,8 @@ sort: by_weight
 三角灸	san jiao jiu	1
 三角灸穴	san jiao jiu xue	1
 三角窝	san jiao wo	1
-三焦俞	san jiao yu	1
-三焦俞穴	san jiao yu xue	1
+三焦俞	san jiao shu	1
+三焦俞穴	san jiao shu xue	1
 三阳络	san yang luo	1
 三阳络穴	san yang luo xue	1
 三阴交	san yin jiao	1
@@ -636,8 +636,8 @@ sort: by_weight
 神庭穴	shen ting xue	1
 肾穴	shen xue	1
 肾炎点	shen yan dian	1
-肾俞	shen yu	1
-肾俞穴	shen yu xue	1
+肾俞	shen shu	1
+肾俞穴	shen shu xue	1
 神藏	shen zang	1
 神藏穴	shen zang xue	1
 身柱	shen zhu	1
@@ -805,11 +805,11 @@ sort: by_weight
 胃上穴	wei shang xue	1
 胃俞穴	wei shu xue	1
 胃脘下俞穴	wei wan xia shu xue	1
-胃脘下俞	wei wan xia yu	1
+胃脘下俞	wei wan xia shu	1
 胃穴	wei xue	1
 委阳	wei yang	1
 委阳穴	wei yang xue	1
-胃俞	wei yu	1
+胃俞	wei shu	1
 委中	wei zhong	1
 委中穴	wei zhong xue	1
 温溜	wen liu	1
@@ -841,7 +841,7 @@ sort: by_weight
 下关穴	xia guan xue	1
 下合穴	xia he xue	1
 下极俞穴	xia ji shu xue	1
-下极俞	xia ji yu	1
+下极俞	xia ji shu	1
 下巨虚	xia ju xu	1
 下巨虚穴	xia ju xu xue	1
 下廉	xia lian	1
@@ -857,7 +857,7 @@ sort: by_weight
 小肠	xiao chang	1
 小肠经	xiao chang jing	1
 小肠俞穴	xiao chang shu xue	1
-小肠俞	xiao chang yu	1
+小肠俞	xiao chang shu	1
 小骨空	xiao gu kong	1
 小骨空穴	xiao gu kong xue	1
 小海	xiao hai	1
@@ -874,7 +874,7 @@ sort: by_weight
 心俞穴	xin shu xue	1
 心穴	xin xue	1
 新眼点	xin yan dian	1
-心俞	xin yu	1
+心俞	xin shu	1
 心脏点	xin zang dian	1
 兴奋点	xing fen dian	1
 荥穴	xing xue	1
@@ -944,7 +944,7 @@ sort: by_weight
 腰阳关穴	yao yang guan xue	1
 腰宜	yao yi	1
 腰宜穴	yao yi xue	1
-腰俞	yao yu	1
+腰俞	yao shu	1
 液门	ye men	1
 液门穴	ye men xue	1
 胰胆	yi dan	1
@@ -990,8 +990,8 @@ sort: by_weight
 涌泉穴	yong quan xue	1
 幽门	you men	1
 幽门穴	you men xue	1
-俞府	yu fu	1
-俞府穴	yu fu xue	1
+俞府	shu fu	1
+俞府穴	shu fu xue	1
 鱼际	yu ji	1
 鱼际穴	yu ji xue	1
 玉堂	yu tang	1
@@ -1059,8 +1059,8 @@ sort: by_weight
 中髎	zhong liao	1
 中髎穴	zhong liao xue	1
 肿瘤特异区	zhong liu te yi qu	1
-中膂俞	zhong lv yu	1
-中膂俞穴	zhong lv yu xue	1
+中膂俞	zhong lv shu	1
+中膂俞穴	zhong lv shu xue	1
 中平	zhong ping	1
 中平穴	zhong ping xue	1
 中泉	zhong quan	1
